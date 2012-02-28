@@ -1,0 +1,341 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8EC25394146095740017375E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EC25393146095740017375E /* UIKit.framework */; };
+		8EC25396146095740017375E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EC25395146095740017375E /* Foundation.framework */; };
+		8EC25398146095740017375E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EC25397146095740017375E /* CoreGraphics.framework */; };
+		8EC2539A146095740017375E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EC25399146095740017375E /* CoreData.framework */; };
+		8EC253A0146095740017375E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8EC2539E146095740017375E /* InfoPlist.strings */; };
+		8EC253A3146095740017375E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC253A2146095740017375E /* main.m */; };
+		8EC253A6146095740017375E /* SozlukAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC253A5146095740017375E /* SozlukAppDelegate.m */; };
+		8EC253A9146095740017375E /* Sozluk.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8EC253A7146095740017375E /* Sozluk.xcdatamodeld */; };
+		8EC253AD146095740017375E /* SozlukAppDelegate_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC253AC146095740017375E /* SozlukAppDelegate_iPhone.m */; };
+		8EC253B0146095740017375E /* MainWindow_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8EC253AE146095740017375E /* MainWindow_iPhone.xib */; };
+		8EC253B4146095740017375E /* SozlukAppDelegate_iPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC253B3146095740017375E /* SozlukAppDelegate_iPad.m */; };
+		8EC253B7146095740017375E /* MainWindow_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8EC253B5146095740017375E /* MainWindow_iPad.xib */; };
+		8EC253C71460979A0017375E /* TableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC253C5146097990017375E /* TableView.m */; };
+		8EC253C81460979A0017375E /* TableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8EC253C61460979A0017375E /* TableView.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8EC2538F146095740017375E /* Sozluk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sozluk.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EC25393146095740017375E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8EC25395146095740017375E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8EC25397146095740017375E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8EC25399146095740017375E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		8EC2539D146095740017375E /* Sozluk-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Sozluk-Info.plist"; sourceTree = "<group>"; };
+		8EC2539F146095740017375E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8EC253A1146095740017375E /* Sozluk-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sozluk-Prefix.pch"; sourceTree = "<group>"; };
+		8EC253A2146095740017375E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8EC253A4146095740017375E /* SozlukAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SozlukAppDelegate.h; sourceTree = "<group>"; };
+		8EC253A5146095740017375E /* SozlukAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SozlukAppDelegate.m; sourceTree = "<group>"; };
+		8EC253A8146095740017375E /* Sozluk.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Sozluk.xcdatamodel; sourceTree = "<group>"; };
+		8EC253AB146095740017375E /* SozlukAppDelegate_iPhone.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SozlukAppDelegate_iPhone.h; path = iPhone/SozlukAppDelegate_iPhone.h; sourceTree = "<group>"; };
+		8EC253AC146095740017375E /* SozlukAppDelegate_iPhone.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SozlukAppDelegate_iPhone.m; path = iPhone/SozlukAppDelegate_iPhone.m; sourceTree = "<group>"; };
+		8EC253AF146095740017375E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = iPhone/en.lproj/MainWindow_iPhone.xib; sourceTree = "<group>"; };
+		8EC253B2146095740017375E /* SozlukAppDelegate_iPad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SozlukAppDelegate_iPad.h; path = iPad/SozlukAppDelegate_iPad.h; sourceTree = "<group>"; };
+		8EC253B3146095740017375E /* SozlukAppDelegate_iPad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SozlukAppDelegate_iPad.m; path = iPad/SozlukAppDelegate_iPad.m; sourceTree = "<group>"; };
+		8EC253B6146095740017375E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = iPad/en.lproj/MainWindow_iPad.xib; sourceTree = "<group>"; };
+		8EC253C4146097990017375E /* TableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TableView.h; path = Sozluk.xcodeproj/TableView.h; sourceTree = SOURCE_ROOT; };
+		8EC253C5146097990017375E /* TableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TableView.m; path = Sozluk.xcodeproj/TableView.m; sourceTree = SOURCE_ROOT; };
+		8EC253C61460979A0017375E /* TableView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TableView.xib; path = Sozluk.xcodeproj/TableView.xib; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8EC2538C146095740017375E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EC25394146095740017375E /* UIKit.framework in Frameworks */,
+				8EC25396146095740017375E /* Foundation.framework in Frameworks */,
+				8EC25398146095740017375E /* CoreGraphics.framework in Frameworks */,
+				8EC2539A146095740017375E /* CoreData.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8EC25384146095740017375E = {
+			isa = PBXGroup;
+			children = (
+				8EC2539B146095740017375E /* Sozluk */,
+				8EC25392146095740017375E /* Frameworks */,
+				8EC25390146095740017375E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8EC25390146095740017375E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8EC2538F146095740017375E /* Sozluk.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8EC25392146095740017375E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8EC25393146095740017375E /* UIKit.framework */,
+				8EC25395146095740017375E /* Foundation.framework */,
+				8EC25397146095740017375E /* CoreGraphics.framework */,
+				8EC25399146095740017375E /* CoreData.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8EC2539B146095740017375E /* Sozluk */ = {
+			isa = PBXGroup;
+			children = (
+				8EC253C4146097990017375E /* TableView.h */,
+				8EC253C5146097990017375E /* TableView.m */,
+				8EC253A4146095740017375E /* SozlukAppDelegate.h */,
+				8EC253A5146095740017375E /* SozlukAppDelegate.m */,
+				8EC253A7146095740017375E /* Sozluk.xcdatamodeld */,
+				8EC253AA146095740017375E /* iPhone */,
+				8EC253B1146095740017375E /* iPad */,
+				8EC2539C146095740017375E /* Supporting Files */,
+			);
+			path = Sozluk;
+			sourceTree = "<group>";
+		};
+		8EC2539C146095740017375E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8EC2539D146095740017375E /* Sozluk-Info.plist */,
+				8EC2539E146095740017375E /* InfoPlist.strings */,
+				8EC253A1146095740017375E /* Sozluk-Prefix.pch */,
+				8EC253A2146095740017375E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8EC253AA146095740017375E /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				8EC253C61460979A0017375E /* TableView.xib */,
+				8EC253AB146095740017375E /* SozlukAppDelegate_iPhone.h */,
+				8EC253AC146095740017375E /* SozlukAppDelegate_iPhone.m */,
+				8EC253AE146095740017375E /* MainWindow_iPhone.xib */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+		8EC253B1146095740017375E /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				8EC253B2146095740017375E /* SozlukAppDelegate_iPad.h */,
+				8EC253B3146095740017375E /* SozlukAppDelegate_iPad.m */,
+				8EC253B5146095740017375E /* MainWindow_iPad.xib */,
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8EC2538E146095740017375E /* Sozluk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8EC253BA146095740017375E /* Build configuration list for PBXNativeTarget "Sozluk" */;
+			buildPhases = (
+				8EC2538B146095740017375E /* Sources */,
+				8EC2538C146095740017375E /* Frameworks */,
+				8EC2538D146095740017375E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Sozluk;
+			productName = Sozluk;
+			productReference = 8EC2538F146095740017375E /* Sozluk.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8EC25386146095740017375E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = HOME;
+			};
+			buildConfigurationList = 8EC25389146095740017375E /* Build configuration list for PBXProject "Sozluk" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8EC25384146095740017375E;
+			productRefGroup = 8EC25390146095740017375E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8EC2538E146095740017375E /* Sozluk */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8EC2538D146095740017375E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EC253A0146095740017375E /* InfoPlist.strings in Resources */,
+				8EC253B0146095740017375E /* MainWindow_iPhone.xib in Resources */,
+				8EC253B7146095740017375E /* MainWindow_iPad.xib in Resources */,
+				8EC253C81460979A0017375E /* TableView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8EC2538B146095740017375E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EC253A3146095740017375E /* main.m in Sources */,
+				8EC253A6146095740017375E /* SozlukAppDelegate.m in Sources */,
+				8EC253A9146095740017375E /* Sozluk.xcdatamodeld in Sources */,
+				8EC253AD146095740017375E /* SozlukAppDelegate_iPhone.m in Sources */,
+				8EC253B4146095740017375E /* SozlukAppDelegate_iPad.m in Sources */,
+				8EC253C71460979A0017375E /* TableView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8EC2539E146095740017375E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EC2539F146095740017375E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8EC253AE146095740017375E /* MainWindow_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EC253AF146095740017375E /* en */,
+			);
+			name = MainWindow_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		8EC253B5146095740017375E /* MainWindow_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8EC253B6146095740017375E /* en */,
+			);
+			name = MainWindow_iPad.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8EC253B8146095740017375E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8EC253B9146095740017375E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8EC253BB146095740017375E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Sozluk/Sozluk-Prefix.pch";
+				INFOPLIST_FILE = "Sozluk/Sozluk-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8EC253BC146095740017375E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Sozluk/Sozluk-Prefix.pch";
+				INFOPLIST_FILE = "Sozluk/Sozluk-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8EC25389146095740017375E /* Build configuration list for PBXProject "Sozluk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8EC253B8146095740017375E /* Debug */,
+				8EC253B9146095740017375E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8EC253BA146095740017375E /* Build configuration list for PBXNativeTarget "Sozluk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8EC253BB146095740017375E /* Debug */,
+				8EC253BC146095740017375E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		8EC253A7146095740017375E /* Sozluk.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				8EC253A8146095740017375E /* Sozluk.xcdatamodel */,
+			);
+			currentVersion = 8EC253A8146095740017375E /* Sozluk.xcdatamodel */;
+			path = Sozluk.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 8EC25386146095740017375E /* Project object */;
+}
