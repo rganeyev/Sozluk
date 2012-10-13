@@ -257,6 +257,7 @@
 
 - (void)searchText:(NSString *)searchText {
     isSearchActive = YES;
+    [searchDisplay.searchBar becomeFirstResponder];
     [searchDisplay.searchBar setText:searchText];
 }
 
