@@ -8,12 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DetailViewController : UIViewController
-{
+@interface DetailViewController : UIViewController {
+    IBOutlet UILabel *definitionLabel;
     IBOutlet UILabel *wordLabel;
 }
 
-@property (nonatomic, retain) NSString *wordDefinition;
+@property(nonatomic, retain) NSString *wordDefinition;
 
 
 @end

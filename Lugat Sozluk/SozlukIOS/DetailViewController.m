@@ -12,8 +12,7 @@
 
 @synthesize wordDefinition;
 
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
-{
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
@@ -21,33 +20,28 @@
     return self;
 }
 
-- (void)didReceiveMemoryWarning
-{
-    // Releases the view if it doesn't have a superview.
-    [super didReceiveMemoryWarning];
-    
-    // Release any cached data, images, etc that aren't in use.
-}
-
 #pragma mark - View lifecycle
 
-- (void)viewDidLoad
-{
+- (void)viewDidLoad {
     [super viewDidLoad];
     wordLabel.text = wordDefinition;
-    // Do any additional setup after loading the view from its nib.
+    NSRange range = [wordDefinition rangeOfString:@":"];
+    if (range.location != NSNotFound) {
+        wordLabel.text = [wordDefinition substringToIndex:range.location];
+        definitionLabel.text = [wordDefinition substringFromIndex:range.location + 1];
+    }
+
+    [definitionLabel sizeToFit];
 }
 
-- (void)viewDidUnload
-{
+- (void)dealloc {
+    [definitionLabel release];
     [wordLabel release];
-    [super viewDidUnload];
-    // Release any retained subviews of the main view.
-    // e.g. self.myOutlet = nil;
+
+    [super dealloc];
 }
 
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
-{
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations
     return (interfaceOrientation == UIInterfaceOrientationPortrait);
 }
