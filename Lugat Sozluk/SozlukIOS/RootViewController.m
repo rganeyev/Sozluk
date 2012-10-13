@@ -9,12 +9,12 @@
 #import "RootViewController.h"
 #import "DetailViewController.h"
 
+//TODO: refactor this
 @implementation RootViewController
 
 @synthesize isSearchActive;
 
-- (void)viewDidLoad
-{
+- (void)viewDidLoad {
     [super viewDidLoad];
     [self loadFromFile:@"dict"];
     isSearchActive = NO;
@@ -23,13 +23,12 @@
     [table reloadData];
 }
 
-- (void)dealloc
-{
+- (void)dealloc {
     [indexArray release];
     [wordList release];
     [searchList release];
     [table release];
-    
+
     [super dealloc];
 }
 
@@ -37,31 +36,26 @@
 #pragma mark SearchDisplayDelegate
 
 
-- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString
-{
+- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString {
     [self filterSearchContentForText:searchString];
     return YES;
 }
 
-- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchScope:(NSInteger)searchOption
-{
+- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchScope:(NSInteger)searchOption {
     return NO;
 }
 
-- (void) searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller
-{
+- (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller {
     isSearchActive = YES;
 }
 
-- (void) searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller 
-{
+- (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller {
     isSearchActive = NO;
 }
 
 #pragma mark TableViewDelegate 
 
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
-{
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     if (self.isSearchActive) {
         return 1;
     } else {
@@ -69,10 +63,9 @@
     }
 }
 
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
-{
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     if (isSearchActive) {
-        return [searchList count]; 
+        return [searchList count];
     } else {
         NSMutableArray *arr = [wordList objectAtIndex:section];
         return [arr count];
@@ -80,15 +73,14 @@
 }
 
 
-- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
-{
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     static NSString *cellId = @"cellID";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellId];
     if (cell == nil) {
         cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellId] autorelease];
     }
     cell.opaque = NO;
-    
+
     NSString *word = nil;
     if (self.isSearchActive) {
         if (searchList.count < indexPath.row) {
@@ -100,13 +92,12 @@
         word = [arr objectAtIndex:indexPath.row];
     }
     cell.textLabel.text = word;
-    
+
     return cell;
 }
 
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    NSString* viewXib = (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) ? @"DetailViewController-Pad" : @"DetailViewController";
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    NSString *viewXib = (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) ? @"DetailViewController-Pad" : @"DetailViewController";
     DetailViewController *view = [[DetailViewController alloc] initWithNibName:viewXib bundle:nil];
     if (self.isSearchActive) {
         view.wordDefinition = [searchList objectAtIndex:indexPath.row];
@@ -114,7 +105,7 @@
         NSMutableArray *arr = [wordList objectAtIndex:indexPath.section];
         view.wordDefinition = [arr objectAtIndex:indexPath.row];
     }
-    
+
     view.title = @"Definition";
     [self.navigationController pushViewController:view animated:YES];
     [view release];
@@ -123,15 +114,14 @@
 
 #pragma mark RootViewController Methods
 
-- (void)loadFromFile:(NSString *)fileName
-{
+- (void)loadFromFile:(NSString *)fileName {
     [self initArray];
-    
-    NSString* fileRoot = [[NSBundle mainBundle] pathForResource:fileName ofType:@"txt"];
-    NSString* fileContents = [NSString stringWithContentsOfFile:fileRoot encoding:NSUTF8StringEncoding error:nil];
+
+    NSString *fileRoot = [[NSBundle mainBundle] pathForResource:fileName ofType:@"txt"];
+    NSString *fileContents = [NSString stringWithContentsOfFile:fileRoot encoding:NSUTF8StringEncoding error:nil];
     NSMutableArray *allWords;
     allWords = [NSMutableArray arrayWithArray:[fileContents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]]];
-    
+
     wordList = [[NSMutableArray alloc] init];
     NSInteger cur = 0;
     for (NSString *letter in indexArray) {
@@ -144,11 +134,11 @@
                 str = @"a";
             } else if ([str compare:@"û" options:NSCaseInsensitiveSearch] == NSOrderedSame) {
                 str = @"u";
-            } 
+            }
             if ([str compare:letter options:NSCaseInsensitiveSearch] != NSOrderedSame) {
                 break;
             }
-            
+
             [arr addObject:[allWords objectAtIndex:cur]];
             ++cur;
         }
@@ -156,8 +146,7 @@
     }
 }
 
-- (void) initArray
-{
+- (void)initArray {
     indexArray = [[NSMutableArray alloc] init];
     [indexArray addObject:@"a"];
     [indexArray addObject:@"b"];
@@ -189,22 +178,21 @@
     [indexArray addObject:@"z"];
 }
 
-- (unichar)convertSymbol:(unichar) ch
-{
+- (unichar)convertSymbol:(unichar)ch {
     switch (ch) {
         case 226:
             ch = 'a';
             break;
         case 305:
         case 238:
-            ch = 'i';    
+            ch = 'i';
             break;
         case 252:
         case 251:
             ch = 'u';
             break;
         case 246:
-        case 244:    
+        case 244:
             ch = 'o';
             break;
         case 231:
@@ -225,40 +213,36 @@
     return ch;
 }
 
-- (NSComparisonResult)compareTurkishSymbol:(unichar)ch With:(unichar)another
-{
+- (NSComparisonResult)compareTurkishSymbol:(unichar)ch With:(unichar)another {
     return ([self convertSymbol:ch] - [self convertSymbol:another]);
 }
 
-- (NSComparisonResult)compareTurkish:(NSString *)word With:(NSString *)another
-{
-    NSString* tmp = [[[NSString alloc] initWithString:[another lowercaseString]] autorelease];
+- (NSComparisonResult)compareTurkish:(NSString *)word With:(NSString *)another {
+    NSString *tmp = [[[NSString alloc] initWithString:[another lowercaseString]] autorelease];
     NSUInteger len = [word length];
-    unichar ch, anotherCh;
-    for (NSUInteger i = 0;i < len; ++i) {
-        ch = [self convertSymbol:[word characterAtIndex:i]];
-        anotherCh = [self convertSymbol:[tmp characterAtIndex:i]];
-        if (ch != anotherCh) {
-            return ch - anotherCh;
+    for (NSUInteger i = 0; i < len; ++i) {
+        NSComparisonResult res = [self compareTurkishSymbol:[word characterAtIndex:i] With:[tmp characterAtIndex:i]];
+        if (res != NSOrderedSame) {
+            return res;
         }
     }
     return NSOrderedSame;
 }
 
-- (void)filterSearchContentForText:(NSString *)searchText
-{
+- (void)filterSearchContentForText:(NSString *)searchText {
+    searchText = [searchText lowercaseString];
     [searchList removeAllObjects];
     if (searchText == nil || [searchText length] == 0) {
         return;
     }
-    
-    
+
+
     for (NSMutableArray *arr in wordList) {
-        NSString* str = [arr objectAtIndex:0];
+        NSString *str = [arr objectAtIndex:0];
         if ([self compareTurkishSymbol:[str characterAtIndex:0] With:[searchText characterAtIndex:0]] != NSOrderedSame) {
             continue;
         }
-        
+
         NSUInteger left = 0;
         NSUInteger right = [arr count];
         while (left < right - 1) {
@@ -280,23 +264,28 @@
     }
 }
 
+- (void)searchText:(NSString *)searchText {
+    isSearchActive = YES;
+    [searchDisplay.searchBar setText:searchText];
+}
+
+
 #pragma mark indexing
 - (NSArray *)sectionIndexTitlesForTableView:(UITableView *)tableView {
-    
-    if(isSearchActive) {
+
+    if (isSearchActive) {
         return nil;
     }
     return indexArray;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView sectionForSectionIndexTitle:(NSString *)title atIndex:(NSInteger)index {
-    
-    if(isSearchActive) {
+
+    if (isSearchActive) {
         return -1;
     }
     return index;
 }
-
 
 
 @end
