@@ -23,14 +23,6 @@
     [table reloadData];
 }
 
-- (void)dealloc {
-    [indexArray release];
-    [wordList release];
-    [searchList release];
-    [table release];
-
-    [super dealloc];
-}
 
 #pragma mark -
 #pragma mark SearchDisplayDelegate
@@ -77,7 +69,7 @@
     static NSString *cellId = @"cellID";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellId];
     if (cell == nil) {
-        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellId] autorelease];
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellId];
     }
     cell.opaque = NO;
 
@@ -108,7 +100,6 @@
 
     view.title = @"Definition";
     [self.navigationController pushViewController:view animated:YES];
-    [view release];
 }
 
 
@@ -218,7 +209,7 @@
 }
 
 - (NSComparisonResult)compareTurkish:(NSString *)word With:(NSString *)another {
-    NSString *tmp = [[[NSString alloc] initWithString:[another lowercaseString]] autorelease];
+    NSString *tmp = [[NSString alloc] initWithString:[another lowercaseString]];
     NSUInteger len = [word length];
     for (NSUInteger i = 0; i < len; ++i) {
         NSComparisonResult res = [self compareTurkishSymbol:[word characterAtIndex:i] With:[tmp characterAtIndex:i]];

@@ -34,12 +34,6 @@
     [definitionLabel sizeToFit];
 }
 
-- (void)dealloc {
-    [definitionLabel release];
-    [wordLabel release];
-
-    [super dealloc];
-}
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations

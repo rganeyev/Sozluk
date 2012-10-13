@@ -13,7 +13,7 @@
     IBOutlet UILabel *wordLabel;
 }
 
-@property(nonatomic, retain) NSString *wordDefinition;
+@property(nonatomic, strong) NSString *wordDefinition;
 
 
 @end
