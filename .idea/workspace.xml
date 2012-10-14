@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="101b9e42-ddee-4107-b594-536c61f165cb" name="Default" comment="implemented pasteboards.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="101b9e42-ddee-4107-b594-536c61f165cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lugat Sozluk/SozlukIOS/RootViewController.m" afterPath="$PROJECT_DIR$/Lugat Sozluk/SozlukIOS/RootViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lugat Sozluk/SozlukIOS/SozlukIOSAppDelegate.h" afterPath="$PROJECT_DIR$/Lugat Sozluk/SozlukIOS/SozlukIOSAppDelegate.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lugat Sozluk/SozlukIOS/SozlukIOSAppDelegate.m" afterPath="$PROJECT_DIR$/Lugat Sozluk/SozlukIOS/SozlukIOSAppDelegate.m" />
     </list>
     <list id="10113a01-5845-45f6-b5e4-e08720cb254c" name="Rejected commit: Default" comment="implemented detailedview">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lugat Sozluk.xcodeproj/project.xcworkspace/xcuserdata/rganeyev.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/Lugat Sozluk.xcodeproj/project.xcworkspace/xcuserdata/rganeyev.xcuserdatad/UserInterfaceState.xcuserstate" />
@@ -27,7 +22,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_IPHONE_C3XGT7VBDT75" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_UNIVERSAL" />
   <component name="FavoritesManager">
     <favorites_list name="Lugat Sozluk" />
   </component>
@@ -225,7 +220,11 @@
       <created>1350115403337</created>
       <updated>1350115403337</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed bug with searching, with ui pasteboards">
+      <created>1350135690519</created>
+      <updated>1350135690519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -240,7 +239,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -256,8 +255,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -286,7 +285,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented pasteboards." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug with searching, with ui pasteboards" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -302,6 +301,7 @@
     <confirmMoveToFailedCommit value="2" />
     <MESSAGE value="implemented detailedview" />
     <MESSAGE value="implemented pasteboards." />
+    <MESSAGE value="fixed bug with searching, with ui pasteboards" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
