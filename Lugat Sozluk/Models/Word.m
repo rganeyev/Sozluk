@@ -80,7 +80,7 @@
     NSUInteger len = searchWord.length;
 
     for (NSUInteger i = 0; i < len; ++i) {
-        if (i > word.length)
+        if (i >= word.length)
             return NSOrderedDescending;
         NSComparisonResult res = [self compareSymbolAtIndex:i With:[searchWord characterAtIndex:i]];
         if (res != NSOrderedSame) {

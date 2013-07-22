@@ -27,7 +27,6 @@ static NSString *segueID = @"detailSegue";
 
 - (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString {
     [self filterSearchContentForText:searchString];
-    NSLog(@"%d %d", searchList.count, isSearchActive);
     return YES;
 }
 
@@ -143,18 +142,17 @@ static NSString *segueID = @"detailSegue";
 
         NSUInteger left = 0;
         NSUInteger right = arr.count;
-        /*//NSLog(@"%d %d", left, right);
         while (left < right - 1) {
-            NSUInteger c = (left + right) / 2;
-            NSComparisonResult result = [word compareWith:[arr objectAtIndex:c]];
+            NSUInteger mid = (left + right) / 2;
+            word = [arr objectAtIndex:mid];
+            NSComparisonResult result = [word compareWith:searchText];
             if (result == NSOrderedDescending) {
-                left = c;
+                left = mid;
             } else {
-                right = c;
+                right = mid;
             }
         }
 
-        */
         while (left < arr.count) {
             word = [arr objectAtIndex:left];
             NSComparisonResult result = [word compareWith:searchText];
