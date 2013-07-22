@@ -7,13 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Word.h"
 
 @interface DetailViewController : UIViewController {
     IBOutlet UILabel *definitionLabel;
     IBOutlet UILabel *wordLabel;
 }
 
-@property(nonatomic, strong) NSString *wordDefinition;
+@property(nonatomic, strong) Word *word;
 
 
 @end

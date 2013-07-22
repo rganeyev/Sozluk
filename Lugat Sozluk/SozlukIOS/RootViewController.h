@@ -7,11 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Word.h"
 
 @interface RootViewController : UIViewController <UISearchDisplayDelegate, UITableViewDataSource, UITableViewDelegate> {
     NSMutableArray *indexArray;
     NSMutableArray *wordList;
     NSMutableArray *searchList;
+    Word *selectedWord;
     IBOutlet UITableView *table;
     IBOutlet UISearchDisplayController *searchDisplay;
     IBOutlet UISearchBar *searchBarText;
@@ -24,17 +26,6 @@
 
 //initializes index arrays with proper letters in turkish/osman alphabet
 - (void)initArray;
-
-//Converts turkish letter to latin analog
-- (unichar)convertSymbol:(unichar)ch;
-
-//compares turkish symbols. Turkish diactric letters are supposed the same as latin(e.g. � = u)
-- (NSComparisonResult)compareTurkishSymbol:(unichar)ch With:(unichar)another;
-
-//compares words in range (0, word.length)
-//return NSOrderSame, if another = word + some string
-//turkish 'diactric' letters are supposed the same as latin letters(e.g. � = u)
-- (NSComparisonResult)compareTurkish:(NSString *)word With:(NSString *)another;
 
 //filters content while searching
 - (void)filterSearchContentForText:(NSString *)searchText;

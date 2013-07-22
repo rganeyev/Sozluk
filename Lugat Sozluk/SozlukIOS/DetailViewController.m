@@ -10,35 +10,14 @@
 
 @implementation DetailViewController
 
-@synthesize wordDefinition;
-
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
-    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
-    if (self) {
-        // Custom initialization
-    }
-    return self;
-}
-
-#pragma mark - View lifecycle
+@synthesize word;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    wordLabel.text = wordDefinition;
-    NSRange range = [wordDefinition rangeOfString:@":"];
-    if (range.location != NSNotFound) {
-        wordLabel.text = [wordDefinition substringToIndex:range.location];
-        definitionLabel.text = [wordDefinition substringFromIndex:range.location + 1];
-    }
+    wordLabel.text = word.word;
+    definitionLabel.text = word.definition;
 
     [definitionLabel sizeToFit];
 }
-
-
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
-    // Return YES for supported orientations
-    return (interfaceOrientation == UIInterfaceOrientationPortrait);
-}
-
 
 @end

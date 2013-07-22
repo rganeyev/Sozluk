@@ -9,20 +9,20 @@
 #import "RootViewController.h"
 #import "DetailViewController.h"
 
-//TODO: refactor this
 @implementation RootViewController
 
 @synthesize isSearchActive;
 
+static NSString *cellID = @"cellID";
+static NSString *segueID = @"detailSegue";
+
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self loadFromFile:@"dict"];
+    [self loadFromFile:@"copy"];
     isSearchActive = NO;
     searchList = [[NSMutableArray alloc] init];
-    self.title = @"Words";
     [table reloadData];
 }
-
 
 #pragma mark -
 #pragma mark SearchDisplayDelegate
@@ -66,42 +66,39 @@
 
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    static NSString *cellId = @"cellID";
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellId];
-    if (cell == nil) {
-        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellId];
-    }
-    cell.opaque = NO;
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID];
+    if (!cell)
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellID];
 
-    NSString *word = nil;
-    if (self.isSearchActive) {
-        if (searchList.count < indexPath.row) {
-            return cell;
-        }
+    Word *word = nil;
+    if (isSearchActive) {
         word = [searchList objectAtIndex:indexPath.row];
     } else {
         NSMutableArray *arr = [wordList objectAtIndex:indexPath.section];
         word = [arr objectAtIndex:indexPath.row];
     }
-    cell.textLabel.text = word;
+    cell.textLabel.text = word.all;
 
     return cell;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    NSString *viewXib = (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad) ? @"DetailViewController-Pad" : @"DetailViewController";
-    DetailViewController *view = [[DetailViewController alloc] initWithNibName:viewXib bundle:nil];
-    if (self.isSearchActive) {
-        view.wordDefinition = [searchList objectAtIndex:indexPath.row];
+    if (isSearchActive) {
+        selectedWord = [searchList objectAtIndex:indexPath.row];
     } else {
         NSMutableArray *arr = [wordList objectAtIndex:indexPath.section];
-        view.wordDefinition = [arr objectAtIndex:indexPath.row];
+        selectedWord = [arr objectAtIndex:indexPath.row];
     }
-
-    view.title = @"Definition";
-    [self.navigationController pushViewController:view animated:YES];
+    [self performSegueWithIdentifier:segueID sender:self];
 }
 
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    [super prepareForSegue:segue sender:sender];
+    if ([segue.identifier isEqualToString:segueID]) {
+        DetailViewController *controller = segue.destinationViewController;
+        controller.word = selectedWord;
+    }
+}
 
 #pragma mark RootViewController Methods
 
@@ -110,15 +107,16 @@
 
     NSString *fileRoot = [[NSBundle mainBundle] pathForResource:fileName ofType:@"txt"];
     NSString *fileContents = [NSString stringWithContentsOfFile:fileRoot encoding:NSUTF8StringEncoding error:nil];
-    NSMutableArray *allWords;
-    allWords = [NSMutableArray arrayWithArray:[fileContents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]]];
+    NSArray *allWords = [fileContents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]];
 
     wordList = [[NSMutableArray alloc] init];
     NSInteger cur = 0;
     for (NSString *letter in indexArray) {
-        NSMutableArray *arr = [[NSMutableArray alloc] init];
+        //NSLog(@"letter %@ %d", letter, cur);
+        NSMutableArray *letterArray = [[NSMutableArray alloc] init];
         while (cur < [allWords count]) {
-            NSString *str = [[allWords objectAtIndex:cur] substringWithRange:NSMakeRange(0, 1)];
+            NSString *currentWord = [allWords objectAtIndex:cur];
+            NSString *str = [currentWord substringWithRange:NSMakeRange(0, 1)];
             if ([str compare:@"î" options:NSCaseInsensitiveSearch] == NSOrderedSame) {
                 str = @"i";
             } else if ([str compare:@"â" options:NSCaseInsensitiveSearch] == NSOrderedSame) {
@@ -130,95 +128,20 @@
                 break;
             }
 
-            [arr addObject:[allWords objectAtIndex:cur]];
+            [letterArray addObject:[Word wordWith:currentWord]];
             ++cur;
         }
-        [wordList addObject:arr];
+        [wordList addObject:letterArray];
     }
 }
 
 - (void)initArray {
-    indexArray = [[NSMutableArray alloc] init];
-    [indexArray addObject:@"a"];
-    [indexArray addObject:@"b"];
-    [indexArray addObject:@"c"];
-    [indexArray addObject:@"ç"];
-    [indexArray addObject:@"d"];
-    [indexArray addObject:@"e"];
-    [indexArray addObject:@"f"];
-    [indexArray addObject:@"g"];
-    [indexArray addObject:@"h"];
-    [indexArray addObject:@"ı"];//9
-    [indexArray addObject:@"i"];
-    [indexArray addObject:@"j"];
-    [indexArray addObject:@"k"];
-    [indexArray addObject:@"l"];
-    [indexArray addObject:@"m"];
-    [indexArray addObject:@"n"];
-    [indexArray addObject:@"o"];
-    [indexArray addObject:@"ö"];
-    [indexArray addObject:@"p"];
-    [indexArray addObject:@"r"];
-    [indexArray addObject:@"s"];
-    [indexArray addObject:@"ş"];//21
-    [indexArray addObject:@"t"];
-    [indexArray addObject:@"u"];
-    [indexArray addObject:@"ü"];
-    [indexArray addObject:@"v"];
-    [indexArray addObject:@"y"];
-    [indexArray addObject:@"z"];
+    indexArray = @[@"a", @"b", @"c", @"ç", @"d", @"e", @"f", @"g", @"h", @"ı", @"i", @"j", @"k", @"l", @"m", @"n", @"o",
+            @"ö", @"p", @"r", @"s", @"ş", @"t", @"u", @"ü", @"v", @"y", @"z"];
+    //@"ı": 9
+    //@"ş": 21
 }
 
-- (unichar)convertSymbol:(unichar)ch {
-    switch (ch) {
-        case 226:
-            ch = 'a';
-            break;
-        case 305:
-        case 238:
-            ch = 'i';
-            break;
-        case 252:
-        case 251:
-            ch = 'u';
-            break;
-        case 246:
-        case 244:
-            ch = 'o';
-            break;
-        case 231:
-            ch = 'c';
-            break;
-        case 350:
-        case 351:
-            ch = 's';
-            break;
-        case 287:
-        case 290:
-        case 291:
-            ch = 'g';
-            break;
-        default:
-            break;
-    }
-    return ch;
-}
-
-- (NSComparisonResult)compareTurkishSymbol:(unichar)ch With:(unichar)another {
-    return ([self convertSymbol:ch] - [self convertSymbol:another]);
-}
-
-- (NSComparisonResult)compareTurkish:(NSString *)word With:(NSString *)another {
-    NSString *tmp = [[NSString alloc] initWithString:[another lowercaseString]];
-    NSUInteger len = [word length];
-    for (NSUInteger i = 0; i < len; ++i) {
-        NSComparisonResult res = [self compareTurkishSymbol:[word characterAtIndex:i] With:[tmp characterAtIndex:i]];
-        if (res != NSOrderedSame) {
-            return res;
-        }
-    }
-    return NSOrderedSame;
-}
 
 - (void)filterSearchContentForText:(NSString *)searchText {
     searchText = [searchText lowercaseString];
@@ -227,10 +150,9 @@
         return;
     }
 
-
     for (NSMutableArray *arr in wordList) {
-        NSString *str = [arr objectAtIndex:0];
-        if ([self compareTurkishSymbol:[str characterAtIndex:0] With:[searchText characterAtIndex:0]] != NSOrderedSame) {
+        Word *word = [arr objectAtIndex:0];
+        if ([Word compareTurkishSymbol:[word.word characterAtIndex:0] With:[searchText characterAtIndex:0]] != NSOrderedSame) {
             continue;
         }
 
@@ -238,7 +160,7 @@
         NSUInteger right = [arr count];
         while (left < right - 1) {
             NSUInteger c = (left + right) / 2;
-            NSComparisonResult result = [self compareTurkish:searchText With:[arr objectAtIndex:c]];
+            NSComparisonResult result = [word compareWith:[arr objectAtIndex:c]];
             if (result == NSOrderedDescending) {
                 left = c;
             } else {
@@ -246,7 +168,7 @@
             }
         }
         while (left < [arr count]) {
-            NSComparisonResult result = [self compareTurkish:searchText With:[arr objectAtIndex:left]];
+            NSComparisonResult result = [word compareWith:[arr objectAtIndex:left]];
             if (result == NSOrderedSame) {
                 [searchList addObject:[arr objectAtIndex:left]];
             }
