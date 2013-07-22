@@ -178,7 +178,7 @@ paykub: f. Ayak vuran. * Mc: Rakseden, köçek.
 paymal ¨ƒÿšƒ™: (Pâyimal) f. Ayak altında kalmış, mahvolmuş, telef olmuş, sürünmüş.
 paymüzd: f. Bahşiş, ayak teri.
 paytaht ¨ƒÿ…ˆ…: (Pâyitaht) f. Merkez-i hükümet, başşehir, başkent.
-paye: (Bak: Pâ)
+payûe: (Bak: Pâ)
 payzar: f. Ayakkabı, pabuç.
 payzede: f. çiğnenmiş, ayak altında kalmış.
 payzen: .f Ayağına pranga vurulmuş. Forsa, deniz esiri. * Suçlu. * Esir. * Hizmetçi, uşak.
@@ -267,7 +267,7 @@ per ¨œ: f. Kanat.
 per-aver: f. Kanat açan, kanat açıcı. Keskin uçan.
 per-güşa: f. Kanat açıcı, uçucu. * Keskin uçucu.
 perakende: f. Dağınık. Dağıtma. * Azar azar yayılan veya satılan.
-perakendeg: f. Saçma sapan konuşan. Saçmalayan.
+perakendegû: f. Saçma sapan konuşan. Saçmalayan.
 perandah: f. Sepilenmiş deri sahtiyan.
 perçem: f. Kâkül. * Tepede bırakılan saç. * Mızrak ve bayrak gibi şeylerin başlarına konulan püskülümsü şeyler.
 perd: f. Kıvrım, büklüm, kat. 
@@ -298,7 +298,7 @@ perdeserây: f. Küçük çadır. * şarkı söyleyen, şarkıcı, hânende. ça
 perdeşînâs: f. şarkı söyleyen, şarkıcı.
 pere: f. Uç, kenar.
 pere-î bînî: Burun ucu.
-pere-î kh: Dağ eteği.
+pere-î kûh: Dağ eteği.
 perend-aver: f. çok keskin kılınç, pala veya hançer.
 perende: f. Uçan, uçucu. * Av kuşu. * çark gibi dönerek atılan takla.
 perendebâz: f. Takla atan kimse. Cambaz.
@@ -645,7 +645,7 @@ pür-emvât ¨œƒšƒ…: ölüler dolu.
 pür-envâr: (Pür-nur) çok parlak, çok nurlu.
 pür-fer: f. çok parlak. çok aydınlık.
 pür-gazab: f. çok kızgın ve hırslı.
-pür-g: f. çok söyliyen, çok konuşan.
+pür-gû: f. çok söyliyen, çok konuşan.
 pür-gubâr: f. çok tozlu. Toz içinde.
 pür-hânde ¨œ‰ƒ›šœ: Neş'e dolu, çok gülme ve sevinç dolu. Sevinçli, neşeli.
 pür-hayâl: f. Hayal ile dolu. 

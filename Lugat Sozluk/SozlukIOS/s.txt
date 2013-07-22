@@ -63,9 +63,9 @@ sâbik(a) žƒ„—: Geçmiş. önceki. * Zamanca veya rütbece ileride olan. *
 sâbika-î mükerrere: Birden fazla suç işleme.
 sâbikan: Bundan önce, evvelce.
 sâbikîn-i îslâm žƒ„—ÿ›‚ƒž™ƒš: En evvel müslüman olan sahabeler. (Bak: Ashab-ı Suffa, Saff-ı evvel)
-sâbikn (sâbikîn ) žƒ„—›: (Sâbık. C.) Sâbıklar. öncekiler. Geçmişler.
+sâbikûn (sâbikîn ) žƒ„—›: (Sâbık. C.) Sâbıklar. öncekiler. Geçmişler.
 sabir-şîken „œ‚˜›: f. Sabrı kıran, sabrı bozan.
-sabirsz: f. Sabrı yakan, sabırsızlık veren.
+sabirsûz: f. Sabrı yakan, sabırsızlık veren.
 sabî „ÿ: Henüz süt emen çocuk. * Büluğ çağına gelmemiş olan çocuk. * üç yaşını tamamlamayan erkek çocuk.
 sabî': Yavru sesi. * Fil, hınzır ve fâre sesi.
 sâbî' žƒ„”: (Sabi'a) Yedi, yedinci.
@@ -86,7 +86,7 @@ sabîr „ÿœ: (C.: Sıber) Kefil. * Yağmursuz beyaz bulut.
 sabîr ƒ„œ: Altın ismi.
 sabîr(e) ƒ„œ: Tahammül eden, sabreden, bekleyen. Zorluğa karşı göğüs geren, hâlinden şikâyet etmeyip acı ve sızıya katlanan. Belâ ve musibete karşı şikâyet etmeyip Allah'a (C.C.) şükreden.
 sabîrî: Bir çeşit ince giyim eşyası. * Bir cins hurma.
-sabîrîn (sâbîrn): Sabredenler. (Bak: Sabr)
+sabîrîn (sâbîrûn): Sabredenler. (Bak: Sabr)
 sabît †ƒ„…: Duran, yerinde durup hareket etmeyen. * Doğruluğu isbat edilmiş olan.
 sabît-kadem †ƒ„…‚—šš: Mizacı oynak olmayıp işine ve sözünde kararlı olan, yerinde direnen. Sözünde duran.
 sabîte †ƒ„…œ: Yerinde durur gibi olan yıldız. * Yerinde durup hareket etmeyen herhangi bir şey. (Seyyare'nin zıddı)
@@ -657,10 +657,10 @@ salîh (a.s.) ƒ™ˆ: Büyük peygamberlerden olup Hicaz ile şam arasında o
 salîh(a) ƒ™ˆ: (Salâh. dan) îşe yarar, elverişli, uygun, iyi. Haklı olan, itikatlı, dindar, dini emirlere uyan. * Faziletli, ehl-i takva olan.
 salîha ™ÿˆœ: Safi gümüş. * îyi, sâlih kimse.
 salîhat: Dine uygun iyi hareketler. Cenab-ı Hakk'ın ve Peygamber Aleyhissalâtü Vesselâm'ın beğeneceği işler, iyilikler. * Hayır ve hasenat sâhibi müslüman kadınlar.
-salîhn ƒ™ˆ›: Salih kimseler, günahkâr olmayanlar, salihler.
+salîhûn ƒ™ˆ›: Salih kimseler, günahkâr olmayanlar, salihler.
 sâlîk žƒ™˜: (Sülûk. dan) Bir yolda giden. Belli bir yol tutup giden. * Bir tarikat yolunda olan.
 sâlîkân: (Sâlik. C.) Sâlikler. Bir tarikata girmiş veya bir şeyhe bağlanmış kimseler.
-sâlîkn (sâlîkîn): (Sâlik. C.) Sâlikler. Sülûk edenler.
+sâlîkûn (sâlîkîn): (Sâlik. C.) Sâlikler. Sülûk edenler.
 salîl: Demirden çıkan ses. Demir sesi.
 sâlîm(e) žƒ™š: Sağlam. * Sıhhatli. Sağ. Noksansız, eksiksiz. * Her türlü tehlikeden uzak olan. Emin ve korkusuz olan. * Gr: Kelimelerdeki harfler bozulmadan cemi' eki katılarak yapılan çoğul hali. Sâlimûn, sâlihât, sâdıkûn, sâdıkât gibi yapılan cemiler. * îçinde harf-i illet bulunmayan kelime.
 sâlîmen: Sağ, sağlam ve sıhhatta olarak. * Emin olarak, emniyetle.
@@ -1147,7 +1147,7 @@ sebuh: (Sibh. den) Yüzgeç.
 sebuha: Mekke şehri.
 sebuîye ž„”ÿœ: Yırtıcıya mensub, canavarlıkla ilgili.
 sebuîyet ž„”ÿ…: Yırtıcılık, parçalayıcılık. Yırtıcı hayvanın fıtri hassası.
-seb'n: (Bak: Seb'in)
+seb'ûn: (Bak: Seb'in)
 sebük ž„˜: f. Hafif. Ağırbaşlılığı ve ağırlığı olmayan.
 sebük-endîş: f. Derin düşünmeyen, sathi düşünen.
 sebük-înân: f. çabuk koşan.
@@ -1484,7 +1484,7 @@ selase †™ƒ†œ: üç.
 selase-aşer: Onüç.
 selaset ž™ƒž…: Edb: Anlatıştaki kolaylık ve rahatlık. Açık, kolay, akıcı ve âhenkli ifade.
 selasîl ž™ƒž™: (Silsile. C.) Silsileler. * Zincir gibi olanlar. Zincirler. * Sıradağlar.
-selasn: (Selâsin) Otuz, 30.
+selasûn: (Selâsin) Otuz, 30.
 selata: Kahır, galebe, hiddet. * Kötü konuşan, gönül inciten, kalb kıran. * Merhametsiz olmak. * Acı söz söylemek.
 selatîn ž™ƒ’ÿ›: (Sultan. C.) Sultanlar.
 selb †™„: Ayıp. * "Noksan etmek ve çekmek" mânalarına da mastardır.
@@ -1588,7 +1588,7 @@ semane: f. Tavan. * Bıldırcın.
 semanet: Semizlik, yağlılık, besililik.
 semanîn: Seksen. 80
 semanîye †šƒ›ÿœ: Sekiz. 8
-semann: Seksen. 80
+semanûn: Seksen. 80
 semapare: f. Gök parçası.
 semar: Meyva, yemiş.
 semar: Duru süt.
@@ -1688,7 +1688,7 @@ senabîk: (Sünbük. C.) At ve katır gibi hayvanların tırnakları.
 senabîl ž›ƒ„™: Sünbüller. Başaklar.
 sena'buk: Kötü kokulu bir ot.
 senaf: Deve bağlanan ip. * Deve göğüsü.
-senag: f. Medheden, öven, sena eden.
+senagû: f. Medheden, öven, sena eden.
 senahan †›ƒ‰ƒ›: f. Medheden, alkışlayan, öven.
 senakâr: f. öven. Medheden.
 senakârane: f. Senakârlıkla. övercesine. Medheden birine yakışır şekilde.
@@ -1881,7 +1881,7 @@ sergîn: f. Gübre, fışkı.
 sergüzeşt žœª‹…: f. Macera, baştan geçen hâller.
 serh: Kıl taramak. * Halâs etmek, kurtarmak. * Uzun, büyük ağaç. * Güdülen davar ve sığır sürüsü. * Otlak, mera. * îrsal etmek.
 serhad: Hudut başı. îki devlet toprağının birleştiği sınır.
-serhadl: Hudut boylarını bekleyen, hudutlardaki kalelerde vazife gören askerler.
+serhadlû: Hudut boylarını bekleyen, hudutlardaki kalelerde vazife gören askerler.
 serhan: Canavar. Kurt.
 serhas: Sivri uçlu bitki.
 serhayl: f. Kervan veya kafile başı. * Baş, başkan.
@@ -1937,7 +1937,7 @@ sermeşk žœš—: f. Talebenin öğrenmesi için yazılan örnek yazı.
 sermeta: Yaş balçık.
 sermuharrîr: f. Baş muharrir. Baş yazar.
 sername žœ›ƒšœ: f. Mektup, kitap vs. nin başına yazılan yazı. önsöz.
-sernîgn žœ›˜›: f. Baş aşağı olmuş. * Tersine dönmüş. * Bahtsız.
+sernîgûn žœ›˜›: f. Baş aşağı olmuş. * Tersine dönmüş. * Bahtsız.
 sernüvîşt: f. Yazı başlığı. * Başa yazılan, alın yazısı. Kader, mukadderat.
 serpaş: f. Gürz. çomak. * Eskiden muhârebelerde giyilen demir başlık.
 serpençe: f. Güçlü kuvvetli kimse.
@@ -2693,7 +2693,7 @@ subare: Taş.
 subaşi: şimdiki zabıta ve daha ziyade belediye memurlarının gördükleri işleri gören ve kasabaların idaresi başında bulunan memurun ünvanı idi.
 subat ž„ƒ…: (Bak: Sübât)
 subbah: (Sâbih. C.) Yüzenler, yüzücüler (suda).
-subbhun kuddsün ž„ˆ‚—šž: "Allah (C.C.) subbûhtur, kuddûstür. Zâtına ve sıfatına fena, noksan ve kusur yanaşamaz. Her zaman ve her dilde, her mahluk onu tesbih ve takdis eder." gibi mânâları ifade eder.
+subbûhun kuddûsün ž„ˆ‚—šž: "Allah (C.C.) subbûhtur, kuddûstür. Zâtına ve sıfatına fena, noksan ve kusur yanaşamaz. Her zaman ve her dilde, her mahluk onu tesbih ve takdis eder." gibi mânâları ifade eder.
 su'be: Yeşil başlı kertenkele.
 sube: At sürüsü. * Yirmi ile kırk arasında olan keçi sürüsü. * Kabın içinde kalan su. Artık su.
 subesu: f. Taraf taraf. Her tarafa. Her yanda.
@@ -3027,7 +3027,7 @@ sühan-ârâ: f. Düzgün ve güzel söz söyleyen.
 sühan-çîn: f. Söz getirip götüren, söz toplayan, dedikoducu.
 sühan-dân: f. Güzel söz söyleyen.
 sühan-fehm: f. Sözün, kelâmın değerini takdir eden.
-sühan-g: f. Söz söyleyen, söz söyleyici.
+sühan-gû: f. Söz söyleyen, söz söyleyici.
 sühan-güzar: f. Güzel konuşan, güzel söz söyleyen.
 sühan-perdaz: f. Güzel ve düzgün söz söyleyen.
 sühan-pîra: f. Süslü konuşan, süslü söz söyleyen.
@@ -3074,17 +3074,17 @@ sükub ž˜„: (Sekub) Kendi kendine dökülen su. Suyun dökülmesi.
 sükub: Yetişmek.
 sükuk ž˜˜: (Bak: Sukuk)
 sükul (sâkîl): Evlâdı ölüp yalnız kalan kadın.
-sükn ž˜›: Durgunluk. Sâkin olmak. Hareketsizlik. * Dinmek, kesilmek. * Gr: Bir harfin (a,e,i,o) okunmayıp yalnız ses vermesi, harfin harekesiz olarak kendi sesi ile okunması. (Bak: Cezm)
-sükn-î dem: Soğukkanlılık.
-sükn-î mu'tadî: Her zamanki sessizlik.
-süknet ž˜›…: Vakarlılık, ciddiyet. * Durgunluk. Rahatlık. * Hareketsizlik.
-süknetgâh: f. Dinlenme yeri. * Mc: Kabir, mezar.
-süknetperver: f. Dinlendirici, rahatlandırıcı.
-süknetyâb: f. Durgunlaşan, sükûnet bulan, duran.
+sükûn ž˜›: Durgunluk. Sâkin olmak. Hareketsizlik. * Dinmek, kesilmek. * Gr: Bir harfin (a,e,i,o) okunmayıp yalnız ses vermesi, harfin harekesiz olarak kendi sesi ile okunması. (Bak: Cezm)
+sükûn-î dem: Soğukkanlılık.
+sükûn-î mu'tadî: Her zamanki sessizlik.
+sükûnet ž˜›…: Vakarlılık, ciddiyet. * Durgunluk. Rahatlık. * Hareketsizlik.
+sükûnetgâh: f. Dinlenme yeri. * Mc: Kabir, mezar.
+sükûnetperver: f. Dinlendirici, rahatlandırıcı.
+sükûnetyâb: f. Durgunlaşan, sükûnet bulan, duran.
 sükuredyun: Yaban sarmısağı.
-sükt ž˜…: Susma. Konuşmama.
-sükt-î îstîfham: îstifham sessizliği.
-süktî ž˜…ÿ: Sessizlikte olan. çok ses çıkarmayan. Az konuşan.
+sükût ž˜…: Susma. Konuşmama.
+sükût-î îstîfham: îstifham sessizliği.
+sükûtî ž˜…ÿ: Sessizlikte olan. çok ses çıkarmayan. Az konuşan.
 sülae: Hurma yaprağının, başında olan dikeni.
 sülah: Necis, pis.
 sülal: îshal olmak.

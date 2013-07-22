@@ -103,7 +103,7 @@ galaka: Deri dibâgat ağacı.
 galal •™ƒ™: (Gılâl) (Galle. C.) Zahireler. Mahsuller. * Akarât kiraları.
 galan: çok susayan, çok susamış olan.
 galat •™ƒ’: Hata. Yanlış. * Kaideye uymaz söz.
-galat-g: f. Yalan yanlış söyleyen.
+galat-gû: f. Yalan yanlış söyleyen.
 galat-i basar: Görme duyusunun yanılması. (Meselâ: Su içine batırılmış olan bir çubuğun, kırılmış gibi görünmesi.)
 galat-i meşhur: Yanlış olduğu hâlde herkes tarafından kullanılan kelime veya terkib.
 galat-i rü'yet: Renk körlüğü. Bir rengi, aslından başka renkte görme. *Görme bozukluğu.
@@ -638,8 +638,8 @@ ger ªœ: f. îsimlerin sonlarına eklenir ve yapıcılık bildirir bir edattır
 gerçî: f. öyle ise de, her ne kadar.
 gerd ªœš: f. Baht, talih. Fayda. * Toz, toprak. * Hüzün, keder, gam, tasa.
 gerd ªœš: f. Kelimelere eklenir ve "Dönen, dolaşan" anlamlarını verir. Meselâ: Tiz-gerd $ : çabuk dönen.
-gerd-âld: f. Toz toprak içinde.
-gerd-âlde: f. Toza toprağa bulaşmış, tozlu topraklı. * Mc: Maddiyatı olan kimse, paralı, zengin.
+gerd-âlûd: f. Toz toprak içinde.
+gerd-âlûde: f. Toza toprağa bulaşmış, tozlu topraklı. * Mc: Maddiyatı olan kimse, paralı, zengin.
 gerdâ-gîrd: f. Fırdolayı. 
 gerdân: f. Dönen, dönücü. çeviren. (Bak: Gerden)
 gerde ªœšœ: f. îsimlere eklenerek; etmiş, yapmış, eylemiş gibi mef'uller yapılır.
@@ -887,7 +887,7 @@ gîş: f. Kalb, yürek.
 gîşe: Fr. Tren istasyonu, vapur iskelesi ve mağaza gibi yerlerde bilet veya paranın alınıp verildiği yer.
 gîtî ª…ÿ: f. âlem, dünya.
 gîtî-ban: f. Hükümdar, padişah.
-gîtî-fürz: Dünyayı aydınlatan.
+gîtî-fürûz: Dünyayı aydınlatan.
 gîtî-neverd: f. Dünyayı gezen, dünyayı dolaşan.
 gîtî-nüma: f. Dünyayı gösteren, cihanı gösteren.
 gîtî-sîtan: f. Dünyayı zapteden, cihangir. 
@@ -1170,7 +1170,7 @@ gümrah ªšœƒœ: f. Yolunu şaşırmış. Doğru yoldan sapmış. * Bol, gür
 gümrahî: f. Sapıtma, doğru yoldan çıkmış olma.
 gümşüde: f. Telef olmuş, zâyi olmuş, kaybolmuş.
 gümüş kozak: Tar: Eskiden hükümdarlara gönderilen nâme-i hümayunların konulduğu mahfaza. Nameler atlas keseye konur, sonra da kozaya geçirilirdi. Kozakların gümüşten yapılmış olanları olduğu gibi altundan, şimşirden de yapılanları vardı. Altundan olanlar imparatorlara, gümüşten olanlar da küçük devlet reislerine gönderilen nâme-i hümayunlara mahsustu. (O.T.D.S.)
-güna gn ª›ƒ‚ª›: f. Türlü. çeşitli nevilerde olan. çeşit çeşit. Renk renk.
+güna gûn ª›ƒ‚ª›: f. Türlü. çeşitli nevilerde olan. çeşit çeşit. Renk renk.
 günah ª›ƒœ: f. Cezayı gerektiren amel. Dine aykırı iş. Allah'ın emirlerine uymayan hareket. (Bak: Kebâir-Cünha)(Evet günah kalbe işleyip siyahlandıra siyahlandıra tâ nur-u imanı çıkarıncaya kadar katılaştırıyor. Her bir günah içinde küfre gidecek bir yol var. O günah istiğfar ile çabuk imha edilmezse kurt değil belki küçük bir manevi yılan olarak kalbi ısırıyor. Meselâ: Utandıracak bir günahı gizli işliyen bir adam, başkasının ıttılaından çok hicab ettiği zaman melâike ve ruhaniyatın vücudu ona çok ağır geliyor. Küçük bir emare ile onları inkâr etmek arzu ediyor. L.)
 günahkâr: f. Günah işleyen, günahlı.
 günahkârî: f. Günahkârlık.

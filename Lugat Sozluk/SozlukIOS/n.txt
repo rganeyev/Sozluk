@@ -866,7 +866,7 @@ nazîm: Sıra sıra, dizi dizi olan şey.
 nazîr ›ƒ‘œ: Tâze. * Altın.
 nazîr(e) ›“ÿœœ: Bir şeye benzemek üzere yapılan şey. Denk, eş, örnek. Benzeyen. * Edb: Bir şairin manzumesine, başka bir şair tarafından aynı vezin ve kafiyede olmak üzere yapılan benzer.
 nazîre ›“œœ: Mühlet vermek, tehir etmek.
-nazîreg: f. Nazire söyliyen.
+nazîregû: f. Nazire söyliyen.
 nazîye: Kenarı az olan çanak.
 nazîz: (C: Nizâz-Nezâyız) Az miktar su. * Az yağmur. * Az az akmak.
 nazl: Ok atmak.
@@ -1317,7 +1317,7 @@ nekl: Yular. At gemi. * Ezâ, cefâ etmeğe ve işkence yapmağa yarayan şey.
 nekmet ›—šœ: (Bak: Nikmet)
 nekr ›˜œ: Zeki, akıllı kimse. Pek zeyrek olan. * Dehâ, fetânet.
 nekre ›˜œœ: Belirsiz olan. * çıban ve yaradan çıkan kan ve irin. * Garip ve gülünç fıkralar. * Hoş sohbet ve hazır cevap kimse. * Gr: Belirtilmemiş isim, neye delâlet ettiği belli olmayan (harf-i tarifsiz) isim.
-nekre-g: f. Tuhaf hikâyeler fıkralar anlatan. Gülünç sözler söyleyen.
+nekre-gû: f. Tuhaf hikâyeler fıkralar anlatan. Gülünç sözler söyleyen.
 nekre-î mevsule ›˜œœý‚š™œ: îki kelime veya mânâyı birbirine bağlayan kelime.
 nekre-î tâmme ›˜œœý‚…ƒšœ: Mübhem mânâ ifade eden kelime.
 neks: Sözünden dönmek. * Bozmak. çözmek. * üzmek. * Dağıtmak. * Münhal ve muhtel olmak.
@@ -1401,7 +1401,7 @@ nerm ›œš: (Nermi - Nermin) f. Yumuşak.
 nerm nerm: f. Yavaş yavaş, âheste âheste.
 nerm-âhen: f. Gevşek şey.
 nermdîl: f. Yüreği yumuşak. Merhametli.
-nermg: f. Yumuşak sözlü.
+nermgû: f. Yumuşak sözlü.
 nermî: f. Gevşeklik, yumuşaklık.
 nermîn: f. Yumuşak.
 nermîyet: Yumuşaklık, gevşeklik.
@@ -1574,7 +1574,7 @@ netîce ›…ÿ‡œ: (C.: Netâic) Son, gaye. Semere, hülâsa. * Döl, evlâd
 netîce-î hayat: Hayatın neticesi ve gayesi.
 netîce-î hîlkat ›…ÿ‡œý‚‰™—…: Yaratılışın sonu, gayesi. Yaratılmanın neticesi.
 netîce-î kelâm: Sözün kısası.
-netîce-î ma'kse ›„ÿ‡œý‚š”˜žœ: Aksi netice, ters netice.
+netîce-î ma'kûse ›„ÿ‡œý‚š”˜žœ: Aksi netice, ters netice.
 netîcebahş: f. Neticelendiren, sonuçlandıran. Netice veren.
 netîcepezîr: f. Son bulmuş, neticelenmiş.
 netk: Bir şeyi şiddetle çekmek ve cezbetmek.

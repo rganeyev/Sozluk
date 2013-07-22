@@ -96,7 +96,7 @@ maanî-î medlule: Anlaşılan mânâlar.
 maanî-î mukaddese š”ƒ›ÿ‚š—šžœ: Mukaddes mânâlar.
 maanî-î mütezahîme š”ƒ›ÿ‚š…ƒˆšœ: Bir kelimenin çok mânaya gelip birbiri ile yarışma hâli.
 maanî-î sânevî: îkinci derecedeki mânâlar. îşari, mecazi, remzi mânâlar gibi.
-maanî-î lâ š”ƒ›ÿ‚¤™ÿ: Evvelki mânâlar, vesileler.
+maanî-î ûlâ š”ƒ›ÿ‚¤™ÿ: Evvelki mânâlar, vesileler.
 maar: Ar ve hayâya sebep olacak şeyler.
 maariz (meârîz): (Muarraz. C.) Bir sözü söyleyip başka bir şey murad etme ve cem' olmak, toplamak itibariyle ma'razlar, ta'rizler, adem-i tasrihler, sarahatsizlikler.
 maarî: însanın daima çıplak kalan organ veya azası.
@@ -486,10 +486,10 @@ mahkî šˆ˜ÿ: Hikâye olunmuş. Anlatılmış. Rivayet olunmuş olan.
 mahkîyyun anh šˆ˜ÿ‚”›œ: Kendisinden bahsedilen, kendisinden anlatılan.
 mahkud: Hased edilen, hased olunan.
 mahkuk šˆ˜˜: Hakkedilmiş. Sert bir şey üzerine sert kalemle kazılarak yazılmış.
-mahkm šˆ˜š: Aleyhinde hüküm verilmiş olan. Dâvayı kaybedip cezalanan. * Birisinin hükmü altında bulunan. * Zorunda ve mecburiyetinde olma. Katlanma.
-mahkmun-aleyh šˆ˜š‚”™ÿœ: Kendi aleyhinde hüküm verilmiş olan.
-mahkmun-bîh šˆ˜š‚„œ: Kendisi hakkında hüküm verilmiş olan.
-mahkmun-leh: Dâvayı kazanmış olan. Lehine hükmolunan.
+mahkûm šˆ˜š: Aleyhinde hüküm verilmiş olan. Dâvayı kaybedip cezalanan. * Birisinin hükmü altında bulunan. * Zorunda ve mecburiyetinde olma. Katlanma.
+mahkûmun-aleyh šˆ˜š‚”™ÿœ: Kendi aleyhinde hüküm verilmiş olan.
+mahkûmun-bîh šˆ˜š‚„œ: Kendisi hakkında hüküm verilmiş olan.
+mahkûmun-leh: Dâvayı kazanmış olan. Lehine hükmolunan.
 mahkun šˆ—›: Suçsuz, masum.
 mahkun-ud-dem šˆ—›‚ƒ™šš: Fık: Katli lâzım olmayan kimse.
 mahkur šˆ—œ: (Bak: Muhakkar)
@@ -1771,7 +1771,7 @@ medîd ššÿš: Devamlı. çok uzun süren. * Uzatılmış. çekilmiş.
 medîh ššÿ‰: Keskin.
 medîh ššÿˆ: (Medh. den) övmeye ve medhetmeye sebeb olan şey. övme mevzuu.
 medîha ššÿˆœ: Medih için yazılan kaside, övme.
-medîhag: f. Medheden, öven.
+medîhagû: f. Medheden, öven.
 medîhasenc: f. Medihnâme yazan, övücü yazılar yazan.
 medîn: Borçlu. * Kul, köle, abd.
 medîne ššÿ›œ: şehir. * Hicazda Hz. Peygamberin (A.S.M.) türbesi bulunan şehirdir. Buranın îslâmiyyetten evvel ismi "Yesrib" idi.
@@ -2354,9 +2354,9 @@ memhus: Parlatılmış, cilâlanmış. * Etli, şişman, dolgun insan veya hayva
 memhuvv: (Mahv. dan) Mahvolmuş, perişan olmuş.
 memhuz: Yağı alınmış yoğurt.
 memîl: Meyletme, bir yana eğilme, temâyül etme.
-memkr: (C: Memâkir) Av kanıyla kirlenmiş. * Kızıla boyanmış.
+memkûr: (C: Memâkir) Av kanıyla kirlenmiş. * Kızıla boyanmış.
 memkure: Sirkeli ve sarmısaklı balık.
-memkre: Uysal, yakışıklı.
+memkûre: Uysal, yakışıklı.
 memkut: Düşmanlık edilen, hased edilen.
 memlaha: (Milh. den) Tuz çıkarılan yer. Tuzla.
 memleket: (C.: Memâlik) Bir devletin toprağı, ülke, yurt. * şehir. îl, kasaba. * Bir insanın doğup büyüdüğü yer.
@@ -3308,7 +3308,7 @@ meşk š—: Yazı örneği. öğretici yazı. * Bir şeyi uzatmak. * Uzun uzu
 meşk š˜: f. Kırba. Tulumdan yapılmış su kabı.
 meşka: Fark edip ayıracak yer.
 meşkâ: şikâyet etmek.
-meşk: şikâyet etmek.
+meşkû: şikâyet etmek.
 meşkuk š——: Yarılmış. Yarık.
 meşkuk š˜˜: şekli, şüpheli. Kendinden şüphe edilen.
 meşkukîyet: şüphelilik. şüpheli oluş.
@@ -3539,8 +3539,8 @@ mevkufat: (Mevkufe. C.) Bir zaman için tutulup alıkonulmuş mal veya para. * V
 mevkufen: Mevkuf olarak.
 mevkufîn: (Mevkuf. C.) Tevkif edilmiş kimseler. Tutuklular. Mevkuflar.
 mevkufîyyet š—–ÿ…: Maznunun hüküm giyinceye kadar hapsedilmesi. Hapsedilme hâli. * Bağlı olma.
-mevkl: (Vekâlet. den) Bir vekile emanet edilen.
-mevklün îleyh: Kendisine bir iş bırakılan adam. Vekil.
+mevkûl: (Vekâlet. den) Bir vekile emanet edilen.
+mevkûlün îleyh: Kendisine bir iş bırakılan adam. Vekil.
 mevkum: Hüznü şiddetli olan.
 mevkut š—…: Vakitli. Vakti belli olan. Mahdud ve muayyen olmuş vakit.
 mevkute: Zamanı muayyen, belirli olarak çıkan matbuât. Gazete, mecmua gibi şeyler.
@@ -3791,7 +3791,7 @@ mezîyyet-î îfâde: îfâde meziyeti.
 mezk š—: Yarma, yırtma. Kesme.
 mezk š—: (Mezâk-Mezka) : Tatmak, tadına bakmak. * Tadacak yer.
 mezkum: Zükâm hastalığına tutulmuş. Nezle olmuş, nezleli.
-mezkr š‹˜œ: Zikri geçen. Zikredilmiş. Evvelce bahsi geçmiş olan. (Bak: Mezbur-Merkum)
+mezkûr š‹˜œ: Zikri geçen. Zikredilmiş. Evvelce bahsi geçmiş olan. (Bak: Mezbur-Merkum)
 mezl: Muztarib olmak, acı ve ıztırab çekmek.
 mezlaka š™—œ: Ayak kayacak yer. Kaypak yer. * Mc: Yanlışlığa düşmeye sebeb olan hal.
 mezmere: çok şiddetli hareket ettirmek.
@@ -5083,7 +5083,7 @@ muhaddîrat: (Muhaddire. C.) Uyuşturucu ilâçlar.
 muhaddîr(e): Uyuşturucu ilâç.
 muhaddîs šˆš†: Hadis ilminin bir çok usul ve füruunu bilen zât. Peygamber Efendimizin (A.S.M.) hâl ve sözlerini bize nakleden ve hadis ilminin mütehassısı.
 muhaddîsîn šˆš†ÿ›: Hadis ilmiyle uğraşan eskiden gelmiş büyük ve kâmil zâtlar. Peygamberimizin (A.S.M.) sözünü işiterek bildirenler. (Bak: Hâfız)
-muhaddîsîn-î muhaddesn: Allah tarafından kendilerine ilham olunan muhaddisler.
+muhaddîsîn-î muhaddesûn: Allah tarafından kendilerine ilham olunan muhaddisler.
 muhaddîş: Kulağı tırmalıyan. Tahdiş eden.
 muhadea š‰ƒš”œ: Aldatmak, hilecilik, oyun etmek.
 muhademe: Hizmet etmek.
@@ -5144,7 +5144,7 @@ muhalleb š‰™„: Nakışı ve güzelliği çok olan elbise. * Cam. * Aldanm
 muhalled š‰™š: (Huld. dan) Ebedi. Dâimi. Bâki. Sürekli olarak kalan.
 muhalledat: (Muhalled. C.) Dâimi olarak kalacak şeyler. * şâheserler.
 muhalledîn: (Muhalled. C.) Sürekli ve dâimi olarak kalan şeyler.
-muhalledn š‰™š›: Bâki ve dâimi olanlar. * Dâimi surette Cennet'te kalacak olanlar.
+muhalledûn š‰™š›: Bâki ve dâimi olanlar. * Dâimi surette Cennet'te kalacak olanlar.
 muhallef: Bir ölünün bıraktığı mal. * Geride kalan.
 muhallefat: (Muhallefe. C.) ölen bir kimsenin bıraktığı şeyler. Metrukât.
 muhallefe: ölen bir adamın dul kalan karısı.
@@ -5232,7 +5232,7 @@ muhasimeyn: Bir dâvâ veya çekişmede birbirine karşı olan iki kimse.
 muhasimîn: (Muhasım. C.) Düşmanlar, muhasımlar.
 muhasir: (C.: Muhasırin- Muhasırûn) (Hasr. dan) Etrafının kuşatıp saran. Muhasara eden.
 muhasirîn: (Muhâsır. C.) Muhasara edenler, etrafını kuşatanlar.
-muhasirn šˆƒœ›: (Muhasırin) Düşmanı etraftan kuşatanlar. Muhasara edenler.
+muhasirûn šˆƒœ›: (Muhasırin) Düşmanı etraftan kuşatanlar. Muhasara edenler.
 muhasîb šˆƒž„: Hesab eden. Hesap işi ile uğraşan. Muhasib.
 muhassal šˆ™œ: Netice. Husule gelen. Tahsil olunan. Hâsıl olmuş bulunan. Toplanılmış, cem'olunmuş. Hülâsa. Sözün kısası.
 muhassal-î kelâm: Sözün kısası.
@@ -5667,15 +5667,15 @@ mukdîmâne: f. Gayret ve dikkatle.
 mukes'al: îyi yonulmamış ok.
 mukhem: Cümle arasındaki lüzumsuz ve fazla kelime.
 mu'kib: ökçeli ayakkabı.
-mkid š—š: Ateş yakan.
+mûkid š—š: Ateş yakan.
 mukill š—™: Malı az olan. Fakir.
 mukillîn š—™ÿ›: Fakirler. Muhtaç olanlar.
-mkin š—›: şüphesiz ve kat'i olarak bilen.
-mkinn š—››: Yakin sahibi olanlar. şüphesiz ve tereddüdsüz olarak imani ve Kur'ani hakikatlara vâkıf olanlar. (Bak: Yakin)
+mûkin š—›: şüphesiz ve kat'i olarak bilen.
+mûkinûn š—››: Yakin sahibi olanlar. şüphesiz ve tereddüdsüz olarak imani ve Kur'ani hakikatlara vâkıf olanlar. (Bak: Yakin)
 mu'kir: Malı mülkü çok olan kimse.
-mkir: Yemişinin çokluğundan dolayı dalları sarkmış olan ağaç.
+mûkir: Yemişinin çokluğundan dolayı dalları sarkmış olan ağaç.
 mukirr: (Karâr. dan) Doğruyu ve gerçek olanı söyliyen. Kabahat veya ayıbını gizlemeden söyliyen. * Fık: Birinin, kendisinde hakkı olduğunu haber veren kimse.
-mkiz: (Yakaza. dan) Uyandıran, ikaz eden. * Gaflet ve dalgınlıktan kurtaran.
+mûkiz: (Yakaza. dan) Uyandıran, ikaz eden. * Gaflet ve dalgınlıktan kurtaran.
 mukîbb: Lüzumlu olan, icab eden.
 mukîl š—ÿ™: Hataları, yanlışları afveden.
 mukîm š—ÿš: îkamet eden. Ayakta duran. * Okuyan. * Bir memlekette devamlı duran. * Fık: Vatanında veya vatanı sayılan bir yerde onbeş günden fazla kalan kimse. (18 saatlik uzağa gidene "Misâfir" denir.) * Esmâ-i îlâhiyyeden olup "Her şeyi ayakta tutan, devam ettiren ve kayyumiyet sırrıyla bir an bile hiç bir şeyden alâkasız olmayan" meâlindedir.
@@ -6011,7 +6011,7 @@ muskitat: (Muskıt. C.) (Sukut. dan) Düşürenler, ıskat edenler.
 muslîb: Vurucu, vuran, dârib.
 muslîh š™ˆ: Islah eden. îyileştiren. Terbiye edici.
 muslîhâne š™ˆƒ›œ: f. Sulh yolu ile, iyilikle anlaşarak. Arabuluculukla.
-muslîhn: (Muslihin) Islah edenler. Düzeltip iyileştirenler. Terbiyeciler.
+muslîhûn: (Muslihin) Islah edenler. Düzeltip iyileştirenler. Terbiyeciler.
 musmît šš…: (Musammet) îçi kof olmayan şey. * Tecvidde: Te, se, cim, ha, hı, dal, zel, ze, sin, sın, sad, dad, tı, zı, ayın, gayın, kaf, kef, he harflerinin ismidir. (Bak: îsmât)
 musrad: Soğuktan hemen etkilenen kimse.
 musrîh: Medet eden, yardım eden.
@@ -6284,7 +6284,7 @@ muvahebe: çok bağışlama.
 muvahhad(e): (Vahdet. den) Bir ve tek hâle konmuş.
 muvahhîd šˆš: Allah'ın birliğine inanan. Tevhid eden. * Birleştirici olan.
 muvahhîdâne: f. Muvahhide yakışır surette.
-muvahhîdn (muvahhîdîn): Muvahhidler. Bir Allah'a inanıp, birliğe çalışanlar. Birleyici olanlar.
+muvahhîdûn (muvahhîdîn): Muvahhidler. Bir Allah'a inanıp, birliğe çalışanlar. Birleyici olanlar.
 muvahhîş šˆ: Vahşet veren. Vahşileştiren. Korkutan. Korkutup ürküten.
 muvakaa: Düşmek, sukut.
 muvakebe: Bir işe sebat ve gayret gösterme.
@@ -6342,7 +6342,7 @@ muye: f. Hıçkıra hıçkıra ağlama.
 muyeger: f. Hıçkıra hıçkıra ağlayan.
 muyî: (Muyin) f. Kürkten. Kıldan.
 muyîne: f. Kürk.
-muyîne-dz: f. Kürkçü.
+muyîne-dûz: f. Kürkçü.
 muytâb: (C.: Muytâbân) Kıl dokuyan. Kıldan eşya yapan.
 muza'af š‘”‘: Bir kat daha artmış. Bir o kadar daha çoğaltılmış.
 muzaaf š‘ƒ”–: îki kat. Bir şeyin iki misli. * Daha ziyade. Daha fazla.
@@ -6998,7 +6998,7 @@ müflîc: (Felc. den) Felçli.
 müflîh š–™ÿˆ: îflâh olan, selâmet bulan. Kurtulan. Felâha eren.
 müflîhane: f. Selâmete çıkarak. Felâh bularak.
 müflîhîn: (Müflih. C.) Selâmete çıkanlar, kurtulanlar, felâha erenler.
-müflîhn: (Müflih. C.) Kurtulanlar, iflâh olanlar, felâha erenler, müflihler, selâmete çıkanlar.
+müflîhûn: (Müflih. C.) Kurtulanlar, iflâh olanlar, felâha erenler, müflihler, selâmete çıkanlar.
 müflîs š–™ž: îflas etmiş. Parasız kalmış. Ticarette kâr elde edemeyip veya bazı sebeplerle sermayesini batırmış olan.
 müflîsân: (Müflis. C.) îflas etmiş olanlar, müflisler. Parasız kalmış olan kimseler. 
 müflîsîn: (Müflis. C.) Müflisler, iflas edip parasız kalmış olan kişiler.
@@ -7347,7 +7347,7 @@ mülha: (C: Mülâh) Siyah ile karışık olan beyaz. * Lâtif ve güzel olan s�
 mülhak š™ˆ—: îlhak olunmuş. Sonradan katılmış, zam ve ilâve olunmuş, eklenmiş. 
 mülhakat: (Mülhak. C.) Bir merkeze bağlı veya ait olan yerler. * Ekler, ilâveler, katmalar.
 mülhem š™œš: Kalbe doğmuş. Allahın, ilham ile kalbe bildirdiği.
-mülhemn š™œš›: îlhama mazhar olanlar.
+mülhemûn š™œš›: îlhama mazhar olanlar.
 mülhîd š™ˆš: Dinden çıkan, dinsiz, kâfir, imânsız. Haşir ve âhirete inanmayan.
 mülhîdâne: f. Dinsizce, imansızca. Mülhid olan bir kimseye yakışır şekil ve surette.
 mülhîdîn š™ˆšÿ›: Mülhidler.
@@ -7407,8 +7407,8 @@ mültezîm š™…š: Bir şeyi kendi üzerine lâzım eden; iltizam eden, ü
 mültezîmane: f. îltizam edercesine.
 mültezîmîn: (Mültezim. C.) Mültezimler. îltizam edenler.
 müluhiya: Ebemgümeci dedikleri ot.
-mülk š™˜: Melikler, hükümdarlar.
-mülkâne š™˜ƒ›œ: f. Padişahlara yakışır bir surette.
+mülûk š™˜: Melikler, hükümdarlar.
+mülûkâne š™˜ƒ›œ: f. Padişahlara yakışır bir surette.
 mülukîyye: Müluhıyye otu.
 mülul: Dişi örümcek.
 mülük: Burçak. (Hububattandır)
@@ -7490,8 +7490,8 @@ mü'mîn suresî: Kur'an-ı Kerim'in 40. Suresidir. Gafir, Tavl Suresi de denir.
 mü'mînat š¢š›ƒ…: Kadın mü'minler.
 mü'mîne: (C.: Mü'minât) (Emn. den) îman etmiş olan kadın. Müslüman kadın veya kız.
 mü'mînîn: (Mü'min. C.) Mü'minler, iman etmiş kimseler.
-mü'mînn š¢š››: Erkek mü'minler.
-mü'mînn suresî: Kur'an-ı Kerim'in 20. suresidir. Mekke-i Mükerreme'de nâzil olmuştur.
+mü'mînûn š¢š››: Erkek mü'minler.
+mü'mînûn suresî: Kur'an-ı Kerim'in 20. suresidir. Mekke-i Mükerreme'de nâzil olmuştur.
 mümît ššÿ…: ölümü yaratan, ölümü veren, imâte eden. Helâk eden.
 mümîye ššÿœ: îşaret eden, işaret edici.
 mümkîn šš˜›: Olabilir veya olmayabilir. îmkân dahilinde olan. Mümkün.
@@ -8305,7 +8305,7 @@ müslîmanan: Müslümanlar. îslâm olanlar.
 müslîmât šž™šƒ…: Kadın müslümanlar.
 müslîme: Müslüman kadın veya kız. îslâm olan kadın.
 müslîmîn: (Bak: Müslimûn)
-müslîmn šž™š›: Müslümanlar. Erkek müslümanlar. Müslimin.
+müslîmûn šž™š›: Müslümanlar. Erkek müslümanlar. Müslimin.
 müsmegidd: şişirici, şişiren.
 müsmegill: Uzun, tavil.
 müsmekat šžš˜ƒ…: (Mesmükât) Gökler, semavat.
@@ -10141,7 +10141,7 @@ mütteka š…˜ƒ: Dayanmağa, yaslanmağa yarayan şey.
 müttekin š…—ÿ›: Mutmain. îyice bilen, doğruluğunu, hakikatini tamamlayan. Ayn-el yakin bilen.
 müttekî š…—ÿ: Ehl-i takva. (Bak: Müttaki)
 müttekî: Yaslanıp oturan.
-müttekîn: Yaslanıp oturanlar, yahud oturuyorlar.
+müttekîûn: Yaslanıp oturanlar, yahud oturuyorlar.
 müttesî' š…ž”: Tevessü' eden, genişleyen, vüs'at kesbetmiş olan.
 müttesîm: Hususi bir nişânı veyâ âlameti olan.
 müttezîh: Açık ve meydanda olan.

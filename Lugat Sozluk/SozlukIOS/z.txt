@@ -160,7 +160,7 @@ zakî ƒ˜ÿ: (Zâkiyye) Saf ve temiz kimse. Hareket ve davranışları düzg�
 zakî: Güzel kokulu, keskin kokulu.
 zâkîr ‹ƒ˜œ: Zikreden, zikredici. * Hafızası kuvvetli. * îlâhiler okuyan. çok çok duâ ve Esmâ-i îlâhiyeyi okuyan. * Tekrar eden.
 zâkîre: Andıran, hatırlatan, hatıra getiren şey.
-zâkîrn (zâkîrîn) ‹ƒ˜œ›: Zikredenler.
+zâkîrûn (zâkîrîn) ‹ƒ˜œ›: Zikredenler.
 zakkum —š: Cehennem'de bir ağacın ismi, cehennemliklerin yiyeceği. * Gösterişi güzel, çiçekli ve zehirli meyvesi olan yâsemine benzeyen bir bitki ismi.
 zakm: Yemek, ekl.
 zakn: Yükletmek.
@@ -189,11 +189,11 @@ zalîm: (C.: Zılem-Zılmân) Deve kuşunun erkeği. * Kaymağı alınmadan içi
 zâlîmâne “ƒ™šƒ›œ: f. Zâlim olana yakışır şekilde. Zulmeder surette. Zâlimce.
 zâlîm(e) “ƒ™š: Zulmeden, haksızlık eden.
 zâlîmîn: (Zâlim. C.) Zâlimler, zulmedenler. 
-zâlîmn: (Zâlim. C.) Zulmedenler. Haksızlık edenler. Zâlimler.
+zâlîmûn: (Zâlim. C.) Zulmedenler. Haksızlık edenler. Zâlimler.
 zallam “™ƒš: (Zalûm) çok zulmeden. çok zâlim.
 zalm: Kar. * Diş beyazlığı.
 zalma: (C.: Zulem) Karanlık.
-zalm: çok zulmeden. çok zâlim.
+zalûm: çok zulmeden. çok zâlim.
 za'm: Kelâm, söz.
 zam ‘š: (Bak: Zamm)
 zam: Ayıp.
@@ -247,13 +247,13 @@ zânn “ƒ›: Zanneden. Sanan. Zannedici.
 zann-i galîb “›‚•ƒ™„: Kuvvetli, hakikate en yakın olan zann. (Bak: Su-i zan)
 zann-i kabul-ü cumhur “›‚—„™‚‡šœœ: Bir hükmün doğruluğunu ekseri müçtehidlerin ve ehl-i reylerin zann derecesinde, yani kuvvetli ihtimal ile kabul etmeleri.(ümmeti da'vetle teşri' edemez, fehmi şeriatten olur; lâkin şeriat olamaz. Müçtehid olabilir, fakat müşerri' olamaz.îcma' ile cumhurdur, sikke-i şer'i görür. Bir fikre davet etmek zann-ı kabul-ü cumhur, şart-ı evvel oluyor.Yoksa, davet bid'attır; reddedilir, ağzına tıkılır; onda daha çıkamaz... Lemeât)
 zannî “›ÿ: Zanna ait, zanna dâir ve müteallik.
-zân: f. Diz.
-zân-be-zân: f. Diz dize.
-zân-be-zemîn: f. Diz çökerek, dizini yere koyarak.
-zân-ber-zân: f. Diz dize.
-zân-zen: f. Diz çökmüş.
-zann: Düşünce ve tedbiri kıt olan adam. * Suyu olup olmadığı bilinmeyen kuyu. * Suyu az olan kuyu.
-zânzede: f. Diz çökmüş.
+zânû: f. Diz.
+zânû-be-zânû: f. Diz dize.
+zânû-be-zemîn: f. Diz çökerek, dizini yere koyarak.
+zânû-ber-zânû: f. Diz dize.
+zânû-zen: f. Diz çökmüş.
+zanûn: Düşünce ve tedbiri kıt olan adam. * Suyu olup olmadığı bilinmeyen kuyu. * Suyu az olan kuyu.
+zânûzede: f. Diz çökmüş.
 zapt-ü rabt: (Bak: Zabt ü rabt)
 za'r: Bedende kılın az olması.
 za'r: Meyletmek, eğilmek.
@@ -538,7 +538,7 @@ zemaîm ‹šƒ¡š: (Zemime. C.) Kötü haller. Beğenilmeyen, sevilmeyen hal v
 zemam šƒš: (Bak: Zimam)
 zeman šƒ›: Zaman, devir, vakit, çağ, mevsim, mehil.(Levh-i Mahv-îsbat ise, sâbit ve dâim olan Levh-i Mahfuz-u Azam'ın daire-i mümkinatta, yâni mevt ve hayata, vücut ve fenâya daima mazhar olan eşyada mütebeddil bir defteri ve yazar bozar bir tahtasıdır ki, hakikat-ı zaman odur. Evet herşey'in bir hakikatı olduğu gibi, zaman dediğimiz, kâinatta cereyan eden bir nehr-i azimin hakikatı dahi Levh-i Mahv-îsbat'taki kitabet-i kudretin sahifesi ve mürekkebi hükmündedir. S.)
 zeman-i medîde: Pek uzun zaman.
-zeman-i vusl: Varma zamanı.
+zeman-i vusûl: Varma zamanı.
 zemane: f. şimdiki zaman. * Vakit, devir. * Tâlih, baht, şans.
 zemanen: Zamanca, zaman bakımından. * Vaktinde, vaktiyle.
 zemane(t): Belâ, musibet, âfet. * Bedenin bir azası eksik veya kötürüm olma.
@@ -668,7 +668,7 @@ zerarî ‹œƒœÿ: (Zürriyet. C.) Zürriyetler, kuşaklar, nesiller.
 zerbe: Yüce avazlı, gür sesli olmak.
 zerd: f. Sarı. * Soluk, solgun.
 zerd: (Zered) (C.: Zürud) Halka halka örülmüş savaşçı zırhı. * Yutmak. * Boğmak.
-zerd-âl: f. (Zerd: sarı; âlû: erik) Sarı erik, zerdali.
+zerd-âlû: f. (Zerd: sarı; âlû: erik) Sarı erik, zerdali.
 zerdab: (Zerd-âb) f. îrin, cerahat. * Safra. * Beyaz şarap.
 zerde: f. Safranla pişirilen bir çeşit pirinç tatlısı. Safran, sarı renge boyadığı için bu ad verilmiştir. Eskiden düğünlerde pişirilirdi. * Safran. * Yumurta sarısı.
 zerdec: Usfur çiçeğinin evvel çıkan sarı suyu.
@@ -688,7 +688,7 @@ zeref: (Zerefân-Zerâfe-Zerif) (C: Zevârif) Gözden yaş akmak. * Yavaş yür�
 zerendud: (Ze-endud) f. Altın yaldızlı.
 zerger: (C.: Zergerân) Altın işleyen. * Kuyumcu.
 zergerî: f. Kuyumculuk.
-zergn: f. Altın gibi sarı renkli olan. Altın renkli.
+zergûn: f. Altın gibi sarı renkli olan. Altın renkli.
 zerh: Yemeğe zehir katmak. 
 zer'î: (C.: Zer'iyyât) Arşın ile ölçülen şey.
 zerî': Araya giren, şefaat edici.
@@ -701,7 +701,7 @@ zerîre: (C.: Ezirre) Göz otu. Tutya.
 zer'îyyat œ”ÿƒ…: Ekim işleri.
 zerk: çirkin söz söylemek. * Kuşun terslemesi.
 zerk œ—: Hile. Riya. îki yüzlülük. * şırınga yapmak, iğne ile vücuda ilâç vermek.
-zerk-âld: f. Riyalı, riya karışık.
+zerk-âlûd: f. Riyalı, riya karışık.
 zerk-füruş: f. Hileci, hilekâr. îkiyüzlü, mürai.
 zerm: Kesilmek.
 zerneb: Turunç kokusu gibi güzel kokan bir ot. * Fercin dışarısında olan et.
@@ -781,7 +781,7 @@ zevî-l ukul ƒ™”—™: Akıl sahipleri. Aklı olanlar. * Tas: Halkı
 zevk ‹—: Lezzet alma, hoşa gitme, tatma. * Hoş, hoşa giden. Mânevi haz. * Boş vakit geçirmek. Eğlenmek. * Alay etmek. Güzeli çirkinden ayırma kabiliyeti.(Hayatın zevkini ve lezzetini isterseniz, hayatınızı iman ile hayatlandırınız ve ferâizle zinetlendiriniz ve günahlardan çekinmekle muhafaza ediniz... S.)
 zevk-âlud —‚¥™š: f. Zevkli, zevk karışık.
 zevk-bahş: f. Zevk veren, eğlendiren, neşelendiren. * Meşhur bir cins lâle.
-zevk-c: (C. : Zevkcuyân) f. Zevkine düşkün. Zevk arıyan.
+zevk-cû: (C. : Zevkcuyân) f. Zevkine düşkün. Zevk arıyan.
 zevk-î selîm —‚ž™ÿš: En temiz, nezih ve en yüksek derecedeki zevk. Selâmette olan zevk. Meşru dairedeki zevk. * Sezme kabiliyeti.
 zevk-yâb —‚ÿƒ„: f. Lezzet alan, zevklenen.
 zevkî: Zevkle alâkalı. Zevke âit.
@@ -921,7 +921,7 @@ zîbac: Nedimelik etmek. * Sohbet etmek.
 zîbak: Cıva.
 zîbal: Karıncanın ağzıyla götürdüğü şey.
 zîbar: (Zebr. C.) Kitaplar. * Yazı yazmalar. * Kâğıt yaprakları.
-zîbar: (Zibâ-ru) f. Güzel yüzlü. Dilber.
+zîbarû: (Zibâ-ru) f. Güzel yüzlü. Dilber.
 zîbayî: f. Süslülük, güzellik, yakışıklılık.
 zîbbah: Ayak parmaklarının diplerinde olan yarıklar.
 zîbban: (Zübâb. C.) Sinekler.
@@ -1090,12 +1090,12 @@ zîyy ÿ: (C.: Ezyâ) (Zeyy) Dış görünüş. * Libas. Kılık, kıyafet. He
 zîza': Ot ve su olmayan yer.
 zîzefun: Ihlamur ağacı.
 zorbaz: f. Kuvvet oyunları gösteren sanatkâr. Bu oyunlar hünerden çok güce, kuvvete dayandıkları için, zor oyuncusu demek olan bu tabir meydana gelmiştir. Eskiden cambazlar kuvvetli adamlar oldukları için ekseriyetle vücutlarının kuvvet ve metanetine delil olan görülmeğe değer numaralar da gösterirlerdi. Meselâ bazı cambazlar koca bir taşı yerden alıp havaya atarlar ve taş aşağıya inerken, başlarının üstündeki lâstik topmuş gibi kâh göğüsleriyle, kâh arkalarıyla, kâh başlarıyla karşılayıp taşa vururlar, yere düşmeden tekrar havaya çıkarırlar ve böylece oynarlardı.Bazan da koca su küplerini karşılarına alıp, koç dövüşür gibi karşıdan hızla gelip başlarıyla vurarak küpü parça parça ederlerdi. Bu çeşit kuvvet oyunları gösteren cambazlara, zorbaz denirdi. (O.T.D.S.)
-z ‹: Kelimenin başına gelerek "sâhip, mâlik olan" mânasını verir. (Bak: Zâ)
-z' ‘”: Gece uçan kuşlardan birisi. * Erkek baykuş.
-z': (C.: Azvâ'-Ziyâ') Işık, aydınlık.
+zû ‹: Kelimenin başına gelerek "sâhip, mâlik olan" mânasını verir. (Bak: Zâ)
+zû' ‘”: Gece uçan kuşlardan birisi. * Erkek baykuş.
+zû': (C.: Azvâ'-Ziyâ') Işık, aydınlık.
 zu-esmar ‹‚¤†šƒœ: Meyveli. Semereli.
 zu-hazz ˆ“: Nasibi olan, nasibli. * Hoşlanan, zevk alan.
-z-zeneb ‹‹›„: Kuyruklu. Kuyruğu olan.
+zû-zeneb ‹‹›„: Kuyruklu. Kuyruğu olan.
 zuafa ‘”–ƒ£: (Zayıf. C.) Zayıflar. Zayıf olanlar.
 zuak: Tuzlu su.
 zuama: (Zaim. C.) (Zeâmet. den) Kefiller. * Büyük tımar sâhipleri.

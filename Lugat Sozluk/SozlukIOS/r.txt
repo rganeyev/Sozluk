@@ -391,7 +391,7 @@ rassas: Kalaycı.
 rast u çep: f. Sağ sol, sağdan soldan.
 rastan: (Râst. C.) Doğru olanlar. Haklı kimseler.
 rastbîn: f. Herşeyin hak ve doğrusunu görüp farkeden.
-rastg: (C.: Râstguyân) f. Doğru konuşan, hak konuşan. 
+rastgû: (C.: Râstguyân) f. Doğru konuşan, hak konuşan. 
 rastî: f. Doğruluk, gerçeklik.
 rastkâr: f. Doğru adam.
 rasyonalîzm œƒžÿ›œ‚™ÿš: Fr. Fls: Akliyecilik. Her şeyin yalnız akıl ile bilinebileceğini iddia eden bir felsefi görüş. (Bak: Felsefe)(Nazar-ı nübüvvet ve tevhid ve iman; vahdete, âhirete, uluhiyyete baktığı için hakaiki ona göre görür. Ehl-i felsefe ve hikmetin nazarı; kesrete, esbaba, tabiata bakar, ona göre görür. Nokta-i nazar birbirinden çok uzaktır. Ehl-i felsefenin en büyük bir maksadı ehl-i usul-id din ve ülemâ-i îlm-i Kelâm'ın makasıdı içinde görünmeyecek bir derecede küçük ve ehemmiyetsizdir.îşte onun içindir ki, mevcudatın tafsil-i mâhiyetinde ve ince ahvâllerinde ehl-i hikmet çok ileri gitmişler. Fakat hakiki hikmet olan ulûm-u âliye-i îlâhiye ve uhreviyede o kadar geridirler ki, en basit bir mü'minden daha geridirler. Bu sırrı fehmetmeyenler, muhakkikin-i îslâmiyeyi hükemâlara nisbeten geri zannediyorlar. Halbuki akılları gözlerine inmiş, kesrette boğulmuş olanların ne haddi var ki, veraset-i nübüvvet ile makasıd-ı âliye-i kudsiyeye yetişenlere yetişebilsinler. Hem her bir şey, iki nazar ile bakıldığı vakit iki muhtelif hakikatı gösteriyor. îkisi de hakikat olabilir. Fennin hiç bir hakikat-ı kat'iyyesi Kur'anın hakaik-ı kudsiyyesine ilişemez. Fennin kısa eli onun münezzeh ve muallâ dâmenine erişemez. Nümune olarak bir misâl zikrederiz.Meselâ : Küre-i arz, ehl-i hikmet nazarı ile bakılsa, hakikatı şudur ki: Güneş etrafında mutavassıt bir seyyare gibi hadsiz yıldızlar içinde döner. Yıldızlara nisbeten küçük bir mahluk. Fakat ehl-i Kur'ân nazarı ile bakıldığı vakit hakikatı şöyledir ki; semere-i âlem olan insân, en câmi, en bedi' ve en âciz, en aziz, en zayıf, en lâtif bir mu'cize-i kudret olduğundan beşik ve meskeni olan zemin semaya nisbeten maddeten küçüklüğü ile ve hakareti ile beraber, manen ve san'aten bütün kâinatın kalbi, merkezi; bütün mu'cizat-ı sanatının meşheri, sergisi, bütün tecelliyat-ı esmâsının mazharı, nokta-i mihrakiyesi; nihayetsiz faaliyet Rabbaniyenin mahşeri, ma'kesi; hadsiz hallakıyet-i îlâhiyenin, hususan, nebatat ve hayvânâtın, kesretli enva-ı sagiresinden cevadane icadın medarı, çarşısı ve pek geniş âhiret âlemlerindeki masnuatın küçük mikyasta nümunegâhı ve mensucat-ı ebediyenin sür'atle işleyen tezgâhı ve menazır-ı sermediyenin çabuk değişen taklidgâhı ve besatin-i daimenin tohumcuklarına sür'atle sünbüllenen dar ve muvakkat mezraası ve terbiyegâhı olmuştur.îşte arzın bu azamet-i maneviyesinden ve ehemmiyet-i san'aviyesindendir ki, Kur'an-ı Hakim semâvata nisbeten büyük bir ağacın küçük bir meyvesi hükmünde olan arzı, bütün semavata karşı küçücük kalbi büyük kalıba mukabil tutmak gibi denk tutuyor. Onu bir kefede, bütün semavatı bir kefede koyuyor, mükerreren $ diyor. îşte sair mesaili buna kıyas et. Ve anla ki, felsefenin ruhsuz, sönük hakikatları Kur'anın parlak, ruhlu hakikatları ile müsademe edemez. Nokta-i nazar ayrı ayrı olduğu için ayrı ayrı görünür. S.)(...Acaba akıllarına güvenen akılsız feylesoflar gibi "aklımız bize yeter" deyip sana ittiba'dan istinkâf mı ederler? Halbuki akıl ise, sana ittibaı emreder. çünkü bütün dediğin mâkuldür. Fakat akıl kendi başı ile ona yetişemez...Yahut inkârlarına sebeb, tâgi zâlimler gibi hakka serfüru etmemeleri midir? Halbuki mütecebbir zâlimlerin rüesaları olan fir'avunların, nemrudların âkibetleri mâlumdur... S.) (Bak: îsbatiyecilik)
@@ -1345,7 +1345,7 @@ ru'b œ¢„: Sütün yoğurt olması.
 rub œ„: f. Süpürge. * Süpürme.
 rub' œ„”: Dörtte bir. Bir şeyin dört kısmından bir kısmı.
 rub'-i daîre: Dairenin dörtte biri.
-rub'-î meskn: Dünyanın kara olan dörtte bir kısmı.
+rub'-î meskûn: Dünyanın kara olan dörtte bir kısmı.
 ruba: (Bak: Rüba)
 rubah: (Rubeh) f. Tilki. * Mc: Kurnaz, hilekâr.
 rubaî: (Bak: Rübai)
@@ -1541,7 +1541,7 @@ rükeb: (Rükbe. C.) Dizler, dizkapakları.
 rükkab œ˜ƒ„: (Râkib. C.) Biniciler, ata binenler.
 rükn œ˜›: Direk. Esas. * Kuvvet. * Bir şeyin en fazla sağlam olan tarafı veya köşesi veya temeli. * Bir cemaatin ileri gelenlerinden olan. * Nüfuzlu, kuvvetli ve ehemmiyetli kimse.
 rükn-ü dâhîlî œ˜›‚šƒ‰™ÿ: îçteki esas unsur. Namazın içindeki farz ve şart olan esas.
-rük' œ˜”: Huzur-u îlâhide eğilmek. Namazda elleri dize dayamak suretiyle yere doğru eğilirken baş ile sırtı düz hale getirmek.
+rükû' œ˜”: Huzur-u îlâhide eğilmek. Namazda elleri dize dayamak suretiyle yere doğru eğilirken baş ile sırtı düz hale getirmek.
 rükub: Binme. * Bir vasıtaya binme.
 rükud: Durgunluk. Durgun olma.
 rükud-î heva: Havanın durgun olması.

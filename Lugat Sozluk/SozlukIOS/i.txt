@@ -611,7 +611,7 @@ iztirarîyat: (Iztırari. C.) Mecburi olarak yapılan şeyler, mecburiyetler.
 îbn-î verdân: Hamam içinde olan kara çekirge. 
 îbn-î zükâ: Sabah.
 îbn-îl cellâ: Meşhur kişi. Namlı ve şöhretli adam.
-îbn-ül betl ƒ„›‚ƒ™„…™: Hz. îsâ (A.S.). Hz. Meryem'in oğlu. (Bak: Betûl)
+îbn-ül betûl ƒ„›‚ƒ™„…™: Hz. îsâ (A.S.). Hz. Meryem'in oğlu. (Bak: Betûl)
 îbn-ül habbe: Ekmek.
 îbn-ül mâ': Su kuşu.
 îbn-ül üns: Dost.
@@ -964,7 +964,7 @@ iztirarîyat: (Iztırari. C.) Mecburi olarak yapılan şeyler, mecburiyetler.
 îdare-î mutlaka: Bir hükümdarla idare. Bir hükümdarın idare ve yönetimi altında bulunan devlet. Mutlakiyet idaresi.
 îdare-î müstebîde: îstibdat idaresi.
 îdare-î örfîye: îcabında devletin bir yerde mülki idareye ait nizamları tatil ile kanunen kurduğu askeri idare. örfi idâre, sıkıyönetim.
-îdare-î umr: îşlerin görülmesi.
+îdare-î umûr: îşlerin görülmesi.
 îdarehane: f. Bir işe bakan hey'etin veya bir işi idare edenlerin toplanarak iş gördükleri yer ve dâire. * Dergi, gazete vs. gibi yayınların yazı işlerine bakılan dâire.
 îdareten: îdare için. Kanun ile değil, işin gelişine göre yaparak. îdare yoluyla, işi idare ederek.
 îdarî: îdare. * îdare ile alâkalı.
@@ -1499,7 +1499,7 @@ iztirarîyat: (Iztırari. C.) Mecburi olarak yapılan şeyler, mecburiyetler.
 îhtîlakiyyat: Yalanlar, aslı olmayan sözler. Uydurma sözler.
 îhtîlal ƒ‰…™ƒ™: (C.: îhtilalât) Ayaklanma, devlete isyan. Bozukluk, karışıklık. * şerre çalışmak, düzensizlik.
 îhtîlal-î nîzam: Nizamın bozukluğu.
-îhtîlal-î umr ƒ‰…™ƒ™‚ƒšœ: îşlerin karışıklığı, işlerin bozukluğu.
+îhtîlal-î umûr ƒ‰…™ƒ™‚ƒšœ: îşlerin karışıklığı, işlerin bozukluğu.
 îhtîlalat: (îhtilâl. C.) Ayaklanmalar, isyan etmeler, ihtilaller.(Bütün ihtilalât ve fesadın aslı ve mâdeni ve bütün ahlâk-ı rezilenin muharrik ve menbaı tek iki kelimedir. O iki kelimenin imtizacından bomba gibi küre-i arz patladı. Ve izdivacından medeni insanlardan canavarlar doğdu.Birinci kelime : "Ben tok olsam, başkası açlıktan ölse bana ne!."îkinci kelime: "îstirahatım için zahmet çek; sen çalış, ben yiyeyim."Merhametsiz nefis-perest olan birinci kelime-i gaddâredir ki, âlem-i insanı zelzeleye getirip kıyameti kopmak üzeredir. şu kelimenin ırkını kesecek tek bir devası var ki; o da zekâttır ve zekâtın mükemmili olan sadakadır. Ve onun mütemmimi olan karz-ı hasendir.Haris, hodgâm, zalim olan ikinci kelimedir ki, beşerin terakkiyatını öyle sarsıyor ki, herc ü merc ateşine atmak üzeredir. şu dahiye-i dehyânın tek bir devası var. O da hürmet-i ribadır ve faizin bütün vesailini hayat-ı içtimaiyeden ref' etmektir... Adalet-i Kur'aniye âlem kapısında durup ribaya: "Yasaktır, girmeğe hakkın yoktur" der. Beşer bu emri dinlemedi, büyük bir sille yedi, daha müthişini yemeden dinlemeli!.. M.)
 îhtîlam ƒˆ…™ƒš: Uyurken cenabet olmak, düş azmak. Ergenlik.
 îhtîlas: (C.: îhtilasât) çalma, sirkat, hırsızlık. * Usulca ve elçabukluğu ile aşırma. * Bir çeşit ok atma tavrı.
@@ -2604,7 +2604,7 @@ iztirarîyat: (Iztırari. C.) Mecburi olarak yapılan şeyler, mecburiyetler.
 întîkalî: întikal ile ilgili.
 întîkam ƒ›…—ƒš: öç almak. Hınç ve acı çıkarmak.
 întîkamat: (întikam. C.) întikamlar, öç almalar.
-întîkamc: întikam almağa çalışan, öç almak isteyen. întikam arıyan.
+întîkamcû: întikam almağa çalışan, öç almak isteyen. întikam arıyan.
 întîkas: Eksilme. * îstibrâ için erkeklik organına su serpme.
 întîkâs: (Nüks. den) Başaşağı dönme veya düşme.
 întîkaş ƒ›…—ƒ: Nakışlanmak. Menkuş olmak.
@@ -3601,7 +3601,7 @@ iztirarîyat: (Iztırari. C.) Mecburi olarak yapılan şeyler, mecburiyetler.
 îsvîdad-i cîld: Cildin kararması, esmerleşmesi.
 îsyan ”ÿƒ›: îtaatsizlik. Emre karşı gelmek. Ayaklanmak.
 îş ”ÿ: Yaşayış. Yaşamak. Zevk u safa sürmek. * Hayata medar olan ve geçinilen şeyler. * Ekmek. Gıda.
-îş u nş ”ÿ‚‚›: Yiyip içme. Sefahet. îşret ve eğlence.
+îş u nûş ”ÿ‚‚›: Yiyip içme. Sefahet. îşret ve eğlence.
 î'şa' ƒ”ƒ£: Akşam yemeği verme.
 îş'a' ƒ”ƒ”: Güneş, ışığını dağıtma. şuâlanma.
 îşa ”ƒ£: (Ağaç) çiçek açma.
@@ -4028,6 +4028,6 @@ iztirarîyat: (Iztırari. C.) Mecburi olarak yapılan şeyler, mecburiyetler.
 îzzet ”…: Bir kimse zelil iken kavi ve kudret sahibi olmak. Ziyâdelik ve üstünlük. * Değer, kıymet. Kuvvet. Muhterem ve mu'teber olmak. * Bulunmaz derecede az olan şey.
 îzzet-î îslâmîye: îslâmi izzet. Müslüman olanın her hususta daha şerefli, daha çalışkan, daha izzetli olması hâleti. Diğer dinlerdekilerden ve dinsizlerden izzetli ve şerefli olmaları hâleti.
 îzzet-î nefîs ”…‚›–ž: Zillete düşmiyerek şeref ve haysiyeti muhafazaya çalışmak. Vakar.(Gıybet, ehl-i adâvet ve hased ve inadın en çok istimal ettikleri alçak bir silâhtır. îzzet-i nefis sâhibi, bu pis silâha tenezzül edip istimal etmez. M.)
-îzzetl: şeref ve itibar sahibi. * Eskiden belirli bir mevki ve rütbe sahiblerine verilen ünvan.
+îzzetlû: şeref ve itibar sahibi. * Eskiden belirli bir mevki ve rütbe sahiblerine verilen ünvan.
 îzzî: Tahammüllü, sabırlı kimse.
 îzzü-d-devle: Tar: Müslüman hükümdarları tarafından sık sık kullanılan ve devlete değer veren, devletin değeri mânâsına gelen bir ünvan.

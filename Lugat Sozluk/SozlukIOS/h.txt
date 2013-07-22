@@ -136,7 +136,7 @@ habs: Murdar, pis. çirkin. * Ayıp, günah.
 habs: Hapis, alıkoyma, bir yere kapatıp dışarı çıkarmama. Salıvermeme. * Zaptetme, tutma.
 habs: Bir kaç şeyi birden karıştırmak.
 habs-î bevl: îdrarını tutma.
-habs-î düm': Metanet gösterip gözyaşlarını zaptetme.
+habs-î dümû': Metanet gösterip gözyaşlarını zaptetme.
 habs-î münferîd: Tek başına olan hapis. Hapishanede bir kişilik hücre. * Ehl-i dalâlet için olan ölüm ve kabir.
 habş: Cemetmek, toplamak.
 habt ‰„’: şiddetli vurmak. önünü görmeyerek körcesine basıp yürümek. * Yanılmak, unutmak, hatâ etmek. * Fesada vermek. * Hiç umulmayan birisinden yardım istemek. * Cin çarpmak.
@@ -433,7 +433,7 @@ hafakan ‰–—ƒ›: Sıkıntı. Kalb çarpıntısı. Iztırab.
 hafat: (Hâfe. C.) Sahiller, deniz kenarları, kıyılar.
 hafave: Bir kimseyi mübâlâga ile sormak. * şefaat etmek. * îkramda ve iltifatta mübâlağa etmek.
 hafaya ‰–ƒÿƒ: (Hafi. C.) Gizli şeyler. Sırlar.
-hafaya-yi umr: îşlerin gizli tarafı.
+hafaya-yi umûr: îşlerin gizli tarafı.
 hafaza ˆ–“œ: (Hâfız. C.) Muhafızlar. Muhafız melekler.
 hafc: Titremek. * Ayağını eğri basan.
 hafcag: Tatar beyi. (Aslı: Kıpçak)
@@ -491,7 +491,7 @@ hafîye (hâfîyye): (C.: Havâfi) însan bedeninde gizli olan can. * Kuş kanad
 hafîyen: îkram ederek. * Yalınayak olarak.
 hafîyy ü celî: Gizli ve âşikâr.
 hafîyyat ‰–ÿƒ…: Gizli şeyler. Gizlilikler.
-hafîyyat-i umr: îşlerin saklı tarafları, gizli kısımları.
+hafîyyat-i umûr: îşlerin saklı tarafları, gizli kısımları.
 hafîyyen: Gizlice, saklı olarak, gizliden. Aşikâr olmıyarak.
 hafîyyeten: Gizlice, gizli ve saklı olarak.
 hafîz: Esirgeyen. Koruyan. Muhafaza eden. Muhafız.
@@ -561,7 +561,7 @@ hâk ‰ƒ˜: f. Toprak. Turab.(Hâk ol ki, Hüdâ mertebeni eyleye âli.Tâc-ı
 hâk île yeksan: Yerle bir.
 hak-bîn ˆ—„ÿ›: f. Hakkı gören. Hak veren. Hakka imân eden. Hakka inanan.
 hak-endîş ˆ—‚¤›šÿ: f. Hakkı düşünen. Hakkı arayan, doğruluk için endişe eden.
-hak-g: f. Doğru ve hak söyleyen.
+hak-gû: f. Doğru ve hak söyleyen.
 hâk-î mezar: Mezar toprağı.
 hâk-î pâk: Temiz toprak.
 hâk-î vatan: Vatan toprağı.
@@ -852,7 +852,7 @@ halk-i ef'âl ‰™—‚ƒ–”ƒ™: Mu'tezile fırkasının bir tabiridir. 
 halk-i ezdad ‰™—‚ƒ‘šƒš: Birbirine zıd halleri bir şeyde yaratmak. Meselâ: Bir zerrede hem def edici hem de cezb edici (çekici) kuvvetin bulunmasını yaratmak.
 halk-i şer ‰™—‚œ: şerrin yaradılışı.(îşte Mu'tezile bu sırrı anlamadıkları için "Halk-ı şer şerdir ve çirkinin icadı çirkindir." diye Cenab-ı Hakk'ı takdis için şerrin icadını ona vermemişler, dalâlete düşmüşler. M.)
 halka: Ortası boş yuvarlak şekil. * Dâire şeklinde olan şey.
-halka-î âb-gn: Gökyüzü, semâ.
+halka-î âb-gûn: Gökyüzü, semâ.
 halka-î dürr: înci dizisi.
 halka-î zîkîr: Tasavvufta, zikir esnasında daire şeklinde oturmak.
 halkabeguş: f. Kulağı küpeli, kulağı halkalı. * Mc: Köle, esir.
@@ -975,7 +975,7 @@ hamîde ‰šÿšœ: f. Kambur, eğrilmiş, kemerli.
 hâmîde œƒššœ: Uzun müddet geçmesi sebebi ile rengine tegayyür ve siyahlık gelip eskimiş olan. * Nebatsız kuru yer. * Yanmış kül olmuş.
 hamîdegî: f. Kamburluk, eğri büğrü olmaklık.
 hâmîdîn: (Hâmid. C.) Hamdedenler, hâmidler.
-hâmîdn: (Hâmid. C.) Hamdedenler, hâmidler.
+hâmîdûn: (Hâmid. C.) Hamdedenler, hâmidler.
 hamîe ˆš¡œ: Hararetli, çamurlu, volkanlı, alevli, dumanlı.
 hamîl ˆšÿ™: Kefil. * Başka yerden getirilen oğlan.
 hamîl ‰ƒš™: Kötü tanınmış olan kimse.
@@ -1173,7 +1173,7 @@ hank: Muhkem etmek, sağlamlaştırmak. * Bir şeyi çiğneyip damağıyla ezmek
 hankah ‰ƒ›˜ƒœ: (Bak: Hangâh)
 hankan: Boğmak suretiyle, boğarak.
 hânmân: f. Ev-bark, ocak.
-hânmân-sz: f. Ocak yakıcı, ev-bark yakan.
+hânmân-sûz: f. Ocak yakıcı, ev-bark yakan.
 hann: Yalvarmak. * înlemek. * Esirgemek.
 hannak: Boğan, boğucu.
 hannan ˆ›ƒ›: Rahmetlerin en lâtif cilvesini gösteren, Rahman ve Rahim olan ve çok merhametli olan Allah (C.C.)
@@ -2190,7 +2190,7 @@ hayirsever: îyilik ve yardım etmesini seven.
 hayîa: şiddetli ses.
 hayîc: âşık, hayran. * Mest olmuş deve.
 hayîde: f. çiğnenmiş. * Ağızdan ağıza dolaşmış, bayat söz.
-hayîde-g: f. Değersiz sözler söyleyen kimse. * Değersiz şiirler yazan kimse.
+hayîde-gû: f. Değersiz sözler söyleyen kimse. * Değersiz şiirler yazan kimse.
 hayîh: Lâzım olduğu halde mevcud olmayan nesne.
 hayîl: Kısır olan hayvan. * Engel, mâni. * Hicâb.
 hayîm: Suyu, tahmin ettiği yerlerde arayıp bulamamak. * Susuz, atşân.
@@ -2407,7 +2407,7 @@ hazira: şehirli, medeni. * Bir yerde mukim olmuş, bir yere yerleşmiş.
 hazirbahş: f. Hazırlanmış, hazır olmuş. * Hazır ol! emri.
 hazircevap: Her söze derhal ve düşünmeden münasib cevap veren kimse.
 hazirlöp: Kabuğu içinde suda pişip katılaşmış yumurta. * Mc: Emek sarfetmeden elde edilen kazanç.
-hazirn ˆƒ‘œ›: Meydanda olanlar, gözönünde olanlar. Mevcut ve hazır olanlar.
+hazirûn ˆƒ‘œ›: Meydanda olanlar, gözönünde olanlar. Mevcut ve hazır olanlar.
 hazî ˆƒÿ: Kâhin, keşiş, papaz.
 hazî: Sarkıklık.
 hazî: Ateş yakmak.
@@ -2529,7 +2529,7 @@ heby (hebye): Küçük câriye.
 hebz: Sür'at yapmak, hız yapmak.
 heca œ‡¥£: (Hece) Dilin ve ağzın bir hareketi ile çıkan bir veya birkaç harf. Harflerin sesi. Harflerin seslendirilmesi. * Elif-bâ sırasına göre dizili harfler. Bir sözü harfleri ile söylemek. * şekil. Kıyâfet. * Yemek. * Sükut etmek, susmak.
 hecace: (C.: Hecâcât) Kurbağa.
-hecag: f. Nazım veya nesir yoluyla birinin aleyhinde bulunan. Birini zemmeden, bir kimseyi hicveden.
+hecagû: f. Nazım veya nesir yoluyla birinin aleyhinde bulunan. Birini zemmeden, bir kimseyi hicveden.
 heccav œ‡ƒ: çok hicveden. Hiciv söyleyen. (Bak: Hicv)
 hece: (Hecâ) Bir defada söylenebilen, bir veya birkaç harfden meydana gelen sözcük. * Harfleri birer birer söyleyerek okuma.
 hece veznî: Türklerin eskiden kullandıkları nazım âhengi ölçüsüdür ki, buna "parmak hesabı" da denir. Parmak hesabı, Türk edebiyatının başlangıcından XI. yy. a, yani Türklerin aruz veznini öğrenmelerine kadar Türk nazmının yegâne âhengi idi. Aruz vezni kabul edilmekle beraber, hece vezni terkedilmeyerek yine halk edebiyatında kullanılagelmiştir. Hece vezninin 3 den 16 ya kadar muhtelif heceli ölçüleri vardır. En çok kullanılanları 7, 8, 11 ve 14 lü hecelerdir.
@@ -2917,7 +2917,7 @@ herz: Yırtmak.
 herze œœœ: f. Boş söz. Saçmasapan söz. Boş lâkırdı.
 herze-lay: Herze söyleyen, saçmalayan.
 herzederay: f. Mânâsız ve saçmasapan sözler konuşan.
-herzeg œœœ‚ª: f. Saçma sapan konuşan. Lüzumsuz ve mânasız söz söyleyen.
+herzegû œœœ‚ª: f. Saçma sapan konuşan. Lüzumsuz ve mânasız söz söyleyen.
 herzehayî: f. Mânâsız konuşma, saçmasapan söyleme.
 herzeka: çirkin gülmek.
 herzekâr: f. Saçma sapan konuşan, mânasız sözler söyleyen.
@@ -3145,7 +3145,7 @@ hezîmet œÿš : Bozgunluk, mağlubiyet.
 hezîz: Deprenmek.
 hezk: şiddetli gök gürültüsü. * Uçurmak. * Yuvarlamak.
 hezl œ™: Ciddi olmayan söz. Saçma, uydurma, yalan konuşmak. * Edb: Meşhur bir manzumeye lâtife tarzından nazım yapmak. Bu tarzda yapılan nazım.
-hezl-g: şakacı. Lâtifeci, mizahlı söz söyleyen.
+hezl-gû: şakacı. Lâtifeci, mizahlı söz söyleyen.
 hezlâmîz: şaka ile karışık söz. Mizahlı kelâm.
 hezlîyât: (Hezl. C.) Mizah ve şakayla ilgili söz veya şiirler.
 hezm œ‹š: çok çabuk kesmek. * Sür'atle yemek.
@@ -4019,7 +4019,7 @@ hoşa ‰ƒ: f. Ne güzel, ne iyi, ne hoş.
 hoşab ‰‚¥„: f. Suyu, havası iyi olan yer. Parlak, berrak. Elmas, inci gibi şeylerin parlaklığı. * Hoşaf.
 hoşafin yaği kesîlmek: Ist: Bozulmak, bir cevap bulamamak, mahcup olmak.
 hoşâmed ‰‚¥šš: f. Hoş geldi.
-hoşâmed g ‰‚¥šš‚˜: f. Hoş geldin, diye söyleyen.
+hoşâmed gû ‰‚¥šš‚˜: f. Hoş geldin, diye söyleyen.
 hoşâmedî ‰‚¥ššÿ: Hoş geldin demek, hoş geldine gitmek.
 hoşane: f. Güzel, iyi, lâtif.
 hoşavaz: f. Sesi güzel olan. Güzel sesli.
@@ -4033,7 +4033,7 @@ hoşe-çîn ‰œ‚§ÿ›: (Bak: Huşeçin)
 hoşeda ‰¤šƒ: f. Hareket ve davranışı hoş ve güzel olan.
 hoşelhan: f. Güzel ve hoş makale okuyan.
 hoşendam: f. Boyu bosu güzel ve düzgün olan.
-hoşg: f. Hoş konuşan, tatlı dilli. Konuşmaları kırıcı olmayan.
+hoşgû: f. Hoş konuşan, tatlı dilli. Konuşmaları kırıcı olmayan.
 hoşgüvar ‰ªƒœ: f. Hazmı kolay, tatlı, hoş, sindirici.
 hoşgüzeşte: f. Hoş geçmiş tatlı zaman.
 hoşhal: f. Hali vakti iyi, bahtiyar, mes'ud.
@@ -4821,16 +4821,16 @@ hükmî şahis ˆ˜šÿ‚‰: şahıs gibi muamele gören cemiyet, şirket 
 hükmkeş: Emre itaat eden, hükme boyun eğen.
 hükre: Cem'olmak, toplanmak, birikmek. * Yiyecek maddelerini, pahalanacak diye saklamak. * Azlığından bir yerde toplanan su.
 hüku': Sâkin olmak.
-hükmat: (Hükûmet. C.) Hükûmetler.
-hükmet ˆ˜š : Bir memleketi idare edenler. Vekiller hey'eti. Devlet.
-hükmet konaği: Devlet memurlarının bulunduğu bina. Bunun yerine: "Bab-ı hükûmet, daire-i hükûmet" tabirleri de kullanılırdı.
-hükmet-î âdîle: âdil hükümet.
-hükmet-î adl: Huk: Miktarı şer'an muayyen olmayıp ehl-i vukufun (bilirkişinin) usulü dairesinde takdir ve tayin edeceği diyettir. Buna hükm-ü adl de denir.
-hükmet-î cumhurîye: Cumhuriyet hükûmeti.
-hükmet-î gayr-î müstakîlle: îstiklâliyet ve hâkimiyet haklarını tamamen haiz olmayıp, diğer bir devletin boyunduruğu altında bulunan hükûmet.
-hükmet-î meşruta: Meşrutiyetle idare olunan hükûmet.
-hükmet-î müstakîlle: îstiklâliyet ve hâkimiyet ve haklarını tamâmen hâiz olan hükümet.
-hükmet-î müstebîdde: îstibdatla idare olunan hükûmet.
+hükûmat: (Hükûmet. C.) Hükûmetler.
+hükûmet ˆ˜š : Bir memleketi idare edenler. Vekiller hey'eti. Devlet.
+hükûmet konaği: Devlet memurlarının bulunduğu bina. Bunun yerine: "Bab-ı hükûmet, daire-i hükûmet" tabirleri de kullanılırdı.
+hükûmet-î âdîle: âdil hükümet.
+hükûmet-î adl: Huk: Miktarı şer'an muayyen olmayıp ehl-i vukufun (bilirkişinin) usulü dairesinde takdir ve tayin edeceği diyettir. Buna hükm-ü adl de denir.
+hükûmet-î cumhurîye: Cumhuriyet hükûmeti.
+hükûmet-î gayr-î müstakîlle: îstiklâliyet ve hâkimiyet haklarını tamamen haiz olmayıp, diğer bir devletin boyunduruğu altında bulunan hükûmet.
+hükûmet-î meşruta: Meşrutiyetle idare olunan hükûmet.
+hükûmet-î müstakîlle: îstiklâliyet ve hâkimiyet ve haklarını tamâmen hâiz olan hükümet.
+hükûmet-î müstebîdde: îstibdatla idare olunan hükûmet.
 hükümdar ˆ˜ššƒœ: f. Padişah, hüküm sâhibi. En yüksek reis. împarator.
 hükümdaran: (Hükümdâr. C.) Hükümdarlar, Padişahlar.
 hükümdarane ˆ˜ššƒœ›œ: Hükümdar gibi, hükümdara yakışır bir surette.

@@ -230,8 +230,8 @@ kafîr —–ÿœ: Hayvan tersi.
 kâfîr ˜ƒ–œ: Hakkı görmeyen ve örten. îyilik bilmeyen. Allah'ı inkâr eden. Dinsiz. îmanın esaslarına veya bunlardan birine inanmayan. Mülhid.(Arkadaş! îman, bütün eşya arasında hakiki bir uhuvveti, irtibatı, ittisali ve ittihad rabıtalarını te'sis eder.Küfür ise, bürudet gibi bütün eşyayı birbirinden ayrı gösterir ve birbirine ecnebi nazarıyla baktırır. Bunun içindir ki, mü'minin ruhunda adavet, kin, vahşet yoktur. En büyük bir düşmaniyle bir nevi kardeşliği vardır. Kâfirin ruhunda hırs, adavet olduğu gibi nefsini iltizam ve nefsine itimadı vardır. Bu sırra binaendir ki, dünya hayatında bazan galebe kâfirlerde olur. Ve keza kâfir, dünyada hasenatının mükâfatını (filcümle) görür. Mü'min ise, seyyiatının cezasını görür.Bunun için dünya kâfire Cennet (yani âhirete nisbeten), mü'mine Cehennemdir. (Yani saadet-i ebediyesine nisbeten). Yoksa dünyada dahi mü'min yüz derece ziyade mes'uttur, denilmiştir.Ve keza iman, insanı ebediyyete, Cennet'e lâyık bir cevhere kalbeder. Küfür ise ruhu, kalbi söndürür. Zulmetler içinde bırakır. çünkü, iman, kabuğunun içerisindeki "lübb"ü gösterir. Küfür ise, lübb ile kabuğu tefrik etmez. Kabuğu aynen "lübb" bilir ve insanı cevherlik derecesinden kömür derecesine indirir. M.N.)
 kâfîr-î nî'met: Nankör. Nimeti inkâr eden.
 kâfîrane ˜ƒ–œƒ›œ: f. Kâfire yakışır şekilde, kâfir gibi.
-kâfîrn ˜ƒ–œ›: Kâfirler.
-kâfîrn suresî ˜ƒ–œ›‚žœœ‚žÿ: Kur'an-ı Kerim'de 109. sure olup El-Kâfirûn da denilir.
+kâfîrûn ˜ƒ–œ›: Kâfirler.
+kâfîrûn suresî ˜ƒ–œ›‚žœœ‚žÿ: Kur'an-ı Kerim'de 109. sure olup El-Kâfirûn da denilir.
 kafîye —ƒ–ÿœ: Tâbi olan şey. * Herşeyin son tarafı. *Edb: Manzum yazılan satırların ses bakımından sonlarının aynı olması. (Yaman, duman, saman... gibi.)
 kafîyeperdâz: f. Kafiye uyduran. şair, nâzım.
 kafîyeperestlîk: Kafiye için safiyeyi feda edecek derecede kafiyeye ehemmiyet vermek. Birinci derecede kafiyeyi düşünüp, mânayı arka plana atmak.
@@ -473,8 +473,8 @@ kalmes: Ulu kişi, seyyid.
 kalorî —ƒ™œÿ: Lat. Bir kilogram suyu bir derece ısıtmak için lâzım olan ısı miktarı. * Gıdaların vücuda yarayışlı olması ve hararet vermesi bakımından değeri.
 kalp —™„: t. Hileli. Sahte. Taklit. * Yalandan cesaret satan korkak adam. * Yalancı. Kendisine güvenilmez olan.
 kaltaban: f. Namussuz. Pezevenk.
-kal —ƒ™ƒ: (A, uzun okunur) Dediler. Onlar söylediler (meâlinde fiil).
-kal belâ —ƒ™ƒ„™ƒ: Cenab-ı Hak ruhları yaratıp, onlara Rabbiniz değil miyim, meâlinde: "Elestü Bi-Rabbiküm" buyurduğunda, ruhlar: "Evet Rabbimizsin" meâlindeki Kalu Belâ diye cevap verdiklerini bildiren Kur'andaki bir tâbirdir. (Bak: Bezm-i elest)
+kalû —ƒ™ƒ: (A, uzun okunur) Dediler. Onlar söylediler (meâlinde fiil).
+kalû belâ —ƒ™ƒ„™ƒ: Cenab-ı Hak ruhları yaratıp, onlara Rabbiniz değil miyim, meâlinde: "Elestü Bi-Rabbiküm" buyurduğunda, ruhlar: "Evet Rabbimizsin" meâlindeki Kalu Belâ diye cevap verdiklerini bildiren Kur'andaki bir tâbirdir. (Bak: Bezm-i elest)
 kâluc: f. Küçük parmak. * Güvercin kuşu.
 kalus: (C.: Kulus-Kalâyıs) Ayakları uzun genç deve. * Yüksek. * Murdarlıklar akan çay. Kirli ırmak.
 kâlus: f. Ahmak, ebleh, akılsız.
@@ -928,7 +928,7 @@ kasîd —ƒš: (C.: Kasidân) (Kasd. dan) Tasarlıyan, kasdeden. * Haberci, p
 kasîd —ÿš: Kaside.
 kâsîd ˜ƒžš: Kesat olan, eksik olan, verimsiz olan.
 kasîde —ÿšœ: (C.: Kasâid) Onbeş beyitten az olmamak üzere, her beyit kafiyeli olarak, büyük kimseleri veya herhangi bir şeyi medh ü senâ eden, öven manzume şekli. Büyük zatları ve daha çok Cenâb-ı Hakk'ı veya Peygamberi (A.S.M.) medheden manzume.
-kasîde-g: f. Kaside yazan, kaside söyliyen.
+kasîde-gû: f. Kaside yazan, kaside söyliyen.
 kasîde-î bürde —ÿšœý‚„œšœ: Hazret-i Peygamber (A.S.M.) önünde meşhur Arab şâiri Ka'b bin Züheyr'in okuduğu kasidenin adı olup, bu kasideyi Peygamber Aleyhissalâtü vesselâm beğenmiş, mükâfat ve iltifat eseri olarak da kendi hırkasını ona giydirdiğinden bu isimle meşhur olmuştur.
 kasîde-î ercuze —ÿšœý‚ƒœ‡œ: (ürcuze) Hz. îmam-ı Ali (R.A.) tarafından bahr-ı recez vezni üzere yazılan ve istikbalden haber veren meşhur kasidenin adı.(Mecmuat-ül Ahzab'ın 582. sahifesinden 597. sahifesine kadar o Ercuzedir. O Ercuzenin mevzuu ve içindeki maksad-ı asli; îsmi A'zamı tazammun eden altı ismin ehemmiyetini beyan etmek, hem o münâsebetle istikbaldeki bir kısım umur-u gaybiyeye ve te'sis-i îslâmiyette bir kısım mücâhedâtını işâret etmektir. Evet, Hz. îmâm üstâdı olan Habibullah'dan (A.S.M.) aldığı dersin bir kısmını işari bir surette zikrediyor... L.)
 kasîde-perdaz: f. Kaside yazan, kaside düzenliyen.
@@ -1314,7 +1314,7 @@ kâzim ˜ƒ“š: öfkesini yenen, meydana vurmayan.
 kazim(a): Kemirici hayvan.
 kâzime: (C.: Kezâyim) Yanında bir kuyu daha olup bundan ona, ondan buna su geçen kuyu. * Büyük şehir.
 kâzimîn-el gayz: öfkesini yenenler.
-kâzimn (kâzimîn): öfkesini yenenler. Hırsını yenenler.
+kâzimûn (kâzimîn): öfkesini yenenler. Hırsını yenenler.
 kaziye: ölüm.
 kazî —ƒ‘ÿ: (A, uzun okunur) Dâvalara hüküm ve kaza eden. şeriat kanunlarına göre dâvalara bakan hâkim. Kadı. * Yapan, yerine getiren.
 kazî-yül hâcât: Bütün ihtiyaçları yerine getiren Allah (C.C.)
@@ -1333,7 +1333,7 @@ kazîye-î hamlîyye: Man : Mahmulün (yâni, haberin), mevzua (yani mübtedaya)
 kazîye-î îhtîmalîyye: Man: Bir şeyin olması veya olmaması mümkün olmak ihtimâli üzerine bina olunan kaziyye.
 kazîye-î küllîye: Man: Hüküm mevzuunun cemi efradına şâmil olan kaziyye. "însanların cümlesi nâtıktır" gibi.
 kazîye-î ma'dule: Man: Selb, ya mevzuundan ya mahmülünden ikisinden cüz' olan, yâni kendinde hem isbat ve hem de nefiy kaziyyelerdir. "Nefs-i nâtıka gayr-i mürekkebdir" gibi.
-kazîye-î mahkmun bîhâ: (Bak: Kaziye-i muhkeme)
+kazîye-î mahkûmun bîhâ: (Bak: Kaziye-i muhkeme)
 kazîye-î mahsusa: Man: Mevzuu yalnız bir fertten ibaret olup da hüküm onun üzerine olan kaziyyedir. Buna Kaziye-i şahsiyye dahi denir. "îstanbul en büyük şehirlerin birincisidir" gibi.
 kazîye-î makbule: Kabule mazhar olmuş hüküm ve iddia. îtimad edilir zâtların söyledikleri ve bu itimada binâen kabul edilen kaziyye.
 kazîye-î meşhure: Man: Herkesce sâbit olduğu hasebiyle hükmolunan kaziyye.
@@ -1700,7 +1700,7 @@ kemerbeste ˜šœ‚„ž…œ: f. Kuşak bağlamış, hazır olmuş. Hazır olu
 kemerbeste-î ubudîyet: Cenab-ı Hakkın huzuruna çıkıp, kollarını önden bağlar şekilde, emre hazır vaziyette bekleyip, kulluğunu ifâde ve ilân etmek. (Namazdaki gibi)
 kemerdece: Yab yab yürümek.
 kemergâh: f. Kemer takılan yer. Bel.
-kemg: f. Az konuşan. Az söyleyen.
+kemgû: f. Az konuşan. Az söyleyen.
 kemh: Gözsüzlük.
 kemha: f. Bir cins ipek kumaş.
 kemî ˜šÿ: (C.: Kümât) Yiğit, kahraman, bahadır. Savaşçı, cengâver.
@@ -2052,7 +2052,7 @@ ketum ˜…š: Sır saklayan. Herkese her şeyi konuşmayıp sırrını belli 
 ketumane: f. Ketum olup ağzı sıkı olan, herşeyi söylemiyen kimseye yakışır surette.
 ketumîyyet: Ketumluk. Ağız sıkılığı. Sır vermemeklik.
 keu': Korkak olmak.
-ked: Meşakkatli sarp yokuş.
+keûd: Meşakkatli sarp yokuş.
 kev': Vurmak. * Korkmak.
 kev'a ˜”ƒ£: Eli bileğinden eğri olan kadın. (Müz: Ekvâ)
 keva' ˜”: Bileğin çıkması. * Bilek kemiği.
@@ -2295,7 +2295,7 @@ kismî: Bir kısmı, bir parça, bir bölüm.
 kisra (kusâre): Ekincilerin kesmik dedikleri başakta kalan buğday. Buğday çalkandığında kalbur içinde kalan kaba buğday başları.
 kiss: Nasâra tâifesinin ulusu, reisi ve danişmendi. * Bir yerin adı.
 kissa —œ: Fıkra. Hikâye. îbret verici hikâye. Vak'a. Mâcerâ. Rivâyet.
-kissag: f. Hikâye ve kıssa anlatan.
+kissagû: f. Hikâye ve kıssa anlatan.
 kissagüzâr: f. Hikâye anlatan kimse, masal söyliyen kişi.
 kissahân: f. Hikâye söyliyen, kıssa ve masal anlatan.
 kissaperdâz: f. Hikâye düzen kişi. Kıssacı, masalcı.
@@ -2740,20 +2740,20 @@ kufahîr (kufâhîrî): Büyük ve iri cüsseli kimse.
 kufaî: Burnu sıcaktan kavlar kızıl kimse.
 kufan: Zahmet, meşakkat. * Kufe dedikleri beldenin adı.
 kufar: (Kafr. C.) Issız ve susuz yerler. çöller, sahralar.
-kfe ˜–œ: f. Küfe. Dayanıklı ve kaba büyükçe sepet.
-kfe ˜–œ: Kızıl kum. * Kızıl kumlu bir yerin adı ki o sebebten "Kûfe" diye isim verilmiştir.
+kûfe ˜–œ: f. Küfe. Dayanıklı ve kaba büyükçe sepet.
+kûfe ˜–œ: Kızıl kum. * Kızıl kumlu bir yerin adı ki o sebebten "Kûfe" diye isim verilmiştir.
 kuff: Yüksek yer.
 kuffaz: Kadınların ellerine ve ayaklarına taktıkları bir süs eşyası. * Eldiven.
 kuffe: (C: Kıfâf) Pamuk sepeti. * îçine kumaş konan nesne. * Yüksek yer. * Kurumuş. * çürük ağaç.
 kufî: Kûfe şehrine mensub. Bu şehirle alâkalı.
 kufl —–™: (C.: Akfâl) Kilit, sürgü.
-kfte: f. Kıyılıp ezilmiş veya dövülmüş et, köfte.
+kûfte: f. Kıyılıp ezilmiş veya dövülmüş et, köfte.
 kuftehar: f. Köfte yiyen. * Geveze, çenesi düşük. * şarlatan. Kendini beğenmiş. * çapkın.
 kufuf: Kişinin korkudan tüyü ürperip kalkmak.
 kuful: (Kufl. C.) Kilitler. * Seferden veya yolculuktan dönme.
-kh ˜œ: f. Dağ.
-kh-u kaf: Efsânelerde geçen Kafdağı.
-kh-u tur: Tur dağı, Sina dağı.
+kûh ˜œ: f. Dağ.
+kûh-u kaf: Efsânelerde geçen Kafdağı.
+kûh-u tur: Tur dağı, Sina dağı.
 kuhab: At ve deve öksürüğü.
 kuhamun: f. Tepesi düz olan dağ.
 kuhan: f. Kambur. * Eyer, at eyeri. * Sığır veya deve hörgücü.
@@ -2824,7 +2824,7 @@ kumrî: (C: Kamâri) Kumru. Dişisine "kumriye", erkeğine "sakhar" derler.
 kumudd: Sağlamak, sert, katı. * Uzun, tavil.
 kumus: Suya batıp kaybolmak.
 kumze: Toplanmış hurma.
-kn: Kuyruk sokumu bölgesi. Arka, mak'ad, kıç.
+kûn: Kuyruk sokumu bölgesi. Arka, mak'ad, kıç.
 kunabe: Toplu yapraklar (Buğdayın başı onun içinde olur.)
 kunah: çomak.
 kunaîs: (C: Kanâıs) Büyük cüsseli, iri vücutlu kişi.
@@ -2849,23 +2849,23 @@ kunv: (C: Kınân-Kınyân-Aknâ) üzerinde hurması olan hurma salkımının ç
 kunyan (kinyân): Kişinin nefsi için saklayıp elden çıkarmadığı mal.
 kunye (kinye): Kişinin nefsi için saklayıp elden çıkarmadığı mal.
 kunzua: (C: Kanâzı') çakıl taşı. * Tıraş edilmiş başın üstünde bırakılan bir tutam saç.
-kpal: f. Gürz. Demir topuz.
-kr: (C.: Kûrân) f. Kör, âmâ.
-kr-boğaz: f. Obur, körboğaz.
+kûpal: f. Gürz. Demir topuz.
+kûr: (C.: Kûrân) f. Kör, âmâ.
+kûr-boğaz: f. Obur, körboğaz.
 kur'a —œ”œ: Talih denemek maksadı ile çekilen kapalı pusla veya fal açma.
 kura —œÿ: (Karye. C.) Karyeler, köyler, kasabalar.
 kura' —œƒ£: îbâdet eden.
 kurâ-yi mütecâvîre: Komşu köyler.
 kuraa: Kalem kesintisi. Kalem yongası.
 kurab: (Kurbet. C.) Yakınlar, akrabalar.
-krabe: f. Kubbeli mezar, türbe.
+kûrabe: f. Kubbeli mezar, türbe.
 kurad: (C: Kırdân-Ekride) Kene adı verilen böcek.
 kurakir: Güzel sesli kimse.
 kur'an —œüƒ›: Allah (C.C.) tarafından Hz. Muhammed Aleyhissalâtü Vesselâma Cebrâil Aleyhisselâm vâsıtası ile (yâni vahiyle) gönderilen ve beşeriyetin bütün saadet düsturlarını hâvi en mukaddes ve en son kitâb-ı semâvidir. Din ve dünyanın nizâmını en iyi şekilde bildirir, kâinatın neden ve niçin yaratıldığını ve hikmetlerini beyan eder. Başıboşluk ve serserilikten kurtarıp ibâdet ve taata, emniyet ve nizâma ve saadete sevkeder ve insanın ebedi selametine vesile olur. * Lugat mânasına göre Kur'ân: Tilâvet, okumak, cem' ve zammolunmuş, okunmuş mânâlarına gelir. Fürkan, Zikir, Hüdâ, Hitab, Kitab, Mushaf, Nur, Necm, Hüdâ, Mev'iza, Aziz, Besâir, Bürhan...gibi elli beş kadar isimle de anılır. (Bak: Kelâmullah)
-krân ˜œƒ›: (Kur. C.) f. Körler. âmâlar.
+kûrân ˜œƒ›: (Kur. C.) f. Körler. âmâlar.
 kur'an-i hakîm —œ¥›‚ˆ˜ÿš: Hakim olan Kur'an-ı Kerim. Hakim: Hikmetli, hikmet sâhibi, yahut çok hâkim ve muhkem mânalarına gelir.
 kur'an-i mu'cîz-ül beyan —œ¥›‚š”‡‚ƒ™„ÿƒ›: Beyan ve ifadesi mu'cize olan Kur'an.(Kur'an: şu kitâb-ı kebir-i kâinatın bir tercüme-i ezeliyesi.. ve âyât-ı tekviniyeyi okuyan mütenevvi dillerinin tercüman-ı ebedisi.. ve şu âlem-i gayb ve şehadet kitabının müfessiri... ve zeminde ve gökde gizli Esmâ-i îlâhiyenin mânevi hazinelerinin keşşâfı.. ve sutur-u hâdisatın altında muzmer hakaikın miftahı.. ve âlem-i şehâdette âlem-i gaybın lisanı... S.)(-Kur'an-ı Kerim-, bütün mebâhis-i esasiyeyi ve mühimmeyi öyle bir tarzda beyan eder ki, o beyan, bütün kâinatı bir saray gibi idare eden ve dünyâyı ve âhireti iki oda gibi açıp kapayan; ve zemin bir bahçe; ve semâ, misbahlariyle süslendirilmiş bir dam gibi tasarruf eden; ve mâzi ve müstakbel, bir gece ve gündüz gibi nazarına karşı hazır iki sahife hükmünde temaşa eden; ve ezel ve ebed, dün ve bugün gibi silsile-i şuunatın iki tarafı birleşmiş, ittisal peyda etmiş bir surette, bir zaman-ı hâzır gibi onlara bakan bir Zât-ı Zülcelâle yakışır bir tarz-ı beyandır.Nasıl bir usta, bina ettiği ve idare ettiği iki haneden bahseder, proğramını ve işlerinin liste ve fihristesini yapar; Kur'an dahi, şu kâinatı yapan ve idâre eden ve işlerinin listesini ve fihristesini tabir câiz ise, proğramını yazan, gösteren bir Zâtın beyanına yakışır bir tarzdadır. Hiç bir cihetle eser-i tasannu ve tekellüf görünmüyor. Hiç bir şâibe-i taklid veyâ başkasının hesâbına ve onun yerinde kendini farzedip konuşmuş gibi bir hud'anın emaresi olmadığı gibi, bütün ciddiyetiyle, bütün safvetiyle, bütün hulusiyle sâfi, berrak, parlak beyânı, nasıl gündüzün ziyâsı, "Güneşten geldim" der. Kur'ân dahi," Ben Hâlık-ı âlem'in beyanıyım ve kelâmıyım" der. Evet şu dünyâyı antika san'atlarla süslendiren ve lezzetli nimetlerle dolduran ve san'atperverâne ve nimetperverane şu derece san'atının acibeleriyle şu derece kıymettar nimetlerini dünyanın yüzüne serpen, sıravâri tanzim eden ve zeminin yüzünde seren, güzelce dizen bir Sâni', bir Mün'imden başka şu velvele-i takdir ve istihsanla ve zemzeme-i hamd ve şükranla dünyâyı dolduran ve zemini bir zikirhâne, bir mescid, bir temaşagâh-ı san'at-ı îlâhiyeye çeviren Kur'an-ı Mu'ciz-ül Beyan kime yakışır ve kimin kelâmı olabilir? Ondan başka kim ona sâhib çıkabilir? Ondan başka kimin sözü olabilir? Dünyayı ışıklandıran ziya, güneşten başka hangi şeye yakışır? Tılsım-ı kâinatı keşfedip âlemi ışıklandıran beyan-ı Kur'an, şems-i Ezeli'den başka kimin nuru olabilir? Kimin haddine düşmüş ki ona nazire getirsin? Onun taklidini yapsın?Elhak, bu dünyayı san'atlarıyla zinetlendiren bir san'atkârın, san'atını istihsan eden insanla konuşmaması muhaldır. Mâdem ki, yapar ve bilir, elbette konuşur. Mâdem konuşur, elbette konuşmasına yakışan Kur'andır. Bir çiçeğin tanziminden lâkayd kalmayan bir Mâlik-ül Mülk, bütün mülkünü velveleye veren bir kelâma karşı nasıl lâkayd kalır? Hiç başkasına mal edip hiçe indirir mi? S.)(Kur'an-ı Hakim yirmi üç sene mütemadiyen damarlara dokunduracak ve inadı tahrik edecek bir tarzda meydan okudu ve der idi ki: "şu Kur'anın Muhammed-ül Emin gibi bir ümmiden nazirini yapınız ve gösteriniz. Haydi bunu yapamıyorsunuz, o zât ümmi olmasın, gayet âlim ve kâtip olsun. Haydi bunu da getiremiyorsunuz; bir tek zât olmasın, bütün âlimleriniz, beliğleriniz toplansın, birbirine yardım etsin, hattâ güvendiğiniz âliheleriniz size yardım etsin. Haydi bununla da yapamıyacaksınız, eskiden yazılmış beliğ eserlerden de istifade edip, hattâ gelecekleri de yardıma çağırıp, Kur'anın nazirini gösteriniz, yapınız. Haydi bunu da yapamıyorsunuz; Kur'anın mecmuuna olmasın da, yalnız on Suresinin nazirini getiriniz. Haydi on Suresine mukabil hakiki doğru olarak bir nazire getiremiyorsunuz; haydi hikâyelerden asılsız kıssalardan terkib ediniz. Yalnız nazmına ve belâgatına nazire olsun getiriniz. Haydi bunu da yapamıyorsunuz, bir tek suresinin nazirini getiriniz. Haydi Sure uzun olmasın, kısa bir Sure olsun, nazirini getiriniz. Yoksa, din, can, mal, iyalleriniz; dünyada da âhirette de tehlikeye düşecektir..." M.)(Amerikalı Filozof Karlayl (Carlyle) şöyle diyor: Kur'anı bir kerre dikkatle okursanız, O'nun hususiyetlerini izhara başladığını görürsünüz. Kur'anın güzelliği diğer bütün edebi eserlerin güzelliklerinden kabil-i temyizdir. Kur'anın başlıca hususiyyetlerinden biri, (O'nun asliyyetidir. Benim fikir ve kanaatıma göre Kur'an serâpa samimiyet ve hakkaniyetle doludur. Hz. Muhammed'in (A.S.M.) cihana tebliğ ettiği dâvet, hak ve hakikattır. î.î.)
-krâne: f. Körcesine.
+kûrâne: f. Körcesine.
 kurare: çömlek içindeki yemek piştikten sonra yanmasın diye içine konulan su.
 kurat: Fitil ucundan yanmış yer.
 kuraz (karîza): Isırgan otu.
@@ -2879,9 +2879,9 @@ kurbet —œ„œ: Yakınlık. * Fık: Allah'a manevi yakınlığa sebeb olan am
 kurbîyyet —œ„ÿ…: Yakınlık kazanmak. Yakınlık. Bir şeye kendi gayretiyle yakınlaşmak. (Bak: Akrebiyyet)(Sahabelerin kurbiyet-i îlâhiyye noktasındaki makamlarına velâyet ayağıyla yetişilmez. çünki: Cenâb-ı Hak bize akrebdir ve herşeyden daha ziyade yakındır. Biz ise, ondan nihayetsiz uzağız. O'nun kurbiyetini kazanmak iki surette olur.Birisi: Akrebiyetin inkişafiyledir ki, nübüvvetteki kurbiyet ona bakar ve nübüvvet veraseti ve sohbeti cihetiyle sahabeler o sırra mazhardırlar.îkinci Suret: Bu'diyetimiz noktasında kat-ı meratib edip bir derece kurbiyete müşerref olmaktır ki, ekser seyr-i sülûk-u velâyet ona göre ve seyr-i enfüsi ve seyr-i âfâki bu suretle cereyan ediyor. îşte, birinci suret sırf vehbidir, kesbi değil, incizabdır, cezb-i Rahmânidir ve mahbubiyettir. Yol kısadır, fakat çok metin ve çok yüksektir ve çok hâlistir ve gölgesizdir. Diğeri kesbidir, uzundur, gölgelidir. Acaib hârikaları çok ise de, kıymetçe, kurbiyyetçe evvelkisine yetişemez. Meselâ: Nasıl ki dünkü güne bugün yetişmek için iki yol var. Birincisi: Zamanın cereyanına tâbi olmıyarak, bir kuvvet-i kudsiye ile, fevkaz-zaman çıkıp, dünü bugün gibi hazır görmektir. îkincisi: Bir sene kat'-ı mesafe edip, dönüp dolaşıp, düne gelmektir; fakat, yine dünü elde tutamıyor; onu bırakıp gidiyor. öyle de, zâhirden hakikata geçmek iki suretledir. Biri: Doğrudan doğruya hakikatın incizabına kapılıp, tarikat berzahına girmeden, hakikatı, ayn-ı zâhir içinde bulmaktır. îkincisi: çok merâtibden seyr-i süluk suretiyle geçmektir. Ehl-i velâyet, çendan fena-i nefse muvaffak olurlar, nefs-i emmareyi öldürürler. Yine sahabeye yetişemiyorlar. çünki, sahabelerin nefisleri tezkiye ve tathir edildiğinden; nefsin mahiyetindeki cihazat-ı kesire ile, ubudiyetin envâına ve şükür ve hamdin aksamına daha ziyade mazhardırlar. Fena-i nefisten sonra, ubudiyet-i evliya besatet peyda eder. S.)
 kurbuk: Mevzi ismi. * Yardım. * Dükkân.
 kurdah: Maymun.
-krdîl: f. Câhil. Gönlü kör.
+kûrdîl: f. Câhil. Gönlü kör.
 kurduh: Maymun. * Küçük karınca.
-kre: f. Demirci ocağı. Kuyumcu ocağı. * Küre.
+kûre: f. Demirci ocağı. Kuyumcu ocağı. * Küre.
 kurena —œ›ƒ£: Bir padişâhın yakınında bulunan ve onun sohbetine iştirak edenler. Yakınlar. Arkadaşlar.
 kureng: f. Al at.
 kurevî —œÿ: (Kurâ. dan) Köylü. Köye âit, köye dâir.
@@ -2894,7 +2894,7 @@ kureyza: Medine-i Münevvere yakınında Yahudi taifesinden bir kavim.
 kurfusa (karfesa): Mak'adı üstüne oturup dizlerini karnına yapıştırıp iki kolunu baldırları üstüne kavuşturmak.
 kurha: (C: Kuruh) Silâh yarası. * çıban.
 kurhane: (C: Kurhân) Bir cins mantar.
-krî: f. Körlük, âmâlık.
+kûrî: f. Körlük, âmâlık.
 kurkube: Et, lahm.
 kurkul: çekirge.
 kurkur: Büyük gemi.
@@ -2937,8 +2937,8 @@ kuruz: (Karz. C.) Borçlar. ödünç olarak verilen paralar.
 kurzub: Fakir kimse.
 kurzum: Kavafların ve kunduracıların üzerinde gön ve sahtiyan kesip düzelttikleri yuvarlak tahtalar.
 kurzül: Kadınların başına örttükleri nesne. * Kayıt. * Kötü kimse. * At ismi. * Bel, sulb.
-ks: f. Kös. Eskiden muharebelerde deve veya araba üstünde taşınarak çalınan büyük davul.
-ks-î gaza: Savaş davulu. Muharebe kös'ü.
+kûs: f. Kös. Eskiden muharebelerde deve veya araba üstünde taşınarak çalınan büyük davul.
+kûs-î gaza: Savaş davulu. Muharebe kös'ü.
 kusa: Zayıflık. * Nâhiye.
 kusakis: çok acı olan sarmısak.
 kusale: Buğday ve arpa kesmiği.
@@ -2991,11 +2991,11 @@ kuta': (C: Kutâ-Kutevât) Atın arkalaşacak yeri. * Bağırtlak kuşu.
 kuta' (kutu'): Düş yormak, rüya tâbir etme. * Su kesilmek.* Başka yere gitmek.
 kutaa: Bir şeyin kesintisi ve kırıntısı.
 kutafe: Toplarken düşüp dökülen üzüm ve yemiş döküntüsü.
-ktah: (Kuteh) Kısa, boysuz.
-ktah-âstîn: f. Aslında kötü olduğu hâlde iyi gibi görünen kimse.
-ktah-bîn: f. Neticeyi göremiyen, basiretsiz, kısa görüşlü.
-ktah-terîn: f. En çok kısa.
-ktahter: f. Pek kısa, çok ufak.
+kûtah: (Kuteh) Kısa, boysuz.
+kûtah-âstîn: f. Aslında kötü olduğu hâlde iyi gibi görünen kimse.
+kûtah-bîn: f. Neticeyi göremiyen, basiretsiz, kısa görüşlü.
+kûtah-terîn: f. En çok kısa.
+kûtahter: f. Pek kısa, çok ufak.
 kutar: Kebap kokusu. Ot kokusu.
 kutb: (Kutub) Dünyanın şimâl veya cenub uçları. (Güney ve kuzey taraflarının son kısımları.) * Elektrik cereyânını meydana getiren veya mıknatısın uçlarından her biri. * Dini bir meslek veya grubun başı. Bir çok müslümanların kendisine bağlandıkları azim ve büyük evliyaullahtan zamanın en büyük mürşidi.
 kutb-u cenubî: Güney kutbu.
@@ -3011,13 +3011,13 @@ kutbeyn —’„ÿ›: îki kutub. şimal ve cenub kutbu. Kuzey ve güney kutub
 kutbî: (Kutbiye) Dünya kutuplarına ait. Onlarla alâkalı.
 kutbîye: Deve ve koyun sütünün birbirine karışması.
 kutbîyet: (Bak: Kutb-ul aktab)
-kteh: (Kutâh) f. Kısa, boysuz.
-ktehbâl: f. Kısa boylu.
-ktehbîn: f. Kısa görüşlü. îleriyi göremez.
-ktehdest: f. Kısa elli. Elli kısa olan. * Mc: Hasis, cimri, tamahkâr, keremsiz.
-ktehendîş: f. Sonunu ve istikbali düşünmeyen. Kısa görüşlü.
+kûteh: (Kutâh) f. Kısa, boysuz.
+kûtehbâl: f. Kısa boylu.
+kûtehbîn: f. Kısa görüşlü. îleriyi göremez.
+kûtehdest: f. Kısa elli. Elli kısa olan. * Mc: Hasis, cimri, tamahkâr, keremsiz.
+kûtehendîş: f. Sonunu ve istikbali düşünmeyen. Kısa görüşlü.
 kutela': (Katil. C.) öldürülmüş kimseler, maktuller.
-ktî: Kısa boylu adam.
+kûtî: Kısa boylu adam.
 kutîle —…™: (Katil. den) Katledildi, kahroldu veya kahrolası meâlindedir.
 kutme: Bozluk ve kızıllık olan renk. (O renkte olana "aktem" derler.) (Müe: Katmâ)
 kutn: (C: Aktân) Pamuk.
@@ -3037,7 +3037,7 @@ kutu' —’”: Sudan veya bir yoldan geçme. * (Kuşlar) göç etme. * (Kat'
 kutu' —…”: Zelil olmak. Hakarete uğramak.
 kutub: (Kutb. C.) Kutublar.
 kutur: Pintiliğinden dolayı ailesini sıkıntı içinde bırakan adam.
-ktval: f. Kale muhafızı. Dizdar. * Belediye reisi. şehir ağası.
+kûtval: f. Kale muhafızı. Dizdar. * Belediye reisi. şehir ağası.
 kuud —”š: Cülus. Oturmak. * Namazın oturarak kılınan kısmı. Secdede iken kalkıp oturmak.
 kuule: Ayağının arkasıyla yerden toprak saçmak.
 kuur: (Ka'r. C.) Dipler, derinlikler. Nihâyetler.
@@ -3129,7 +3129,7 @@ küdade: çömlek dibinde kalan yemek.
 küdame: Her nesnenin bakiyyesi.
 küdas: Hayvan aksırığı.
 küds: Dövülmemiş harman.
-küd ˜š: Yerin otu geç bitmek.
+küdû ˜š: Yerin otu geç bitmek.
 küdu' ˜š¢: Soğuğun bitkilere zarar vermesi.
 küdur: (Keder. C.) Kederler, hüzünler, üzüntüler, sıkıntılar, ıztırablar.
 küduret ˜šœ…: (Keder. den) Bulanıklık. * Koyuluk, kesiflik. * Kaygı. Tasa. Kederlilik.
@@ -3228,7 +3228,7 @@ kümter: (C: Kemâtir) Kısa boylu kaba adam. * Yabani eşek. Vahşi hımar.
 kümun ˜š›: Pusulanıp gizlenmek. * Tıb: Gözde "gümne" denilen bir dumanlı hastalık görünmesi.
 kümze: Bir yere toplanmış hurma.
 kün ˜›: "Ol" mânasında emirdir. Allah (C.C.) bir şeye Kün dese; o şey olur.
-kün feyekn: (Bak: Emr-i kün)
+kün feyekûn: (Bak: Emr-i kün)
 küna: f. Arâzi. Tarla. Etrafı çevrilerek ekilen yer.
 künam: f. Kuş yuvası. * Hayvan ini. * însanın rahat edip dinleneceği yer.
 künan: f. "Ederek, yaparak, eden, yapan" manâlarına gelerek kelimelere eklenir. Meselâ: (Hande-künân: Gülerek)
@@ -3244,7 +3244,7 @@ küncüd: f. Susam.
 künd: Biçimsiz, yakışıksız, kısa. * Kesmez, kör. * Yiğit, cesaretli, cesur. * Anlayışsız. Fehim ve idraki kısa.
 künde: f. Suçlu bir kimsenin ayaklarına geçirilen tomruk. * Kalın ve yüksek ağaç.
 kündekâr: f. Sedefçi. Kıymetli ağaçları işleyen. Marangoz.
-kündgş: f. Sağır, işitmez.
+kündgûş: f. Sağır, işitmez.
 kündür: (C: Kenadir) "Günlük" denilen nesne. * şişman ve kısa boylu kimse. * Vahşi hımar, yabani eşek. * Büyük çuval.
 kündüs: Saksağan kuşu.
 künende: f. "Edici, yapıcı" mânâlarına gelerek kelimelere eklenir.

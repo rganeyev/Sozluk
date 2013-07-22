@@ -106,7 +106,7 @@ yasîn suresî: Kur'an-ı Kerim'in 36. suresinin ismidir. Mekkidir.
 yasîr: Sol tarafa giden.
 ya'sub ÿ”ž„: Arı beyi. * Emir, bey, reis. * Peygamberimiz Aleyhissalâtü Vesselâm'ın bir atının ismi. * Atın alnındaki beyazlık. * Bir nevi kuş.(Karıncayı emirsiz, arıyı ya'subsuz bırakmayan Kudret-i Ezeliye; elbette beşeri nebisiz bırakmaz. M.)
 yâve ÿƒœ: f. Hezeyan. Yalan. Yaygara. Saçma sapan söz. * Sahipsiz hayvan.
-yâve-g: (C.: Yâve-guyân) f. Saçmasapan konuşan, saçmalayan.
+yâve-gû: (C.: Yâve-guyân) f. Saçmasapan konuşan, saçmalayan.
 yâver ÿƒœ: f. Yardımcı. Mededkâr. îmdatçı. * En yakın memur. * Devlet büyüklerinin yanında bulunan en yakın memur.
 yâver-î ekrem ÿƒœ‚ƒ˜œš: Cenab-ı Hakk'ın emrinde çalışan en makbul yâver, en kerim olan Hazret-i Muhammed. (A.S.M.)
 yâverân: (Yâver. C.) f. Yâverler. Yardımcılar.
@@ -180,7 +180,7 @@ yeksüvare: (C.: Yeksüvârân) Yalnız başına ata binen. * Mc: Arkadaşı olm
 yekşebe: f. Bir gecelik.
 yekta ÿ˜…ƒ: Tek, yalnız, eşsiz. * Bir kat.
 yektene: f. Tenha, yalnız başına.
-yekn ÿ˜›: Toptan, hepsi. Netice. Toplam. (Arapçada; olur-oluyor mânâsınadır)
+yekûn ÿ˜›: Toptan, hepsi. Netice. Toplam. (Arapçada; olur-oluyor mânâsınadır)
 yekvücud ÿ˜‚‡š: Tek kişi gibi. Hep birden.
 yekzeban ÿ˜‚„ƒ›: Söz birliği. Ağız birliği. Sözde beraberlik. * Aynı dili konuşan. Bir dilde.
 yel: (C.: Yelân) Pehlivan. şampiyon.
@@ -205,7 +205,7 @@ yemîn-î lâğv: Alışkanlıkla veya dil sürçmesiyle veya sehven yapılan ye
 yemm ÿš: Deniz, bahir, derya, umman. * Güvercin kuşu.
 yen': Yemişin olgunlaşması.
 yenabî' ÿ›ƒ„”: (Yenbu'. C.) Kaynaklar, pınarlar, çeşmeler. * Kedi yavruları.
-yenabî'-î ulm: îlim kaynakları, çeşmeleri.
+yenabî'-î ulûm: îlim kaynakları, çeşmeleri.
 yenarik: Yassı bilezik.
 yenbagî: Münasib, uygun, şâyân. Lâzımgelir, icab eder, gerekir.
 yenbu' ÿ›„”: (C.: Yenâbi) Pınar, kaynak. * Kedi yavrusu.
@@ -282,7 +282,7 @@ yorum ÿœš: Uydurma bir kelimedir. (Bak: Tefsir)
 yorumlamak ÿœš™ƒšƒ˜: (Bak: Tefsir etmek)
 yuce: f. Damla, katre.
 yuda ÿšœ: Hz. îsa'nın (A.S.) havarilerindendir ve onu ihbar edip ihanet etmiştir. Yehuda veya Yuda şem'un da denir. (Ol hangi acib sır ki, çıkar göklere îsa. Kimdir çekilen çarmıha, kimdir yine Yuda. E.L.)
-ydln: Tarhun otu.
+yûdlûn: Tarhun otu.
 yug: f. Boyunduruk.
 yuh ÿˆ‚ó‚ÿˆƒ: (Yuhâ) Güneşin isimlerindendir. * Türkçede, birisine karşı hakaret için söylenen kelimedir. Kalabalıkla haykırılan hakaret kelimesidir. Buna "yuha çekmek" denir.
 yuhanna ÿˆ›ƒ: Hz. îsa'nın (A.S.) havarilerinden birisidir. încillerden birisini yazmıştır. îbranicede Yahya mânasına gelir. Yuhannes, Ohannes, Con (Fr.: Jan) denir.

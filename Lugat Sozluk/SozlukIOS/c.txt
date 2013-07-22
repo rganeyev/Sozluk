@@ -46,7 +46,7 @@ ca'ferî: şiilerden îmam-ı Ca'fer-i Sâdık Hazretlerine bağlı oldukların�
 ca'fer-î sâdik ‡”–œ‚ƒš—: (Bak: îmam-ı Cafer-i Sâdık)CA'FERîYYE : Caferi tarikatı.
 cafî: Cefa eden, eziyet veren.
 cafîl: Yürürken çabuk olan kimse.
-cafn: Karpuz.
+cafûn: Karpuz.
 cager: f. Kuş kursağı.
 cah ‡ƒœ: (Câhe) f. Makam, mansıb. Kadr, itibar.
 cahan: Yediği fayda etmeyip geç büyüyen çocuk.
@@ -71,7 +71,7 @@ cahîd ‡ƒˆš: Bildiği halde inkâr eden. Ayak direyen.
 cahîf ‡ˆÿ–: Kişinin kendi yanında olan şeylerin çokluğundan fahirlenmesi.
 cahîf ‡‰ÿ–: Uykusunda dişini öttürmek. * çok fazla hafiflik üzerine olmak. * Nefis, ruh. * însanın karnından çıkan ses. * Kısa. * çok asker.
 cahîl ‡ƒœ™: Tecrübesiz. Bilgisiz. Genç. Toy. * Allah'ı unutmuş olan. Gafil. (Dünya ve kâinatta Allah'ın bunca eserleri sergilenip dururken bunların sanatkârını ve yaratıcısını tanımamak cahilliğin en akılsızcasıdır.)
-cahîl-î and ‡ƒœ™ó‚”›š: înatçı cahil.
+cahîl-î anûd ‡ƒœ™ó‚”›š: înatçı cahil.
 cahîlane ‡ƒœ™ƒ›œ: f. Câhillikle, câhilce, câhil kimseye yakışır şekilde.
 cahîle ‡ƒœ™œ: (C.: Cevâhil) Değirmen çarkı.
 cahîlîyyet: Cahilliğe âit. * îslâmiyet'ten önceki câhiliye devrine âit. Cahiliyet sadece îslâmiyet öncesine ait değildir. Bu gün "tabiatçılık, maddecilik" gibi çeşitli adlarla eski puta tapıcılık daha da yobazlaşarak devam ediyor. Allah'ı inkâr ederken tabiatı ve maddeyi onun yerine koyarak kendilerine yeni putlar dikiyor ve kendi yaptıkları bu putlara kendileri tapıyor. (Bak: Yobaz.)
@@ -89,8 +89,8 @@ cahreme: Darlık. * Kötü ahlâk.
 cahsuk: f. Orak.
 cahş ‡ˆ: (C.: Cihaş-Cuhşâ) Eşek sıpası. * Kolan eşeğinin erkeği.
 cahşe: Eşek sıpasının dişisi. * çobanın eline dolayıp eğerdiği ip.
-cahd: (Cahd. dan) îsrarla inkâr eden. Muannidce, isnat edilen bir sözü kabul etmeyen. * Yahudi.
-cahf: Mağrur, kibirli, kendini beğenmiş.
+cahûd: (Cahd. dan) îsrarla inkâr eden. Muannidce, isnat edilen bir sözü kabul etmeyen. * Yahudi.
+cahûf: Mağrur, kibirli, kendini beğenmiş.
 cahzem: Gözleri büyük olan kimse.
 caîbe: (C.: Cevâib) Halkın ağzında gezen haber.
 caîl ‡ƒ”™: Yapan, bir şey veren, kılan. * Yaratıcı. (Bak: Ca'l)
@@ -117,10 +117,10 @@ calîs: (C.: Cüllâs) Oturan, oturucu, cülûs eden. Tahta çıkan.
 ca'lîyyat: Yapmacık hareketler, sahte, düzme hâller.
 ca'lîyyet: Yapmacık (olmak.)
 calîz: f. Sebze bahçesi, bostan. Kavun karpuz tarlası.
-calt ‡ƒ™…: (Bak: Yûşâ A.S.)
+calût ‡ƒ™…: (Bak: Yûşâ A.S.)
 cam ‡ƒš: f. Cam, şişe, bardak, sırça.
 cam-i gevherî: Billur kadeh.
-cam-i meml ‡ƒšó‚šš™: Dolu kadeh.
+cam-i memlû ‡ƒšó‚šš™: Dolu kadeh.
 cam-i seher ‡ƒšó‚žòˆòœ: Güneş, şems.
 cam-i sîm: Sevgilinin çenesi.
 cam-i tehî ‡ƒšó‚…œž: Boş kadeh.
@@ -139,7 +139,7 @@ camehab ‡ƒšœ‚‰ƒ„: f. Yatak.
 camekân: f. Elbise soyunulacak yer. * Camlık.
 cameşuy: (C.: Câmeşuyân) f. çamaşırcı, çamaşır yıkayan.
 camger: f. Cam yapan sanatkâr, camcı ustası.
-camgl: f. Külhanbeyi.
+camgûl: f. Külhanbeyi.
 camhane: f. Cam fabrikası.
 camî ‡ƒšÿ: (Molla Cami) Hi: 817-898 Büyük bir îslâm müellifidir. Asıl adı: Abdurrahman'dır. Yüze yakın eser vermiştir.
 camî ‡ƒš”: îslâm mâbedi. îbadet yeri olan bina. * Cem'edici, toplayıcı, içine alan. * Cem'etmiş, toplamış bulunan, hâvi ve muhit olan. * Resûl-i Ekrem Aleyhissalâtu Vesselâm bütün evvel ve âhir güzel isim ve ahlâkı kendisinde cem'ettiğinden dolayı ona verilen bir isimdir. * Ehl-i Hadis ıstılahınca da; Buhâri Hadis kitabları gibi, babların sekizini birden cem' eden büyük hadis kitablarına da Câmi denir veya Sünen ismi verilir.
@@ -217,11 +217,11 @@ carîye ‡ƒœÿœ: Geçer olan, akıcı olan. Seyreden giden. * Güneş, şems
 carr ‡ƒœ: çeken, çekici. Sürükleyici. * Harf-ı cer.
 carre: Komşu kadını. * Yularından çekilen deve.
 carşeb: f. çarşaf, cilbab.
-car(b): f. Süpürge.
-cârb-zen: f. Süpürücü, çöpçü.
+carû(b): f. Süpürge.
+cârûb-zen: f. Süpürücü, çöpçü.
 carud ‡ƒœš: Nasrani rüesasından olup şam'ın da reislerindendi. Kitablarında Hz. Peygamber'in (A.S.M.) vasıflarını görüp imân edenlerdendir. Asr-ı Saâdetten önce yaşamıştır.
-carr: Sel arkı.
-carre: Kapı ökçesinin yeri.
+carûr: Sel arkı.
+carûre: Kapı ökçesinin yeri.
 ca's: Pis, necis.
 caselîk: Katolik. Başpiskopos, başpapaz, büyük papaz, patrik.
 casîm: şam diyarında bir köyün adı.
@@ -232,8 +232,8 @@ caslîk: (Cesâlik) Nasrâniler hakimi. * çokluk, kesret.
 cass: Alçı taşı. * Kireç.
 cassas: Sıvacı, kireççi.
 cast: f. üzüm teknesi. üzümün sıkıldığı yer.
-casm: Korkulu rü'ya, kâbus.
-ca'ss ‡”žž: (C.: Ceâsis) Kötü huylu, kısa boylu.
+casûm: Korkulu rü'ya, kâbus.
+ca'sûs ‡”žž: (C.: Ceâsis) Kötü huylu, kısa boylu.
 casus ‡ƒžž: (C.: Cevâsis) Hafiye. Gizli sırları haber veren. Kendi asıl şahsiyetini gizleyip, kendini iyi şahsiyet şeklinde göstererek ve gizli yollarla bir devletin askeri, siyasi ve mâli durumlarına dair haberleri başka bir devlet menfaatına olarak toplayıp bildiren kimse.
 casus ‡ƒ††: Karpuz.
 caşîrîyye: Kuşluk vakti yenen yemek. Kuşluk yemeği.
@@ -269,7 +269,7 @@ cazîbe kanunu ‡ƒ‹„œ‚—ƒ››ž: Madde âleminde geçerli olan Ce
 cazîbedar ‡ƒ‹„œ‚šƒœ: f. çekici, câzibeli.
 cazîm ‡ƒš: Kat'i karar veren. * Gr: Cezmedici, cezmeden. Arabça bir kelimenin başına gelen bazı harfler o kelimenin sonunu sâkin okutur, o harfe de "câzim" denir. Meselâ "Lem yezuk" aslında (Yezuku) idi. Başına "lem" harfi geldiğinden " Yezuk" diye sâkin okundu.)
 cazîye: Doğurduktan sonra sütü azalmaya başlayan hayvan.
-caz: f. Cadı. Büyücü, sihirbaz.
+cazû: f. Cadı. Büyücü, sihirbaz.
 cazz: Semiz,iri gövdeli adam.
 ce'b ‡¤„: Kesbetmek, elde etmek, kazanmak. * Yaban eşeğinin büyüğü. * Kırmızı toprak boya. * Göbek.
 ceb' ‡„£: (C.: Cebeât) Kızıl mantar.* (C.: Ecbu) Nakir dedikleri ağzı dar kap ki, içine su koyarlar. * Tehir etmek, sonraya bırakmak.
@@ -286,7 +286,7 @@ cebbarî: Cebbara mensub, cebbarlık, cebredicilik. Cebbarlık eden.
 cebceb: çok hasta deve yavrusu.
 cebe ‡„œ: Zincir veya halkadan örme zırh. Cevşen.
 cebe' ‡„¤: Kuyu içinden çıkan toprak ki, etrafına öbek öbek dökerler.
-cebe-pş: f. Zırh giyen.
+cebe-pûş: f. Zırh giyen.
 cebecî: f. Eski Osmanlı împaratorluğunun ordusunun zırhlı sınıfına mensub nefer.
 cebel ‡„™: Dağ, yüksek tepe. * Mc: Bir kavmin meşhuru ve büyüğü, âlim ve fâzıl kimse.
 cebel-î arafat ‡„™ó‚”œ–ƒ…: Arafat Dağı.
@@ -351,7 +351,7 @@ cedîr ‡šÿœ: Lâyık, münasib, uygun. * Nihâyet, son. * Etrafı duvarlı 
 cedîyye: (C.: Cedâyâ) Gövdeye yapışan kan.
 cedl: Yaratmak, halk. * Kuvvet. * Sağlam bükmek. * Azâ, organ, uzuv.
 cedr ‡šœ: (Cidr) Duvar. Hâil, perde, zar. * Bir ot adı.
-cedd: (C.: Cedâyid-Cüdüd) Sütü çekilmiş koyun.
+cedûd: (C.: Cedâyid-Cüdüd) Sütü çekilmiş koyun.
 cedva: Bol yağmur, rahmet. * Armağan hediye.
 cedvar: Nebâtattan zerâvende benzer bir ottur ve mâcun yapılır.
 cedvel ‡š™: Liste. * Su kanalı. Kanal. * Doğru, düz çizgiler çizmeğe mahsus âlet.
@@ -424,11 +424,11 @@ cehret: Görünmek, zahir olmak.
 cehreten: Aşikâr sûrette, aleni bir şekilde, açıktan açığa.
 cehrî ‡œœÿ: Aleni ve yüksek sesle vâki olan şey.
 cehş (cühüş): Medet edişmek. Başka kimseye sığınıp arkalanmak.
-cehd: Cıfıt, yahudi.
-cehf: Kuyudan suyu alıp yukarı çekmeye mahsus kova.
-cehl ‡œ™: Pek çok câhil. (însan hayvanların aksine olarak hayata lâzım her şeye karşı câhildir. Her şeyi öğrenmeğe mecburdur. Hadsiz eşyaya muhtaç olduğu için sigayı mübalâğâ ile cehûldur. M.)
-cehlâne: Pek câhilcesine.
-cehş: Oğlan, sabi.
+cehûd: Cıfıt, yahudi.
+cehûf: Kuyudan suyu alıp yukarı çekmeye mahsus kova.
+cehûl ‡œ™: Pek çok câhil. (însan hayvanların aksine olarak hayata lâzım her şeye karşı câhildir. Her şeyi öğrenmeğe mecburdur. Hadsiz eşyaya muhtaç olduğu için sigayı mübalâğâ ile cehûldur. M.)
+cehûlâne: Pek câhilcesine.
+cehûş: Oğlan, sabi.
 cehva': Açık.
 cehve: însanın dübür yeri.
 cehvere: Zâhir olmak, görünmek.
@@ -451,17 +451,17 @@ celaîl: (Celile. C.) Celiller, büyük olanlar, yüceler.
 celal ‡™ƒ™: (Celâlet) Nihâyet derecede büyüklük. Azamet. Hiddetlilik, hışım. * îlm-i Kelâm'da: Cenâb-ı Hakk'ın kahrının ve azametinin tecellisi, Cenâb-ı Hakk'ın nev'deki tecellisi. Cenâb-ı Hak, vahdaniyyetine delil olacak çok şeyler yarattığından veyâ ihâtadan âli ve celil olduğu veya hislerle idrâk edilmekten celil olduğundan Celâl denir.(Arkadaş! Cenâb-ı Hakk'ın sıfât-ı ezeliyye âleminde biri celâli, diğeri cemâli iki türlü tecellisi vardır. Celâl ile Cemâlin sıfât-ı ef'âl âleminde tecellisinden; lütuf ve kahr, hüsün ve heybet tezâhür eder. Ef'âl âlemine tecelli edince; tahliye $ ile tahliye $ (tezyin ile tenzih) doğar. Asar ve a'mal âleminden âlem-i âhirete intiba' edince; lütuf, cennet ve nur olarak; kahr da, cehennem ve nâr olarak tecelli eder. Sonra âlem-i zikre inikâs edince; biri hamd, diğeri tesbih olmak üzere iki kısma ayrılır. Sonra âlem-i kelâmda tecelli edince, kelâmın emir ve nehye taksimine sebep olur. Sonra âlem-i irşada intikal edince; irşadı tergib ve terhib, tebşir ve inzâra taksim eder. Sonra vicdana tecelli edince, recâ ve havf husule gelir. Sonra irşâdın iktizâsındandır ki, havf ile recâ arasındaki muvâzene devamla muhafaza edilsin ki, recâ ile doğru yollara sülûk edilsin, havf ile de eğri yollara gidilmesin. Ne Allah'ın (C.C.) rahmetinden me'yus, ne de azabından emin olunsun. î.î.)
 cela'la': Kirpi.
 celaleddîn-î harzemşah ‡™ƒ™‚ƒ™šÿ›‚‰ƒœš‚ƒœ: (Vefâtı M.: 1231) Mengü berdi (Allah verdi) ismi de verilir. Harzemşah soyunun 7nci ve son hükümdarıdır. Tarihte cesaret ve irfanı ile tanınmıştır. O zamanın deccalı olan Cengiz'in kahır ve şiddeti karşısında îrân ve Turân korku ve zillete düştüğünde Celâleddin, Cengiz'in ordularını müteaddit defalar mağlub etmiştir. Kendisine pederinden şehzadelikten başka bir şey kalmadığı halde Harzem'de, Hind'de, Irak'ta, Azerbeycan'da dört devletin meydana gelmesine muvaffak oldu. Küçük küçük kuvvetlerle üç milyon askere sâhib Tatar devletine karşı yirmiden ziyade zafer kazandı. Moğol taarruzlarından birisinde bir dağa çekildiği sırada bir çapulcu taifesi tarafından sırtından hançerlenerek şehid edildi. (R. Aleyh)(Meşhurdur ki: Bir zaman îslâm kahramanlarından ve Cengiz'in ordusunu müteaddit defa mağlub eden Celaleddin-i Harzemşah harbe giderken vüzerâsı ve etbaı ona demişler: "Sen muzaffer olacaksın; Cenab-ı Hak seni galip edecek." O demiş: "Ben Allah'ın emriyle, cihad yolunda hareket etmeye vazifedarım, Cenab-ı Hakk'ın vazifesine karışmam, muzaffer etmek veya mağlub etmek onun vazifesidir." îşte o zât bu sırr-ı teslimiyeti anlamasıyla hârika bir surette çok defa muzaffer olmuştur. M.N.)
-celaleddîn-î süytî ‡™ƒ™‚ƒ™šÿ›ó‚žÿ’ž: (Hi: 849 - 911) Abdurrahman bin Ebu Bekir Muhammed adı ile de anılır. Hadis imamı ve müctehid bir zattır. Mısırlıdır. Süyût şehrinde doğdu. Mısır'da vefat etti. Zamanının büyük îslâm allâmelerindendir. Asıl adı: Ebû Bekir oğlu Abdurrahman'dır. Tefsir, fıkıh, hadis ilmine dair eserleri vardır. Celaleddin Muhammed bin Ahmed Mısri'nin, îsrâ Sûresine kadar yaptığı (Hi: 864'de vefat edince yarıda bıraktığı) tefsiri tamamlamıştır ve Celaleyn Tefsiri denmiştir.
+celaleddîn-î süyûtî ‡™ƒ™‚ƒ™šÿ›ó‚žÿ’ž: (Hi: 849 - 911) Abdurrahman bin Ebu Bekir Muhammed adı ile de anılır. Hadis imamı ve müctehid bir zattır. Mısırlıdır. Süyût şehrinde doğdu. Mısır'da vefat etti. Zamanının büyük îslâm allâmelerindendir. Asıl adı: Ebû Bekir oğlu Abdurrahman'dır. Tefsir, fıkıh, hadis ilmine dair eserleri vardır. Celaleddin Muhammed bin Ahmed Mısri'nin, îsrâ Sûresine kadar yaptığı (Hi: 864'de vefat edince yarıda bıraktığı) tefsiri tamamlamıştır ve Celaleyn Tefsiri denmiştir.
 celalî ‡™ƒ™ÿ: Celal ismine dâir. îlâhi ve celale müteallik. Celal adlı kimselerle alâkalı olan. * Hicri XI. Asırdan önce Anadolu'da baş gösteren eşkiyaya verilen ad. * Sultan Celaleddin Melikşah tarafından hazırlanan ve Hicri 471 tarihinde başlayan bir güneş takvimi.
 celallî ‡™ƒ™™ž: çok çabuk kızan kimse.
 celaze: Sazların perdeleri.
 celb ‡™„: Kendi tarafına çekmek. çekmek, götürmek.
-celb-î kulb ‡™„ó‚—™„: Kalbleri çekme, kalbleri kazanma.
+celb-î kulûb ‡™„ó‚—™„: Kalbleri çekme, kalbleri kazanma.
 celb-î suret ‡™„ó‚œ…: Uzakta olan bir şeyin sûretini resmini yanına getirmek.(... Hz. Süleyman (A.S.) taht-ı Belkıs'ı yanına celbetmek için vezirlerinden bir âlim-i ilm-i celb dedi: "Gözünü açıp kapayıncaya kadar sizin yanınızda o tahtı hazır ederim." olan hâdise-i hârikaya delalet eden şu âyet: $îlâahir işaret ediyor ki: Uzak mesafelerden eşyayı aynen veya sûreten ihzar etmek mümkündür. Hem vakidir ki: Risaletiyle beraber saltanatla müşerref olan Hz. Süleyman (A.S.) hem masumiyetine, hem de adaletine medar olmak için pek geniş olan aktar-ı memleketine bizzat zahmetsiz muttali olmak için ve raiyyetinin ahvâlini görmek ve dertlerini işitmek, bir mu'cize suretinde Cenab-ı Hak ihsan etmiştir. Demek, Cenab-ı Hakk'a itimad edip, Süleyman'ın (A.S.) lisan-ı ismetiyle istediği gibi o da lisan-ı istidadıyla Cenab-ı Hak'dan istese ve kavanin-i adetine ve inayetine tevfik-i hareket etse, ona dünya bir şehir hükmüne geçebilir. Demek, taht-ı Belkıs Yemende iken, şamda aynıyla veyahut suretiyle hazır olmuştur, görülmüştür. Elbette taht etrafındaki adamların suretleriyle beraber sesleri de işitilmiştir. îşte, uzak mesafede celb-i surete ve savta haşmetli bir sûrette işaret ediyor ve mânen diyor: Ey ehl-i Saltanat! Adalet-i tâmme yapmak isterseniz Süleymanvâri, ruy-i zemini etrafıyla görmeye ve anlamaya çalışınız. çünki; Bir hakim-i adalet-pişe, bir padişah-ı raiyetperver, aktar-ı memleketine her istediği vakit muttali olmak derecesine çıkmakla mes'uliyet-i mâneviyeden kurtulur veya tam adalet yapabilir. Cenab-ı Hak, şu ayetin lisan-ı remziyle mânen diyor ki: Ey beni-adem! Bir abdime geniş bir mülk ve o geniş mülkünde adalet-i tâmme yapmak için, ahvâl ve vukuat-ı zemine bizzat ıttıla veriyorum. Ve madem herbir insana, fıtraten zemine bir halife olmak kabiliyetini vermişim. Elbette o kabiliyete göre ruy-i zemini görecek ve bakacak, anlayacak istidadını dahi vermesini, hikmetim iktiza ettiğinden vermişim. şahsen o noktaya yetişmezse de, nev'en yetişebilir. Maddeten erişemezse de, ehl-i velâyet misillû manen erişebilir. öyle ise, şu azim nimetten istifade edebilirsiniz. Haydi göreyim sizi, vazife-i ubudiyetinizi unutmamak şartıyla öyle çalışınız ki: Ruy-i zemini, her tarafı, herbirinize görülen ve her köşesindeki sesleri size işittiren bir bahçeye çeviriniz. S.)
 celbîz: f. Kement, ilmik. * Gammâz, koğucu, ara bozucu.
 celbname: f. Mahkemeye çağırma kağıdı, celb kağıdı.
-celb: f. Nâneye benzer bir ot, sebze.
-celbb: f. Sarmaşık (bitkisi.)
+celbû: f. Nâneye benzer bir ot, sebze.
+celbûb: f. Sarmaşık (bitkisi.)
 celca': Boynuzsuz koyun.
 celcele: çan sesi. * Gök gürültüsü. * Depretmek. * Gitmek.
 celcelutîye ‡™‡™…ÿœ: Peygamberimizin Resul-i Ekremin (A.S.M.) derslerine istinâden, aslı cifir ve ebced hesâbı ile alâkalı olarak Hz. Ali (R.A.) tarafından te'lif edilen Süryânice bir kasidedir. Esas mânası; bedi' demektir.
@@ -529,7 +529,7 @@ cemal ‡šƒ™: Yüz güzelliği. Fertteki güzellik. * Cenâb-ı Hakk'ın lü
 cemal-î bî-mîsal ‡šƒ™‚„ÿ‚š†ƒ™: Misâli, benzeri olmayan güzellik. (Bak: Celâl)
 cemalullah ‡šƒ™‚ƒ™™õúœ: Allah'ın cemâli.
 cemam: Rahat olmak. Dinlenip yorgunluğu gidermek. îstirahat etmek.
-cemamîh (cemh): Başı sert, yavuz at.
+cemamîh (cemûh): Başı sert, yavuz at.
 cem'an ‡š”øƒ: Bir yere toplamak suretiyle, toplanmış olarak.
 cem'are: Galiz, kaba nesne. Yüksek taşlar. * Kabile ismi. * Küçük kuş.
 cemaş: Kadın ile oynaşan kişi.
@@ -608,7 +608,7 @@ cenef ‡›–: Hata ve cehilden dolayı haktan meyletmek. * Zulmetmek.
 cenen: Mezar, kabir.
 ceng (cenk) ‡›ª: f. Top, tüfek ile harbetmek. Muharebe. Kavga. Harb. Savaş.
 ceng-azmüde: f. Savaş tecrübesi olan kişi.
-ceng-c: f. Kavgacı, dövüşçü, cenkçi.
+ceng-cû: f. Kavgacı, dövüşçü, cenkçi.
 cengaver ‡›ªƒœ: (C.: Cengâverân ) f. Cenkçi. Yiğit olan. Kahraman. îyi harbeden.
 cengel: f. Orman. Ağaç topluluğu.
 cengelîstan: f. Sık ağaçlık, orman, sazlık yer.
@@ -659,7 +659,7 @@ cerba: Uyuz kadın.
 cerban: Uyuz hastalığına tutulmuş olan, uyuz.
 cerbeya: Mağrib ile şimâl arasında esen yel.
 cerbeze ‡œ„œ: Aldatıcı sözlerle kurnazlık etme. Fazla sözlerle aldatıcılık. Haklı ve haksız sözlerle hakikatı gizleme. * Beceriklilik, fetânet ile temyiz ve cesaret-i mutedile ve kuvvet-i idareden ibâret olan sıfat-ı zihniye.(Bu kelime, Arabçada: Hilekârlık, kurnazlık gibi aşağılayıcı bir mânâda kullanıldığı halde; Türkçede: Beceriklilik ve konuşma kabiliyeti gibi medhedilir bir sûrette geçmektedir.)(... Kuvve-i akliyenin tefrit mertebesi, gabâvettir ki, hiç bir şeyden haberi olmaz. îfrat mertebesi, cerbezedir ki; hakkı bâtıl, bâtılı hak suretinde gösterecek kadar aldatıcı bir zekâya malik olur. Vasat mertebesi ise, hikmettir ki hakkı hak bilir, imtisal eder; bâtılı bâtıl bilir, içtinab eder. î.î.)(... Cerbeze nedir?C- Müteferrik büyük işlerde, yalnız kusurları görmek cerbezeliktir; aldanır ve aldatır. Cerbezenin şe'ni, bir seyyieyi sümbüllendirerek hasenata galib etmektir...Meselâ: Bir aşiretin herbir ferdi, bir günde attığı balgamı, cerbeze ile vehmen tayy-ı mekân ederek birden bir şahısta o muhassalı temsil edip, başka efradı ona kıyas ederek, o nazar ile baksa...Veyahut bir sene zarfında birisinden gelen rayiha-i keriheyi, cerbeze ile tayy-i zaman ederek, bir dakika-i vâhidede, o şahs-ı hâzırda sudurunu tasavvur etse acaba, evvelki adam ne derece mustakzer; ikinci adam ne derece müteaffin... Hattâ hayal, gözünü kapasa, vehim dahi burnunu tutsa mağaralarından kaçsalar, akıl onları tevbih etmeğe hakkı olmayacaktır.îşte şu cerbezenin tavr-ı acibi; zaman ve mekânda müteferrik şeyleri toplar, bir yapar. O siyah perde ile herşeyi temaşa der. Hakikaten cerbeze, envaiyle garâibin makinesidir.Görülmüyor mu ki, cerbeze-âlûd bir âşıkın nazarında, umum kâinat, birbirine muhabbet ile müncezib, rakkasane hareket edip gülüşüyor... veyahut, çocuğunun vefatıyla matem tutan bir validenin cerbeze-âlûd me'yusiyeti nazarında umum kâinat, hüzün-engizâne ağlaşıyor. Tuluât)
-cerbeze-âld ‡œ„œ‚¥™š: Cerbezeli. Cerbeze ile olan faaliyet.
+cerbeze-âlûd ‡œ„œ‚¥™š: Cerbezeli. Cerbeze ile olan faaliyet.
 cerbîyye: Uyuz böcekleri.
 cercar: Yaban maydanozu.
 cercer: (C.: Cerâcir) Kağnı.
@@ -692,7 +692,7 @@ cerf: Ahzetmek, almak. * Yıkmak, harap etmek. * Yerden bel veya kürekle bir ş
 cergand: f. Bumbar dolması denen bir yemek çeşiti. * Işık. Işık konacak yer.
 cerge: f. Bir mevki'de bulunan insan topluluğu.
 cerh ‡œˆ: Yara. * Baş ve yüzden başka uzuvlardan birisini yaralamak. * Bir kimseye söğmek. Taan etmek. Sözle gönül incitmek. * Birisinin fikrini çürütüp kabul etmemek. * şahid, yalancı ve fâsık olduğundan dolayı mahkemede hâkimin şâhidin şehâdetini reddetmesi. * Kesb u kâr eylemek. Kazanmak.
-cerh-î amd: Bir kimseyi her ne ile olursa olsun, haksız olarak kasden yaralamak.
+cerh-î amûd: Bir kimseyi her ne ile olursa olsun, haksız olarak kasden yaralamak.
 cerha: Yaralı, yaralanmış.
 cerhetmek ‡œˆ‚ƒÿ„š˜: Yaralamak. Herhangi bir meseleyi hak ve hakikatle çürütmek. Yanlış veya yalanını bulup hurafe ve bâtıl olduğunu isbât edip herhangi bir kimsenin veya cereyanın fikrini kabul etmemek.
 cerî': (Cür'et. den) Cesur, yiğit, delikanlı, gözü pek, cesaretli, yılmayan.
@@ -850,7 +850,7 @@ cevsek: f. Düğme.
 cevş: (C.: Cevâşin) Demir gömlek. * Göğüs. * Orta.
 cevşen ‡›: Zırh.
 cevşen-î kebîr: Büyük zırh. Peygamberimiz Hz. Muhammed'e (A.S.M.) vahiyle gelen en azim ve en mühim bir münâcâtın ismidir. Bu harika münâcât, mârifetullahda terakki eden bütün âriflerin münâcâtının fevkindedir. Bin hâsiyeti olan ve bin Esmâ-i Hüsnâ'yı içine alan emsalsiz bir münâcât-ı Peygamberiyedir.
-cevşen-pş: f. Zırhlı, zırh giyen.
+cevşen-pûş: f. Zırhlı, zırh giyen.
 cevşîr(e): f. Arpa çorbası. * çulha.
 cevv ‡: Yer ile gök arası. Gök boşluğu. Fezâ. * Ev veya odanın içi.
 cevv-î hevâ ‡õó‚œƒ: Hava boşluğu.
@@ -988,12 +988,12 @@ cîfr ‡–œ: (Cefr) Harflere verilen sayı kıymeti ile, geleceğe veya geçe
 cîğer ‡ªœ: f. Ciğer. Bağır. * Keder, sıkıntı, elem. * Avaz.
 cîğer-dâr: f. Yürekli, ciğerli, cesâretli.
 cîğer-der: f. Ciğer söken, ciğer parçalıyan.
-cîğer-dz: f. Ciğeri delip geçen.
-cîğer-fürş: f. Ciğerci, ciğer satan.
-cîğer-gşe: f. Evlât, yavru. * Sevgili. Mâşuk.
-cîğer-hn: f. Ciğeri kanlı. çok acıklı.
+cîğer-dûz: f. Ciğeri delip geçen.
+cîğer-fürûş: f. Ciğerci, ciğer satan.
+cîğer-gûşe: f. Evlât, yavru. * Sevgili. Mâşuk.
+cîğer-hûn: f. Ciğeri kanlı. çok acıklı.
 cîğer-pâre ‡ªœ‚¨ƒœœ: f. Sevgili yavru, evlâd.
-cîğer-sz ‡ªœ‚ž: f. çok acı. Ciğer yakar derecesindeki teessür.
+cîğer-sûz ‡ªœ‚ž: f. çok acı. Ciğer yakar derecesindeki teessür.
 cîğer-şükâf ‡ªœ‚˜ƒ–: f. Ciğer parçalayan. çok acı veren.
 cîhad ‡œƒš: (Cehd. den) Düşman ile muharebe. îlim ve imanla, sözle, fiile, mal ve canla bütün kuvvetini sarf etmek. Allah (C.C.) yolunda muharebe. Din için çalışmak. Erkân-ı imâniye ve esasât-ı diniyeyi muhafaza ve imânı takviye için cehd ve gayret etmek. şeriat-ı Garrâ'nın ahkâmını muhafaza, Kelimetullah'ı i'lâ, küfr-ü mutlakın ve küffarın (süfyan ve deccalın) fitnelerini def ile hâkimiyet-i Hakkı te'min eylemek. (Bu mücahede, zamanımızda kılıçla değildir. Kılıçla olan cihad, din hükümlerinin câri olduğu dar-ı îslâmın hâricinde yapılabilir. Bununla berâber bu mezkur maddi ve mânevi cihad, değişen şartlara bağlıdır.)Kur'an-ı Kerim'de 9. sûrenin 24. âyetinin çok kısa bir meâli şöyledir:"De ki: Eğer babalarınız, çocuklarınız, kardeşleriniz, zevceleriniz, akraba ve kabileniz, elinize geçirdiğiniz mallar, kesada uğramasından korktuğunuz bir ticaret ve hoşunuza giden meskenleriniz, evleriniz size Allah ve Resulünden ve Allah yolunda cihaddan daha sevgili ise, artık Allahın emri (lâyık olduğunuz cezası ve felâketi) gelinceye kadar bekleyin. Allah öyle fâsıklar güruhunu hidâyete erdirmez."Cihada dair pekçok âyet-i kerimeler ve hadis-i şerifler vardır.(Cihâd-ı diniye farzdır; bu zamanda muzaaf farz-ı ayndır. M.)(Cihad, mertebe-i şehadetin merdivenidir. Lemeât.)(Bütün ümmet için ve bilhassa, îslâm ve Kur'an hizmetinde fedakâr ve sebatkâr çalışan mücâhidler için dâima tazeliğini koruyan Tebük Seferindeki bir hâdiseyi, bazı kısımlarını aynen alıyoruz.Bu hâdisede, çok çeşitli ders ve ibretler vardır. Ezcümle: Maddi ve manevi cihadda, bir tekâsül ve ihmâlin bilhassa kendi şahsi hayatına temâyül gösterip özürsüz olarak cihaddan geri kalmakla, mücâhid cemaatin cihad ruhuna ve fedakârâne sebatına fütur getirmek ve kuvve-i mâneviyeyi kırmağa sebep olmak gibi büyük mes'uliyetler bulunduğundan, cihad ruhuna zararlı düşen bu gibi fiil ve hareketler, cemaatça ve bilhassa ileri gelen kimseler tarafından takbih edilerek, bu tarz hissiyatların inkişafına meydan vermemek.Hem ihlâs ile ve sadece Allah rızası için çalışmanın şiddetli imtihanlarından geçmekle azami sadakat dersini vermek gibi ehemmiyetli çok hikmetleri ihtivâ eder:(...Resulullah ile müslümanlar, gaza hazırlığıyla meşgul oldular. Ben de onlarla beraber yola hazırlanmak için sabahleyin evden çıkıp dolaşırdım. Hiçbir iş görmeden akşam üzeri döner gelirdim. Ve kendi kendime: "Hazırlanmağa kudretim, vaktim müsaittir." derdim. Bu ihmâlcilik bende durmayıp devam etmişti.Resulüllah gazaya gittikten sonra çarşıya, pazara çıktığım ve halk arasında dolaştığım sıra beni en fazla mahzun ve mükedder eden bir şey vardı. O da halk arasında (imanı yerinde, vücudu zinde kimse) görmemekliğim; ancak ya nasiyesine nifak damgası vurulmuş kimselerden bir kişi yahut da mâlül olup da Allah Teâlâ'nın mazur gördüğü bir mü'min görürdüm.Sonra Resulüllah bir sabah Medine'ye teşrif buyurdu. Resulüllah bir seferden geldiğinde ilk iş olarak mescide girmek ve orada iki rekât namaz kılmak, sonra halkın: Hoş geldiniz temennilerini kabul etmek için oturmak itiyadında idi. Bu defa da bu âdetini yerine getirip mescidde oturunca Tebük Seferi'ne gitmeyip arda kalanlar Resulüllah'a gelerek özür dilemeye ve yemin ile özürlerini te'yid etmeğe başladılar. Bunlar seksen kadar er kişiydiler. Resulüllah bunların hallerine göre özürlerini ve biatlerini kabul ve onlar için istiğfar buyurdu. Ve bunların iç yüzünü ve hakikatını Allah Tealâ'ya havale eyledi. Bu arada ben de huzura geldim. Ve Resulüllah'a selâm verince gazablı bir tebessümle gülümsedi. Sonra bana: Gel dedi. Ben de yürüyüp vardım, tâ önünde oturdum. Bana: "Seni nasıl bir mâni geri bıraktı? Sen Akabe'de arkana biat almış değil mi idin?" buyurdu. Ben de şöyle cevap verdim: "Evet, vallahi, Ya Resulüllah! Size nusret etmeğe söz verdim. Vallahi benim seferden tahallüfüm hakkında arzedecek hiç özrüm yoktur. Vallahi ben sizden geri kaldığım zamanki kadar hiçbir vakit daha kuvvetli ve daha suhûletli değildim." Bu maruzatım üzerine Resulüllah (A.S.M.) "Hakikaten bu, doğru söyledi. Ey Ka'b! Haydi kalk; Allah hakkında hükmedinceye kadar bekle!" buyurdu.Resulüllah, kendisinden seferde geri kalanlardan bizim işte şu üçümüzle konuşmaktan müslümanları nehyetti. Halk da bizden çekindiler ve bize yüzlerini ekşittiler. Hatta bana yeryüzü yabancılaştı, bu hakidan benim bildiğim toprak değildi. Bu hâl üzere elli gün kaldık. îki arkadaşım halktan çekildiler ve evlerinde oturup ağlamakla vakit geçirdiler. Fakat, ben onların daha genci ve daha salâbetlisi idim. Bu cihetle ben evimden çıkardım. Ve mescide gidip müslümanlarla beraber namazda hazır bulunurdum. Ve sokaklarda, çarşıda dolaşırdım. Halbuki hiçbir kimse bana söz söylemezdi. Namazdan sonra Resulüllah'ın meclisine varır ve kendine selâm verirdim. Ve içimden: Acaba Resulüllah selâmıma mukabele ederek dudaklarını oynattı mı, yoksa oynatmadı mı? derdim. Sonra namazı Resulüllah'ın yakınında kılardım da gizlice onu gözetlerdim. Namazıma yöneldiğim sıra o bana doğru dönerdi. Fakat ben onun tarafına bakınca da yüzünü çevirirdi. Nihayet halkın cefasından ıztırab çektiğim bu hâl uzayınca bir gün gittim. Tâ Ebu Katâde'nin bahçe duvarından aştım. Ebu Katâde, amcam oğlu ve halk arasında beni en çok seven bir zat idi. Vardım, ona selâm verdim. Vallahi selâmımı almadı. Ben: "Ey Ebu Katâde! Allah adına and vererek sana sorarım: Benim Allah'ı ve Resulüllah'ı sevdiğimi bilir misin?" dedim. Sustu, cevap vermedi. Tekrar and verdim. Allah aşkına sordum. Yine sükut etti. üçüncü bir daha Allah adına and verdim. Bu defa: "Allah ve Resulü daha iyi bilir!" dedi. Bunun üzerine gözlerimden yaş boşandı. Artık döndüm, duvardan aştım.Kâ'b bin Mâlik rivayetine devam ederek der ki: Birgün Medine çarşısında gidiyordum. Medine'ye zahire satmağa gelen şam ahalisinden nebeti bir fellâh, bir ekinci: "Ka'b bin Malik'i bulmağa bana kim delâlet eder?" diye soruyordu. Bunun üzerine halk ona beni göstermeğe başladılar. Nihayet nebeti kişi bana geldi. Ve Gassan Meliki'nden bir mektup verdi. Bakınca: (Emma ba'dü) den sonra bu mektupta şöyle yazıldığını gördüm: Haber aldığıma göre sahibin (Peygamber), sana cefa ve eza ediyormuş. Allah seni hakaret görecek ve hakkın zayi olacak bir mevkide tahkir ve tezlil için yaratmamıştır. Orada durma, bize gel! Sana şânına lâyık bir surette hürmet ve ihsanda bulunuruz. Bu mektubu okuyunca, bu da öbürüsü gibi bir belâdır, dedim. Hemen bu sayfayı ocağa attım, ocakta yaktım.Nihayet bu elemli elli günden kırk günü geçtiğinde bir gün baktım ki Resulüllah'ın gönderdiği bir zat, (Huzeyme bin Sâbit) bana geliyor. Huzeyme gelip, bana: "Resülullah sana kadınından ayrılmanı emrediyor!" dedi. Ben de: "Kadınımı boşayacak mıyım, yoksa ne yapacağım?" dedim. O da: "Hayır, boşama, yalnız ondan ayrı bulun, kadınına yaklaşma." dedi.Resulüllah, Huzeyme ile iki arkadaşım Murar ile Hilâl'e de bunun gibi emir göndermişti. Bu emir üzerine kadınıma, haydi ehline (baban ailesi yanına) git, Allah bu iş hakkında hükmedinceye kadar, onların yanında bulun! dedim.Bundan sonra on gün daha durdum. Tâ ki Resulüllah'ın bizimle halkı görüşmekten menettiği tarihten itibaren elli günümüz dolmuştu. Vakta ki ellinci günün sabahında sabah namazını kıldım. Ve evlerimizden birinin damı üzerinde bulunuyordum. öyle bir hâlde bulunuyordum ki, Allah Telâlanın (Tevbe sûresinde) zikrettiği vechile hayatım bana güçleşmişti. Ve yeryüzü bütün genişliği ile başıma dar gelmişti. îşte bu sırada Sili dağı üzerinde en yüksek sesiyle: "Ey Ka'b bin Mâlik, müjde!." diye olanca kuvvetiyle bağıran birisinin sesini işittim. Hemen secdeye kapandım. Ve anladım ki darlık gitmiş, genişlik gelmiştir. Ve Resulüllah sabah namazını kıldığı zaman Allah'ın bizim üzerimize tevbesini (nedametlerimizin kabulünü) ilân etmiştir de, halk bize müjdelemeğe koşmuştur. Arkadaşlarım tarafına da bir takım müjdeciler gitmişlerdi. Bana da bir kişi (Zübeyr bin Avvam) müjdelemek üzere atını sürmüştü. Ve Eslem kabilesinden bir müjdeci (Hamza bin Amr) da koşup Sili dağının üstüne çıkmıştı. Bunun sesi attan sür'atli idi. Sevimli sesini işittiğim bu müjdeci bana gelince üzerimdeki iki kat elbisemi hemen çıkarıp müjdelik olarak ona giydirdim. Vallahi o gün bundan başka elbisem yoktu. (Ebu Katade'den) iğreti iki kat elbise alıp giydim. Hemen Resulüllah'a (A.S.M.) koştum. Ashab, beni takım takım karşıladılar. Tevbemin kabulünü (günahtan beraatimi) tebrik ediyorlar ve: Allahın, tevbeni kabul buyurması sana kutlu olsun! diyorlardı.Ka'b rivayetine devam ederek der ki: Nihayet mescide girdim. Resulüllah oturmuştu. Etrafında ashab çevrelenmişti. Hem Talha bin Ubeydullah kalktı, koşarak geldi, musafaha etti, elimi sıktı ve beni tebrik etti. Vallahi muhacirlerden Talhadan başka kimse bana ayağa kalkmadı. Talha'nın bu lütfunu unutmam.Ka'b der ki: Vaktaki Resulüllah'a (A.S.M.) selâm verdim. Mübârek yüzü meserretten şimşek çakar gibi şakır bir hâlde bana: "Bir günün hayır ve saâdeti ile müjde sana ey Ka'b ki, annen doğurduğu günden beri yaşadığın günlerin en hayırlısı!" buyurdu. Ben: "Yâ Resulallah! Bu tebşir, tarafınızdan mı, yoksa Allah tarafından mı?" dedim. Resulullah: Hayır, benim tarafımdan değil, doğrudan Allah tarafından! buyurdu. Esasen Resul-ü Ekrem, taraf-ı îlâhiden tesrir buyurulduğu zaman mübarek yüzü parlardı, hatta o, bir ay parçasına benzerdi. Biz de meserretli bir vahiy geldiğini onun bu sevimli simasından anlardık.Vaktaki Resulüllah'ın huzurunda oturdum. - Ya Resulallah, Allah ve Resulullah'ın rızası için halis sadaka olmak üzere malımdan sıyrılıp çıkmak ve malımın hepsini fukaraya dağıtmak istiyorum. Bu istek, tevbemin kabulü icabındandır dedim. Resulullah (A.S.M.): "Hayır, malının bir kısmını kendine alıkoy. Bu senin için daha hayırlıdır!" buyurdu. Ben de "şu Hayber'deki hissemi alıkorum" dedim.) (S.B.M.)
 cîhad-i asgar ‡œƒšó‚¤•œ: Küçük savaş. îslâm müdâfaası için silahla savaşma.
@@ -1017,8 +1017,8 @@ cîhan-penah: Cihanın koruyucusu olan.
 cîhan-pesend ‡œƒ›‚¨ž›š: f. Cihana meydan okuyan.
 cîhan-sâlâr: f. Cihanın başkanı, büyüğü ve kumandanı olan, padişah.
 cîhan-sîtan: f. Cihanı zapteden. Padişah, hükümdar.
-cîhan-sz: f. Cihanı yakan, güneş. * Mc: çok zulmeden.
-cîhan-şüml ‡œƒ›š™: f. Cihan vüs'atinde, dünya çapında, cihanı alâkadar eden. Dünyayı kaplayan.
+cîhan-sûz: f. Cihanı yakan, güneş. * Mc: çok zulmeden.
+cîhan-şümûl ‡œƒ›š™: f. Cihan vüs'atinde, dünya çapında, cihanı alâkadar eden. Dünyayı kaplayan.
 cîhanîyan: f. Dünya ahalisi olan insanlar.
 cîhar ‡œƒœ: f. (Bak: çâr)
 cîhar ‡œƒœ: (Cehr. den) Sesle, sadâ ile ve alenen söyleme ve okuma.
@@ -1087,7 +1087,7 @@ cîn ‡›õ: (Bak: Cinn)
 cînab: Hayvanlara vurulan damga ve nişan.
 cînaî: (Cinâiyye) Cinayetle alâkalı.
 cînan ‡›ƒ›: (Cennet. C.) Cennetler.
-cînan-i ulm ‡ó›ƒ›ó‚”™š: îlm-i Kur'ân ve imân cennetleri. Maarif-i îlâhiye ve tahkiki ve yakini imân derslerinin okunduğu ulemâ-i îslâm ve talebe-i ulûm meclisleri.
+cînan-i ulûm ‡ó›ƒ›ó‚”™š: îlm-i Kur'ân ve imân cennetleri. Maarif-i îlâhiye ve tahkiki ve yakini imân derslerinin okunduğu ulemâ-i îslâm ve talebe-i ulûm meclisleri.
 cînare: Esterâbâd ile Cürcân arasına derler.
 cînas ‡›ƒž: Benzeyiş, münâsebet. * Edb: Birçok mânâya gelebilen söz, imalı, telmihli söz. telâffuzu bir, mânası ayrı olan kelimelerin bir sözde bulunması. Bunu yapmaya "tecnis" denir, o kelimelere de "cinas" denir.
 cînas-i muharref ‡›ƒž‚šˆœ–: Edb: Yalnız harflerde beraberlik, harekelerde ayrılık bulunan cinâs. (merd, mürd gibi.)
@@ -1100,7 +1100,7 @@ cînaze: Tabut. îçine cenaze konulan sandık.
 cîncîn(e): (C: Cenâcin) Göğüs kemiği.
 cînh: Gece karanlığı.
 cînn ‡›: Bir cins ateşten yaratılmış olup, dünyanın insandan sonra en mühim sekenesidir. Akıl ve şuur sâhibi olup pekçok şer ve isyan yapabildikleri gibi "Peygamberlerin ve semâvi kitabların irşadlarıyla" insana yetişememekle beraber terakki edip yüksek kemâlatlara çıkabilen mahluktur. însanlar gibi dinin bir kısım emirlerini yapmakla ve bazı yasaklarından kaçınmakla yükümlüdürler. Kıyamet ve haşirden sonra cinlerden de dünya imtihanını kazananlar Cennet'e, kaybedenler Cehennem'e girecektir. Kâinat ve içindeki bütün varlıklar hakkında, en birinci söz söyleme hakkı; onların yaratıcısı ve mâliki olanındır. çünki "Yapan bilir, öyleyse bilen konuşur" bir kaidedir. Cinlerin varlığını da, evvelâ; Kur'an-ı Kerimden öğreniyoruz. Ayrıca Peygamberimiz Resul-ü Ekrem'den (A.S.M.) gelen sahih rivayetler ve ashabının cinleri görmesi ve görüşmesi hâdiseleri de pek çoktur. Cinlerin pekçok cinsleri vardır. Bunlar lâtif yaratıklar oldukları için gaybi haberler getirmekte kullanılabilirler. Fakat Hazret-i Peygamber'den (A.S.M.) sonra cinlerin gaybi âlemden haber hırsızlamaları Cenab-ı Hak tarafından menedilmiştir.Cinlerin, kötülüğe sevkedenlerine şeytan-ı cinni de denilir. * Lügatta: Bir şeyi hisseden, setretmek, gizlemek mânasına gelir.
-cînn sresî ‡›õ‚žœœ¯žž: Kur'ân-ı Kerim'in 72. sûresi olup Mekke-i Mükerreme'de nâzil olmuştur.
+cînn sûresî ‡›õ‚žœœ¯žž: Kur'ân-ı Kerim'in 72. sûresi olup Mekke-i Mükerreme'de nâzil olmuştur.
 cînnet ‡›…: Delilik.
 cînnî ‡›ÿ: Cinn taifesinden olan.
 cîns ‡›ž: Nevi'. Boy, soy, kavim, kabile. Aynı çeşitten olmak.
@@ -1209,7 +1209,7 @@ cul ‡™: f. çaylak.
 cul ‡™: (C.: Ecvâl) Akıl. * Rey. * Kuyu duvarı. Aşağısından yukarısına kadar kuyunun taraflarından her bir tarafı.
 culah: f. örümcek, ankebut. * çulha, yâni dokuyucu, nessâc.
 cum'a ‡š”œ: Toplanma. * Perşembeden sonraki gün. Müslümanların kudsi tâtil günü olup, o güne mahsus namazla mükelleftirler. Memur ve işçilerin cuma namazı vakti serbest bırakılmamaları din hürriyetine aykırıdır. Yahudiler ve hristiyanlar haftalık dini törenleri için cumartesi ve pazar günü serbest oldukları halde, müslümanlara aynı hakkın tanınmaması hakiki medeniyete zıttır.
-cum'a sresî ‡š”œ‚žœœ¯žž: Kur'an-ı Kerim'in 62. ve Medine-i Münevvere'de nâzil olan sûresi.
+cum'a sûresî ‡š”œ‚žœœ¯žž: Kur'an-ı Kerim'in 62. ve Medine-i Münevvere'de nâzil olan sûresi.
 cum'a-î atîk: (Eski Cum'a) Osmanlılar zamanında, Bulgaristan'da şumnu ile Razgrat arasında yer alan meşhur bir bölge.
 cum'a-î bâlâ: (Yukarı Cum'a) Osmanlılar devrinde, Selânik Vilâyetinin Serez sancağındaki bir kaza merkezi.
 cum'at: (Cum'a. C.) Perşembeden sonra gelen günler. Cum'alar.
@@ -1227,7 +1227,7 @@ cumu' ‡š”: Toplanmalar. Cemi'ler.
 cumuat: (Cum'a. C.) Perşembe gününden sonra gelen günler. Cum'alar.
 cu'mus: Pis, necis.
 cun (cunî): Karnı ve kanadı kara olan bağırtlak kuşu cinsinden bir kuş.
-cne: (C.: Cuven) Attarların kutusu ve tablası.
+cûne: (C.: Cuven) Attarların kutusu ve tablası.
 cur: Belde ismi.
 cur'a ‡œ”œ: Tek yudum. Bir içimlik. Bir yudumluk.
 cur'aten ‡œ” ø: Bir yudumluk.
@@ -1235,9 +1235,9 @@ curh ‡œˆ: (Curha) Yara. Yaralama.
 curnal ‡œ›ƒ™: (Bak: Jurnal)
 cuş ‡: f. Coşmak, kaynamak. Taşmak. Deprenmek.
 cuş u huruş ‡‚‰œ: f. Kaynayıp taşma. Neş'e ve âhenk. Coşup taşma.
-cş-aver: f. Coşturucu, coşmaya sebep olucu.
+cûş-aver: f. Coşturucu, coşmaya sebep olucu.
 cuşacuş: f. çok coşkun, taşkın. Pek coşkun ve taşkın bir sûrette.
-cşak: f. Kaynama.
+cûşak: f. Kaynama.
 cuşan ‡ƒ›: f. Coşup kaynayan.
 cuşîde: f. Coşmuş, kaynamış.
 cuşîr(e): f. Dokumacı.
@@ -1331,7 +1331,7 @@ cülünbak: Diş gıcırtısı. * Kapı gıcırtısı.
 cülza: Sağlam deve.
 cüma': Toplamak. Cem'etmek.
 cümâd-el-âhîre: Arabi ayların altıncısının adı.
-cümâd-el-lâ: Arabi ayların beşincisi. Cemazi-yel-evvel.
+cümâd-el-ûlâ: Arabi ayların beşincisi. Cemazi-yel-evvel.
 cümâde: Arabi ayların beşinci ve altıncısının adı.
 cümah: Kibirlenmek.
 cümale: (C.: Cümâlât) Gemi urganı.
@@ -1358,7 +1358,7 @@ cümle-î mu'terîze ‡š™œý‚š”…œ‘œ: Cümlenin mânasını açı
 cümle-î müste'nefe: Kendinden önceki cümleden bağımsız, müstakil cümle.
 cümle-î şartîye ‡š™œý‚œ’ÿœ: (Bak: şart)
 cümle-î tefsîrîye: (Cümle-i müfessire) "Yâni, meselâ" gibi sözlerle başlayıp önceki cümleyi açıklayan cümle.
-cümle-î lâ ‡š™œý‚¤™ƒ: Birinci cümle. Evvelki cümle.
+cümle-î ûlâ ‡š™œý‚¤™ƒ: Birinci cümle. Evvelki cümle.
 cümleten ‡š™ ø: Bütün, hep, kâffeten, cemian, hep birden.
 cümma': Bir araya gelerek toplanmış şey, küme.
 cümmah: Temrensiz, ucu yuvarlak ok. (Oğlancıklar onunla ok atmayı öğrenirlerdi)
@@ -1372,7 +1372,7 @@ cümud ‡šš: Donuk. Katı. Sert. * Mc: Gayretsiz. * Soğukluk.
 cümud-u ayn ‡ššó‚”ÿ›: Göz donukluğu.
 cümudîye ‡ššÿœ: Büyük buz dağ. Glâsiye. Buzul. Aysberg.
 cümum: Suyu çok olan kuyu. * Su kuyuda çok olmak (mânâsına mastardır).
-cüms: Donmak.
+cümûs: Donmak.
 cümza: Seri davar.
 cümzan: Hurma nevilerinden bir hurma.
 cümze: Toplanmış hurma.
@@ -1452,7 +1452,7 @@ cürşu': Büyük karınlı deve.
 cürub: Beddualar, bed ve kötü dualar, fenâ sözler.
 cüruh: (Cürh. C.) Yaralar.
 cürum: Sıcak, çukur yer.
-cürn: Bezin eskimesi. * Yumuşak olmak. * Bir nesne aşınmak. * Alışkanlık, itiyat.
+cürûn: Bezin eskimesi. * Yumuşak olmak. * Bir nesne aşınmak. * Alışkanlık, itiyat.
 cürüf: Uçurum, yar.
 cürüz ‡œ: Verimsiz çorak yer.
 cürvaz: Karnı büyük olan kişi.

@@ -108,7 +108,7 @@ tab …ƒ„: f. "Parıldayan, parlayan, parlatan, aydınlatan" anlamlarına gel
 tab' ’„”: Tabiat. Karakter. * Damga basmak. Mühür basmak. Kitab basmak. Mühür.
 tab'a: Bir kere basılma.
 taba': Bulaşmak. * Kir. * Demirin paslanması.
-tab'a-î lâ: Birinci baskı.
+tab'a-î ûlâ: Birinci baskı.
 tababet ’„ƒ„ : Hekimlik. Doktorluk.
 tabah: Kuvvet.
 tabahat: Aşçılık. Yemek pişirme san'atı.
@@ -183,7 +183,7 @@ ta'bîrat …”„œƒ…: (Ta'bir. C.) Tabirler. îfade şekilleri. Anlatmalar
 tabîstan: f. Yaz mevsimi.
 tabîş: f. Parlayış, parıldayış.
 tabîş-geh: f. Parıltı yeri.
-tabîn …ƒ„”›‚ó‚…ƒ„”ÿ›: (Tâbiin) (Tâbii. C.) (Bak: Tabii)
+tabîûn …ƒ„”›‚ó‚…ƒ„”ÿ›: (Tâbiin) (Tâbii. C.) (Bak: Tabii)
 ta'bîye …”„ÿœ: Askerleri bir arazide düşmana karşı tam tedbir ve nizam üzere yerleştirme. * Muharebe toplarının yeri, istihkâm parçası. * Muvaffakiyet için kullanılan vâsıtalar. ("Tabya" yanlıştır)
 tabl: Davul. * Kulak zarı.
 tabl-baz: f. Davulcu.
@@ -1048,7 +1048,7 @@ taleb ’™„: îsteme. îstenme. Dileme. îstek.
 taleb-î rü'yet: Görmeyi istemek. Hz. Musa'nın (A.S.) Cenab-ı Hakk'ı görmek istemesi.
 talebdâr: f. Alacaklı.
 talebe: (Tâlib. C.) îstekliler. * şakird. Tahsile çalışan. öğrenen. öğrenci.
-talebe-î ulm: Yüksek dini ilimleri okuyan talebe. (Bak: âlem-i berzah)(îmam-ı şâfii (K.S.) gibi büyük zâtlar: "Talebe-i ulûmun hattâ uykusu dahi ibadet sayılır." diye ziyade ehemmiyet vermişler. ş.)
+talebe-î ulûm: Yüksek dini ilimleri okuyan talebe. (Bak: âlem-i berzah)(îmam-ı şâfii (K.S.) gibi büyük zâtlar: "Talebe-i ulûmun hattâ uykusu dahi ibadet sayılır." diye ziyade ehemmiyet vermişler. ş.)
 talebkâr: f. îstekli, talebli, arzulu.
 talef: Fazl. Atâ, hediye, bahşiş, hibe. * Kanı heder olmak.
 talel: (C.: Tulul-Atlâl) Yıkılmış binada kalan duvar temeli.
@@ -1545,7 +1545,7 @@ tavahî: Lâşe etrafında dolaşıp uçuşan akbaba kuşları.
 tavahîn: (Tâhine. C.) Azı dişleri, öğütücü dişler.
 tavahîn: (Tâhun ve Tâhune. C.) öğütülmüş şeyler. * Su değirmenleri.
 tavaîf ’ƒ¡–: (Taife. C.) Gruplar. Milletler, kavimler. Bölükler.
-tavaîf-î mülk ’ƒ¡–‚š™˜: Abbasi Devletinin parçalanması ile meydana gelen küçük devletler.
+tavaîf-î mülûk ’ƒ¡–‚š™˜: Abbasi Devletinin parçalanması ile meydana gelen küçük devletler.
 tavalî': (Tâli'. C.) Kısmetler, bahtlar, tâlihler.
 tavamîr: Tomarlar.
 tav'an ’”øƒ: îsteyerek. Zorlanmadan. Kendi isteğiyle.
@@ -3018,7 +3018,7 @@ telh: f. Acı.
 telh-kâm: f. "Damağı acı": Kederli, dertli.
 telh-nak: f. Lezzeti acı olan, lezzeti hoş olmayan.
 telhbâr: f. Acı olan meyve. Meyvesi acı olan.
-telhg: f. Acı söyleyen.
+telhgû: f. Acı söyleyen.
 telhgüftar: f. Acı sözlü.
 telhî: Acılık.
 telhîb: (C.: Telbihât) (Leheb. den) Alevlendirme, tutuşturma.
@@ -3261,7 +3261,7 @@ tenaffuh: şişmek. " Uf, tüf, ah ve oh" demek.
 tenaffut: çok kızma, hiddetlenme.
 tenafî: Birbirine zıt ve muhâlif olma.
 tenafür …›ƒ–œ: Birbirinden kaçmak. ürkmek. * Uzağa çekilmek. * Bir mes'elenin halli için hâkime başvurmak. * Edb: Kulağa hoş gelmeyen hece veya kelimelerin bir arada bulunması.
-tenafür-ü kulb …›ƒ–œ‚—™„: Kalblerin birbirinden nefret etmesi.
+tenafür-ü kulûb …›ƒ–œ‚—™„: Kalblerin birbirinden nefret etmesi.
 tenafüs: (C.: Tenâfüsât) Hased etme. çekememe.
 tenaggum …›•š: şarkı söylemek.
 tenagguş: Hareket etmek.
@@ -3446,7 +3446,7 @@ te'nîs …¤›ÿž: ürkekliğini gidermek. Alıştırmak. * Bir hayvanı terb
 te'nîs-î ezhan …¤›ÿž‚¤‹œƒ›: Zihinleri alıştırmak, anlayışı kolaylaştırmak.
 ten'îş: Yukarı kaldırma.
 tenîze: Uç, etek.
-tenîze-î kh: Dağ eteği.
+tenîze-î kûh: Dağ eteği.
 tenkiye …›—ÿœ: Tıb: şırınga âleti. * Temizleme, tathir.
 tenkîb …›—ÿ„: Dolaşıp gezmek. * Ticaret yapmak. Tefahhus etmek. * înceden inceye araştırmak.
 tenkîb: Dönmek veya döndürmek.
@@ -3488,7 +3488,7 @@ tenşîm: Bir işe başlama. * (Et) bozulup kokma.
 tenşîr: Açıp yayma. Serpme.
 tenşît: (C.: Tenşitât) (Neşât. dan) Keyiflendirme, şenlendirme.
 tenşîye: Beslemek, terbiye etmek. * Uzatmak.
-tenşy: f. ölü yıkayıcı. * Teneşir.
+tenşûy: f. ölü yıkayıcı. * Teneşir.
 tente: f. örümcek ağı.
 tentene …›…›œ: îplik gibi şeylerle örülmüş delikli bez, perde v.s. Dantela.
 tentîf: Mübâlağa ile yolmak.
@@ -4054,7 +4054,7 @@ tesvîs: Buğdaya bit düşmek.
 tesvît: Karıştırmak.
 tesvîye …žÿœ: Seviyelendirme. Düzleme. Beraber etme. îki şeyi müsavi etme. * Bir neticeye bağlama.
 tesvîye-î deyn: Borç ödeme.
-tesvîye-î umr: îşlerin görülüp neticelendirilmesi.
+tesvîye-î umûr: îşlerin görülüp neticelendirilmesi.
 tesyar …žÿƒœ: Gönderme, gönderilme. (Eşya hakkında) (Tisyâr şekli yanlıştır)
 tesyîl …žÿÿ™: Akıtma. Akıtılma. Sel gibi akıtılma.
 tesyîr …žÿœ: (Seyr. den) (C: Tesyirât) Gönderme, yollama. Seyrettirme. * Sürmek. * Bezi yol yol alaca edip dokumak.
@@ -4860,7 +4860,7 @@ tîryakî: Afyon kullanmağa alışmış, afyonkeş. * Keyif verici şeyler kull
 tîs'a …ž”œ: Dokuz. 9.
 tîs'a mîe: Dokuz yüz. 900
 tîshan: (C.: Tesâhin) çizme.
-tîs'n: (Tis'in) Doksan, 90.
+tîs'ûn: (Tis'in) Doksan, 90.
 tîş: şiddet. * Hafiflik.
 tîşe: f. Muharebede kullanılan başı sivri ve keskin balta, keser.
 tîşrab: şarap içmek.

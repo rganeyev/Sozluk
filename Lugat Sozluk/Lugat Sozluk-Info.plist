@@ -34,10 +34,10 @@
 	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSMainNibFile~ipad</key>
-	<string>MainWindow-iPad</string>
 	<key>UIMainStoryboardFile</key>
 	<string>iphoneStoryBoard</string>
+	<key>UIMainStoryboardFile~ipad</key>
+	<string>iPadStoryBoard</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
