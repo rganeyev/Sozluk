@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		36EBC54F66878BD25E32C007 /* copy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 36EBCBEF2A4471E4A7194800 /* copy.txt */; };
 		36EBC8B26EBE71DE605D454D /* Word.m in Sources */ = {isa = PBXBuildFile; fileRef = 36EBCB78D2252B4595C0B99A /* Word.m */; };
 		8E0F52DB158DF8AA008D191C /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0F52D9158DF8AA008D191C /* MainWindow-iPad.xib */; };
 		8E0F52DD158DF918008D191C /* DetailViewController-Pad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0F52DC158DF918008D191C /* DetailViewController-Pad.xib */; };
@@ -18,7 +17,6 @@
 		8E648B9015602DA500D3EC22 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E648B8F15602DA500D3EC22 /* main.m */; };
 		8E648BB915602F9100D3EC22 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E648BA315602F9100D3EC22 /* DetailViewController.m */; };
 		8E648BBA15602F9100D3EC22 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BA415602F9100D3EC22 /* DetailViewController.xib */; };
-		8E648BBB15602F9100D3EC22 /* dict.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BA515602F9100D3EC22 /* dict.txt */; };
 		8E648BBC15602F9100D3EC22 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BA615602F9100D3EC22 /* InfoPlist.strings */; };
 		8E648BBD15602F9100D3EC22 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BA815602F9100D3EC22 /* MainWindow.xib */; };
 		8E648BBE15602F9100D3EC22 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BAA15602F9100D3EC22 /* RootViewController.xib */; };
@@ -61,7 +59,6 @@
 /* Begin PBXFileReference section */
 		36EBC54C666752E18FA34A0F /* Word.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Word.h; sourceTree = "<group>"; };
 		36EBCB78D2252B4595C0B99A /* Word.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Word.m; sourceTree = "<group>"; };
-		36EBCBEF2A4471E4A7194800 /* copy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = copy.txt; sourceTree = "<group>"; };
 		8E0F52DA158DF8AA008D191C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "SozlukIOS/iPad/en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		8E0F52DC158DF918008D191C /* DetailViewController-Pad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "DetailViewController-Pad.xib"; path = "SozlukIOS/iPad/DetailViewController-Pad.xib"; sourceTree = "<group>"; };
 		8E648B7F15602DA500D3EC22 /* Lugat Sozluk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lugat Sozluk.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,7 +72,6 @@
 		8E648BA215602F9100D3EC22 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailViewController.h; path = SozlukIOS/DetailViewController.h; sourceTree = "<group>"; };
 		8E648BA315602F9100D3EC22 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailViewController.m; path = SozlukIOS/DetailViewController.m; sourceTree = "<group>"; };
 		8E648BA415602F9100D3EC22 /* DetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DetailViewController.xib; path = SozlukIOS/DetailViewController.xib; sourceTree = "<group>"; };
-		8E648BA515602F9100D3EC22 /* dict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dict.txt; sourceTree = "<group>"; };
 		8E648BA715602F9100D3EC22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8E648BA915602F9100D3EC22 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		8E648BAB15602F9100D3EC22 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
@@ -239,8 +235,6 @@
 				8EB8AFE9179DD21500D21F39 /* v.txt */,
 				8EB8AFEA179DD21500D21F39 /* y.txt */,
 				8EB8AFEB179DD21500D21F39 /* z.txt */,
-				8E648BA515602F9100D3EC22 /* dict.txt */,
-				36EBCBEF2A4471E4A7194800 /* copy.txt */,
 			);
 			name = Words;
 			path = SozlukIOS;
@@ -338,7 +332,6 @@
 			files = (
 				8E648B8E15602DA500D3EC22 /* InfoPlist.strings in Resources */,
 				8E648BBA15602F9100D3EC22 /* DetailViewController.xib in Resources */,
-				8E648BBB15602F9100D3EC22 /* dict.txt in Resources */,
 				8E648BBC15602F9100D3EC22 /* InfoPlist.strings in Resources */,
 				8E648BBD15602F9100D3EC22 /* MainWindow.xib in Resources */,
 				8E648BBE15602F9100D3EC22 /* RootViewController.xib in Resources */,
@@ -349,7 +342,6 @@
 				8E0F52DB158DF8AA008D191C /* MainWindow-iPad.xib in Resources */,
 				8E0F52DD158DF918008D191C /* DetailViewController-Pad.xib in Resources */,
 				CE23AD60179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard in Resources */,
-				36EBC54F66878BD25E32C007 /* copy.txt in Resources */,
 				8EB8AFEC179DD21500D21F39 /* a.txt in Resources */,
 				8EB8AFED179DD21500D21F39 /* b.txt in Resources */,
 				8EB8AFEE179DD21500D21F39 /* c.txt in Resources */,
@@ -505,7 +497,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -520,7 +512,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;

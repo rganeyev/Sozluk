@@ -23,7 +23,7 @@ NSString *const LAST_WORD = @"lastWord";
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
-    NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+    /*NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
     lastWord = [defaults stringForKey:LAST_WORD];
     UIPasteboard *pasteboard = [UIPasteboard generalPasteboard];
     
@@ -42,7 +42,7 @@ NSString *const LAST_WORD = @"lastWord";
             RootViewController *rootViewController = (RootViewController *) self.navigationController.topViewController;
             [rootViewController searchText:string];
         }
-    }
+    }*/
 }
 
 

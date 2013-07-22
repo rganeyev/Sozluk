@@ -17,6 +17,7 @@ static NSString *segueID = @"detailSegue";
 - (void)viewDidLoad {
     [super viewDidLoad];
     isSearchActive = NO;
+    [self loadFromFile];
     [table reloadData];
 }
 
