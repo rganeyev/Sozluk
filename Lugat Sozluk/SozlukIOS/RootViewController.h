@@ -15,8 +15,6 @@
     NSMutableArray *searchList;
     Word *selectedWord;
     IBOutlet UITableView *table;
-    IBOutlet UISearchDisplayController *searchDisplay;
-    IBOutlet UISearchBar *searchBarText;
     BOOL isSearchActive;
 }
 

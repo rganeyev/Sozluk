@@ -14,6 +14,7 @@
 @synthesize all;
 @synthesize word;
 @synthesize definition;
+@synthesize lowercaseWord;
 
 
 + (Word *)wordWith:(NSString *)string {
@@ -24,6 +25,7 @@
         if (range.location != NSNotFound) {
             result.word = [string substringToIndex:range.location];
             result.definition = [string substringFromIndex:range.location + 1];
+            result.lowercaseWord = result.word.lowercaseString;
         }
     }
 
@@ -66,16 +68,21 @@
     return ch;
 }
 
-+ (NSComparisonResult)compareTurkishSymbol:(unichar)ch With:(unichar)another {
-    return ([Word convertSymbol:ch] - [Word convertSymbol:another]);
+- (NSComparisonResult)compareSymbolWith:(unichar)symbol {
+    return [self compareSymbolAtIndex:0 With:symbol];
+}
+
+-(NSComparisonResult)compareSymbolAtIndex:(NSUInteger)index With:(unichar)symbol {
+    return ([Word convertSymbol:[lowercaseWord characterAtIndex:index]] - [Word convertSymbol:symbol]);
 }
 
 - (NSComparisonResult)compareWith:(NSString *)searchWord {
-    NSString *lowSearchWord = [[NSString alloc] initWithString:[searchWord lowercaseString]];
-    NSString *lowWord = [[NSString alloc] initWithString:[word lowercaseString]];
-    NSUInteger len = [lowSearchWord length];
+    NSUInteger len = searchWord.length;
+
     for (NSUInteger i = 0; i < len; ++i) {
-        NSComparisonResult res = [Word compareTurkishSymbol:[lowWord characterAtIndex:i] With:[lowSearchWord characterAtIndex:i]];
+        if (i > word.length)
+            return NSOrderedDescending;
+        NSComparisonResult res = [self compareSymbolAtIndex:i With:[searchWord characterAtIndex:i]];
         if (res != NSOrderedSame) {
             return res;
         }

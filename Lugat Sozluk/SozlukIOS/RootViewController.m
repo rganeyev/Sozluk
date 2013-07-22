@@ -17,7 +17,7 @@ static NSString *segueID = @"detailSegue";
 - (void)viewDidLoad {
     [super viewDidLoad];
     isSearchActive = NO;
-    [self loadFromFile];
+    [self setUp];
     [table reloadData];
 }
 
@@ -27,6 +27,7 @@ static NSString *segueID = @"detailSegue";
 
 - (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString {
     [self filterSearchContentForText:searchString];
+    NSLog(@"%d %d", searchList.count, isSearchActive);
     return YES;
 }
 
@@ -34,22 +35,31 @@ static NSString *segueID = @"detailSegue";
     return NO;
 }
 
+- (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller {
+    isSearchActive = YES;
+}
+
+- (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller {
+    isSearchActive = NO;
+}
+
+
 #pragma mark TableViewDelegate 
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     if (isSearchActive) {
         return 1;
     } else {
-        return [wordList count];
+        return wordList.count;
     }
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     if (isSearchActive) {
-        return [searchList count];
+        return searchList.count;
     } else {
         NSMutableArray *arr = [wordList objectAtIndex:section];
-        return [arr count];
+        return arr.count;
     }
 }
 
@@ -91,7 +101,7 @@ static NSString *segueID = @"detailSegue";
 
 #pragma mark RootViewController Methods
 
-- (void)loadFromFile {
+- (void)setUp {
     [self initArray];
 
     wordList = [[NSMutableArray alloc] init];
@@ -105,6 +115,8 @@ static NSString *segueID = @"detailSegue";
         }
         [wordList addObject:letterArray];
     }
+
+    searchList = [[NSMutableArray alloc] init];
 }
 
 - (void)initArray {
@@ -116,20 +128,22 @@ static NSString *segueID = @"detailSegue";
 
 
 - (void)filterSearchContentForText:(NSString *)searchText {
-    searchText = [searchText lowercaseString];
+    searchText = searchText.lowercaseString;
     [searchList removeAllObjects];
-    if (searchText == nil || [searchText length] == 0) {
+    if (searchText.length == 0) {
         return;
     }
 
     for (NSMutableArray *arr in wordList) {
-        Word *word = [arr objectAtIndex:0];
-        if ([Word compareTurkishSymbol:[word.word characterAtIndex:0] With:[searchText characterAtIndex:0]] != NSOrderedSame) {
+        if (arr.count == 0)
             continue;
-        }
+        Word *word = [arr objectAtIndex:0];
+        if ([word compareSymbolWith:[searchText characterAtIndex:0]] != NSOrderedSame)
+            continue;
 
         NSUInteger left = 0;
-        NSUInteger right = [arr count];
+        NSUInteger right = arr.count;
+        /*//NSLog(@"%d %d", left, right);
         while (left < right - 1) {
             NSUInteger c = (left + right) / 2;
             NSComparisonResult result = [word compareWith:[arr objectAtIndex:c]];
@@ -139,26 +153,23 @@ static NSString *segueID = @"detailSegue";
                 right = c;
             }
         }
-        while (left < [arr count]) {
-            NSComparisonResult result = [word compareWith:[arr objectAtIndex:left]];
+
+        */
+        while (left < arr.count) {
+            word = [arr objectAtIndex:left];
+            NSComparisonResult result = [word compareWith:searchText];
             if (result == NSOrderedSame) {
-                [searchList addObject:[arr objectAtIndex:left]];
+                [searchList addObject:word];
             }
             ++left;
         }
+
+
     }
 }
 
-- (void)searchText:(NSString *)searchText {
-    isSearchActive = YES;
-    [searchDisplay.searchBar becomeFirstResponder];
-    [searchDisplay.searchBar setText:searchText];
-}
-
-
 #pragma mark indexing
 - (NSArray *)sectionIndexTitlesForTableView:(UITableView *)tableView {
-
     if (isSearchActive) {
         return nil;
     }
@@ -166,7 +177,6 @@ static NSString *segueID = @"detailSegue";
 }
 
 - (NSInteger)tableView:(UITableView *)tableView sectionForSectionIndexTitle:(NSString *)title atIndex:(NSInteger)index {
-
     if (isSearchActive) {
         return -1;
     }

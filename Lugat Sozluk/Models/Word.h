@@ -14,11 +14,12 @@
 @property (nonatomic, strong) NSString *word;
 @property (nonatomic, strong) NSString *definition;
 @property (nonatomic, strong) NSString *all;
+@property (nonatomic, strong) NSString *lowercaseWord;
 
 + (Word *)wordWith:(NSString *)string;
 
 - (NSComparisonResult)compareWith:(NSString *)searchWord;
-+ (NSComparisonResult)compareTurkishSymbol:(unichar)ch With:(unichar)another;
+- (NSComparisonResult)compareSymbolWith:(unichar)symbol;
 + (unichar)convertSymbol:(unichar)ch;
 
 @end
