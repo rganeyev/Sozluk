@@ -28,6 +28,33 @@
 		8E648BC315602F9100D3EC22 /* SozlukIOSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */; };
 		8E648BC51560336300D3EC22 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BC41560336300D3EC22 /* Icon.png */; };
 		8E648BC71560338B00D3EC22 /* Icon-Large.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BC61560338B00D3EC22 /* Icon-Large.png */; };
+		8EB8AFEC179DD21500D21F39 /* a.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD1179DD21500D21F39 /* a.txt */; };
+		8EB8AFED179DD21500D21F39 /* b.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD2179DD21500D21F39 /* b.txt */; };
+		8EB8AFEE179DD21500D21F39 /* c.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD3179DD21500D21F39 /* c.txt */; };
+		8EB8AFEF179DD21500D21F39 /* ç.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD4179DD21500D21F39 /* ç.txt */; };
+		8EB8AFF0179DD21500D21F39 /* d.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD5179DD21500D21F39 /* d.txt */; };
+		8EB8AFF1179DD21500D21F39 /* e.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD6179DD21500D21F39 /* e.txt */; };
+		8EB8AFF2179DD21500D21F39 /* f.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD7179DD21500D21F39 /* f.txt */; };
+		8EB8AFF3179DD21500D21F39 /* g.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD8179DD21500D21F39 /* g.txt */; };
+		8EB8AFF4179DD21500D21F39 /* h.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD9179DD21500D21F39 /* h.txt */; };
+		8EB8AFF5179DD21500D21F39 /* i.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFDA179DD21500D21F39 /* i.txt */; };
+		8EB8AFF6179DD21500D21F39 /* j.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFDB179DD21500D21F39 /* j.txt */; };
+		8EB8AFF7179DD21500D21F39 /* k.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFDC179DD21500D21F39 /* k.txt */; };
+		8EB8AFF8179DD21500D21F39 /* l.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFDD179DD21500D21F39 /* l.txt */; };
+		8EB8AFF9179DD21500D21F39 /* m.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFDE179DD21500D21F39 /* m.txt */; };
+		8EB8AFFA179DD21500D21F39 /* n.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFDF179DD21500D21F39 /* n.txt */; };
+		8EB8AFFB179DD21500D21F39 /* o.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE0179DD21500D21F39 /* o.txt */; };
+		8EB8AFFC179DD21500D21F39 /* ö.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE1179DD21500D21F39 /* ö.txt */; };
+		8EB8AFFD179DD21500D21F39 /* p.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE2179DD21500D21F39 /* p.txt */; };
+		8EB8AFFE179DD21500D21F39 /* r.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE3179DD21500D21F39 /* r.txt */; };
+		8EB8AFFF179DD21500D21F39 /* s.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE4179DD21500D21F39 /* s.txt */; };
+		8EB8B000179DD21500D21F39 /* ş.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE5179DD21500D21F39 /* ş.txt */; };
+		8EB8B001179DD21500D21F39 /* t.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE6179DD21500D21F39 /* t.txt */; };
+		8EB8B002179DD21500D21F39 /* u.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE7179DD21500D21F39 /* u.txt */; };
+		8EB8B003179DD21500D21F39 /* ü.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE8179DD21500D21F39 /* ü.txt */; };
+		8EB8B004179DD21500D21F39 /* v.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE9179DD21500D21F39 /* v.txt */; };
+		8EB8B005179DD21500D21F39 /* y.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFEA179DD21500D21F39 /* y.txt */; };
+		8EB8B006179DD21500D21F39 /* z.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFEB179DD21500D21F39 /* z.txt */; };
 		CE23AD60179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -55,12 +82,39 @@
 		8E648BAE15602F9100D3EC22 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		8E648BB015602F9100D3EC22 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		8E648BB115602F9100D3EC22 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		8E648BB215602F9100D3EC22 /* SozlukIOS-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SozlukIOS-Info.plist"; sourceTree = "<group>"; };
-		8E648BB315602F9100D3EC22 /* SozlukIOS-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SozlukIOS-Prefix.pch"; sourceTree = "<group>"; };
-		8E648BB415602F9100D3EC22 /* SozlukIOSAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SozlukIOSAppDelegate.h; sourceTree = "<group>"; };
-		8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SozlukIOSAppDelegate.m; sourceTree = "<group>"; };
+		8E648BB215602F9100D3EC22 /* SozlukIOS-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "SozlukIOS-Info.plist"; path = "SozlukIOS/SozlukIOS-Info.plist"; sourceTree = "<group>"; };
+		8E648BB315602F9100D3EC22 /* SozlukIOS-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SozlukIOS-Prefix.pch"; path = "SozlukIOS/SozlukIOS-Prefix.pch"; sourceTree = "<group>"; };
+		8E648BB415602F9100D3EC22 /* SozlukIOSAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SozlukIOSAppDelegate.h; path = SozlukIOS/SozlukIOSAppDelegate.h; sourceTree = "<group>"; };
+		8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SozlukIOSAppDelegate.m; path = SozlukIOS/SozlukIOSAppDelegate.m; sourceTree = "<group>"; };
 		8E648BC41560336300D3EC22 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		8E648BC61560338B00D3EC22 /* Icon-Large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Large.png"; sourceTree = "<group>"; };
+		8EB8AFD1179DD21500D21F39 /* a.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = a.txt; sourceTree = "<group>"; };
+		8EB8AFD2179DD21500D21F39 /* b.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = b.txt; sourceTree = "<group>"; };
+		8EB8AFD3179DD21500D21F39 /* c.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = c.txt; sourceTree = "<group>"; };
+		8EB8AFD4179DD21500D21F39 /* ç.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ç.txt"; sourceTree = "<group>"; };
+		8EB8AFD5179DD21500D21F39 /* d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = d.txt; sourceTree = "<group>"; };
+		8EB8AFD6179DD21500D21F39 /* e.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = e.txt; sourceTree = "<group>"; };
+		8EB8AFD7179DD21500D21F39 /* f.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = f.txt; sourceTree = "<group>"; };
+		8EB8AFD8179DD21500D21F39 /* g.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = g.txt; sourceTree = "<group>"; };
+		8EB8AFD9179DD21500D21F39 /* h.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = h.txt; sourceTree = "<group>"; };
+		8EB8AFDA179DD21500D21F39 /* i.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = i.txt; sourceTree = "<group>"; };
+		8EB8AFDB179DD21500D21F39 /* j.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = j.txt; sourceTree = "<group>"; };
+		8EB8AFDC179DD21500D21F39 /* k.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = k.txt; sourceTree = "<group>"; };
+		8EB8AFDD179DD21500D21F39 /* l.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = l.txt; sourceTree = "<group>"; };
+		8EB8AFDE179DD21500D21F39 /* m.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = m.txt; sourceTree = "<group>"; };
+		8EB8AFDF179DD21500D21F39 /* n.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = n.txt; sourceTree = "<group>"; };
+		8EB8AFE0179DD21500D21F39 /* o.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = o.txt; sourceTree = "<group>"; };
+		8EB8AFE1179DD21500D21F39 /* ö.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ö.txt"; sourceTree = "<group>"; };
+		8EB8AFE2179DD21500D21F39 /* p.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = p.txt; sourceTree = "<group>"; };
+		8EB8AFE3179DD21500D21F39 /* r.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = r.txt; sourceTree = "<group>"; };
+		8EB8AFE4179DD21500D21F39 /* s.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = s.txt; sourceTree = "<group>"; };
+		8EB8AFE5179DD21500D21F39 /* ş.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ş.txt"; sourceTree = "<group>"; };
+		8EB8AFE6179DD21500D21F39 /* t.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = t.txt; sourceTree = "<group>"; };
+		8EB8AFE7179DD21500D21F39 /* u.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = u.txt; sourceTree = "<group>"; };
+		8EB8AFE8179DD21500D21F39 /* ü.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ü.txt"; sourceTree = "<group>"; };
+		8EB8AFE9179DD21500D21F39 /* v.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = v.txt; sourceTree = "<group>"; };
+		8EB8AFEA179DD21500D21F39 /* y.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = y.txt; sourceTree = "<group>"; };
+		8EB8AFEB179DD21500D21F39 /* z.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = z.txt; sourceTree = "<group>"; };
 		CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iphoneStoryBoard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,7 +186,7 @@
 			children = (
 				8EB4A9FF158DFC78008F351B /* Controllers */,
 				8EB4A9FD158DFC5E008F351B /* Views */,
-				8E648BA115602F9100D3EC22 /* Application */,
+				8E648BA115602F9100D3EC22 /* Words */,
 				8E648B8A15602DA500D3EC22 /* Supporting Files */,
 				36EBCA0F5A592D0D1E7386BB /* Models */,
 			);
@@ -142,6 +196,11 @@
 		8E648B8A15602DA500D3EC22 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8E648BA615602F9100D3EC22 /* InfoPlist.strings */,
+				8E648BB215602F9100D3EC22 /* SozlukIOS-Info.plist */,
+				8E648BB315602F9100D3EC22 /* SozlukIOS-Prefix.pch */,
+				8E648BB415602F9100D3EC22 /* SozlukIOSAppDelegate.h */,
+				8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */,
 				8E648B8B15602DA500D3EC22 /* Lugat Sozluk-Info.plist */,
 				8E648B8C15602DA500D3EC22 /* InfoPlist.strings */,
 				8E648B8F15602DA500D3EC22 /* main.m */,
@@ -150,18 +209,40 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		8E648BA115602F9100D3EC22 /* Application */ = {
+		8E648BA115602F9100D3EC22 /* Words */ = {
 			isa = PBXGroup;
 			children = (
+				8EB8AFD1179DD21500D21F39 /* a.txt */,
+				8EB8AFD2179DD21500D21F39 /* b.txt */,
+				8EB8AFD3179DD21500D21F39 /* c.txt */,
+				8EB8AFD4179DD21500D21F39 /* ç.txt */,
+				8EB8AFD5179DD21500D21F39 /* d.txt */,
+				8EB8AFD6179DD21500D21F39 /* e.txt */,
+				8EB8AFD7179DD21500D21F39 /* f.txt */,
+				8EB8AFD8179DD21500D21F39 /* g.txt */,
+				8EB8AFD9179DD21500D21F39 /* h.txt */,
+				8EB8AFDA179DD21500D21F39 /* i.txt */,
+				8EB8AFDB179DD21500D21F39 /* j.txt */,
+				8EB8AFDC179DD21500D21F39 /* k.txt */,
+				8EB8AFDD179DD21500D21F39 /* l.txt */,
+				8EB8AFDE179DD21500D21F39 /* m.txt */,
+				8EB8AFDF179DD21500D21F39 /* n.txt */,
+				8EB8AFE0179DD21500D21F39 /* o.txt */,
+				8EB8AFE1179DD21500D21F39 /* ö.txt */,
+				8EB8AFE2179DD21500D21F39 /* p.txt */,
+				8EB8AFE3179DD21500D21F39 /* r.txt */,
+				8EB8AFE4179DD21500D21F39 /* s.txt */,
+				8EB8AFE5179DD21500D21F39 /* ş.txt */,
+				8EB8AFE6179DD21500D21F39 /* t.txt */,
+				8EB8AFE7179DD21500D21F39 /* u.txt */,
+				8EB8AFE8179DD21500D21F39 /* ü.txt */,
+				8EB8AFE9179DD21500D21F39 /* v.txt */,
+				8EB8AFEA179DD21500D21F39 /* y.txt */,
+				8EB8AFEB179DD21500D21F39 /* z.txt */,
 				8E648BA515602F9100D3EC22 /* dict.txt */,
-				8E648BA615602F9100D3EC22 /* InfoPlist.strings */,
-				8E648BB215602F9100D3EC22 /* SozlukIOS-Info.plist */,
-				8E648BB315602F9100D3EC22 /* SozlukIOS-Prefix.pch */,
-				8E648BB415602F9100D3EC22 /* SozlukIOSAppDelegate.h */,
-				8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */,
 				36EBCBEF2A4471E4A7194800 /* copy.txt */,
 			);
-			name = Application;
+			name = Words;
 			path = SozlukIOS;
 			sourceTree = "<group>";
 		};
@@ -269,6 +350,33 @@
 				8E0F52DD158DF918008D191C /* DetailViewController-Pad.xib in Resources */,
 				CE23AD60179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard in Resources */,
 				36EBC54F66878BD25E32C007 /* copy.txt in Resources */,
+				8EB8AFEC179DD21500D21F39 /* a.txt in Resources */,
+				8EB8AFED179DD21500D21F39 /* b.txt in Resources */,
+				8EB8AFEE179DD21500D21F39 /* c.txt in Resources */,
+				8EB8AFEF179DD21500D21F39 /* ç.txt in Resources */,
+				8EB8AFF0179DD21500D21F39 /* d.txt in Resources */,
+				8EB8AFF1179DD21500D21F39 /* e.txt in Resources */,
+				8EB8AFF2179DD21500D21F39 /* f.txt in Resources */,
+				8EB8AFF3179DD21500D21F39 /* g.txt in Resources */,
+				8EB8AFF4179DD21500D21F39 /* h.txt in Resources */,
+				8EB8AFF5179DD21500D21F39 /* i.txt in Resources */,
+				8EB8AFF6179DD21500D21F39 /* j.txt in Resources */,
+				8EB8AFF7179DD21500D21F39 /* k.txt in Resources */,
+				8EB8AFF8179DD21500D21F39 /* l.txt in Resources */,
+				8EB8AFF9179DD21500D21F39 /* m.txt in Resources */,
+				8EB8AFFA179DD21500D21F39 /* n.txt in Resources */,
+				8EB8AFFB179DD21500D21F39 /* o.txt in Resources */,
+				8EB8AFFC179DD21500D21F39 /* ö.txt in Resources */,
+				8EB8AFFD179DD21500D21F39 /* p.txt in Resources */,
+				8EB8AFFE179DD21500D21F39 /* r.txt in Resources */,
+				8EB8AFFF179DD21500D21F39 /* s.txt in Resources */,
+				8EB8B000179DD21500D21F39 /* ş.txt in Resources */,
+				8EB8B001179DD21500D21F39 /* t.txt in Resources */,
+				8EB8B002179DD21500D21F39 /* u.txt in Resources */,
+				8EB8B003179DD21500D21F39 /* ü.txt in Resources */,
+				8EB8B004179DD21500D21F39 /* v.txt in Resources */,
+				8EB8B005179DD21500D21F39 /* y.txt in Resources */,
+				8EB8B006179DD21500D21F39 /* z.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +420,7 @@
 				8E648BA715602F9100D3EC22 /* en */,
 			);
 			name = InfoPlist.strings;
+			path = SozlukIOS;
 			sourceTree = "<group>";
 		};
 		8E648BA815602F9100D3EC22 /* MainWindow.xib */ = {
@@ -396,7 +505,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -411,7 +520,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
