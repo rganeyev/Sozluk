@@ -11,16 +11,12 @@
 
 @implementation RootViewController
 
-@synthesize isSearchActive;
-
 static NSString *cellID = @"cellID";
 static NSString *segueID = @"detailSegue";
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self loadFromFile:@"copy"];
     isSearchActive = NO;
-    searchList = [[NSMutableArray alloc] init];
     [table reloadData];
 }
 
@@ -37,18 +33,10 @@ static NSString *segueID = @"detailSegue";
     return NO;
 }
 
-- (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller {
-    isSearchActive = YES;
-}
-
-- (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller {
-    isSearchActive = NO;
-}
-
 #pragma mark TableViewDelegate 
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    if (self.isSearchActive) {
+    if (isSearchActive) {
         return 1;
     } else {
         return [wordList count];
@@ -102,34 +90,17 @@ static NSString *segueID = @"detailSegue";
 
 #pragma mark RootViewController Methods
 
-- (void)loadFromFile:(NSString *)fileName {
+- (void)loadFromFile {
     [self initArray];
 
-    NSString *fileRoot = [[NSBundle mainBundle] pathForResource:fileName ofType:@"txt"];
-    NSString *fileContents = [NSString stringWithContentsOfFile:fileRoot encoding:NSUTF8StringEncoding error:nil];
-    NSArray *allWords = [fileContents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]];
-
     wordList = [[NSMutableArray alloc] init];
-    NSInteger cur = 0;
     for (NSString *letter in indexArray) {
-        //NSLog(@"letter %@ %d", letter, cur);
+        NSString *fileRoot = [[NSBundle mainBundle] pathForResource:letter ofType:@"txt"];
+        NSString *fileContents = [NSString stringWithContentsOfFile:fileRoot encoding:NSUTF8StringEncoding error:nil];
+        NSArray *allWords = [fileContents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]];
         NSMutableArray *letterArray = [[NSMutableArray alloc] init];
-        while (cur < [allWords count]) {
-            NSString *currentWord = [allWords objectAtIndex:cur];
-            NSString *str = [currentWord substringWithRange:NSMakeRange(0, 1)];
-            if ([str compare:@"î" options:NSCaseInsensitiveSearch] == NSOrderedSame) {
-                str = @"i";
-            } else if ([str compare:@"â" options:NSCaseInsensitiveSearch] == NSOrderedSame) {
-                str = @"a";
-            } else if ([str compare:@"û" options:NSCaseInsensitiveSearch] == NSOrderedSame) {
-                str = @"u";
-            }
-            if ([str compare:letter options:NSCaseInsensitiveSearch] != NSOrderedSame) {
-                break;
-            }
-
-            [letterArray addObject:[Word wordWith:currentWord]];
-            ++cur;
+        for (NSString *word in allWords) {
+            [letterArray addObject:[Word wordWith:word]];
         }
         [wordList addObject:letterArray];
     }
