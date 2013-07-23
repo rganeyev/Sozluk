@@ -2,34 +2,34 @@ oba: Ev biçimi, birkaç direkli, uzun bölüntülü keçeden yapılmış göçe
 objektîf: Fr. Hakikatı olduğu gibi aksettiren. * Fotoğraf makinası ve dürbün gibi cihazlardaki mercekler. * Gaye. * Fls: Varlıkla alâkalı.
 obüs: Ask: Dikey veya dalıcı atış yapabilen, oldukça kısa namlulu top. Obüsler Milâdi 16. asırda icad olunmuştur. Bir mânianın arkasında bulunan ve bu sebeple doğruca görülemeyen düşman mevzilerinin yüksek münhanilerle aşırılmak suretiyle endaht yapmak maksadıyla icad edilmiştir.
 ocak îmami: Tar: Yeniçeri Ocağı'nın imamı. Cami-i Miyane adını alan ve ilkin mescid halinde bulunan Orta camii, Hicri 1000 senesinde büyütülerek cami haline getirilmiştir. Camiin imamı, hatibi, müezzini, muarrifi ve kayyumu vardı. îmam, Yeniçeriler arasında okuyup yazan ve tahsil görenlerden seçilirdi.
-od ƒš: t. Ateş, nar.
-ofîs ƒ–ÿž: Fr. Yazıhane, daire, büro.
+od:iAteş, nar.
+ofîs: Fr. Yazıhane, daire, büro.
 oğlak: Keçi yavrusu.
 ok: Yay veya keman denilen kavis şeklinde bükülmüş bir ağaç çubuğa gerili kirişe takılarak uzağa atılan ucu sivri demirli ince ve kısa değneğe verilen addır. Ok, silâhın icadından evvel insanlar tarafından kullanılmış ise de, en büyük mahareti Türkler, Araplar göstermişlerdir. (O.T.D.S.)
-okîyye ƒ—ÿœ: (Veya hemzenin hazfı ile "Vekiyye") Eskiden kullanılan bir ağırlık ölçüsü. Yerlere ve muhitlere göre değişir. Dörtyüz dirhem ağırlık. Yedi miskal veya kırk dirhem ağırlık. şer'an kırk dirhem kabul edilmiş. En tanınmışı dörtyüz dirhemdir. (Bak: Direm)
-okka ƒ—œ: t. Eskiden kullanılan bir ağırlık ölçüsü. Dörtyüz direm ağırlık. Okiyye. (Bak: Direm)
-okyanus ƒ—ÿƒ›ž: Büyük deniz. Bahr-ı muhit. * Arapça büyük lügat kitabı.
+okîyye: (Veya hemzenin hazfı ile "Vekiyye") Eskiden kullanılan bir ağırlık ölçüsü. Yerlere ve muhitlere göre değişir. Dörtyüz dirhem ağırlık. Yedi miskal veya kırk dirhem ağırlık. şer'an kırk dirhem kabul edilmiş. En tanınmışı dörtyüz dirhemdir. (Bak: Direm)
+okka:iEskiden kullanılan bir ağırlık ölçüsü. Dörtyüz direm ağırlık. Okiyye. (Bak: Direm)
+okyanus: Büyük deniz. Bahr-ı muhit. * Arapça büyük lügat kitabı.
 olîgarşî: Yun. Siyasi iktidarın, bir zümreden olan kişilerin elinde bulunması.
 operasyon: Fr. Bir cerrahın canlı bir vücut üzerinde yaptığı cerrahi müdahale. Ameliyat.
 oran: ölçü, mikyas. * Biçim, tenasüb, endam. * Tahmin, keşif.
-ordu ƒœš: t. Bir devletin dinini, namusunu, vatan ve istiklâlini her çeşit yabancı taarruz ve tecavüzüne karşı koruyan askeri en büyük üç kuvvetten biri. Hava Ordusu, Deniz Ordusu, Kara Ordusu gibi. * En büyük askeri birlik. * Aynı iman ve düşünce sahiplerinin faaliyette olanlarının hepsi. (Maarif Ordusu, îlim Ordusu gibi mecazi olarak da söylenir.)
-ordu (urdu) dîlî ƒœšÿ‚šÿ™ÿ: Pakistan'da Müslümanların konuştukları Arapça, Türkçe, Farsça ve Hintçeden müteşekkil olan dil.
-ordu-yu müblâ ƒœšÿ‚š„™ƒ: Perişan edilmiş, dağıtılmış ordu.
-ordugâh ƒœšªƒœ: f. Ordunun konakladığı yer. Açıkta konaklayan ordunun konaklama yeri.
-organ ƒœ•ƒ›: t. Uzuv. Canlılarda belli bir vazifeyi yapmak için bir arada yaratılmış nesiclerin teşkil ettiği vücud parçası. (El, ayak, baş, göz.. gibi) * Bir fikre, bir gayeye hizmet için çalışan. * âlet.
+ordu:iBir devletin dinini, namusunu, vatan ve istiklâlini her çeşit yabancı taarruz ve tecavüzüne karşı koruyan askeri en büyük üç kuvvetten biri. Hava Ordusu, Deniz Ordusu, Kara Ordusu gibi. * En büyük askeri birlik. * Aynı iman ve düşünce sahiplerinin faaliyette olanlarının hepsi. (Maarif Ordusu, îlim Ordusu gibi mecazi olarak da söylenir.)
+ordu (urdu) dîlî: Pakistan'da Müslümanların konuştukları Arapça, Türkçe, Farsça ve Hintçeden müteşekkil olan dil.
+ordu-yu müblâ: Perişan edilmiş, dağıtılmış ordu.
+ordugâh: Ordunun konakladığı yer. Açıkta konaklayan ordunun konaklama yeri.
+organ:iUzuv. Canlılarda belli bir vazifeyi yapmak için bir arada yaratılmış nesiclerin teşkil ettiği vücud parçası. (El, ayak, baş, göz.. gibi) * Bir fikre, bir gayeye hizmet için çalışan. * âlet.
 organîzasyon: Fr. Düzenleme, hazırlama, tanzim. * Teşkilât.
-orhan gazî ƒœ‰ƒ›‚•ƒÿ: (Mi: 1288 - 1359) Osmanlı Devletinin kurucusu olan Babası Osman Gazi vefat edince (1326) Onun yerine tahta geçti. Onu yetiştiren, Hocası şeyh Edebâli idi. Genç yaşta gazi akıncılar arasına karıştı, çok cesur ve atılgandı. Akıncı Gaziler onun oğlu Süleyman Paşa kumandasında Rumeli'ye geçtiler. Türbesi Bursa'dadır. (R. Aleyh)
-orîjînal ƒœÿ©›ƒ™: Fr. Bir şeyin aslı. Tuhaf, garib hâli olan. * Değişik. * Nev'i şahsına mahsus, kendine mahsus. * Vasıf ve keyfiyetleri cihetinden benzerlerinden ayrı ve üstün. * Bir nümuneye göre olan.
+orhan gazî: (Mi: 1288 - 1359) Osmanlı Devletinin kurucusu olan Babası Osman Gazi vefat edince (1326) Onun yerine tahta geçti. Onu yetiştiren, Hocası şeyh Edebâli idi. Genç yaşta gazi akıncılar arasına karıştı, çok cesur ve atılgandı. Akıncı Gaziler onun oğlu Süleyman Paşa kumandasında Rumeli'ye geçtiler. Türbesi Bursa'dadır. (R. Aleyh)
+orîjînal: Fr. Bir şeyin aslı. Tuhaf, garib hâli olan. * Değişik. * Nev'i şahsına mahsus, kendine mahsus. * Vasıf ve keyfiyetleri cihetinden benzerlerinden ayrı ve üstün. * Bir nümuneye göre olan.
 orsa: Yelkenleri mümkün olduğu kadar rüzgârın estiği cihete yaklaştırarak seyretmek hâli. * Geminin sol tarafı, iskele.
-ortodoks ƒœ’š—ž: Yun. îtalya'daki Papalığa bağlı olmayıp, îstanbul'daki Fener Patrikhanesine bağlı Hristiyan. Doğu kilisesine ve an'anelerine sıkı sıkıya bağlı Hristiyanların mezhebi.
-oruç ƒœ§: (Bak: Savm - Ramazan)(Oruç en gafillere ve mütemerridlere za'fını ve aczini, fakrını ihsas ediyor. Açlık vasıtası ile midesini düşünüyor. Midesindeki ihtiyacını anlar. Zayıf vücudu ne derece çürük olduğunu hatırlıyor. Ne derece merhamete ve şefkata muhtaç olduğunu derk eder. Nefsin fir'avunluğunu bırakıp kemal-i acz ve fakr ile dergâh-ı îlâhiyeye ilticaya bir arzu hisseder ve bir şükr-ü manevi eliyle rahmet kapısını çalmağa hazırlanır. Eğer gaflet kalbini bozmamış ise... M.)
+ortodoks: Yun. îtalya'daki Papalığa bağlı olmayıp, îstanbul'daki Fener Patrikhanesine bağlı Hristiyan. Doğu kilisesine ve an'anelerine sıkı sıkıya bağlı Hristiyanların mezhebi.
+oruç: (Bak: Savm - Ramazan)(Oruç en gafillere ve mütemerridlere za'fını ve aczini, fakrını ihsas ediyor. Açlık vasıtası ile midesini düşünüyor. Midesindeki ihtiyacını anlar. Zayıf vücudu ne derece çürük olduğunu hatırlıyor. Ne derece merhamete ve şefkata muhtaç olduğunu derk eder. Nefsin fir'avunluğunu bırakıp kemal-i acz ve fakr ile dergâh-ı îlâhiyeye ilticaya bir arzu hisseder ve bir şükr-ü manevi eliyle rahmet kapısını çalmağa hazırlanır. Eğer gaflet kalbini bozmamış ise... M.)
 osman (r.a.): Peygamberimiz Hazret-i Muhammed Aleyhissalâtü Vesselâm'ın en yakın sahabelerinden, Aşere-i Mübeşşere'den ve îslâmiyet için en çok fedakârlık gösterenlerdendir. Hz. Talha ve Zübeyr'den evvel imana geldi, iman edenlerin beşincisi oldu. Resül-ü Ekrem Aleyhissalâtü Vesselâm'ın üçüncü halifesi ve damadıdır. Hazret-i Osman (R.A.) çok zengindi. Bütün malını Peygamberimiz ve îslâmiyet için feda etti. çok hayâ ve hilm sahibi idi. Peygamberimizin (A.S.M.) iki kızı ile evlenmek nasib olduğu için kendisine "Zinnureyn" nâmı da verilmiştir. Hz. Ebu Bekir'in (R.A.) toplayıp cem'ettiği Kur'ân-ı Kerim nüshalarını teksir ederek mühim merkez ve vilâyetlere gönderdi. Sekseniki yaşında şehid edildi. (R.A.)
 osmanî: (Osmaniye) Osman'a ait, mensup. * Osmanlı devletine mensup. Osmanlılarla alâkalı. Osman oğullarına ait.
 osmanîyân: (Osmani. C.) Osmanlılar.
-osmanli ”†šƒ›™ÿ: Osmanlı Devleti teb'asından olan. * Anadolu Selçuklu Devleti'nin Bizans sınırındaki Beyliğin reisi olan Ertuğrul Bey'in vefatından sonra, Mi: 1288'de yerine geçen Osman Beyin kurduğu devlete mensup olan.
-osmanlica ”†šƒ›™ÿ‡œ: Osmanlıların konuştuğu dil olup, Türkçe, Arapça ve Farsçadan müteşekkildir.
-ost ƒž…: (Bak: Heme ost)
+osmanli: Osmanlı Devleti teb'asından olan. * Anadolu Selçuklu Devleti'nin Bizans sınırındaki Beyliğin reisi olan Ertuğrul Bey'in vefatından sonra, Mi: 1288'de yerine geçen Osman Beyin kurduğu devlete mensup olan.
+osmanlica: Osmanlıların konuştuğu dil olup, Türkçe, Arapça ve Farsçadan müteşekkildir.
+ost: (Bak: Heme ost)
 otağ: Padişahlarla vezirlere mahsus çadırlar. Bunlardan padişahlarınkine "Otağ-ı Hümayun", sadrazamınkine ise "Otağ-ı Asafi" denilirdi.
-otomatîk ƒ’šƒ…ÿ˜: Fr. Kurularak veya vakti gelince harekete geçen, işleyen.
+otomatîk: Fr. Kurularak veya vakti gelince harekete geçen, işleyen.
 otorîte: Fr. Kumanda etme hakkı, itaat ettirme iktidarı. * îdari veya siyasi iktidar. * Muhakemeleri veya doktrini umumiyetle doğru olarak kabul edilen ve bir sahada derinleşmiş olan şahıs veya eser.
-ozan ƒƒ›: t. Edb: Eski Türk şâiri ve âlimi.: ömer bîn farid: (M. 1180-1234) Kahire'de doğdu ve orada vefat etti. Mütefekkir ve mutasavvıf olup büyük şâirlerdendir. Divanı vardır.
+ozan: iEdb: Eski Türk şâiri ve âlimi.: ömer bîn farid: (M. 1180-1234) Kahire'de doğdu ve orada vefat etti. Mütefekkir ve mutasavvıf olup büyük şâirlerdendir. Divanı vardır.

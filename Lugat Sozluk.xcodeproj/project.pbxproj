@@ -47,6 +47,8 @@
 		8EB8B004179DD21500D21F39 /* v.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFE9179DD21500D21F39 /* v.txt */; };
 		8EB8B005179DD21500D21F39 /* y.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFEA179DD21500D21F39 /* y.txt */; };
 		8EB8B006179DD21500D21F39 /* z.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFEB179DD21500D21F39 /* z.txt */; };
+		8EB8B00E179F1F2800D21F39 /* ı.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8B00D179F1F2800D21F39 /* ı.txt */; };
+		8EB8B010179F336800D21F39 /* iPadStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8B00F179F336800D21F39 /* iPadStoryBoard.storyboard */; };
 		CE23AD60179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -99,6 +101,8 @@
 		8EB8AFE9179DD21500D21F39 /* v.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = v.txt; sourceTree = "<group>"; };
 		8EB8AFEA179DD21500D21F39 /* y.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = y.txt; sourceTree = "<group>"; };
 		8EB8AFEB179DD21500D21F39 /* z.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = z.txt; sourceTree = "<group>"; };
+		8EB8B00D179F1F2800D21F39 /* ı.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ı.txt"; sourceTree = "<group>"; };
+		8EB8B00F179F336800D21F39 /* iPadStoryBoard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iPadStoryBoard.storyboard; sourceTree = "<group>"; };
 		CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iphoneStoryBoard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,6 +132,7 @@
 		8E648B7415602DA500D3EC22 = {
 			isa = PBXGroup;
 			children = (
+				8EB8B00F179F336800D21F39 /* iPadStoryBoard.storyboard */,
 				CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */,
 				8E648BC61560338B00D3EC22 /* Icon-Large.png */,
 				8E648BC41560336300D3EC22 /* Icon.png */,
@@ -194,6 +199,7 @@
 				8EB8AFD7179DD21500D21F39 /* f.txt */,
 				8EB8AFD8179DD21500D21F39 /* g.txt */,
 				8EB8AFD9179DD21500D21F39 /* h.txt */,
+				8EB8B00D179F1F2800D21F39 /* ı.txt */,
 				8EB8AFDA179DD21500D21F39 /* i.txt */,
 				8EB8AFDB179DD21500D21F39 /* j.txt */,
 				8EB8AFDC179DD21500D21F39 /* k.txt */,
@@ -329,6 +335,8 @@
 				8EB8B004179DD21500D21F39 /* v.txt in Resources */,
 				8EB8B005179DD21500D21F39 /* y.txt in Resources */,
 				8EB8B006179DD21500D21F39 /* z.txt in Resources */,
+				8EB8B00E179F1F2800D21F39 /* ı.txt in Resources */,
+				8EB8B010179F336800D21F39 /* iPadStoryBoard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

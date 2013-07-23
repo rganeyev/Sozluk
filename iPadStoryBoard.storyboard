@@ -15,12 +15,19 @@
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="LM3-Zh-ttA">
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" indentationWidth="10" id="LOe-2c-jXx">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="gray" indentationWidth="10" reuseIdentifier="tableCell" textLabel="lT2-Zj-3zz" style="IBUITableViewCellStyleDefault" id="LOe-2c-jXx">
                                         <rect key="frame" x="0.0" y="22" width="768" height="44"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                                             <rect key="frame" x="0.0" y="0.0" width="768" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lT2-Zj-3zz">
+                                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                </label>
+                                            </subviews>
                                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         </view>
                                     </tableViewCell>
@@ -51,17 +58,11 @@
                     <navigationItem key="navigationItem" id="Bmk-DV-XuV"/>
                     <connections>
                         <outlet property="searchDisplayController" destination="rog-qv-Szj" id="6M9-oa-hME"/>
+                        <outlet property="table" destination="LM3-Zh-ttA" id="4QM-oW-Zvx"/>
                         <segue destination="0LT-8K-eRZ" kind="push" identifier="detailSegue" id="7d5-Ko-oZC"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SWw-sv-kji" userLabel="First Responder" sceneMemberID="firstResponder"/>
-                <searchDisplayController id="2yY-Ux-S5G">
-                    <connections>
-                        <outlet property="searchContentsController" destination="amA-ta-HXe" id="qsx-0x-43H"/>
-                        <outlet property="searchResultsDataSource" destination="amA-ta-HXe" id="rud-oS-PyQ"/>
-                        <outlet property="searchResultsDelegate" destination="amA-ta-HXe" id="94A-9z-XoS"/>
-                    </connections>
-                </searchDisplayController>
                 <searchDisplayController id="rog-qv-Szj">
                     <connections>
                         <outlet property="delegate" destination="amA-ta-HXe" id="qOq-TA-ygF"/>
@@ -72,7 +73,7 @@
                     </connections>
                 </searchDisplayController>
             </objects>
-            <point key="canvasLocation" x="-3529" y="-451"/>
+            <point key="canvasLocation" x="-3437" y="417"/>
         </scene>
         <!--Detail View Controller-->
         <scene sceneID="Pbr-VJ-efF">
@@ -90,9 +91,10 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="280" translatesAutoresizingMaskIntoConstraints="NO" id="Egr-Uz-14l">
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="728" translatesAutoresizingMaskIntoConstraints="NO" id="Egr-Uz-14l">
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="179" id="RU6-O4-xXL"/>
+                                    <constraint firstAttribute="width" constant="728" id="1u6-K2-iYh"/>
+                                    <constraint firstAttribute="height" constant="377" id="3B1-wW-XfK"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -101,11 +103,10 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="Egr-Uz-14l" firstAttribute="top" secondItem="GJE-NQ-wec" secondAttribute="top" constant="60" id="J8z-i4-KQ3"/>
                             <constraint firstItem="xEH-Py-U7b" firstAttribute="leading" secondItem="GJE-NQ-wec" secondAttribute="leading" constant="20" symbolic="YES" type="default" id="P7X-ZT-3GK"/>
-                            <constraint firstItem="Egr-Uz-14l" firstAttribute="leading" secondItem="GJE-NQ-wec" secondAttribute="leading" constant="20" symbolic="YES" type="default" id="SX4-zY-unK"/>
-                            <constraint firstItem="xEH-Py-U7b" firstAttribute="trailing" secondItem="Egr-Uz-14l" secondAttribute="trailing" type="default" id="a2w-Gu-6Wq"/>
                             <constraint firstItem="xEH-Py-U7b" firstAttribute="top" secondItem="GJE-NQ-wec" secondAttribute="top" constant="20" symbolic="YES" type="default" id="gBY-E8-SxP"/>
+                            <constraint firstItem="Egr-Uz-14l" firstAttribute="top" secondItem="xEH-Py-U7b" secondAttribute="bottom" constant="8" symbolic="YES" type="default" id="td3-vU-dci"/>
+                            <constraint firstItem="Egr-Uz-14l" firstAttribute="leading" secondItem="GJE-NQ-wec" secondAttribute="leading" constant="26" id="xHI-qh-cNc"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="PhQ-Yl-sll"/>
@@ -116,7 +117,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="o0W-xt-7LT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2501" y="-451"/>
+            <point key="canvasLocation" x="-2221" y="581"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="NqR-3V-mXt">
@@ -134,7 +135,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="P9e-XJ-l2v" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-4475" y="-451"/>
+            <point key="canvasLocation" x="-4499" y="513"/>
         </scene>
     </scenes>
     <classes>
@@ -151,8 +152,6 @@
         <class className="RootViewController" superclassName="UIViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/RootViewController.h"/>
             <relationships>
-                <relationship kind="outlet" name="searchBarText" candidateClass="UISearchBar"/>
-                <relationship kind="outlet" name="searchDisplay" candidateClass="UISearchDisplayController"/>
                 <relationship kind="outlet" name="table" candidateClass="UITableView"/>
             </relationships>
         </class>

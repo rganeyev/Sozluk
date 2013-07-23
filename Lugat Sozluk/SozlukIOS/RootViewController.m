@@ -11,7 +11,6 @@
 
 @implementation RootViewController
 
-static NSString *cellID = @"cellID";
 static NSString *segueID = @"detailSegue";
 
 - (void)viewDidLoad {
@@ -19,6 +18,13 @@ static NSString *segueID = @"detailSegue";
     isSearchActive = NO;
     [self setUp];
     [table reloadData];
+}
+
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    if (table.indexPathForSelectedRow) {
+        [table deselectRowAtIndexPath:table.indexPathForSelectedRow animated:YES];        
+    }
 }
 
 #pragma mark -
@@ -64,10 +70,8 @@ static NSString *segueID = @"detailSegue";
 
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    static NSString *cellID = @"tableCell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID];
-    if (!cell)
-        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellID];
-
     Word *word = nil;
     if (isSearchActive) {
         word = [searchList objectAtIndex:indexPath.row];
