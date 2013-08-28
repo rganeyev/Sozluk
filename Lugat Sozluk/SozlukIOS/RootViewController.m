@@ -72,6 +72,10 @@ static NSString *segueID = @"detailSegue";
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     static NSString *cellID = @"tableCell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID];
+    if (!cell) {
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellID];
+        cell.selectionStyle = UITableViewCellSelectionStyleGray;
+    }
     Word *word = nil;
     if (isSearchActive) {
         word = [searchList objectAtIndex:indexPath.row];

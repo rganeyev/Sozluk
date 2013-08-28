@@ -8,6 +8,7 @@
 
 #import "SozlukIOSAppDelegate.h"
 #import "RootViewController.h"
+#import "Flurry.h"
 
 @implementation SozlukIOSAppDelegate
 
@@ -18,11 +19,13 @@ NSString *const LAST_WORD = @"lastWord";
 @synthesize navigationController = _navigationController;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    [Flurry startSession:@"QHPKYJH9JN4JSGPM2VW6"];
     [self.window makeKeyAndVisible];
     return YES;
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
+    
     /*NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
     lastWord = [defaults stringForKey:LAST_WORD];
     UIPasteboard *pasteboard = [UIPasteboard generalPasteboard];

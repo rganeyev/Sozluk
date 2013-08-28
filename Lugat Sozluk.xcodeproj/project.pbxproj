@@ -18,8 +18,13 @@
 		8E648BC115602F9100D3EC22 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E648BB115602F9100D3EC22 /* RootViewController.m */; };
 		8E648BC215602F9100D3EC22 /* SozlukIOS-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BB215602F9100D3EC22 /* SozlukIOS-Info.plist */; };
 		8E648BC315602F9100D3EC22 /* SozlukIOSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */; };
-		8E648BC51560336300D3EC22 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BC41560336300D3EC22 /* Icon.png */; };
-		8E648BC71560338B00D3EC22 /* Icon-Large.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E648BC61560338B00D3EC22 /* Icon-Large.png */; };
+		8E9102DA17CE007600638303 /* libFlurry_4.2.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9102D917CE007600638303 /* libFlurry_4.2.3.a */; };
+		8E9102DF17CE016E00638303 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9102DE17CE016E00638303 /* Security.framework */; };
+		8E9102E117CE019C00638303 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9102E017CE019C00638303 /* SystemConfiguration.framework */; };
+		8E9102EF17CE056500638303 /* logo_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E9102EE17CE056500638303 /* logo_57x57.png */; };
+		8E9102F117CE057000638303 /* logo_114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E9102F017CE057000638303 /* logo_114x114.png */; };
+		8E9102F317CE058400638303 /* logo_72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E9102F217CE058400638303 /* logo_72x72.png */; };
+		8E9102F517CE05BE00638303 /* logo_144x144px.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E9102F417CE05BE00638303 /* logo_144x144px.png */; };
 		8EB8AFEC179DD21500D21F39 /* a.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD1179DD21500D21F39 /* a.txt */; };
 		8EB8AFED179DD21500D21F39 /* b.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD2179DD21500D21F39 /* b.txt */; };
 		8EB8AFEE179DD21500D21F39 /* c.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8EB8AFD3179DD21500D21F39 /* c.txt */; };
@@ -72,8 +77,14 @@
 		8E648BB315602F9100D3EC22 /* SozlukIOS-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SozlukIOS-Prefix.pch"; path = "SozlukIOS/SozlukIOS-Prefix.pch"; sourceTree = "<group>"; };
 		8E648BB415602F9100D3EC22 /* SozlukIOSAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SozlukIOSAppDelegate.h; path = SozlukIOS/SozlukIOSAppDelegate.h; sourceTree = "<group>"; };
 		8E648BB515602F9100D3EC22 /* SozlukIOSAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SozlukIOSAppDelegate.m; path = SozlukIOS/SozlukIOSAppDelegate.m; sourceTree = "<group>"; };
-		8E648BC41560336300D3EC22 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		8E648BC61560338B00D3EC22 /* Icon-Large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Large.png"; sourceTree = "<group>"; };
+		8E9102D817CE007600638303 /* Flurry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flurry.h; sourceTree = "<group>"; };
+		8E9102D917CE007600638303 /* libFlurry_4.2.3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFlurry_4.2.3.a; sourceTree = "<group>"; };
+		8E9102DE17CE016E00638303 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		8E9102E017CE019C00638303 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		8E9102EE17CE056500638303 /* logo_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_57x57.png; sourceTree = "<group>"; };
+		8E9102F017CE057000638303 /* logo_114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_114x114.png; sourceTree = "<group>"; };
+		8E9102F217CE058400638303 /* logo_72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_72x72.png; sourceTree = "<group>"; };
+		8E9102F417CE05BE00638303 /* logo_144x144px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_144x144px.png; sourceTree = "<group>"; };
 		8EB8AFD1179DD21500D21F39 /* a.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = a.txt; sourceTree = "<group>"; };
 		8EB8AFD2179DD21500D21F39 /* b.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = b.txt; sourceTree = "<group>"; };
 		8EB8AFD3179DD21500D21F39 /* c.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = c.txt; sourceTree = "<group>"; };
@@ -111,9 +122,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E9102E117CE019C00638303 /* SystemConfiguration.framework in Frameworks */,
+				8E9102DF17CE016E00638303 /* Security.framework in Frameworks */,
 				8E648B8415602DA500D3EC22 /* UIKit.framework in Frameworks */,
 				8E648B8615602DA500D3EC22 /* Foundation.framework in Frameworks */,
 				8E648B8815602DA500D3EC22 /* CoreGraphics.framework in Frameworks */,
+				8E9102DA17CE007600638303 /* libFlurry_4.2.3.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,10 +146,11 @@
 		8E648B7415602DA500D3EC22 = {
 			isa = PBXGroup;
 			children = (
-				8EB8B00F179F336800D21F39 /* iPadStoryBoard.storyboard */,
-				CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */,
-				8E648BC61560338B00D3EC22 /* Icon-Large.png */,
-				8E648BC41560336300D3EC22 /* Icon.png */,
+				8E9102F417CE05BE00638303 /* logo_144x144px.png */,
+				8E9102F217CE058400638303 /* logo_72x72.png */,
+				8E9102F017CE057000638303 /* logo_114x114.png */,
+				8E9102EE17CE056500638303 /* logo_57x57.png */,
+				8E9102E217CE052500638303 /* Resources */,
 				8E648B8915602DA500D3EC22 /* Lugat Sozluk */,
 				8E648B8215602DA500D3EC22 /* Frameworks */,
 				8E648B8015602DA500D3EC22 /* Products */,
@@ -153,6 +168,8 @@
 		8E648B8215602DA500D3EC22 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8E9102E017CE019C00638303 /* SystemConfiguration.framework */,
+				8E9102DE17CE016E00638303 /* Security.framework */,
 				8E648B8315602DA500D3EC22 /* UIKit.framework */,
 				8E648B8515602DA500D3EC22 /* Foundation.framework */,
 				8E648B8715602DA500D3EC22 /* CoreGraphics.framework */,
@@ -163,6 +180,7 @@
 		8E648B8915602DA500D3EC22 /* Lugat Sozluk */ = {
 			isa = PBXGroup;
 			children = (
+				8E9102D717CE005B00638303 /* External */,
 				8EB4A9FF158DFC78008F351B /* Controllers */,
 				8E648BA115602F9100D3EC22 /* Words */,
 				8E648B8A15602DA500D3EC22 /* Supporting Files */,
@@ -221,6 +239,40 @@
 			);
 			name = Words;
 			path = SozlukIOS;
+			sourceTree = "<group>";
+		};
+		8E9102D717CE005B00638303 /* External */ = {
+			isa = PBXGroup;
+			children = (
+				8E9102DB17CE007B00638303 /* Flurry */,
+			);
+			name = External;
+			sourceTree = "<group>";
+		};
+		8E9102DB17CE007B00638303 /* Flurry */ = {
+			isa = PBXGroup;
+			children = (
+				8E9102D817CE007600638303 /* Flurry.h */,
+				8E9102D917CE007600638303 /* libFlurry_4.2.3.a */,
+			);
+			name = Flurry;
+			sourceTree = "<group>";
+		};
+		8E9102E217CE052500638303 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8E9102E317CE053000638303 /* Storyboards */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		8E9102E317CE053000638303 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				8EB8B00F179F336800D21F39 /* iPadStoryBoard.storyboard */,
+				CE23AD5F179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard */,
+			);
+			name = Storyboards;
 			sourceTree = "<group>";
 		};
 		8EB4A9FF158DFC78008F351B /* Controllers */ = {
@@ -305,8 +357,6 @@
 				8E648B8E15602DA500D3EC22 /* InfoPlist.strings in Resources */,
 				8E648BBC15602F9100D3EC22 /* InfoPlist.strings in Resources */,
 				8E648BC215602F9100D3EC22 /* SozlukIOS-Info.plist in Resources */,
-				8E648BC51560336300D3EC22 /* Icon.png in Resources */,
-				8E648BC71560338B00D3EC22 /* Icon-Large.png in Resources */,
 				CE23AD60179C1FF300DBE2A9 /* iphoneStoryBoard.storyboard in Resources */,
 				8EB8AFEC179DD21500D21F39 /* a.txt in Resources */,
 				8EB8AFED179DD21500D21F39 /* b.txt in Resources */,
@@ -337,6 +387,10 @@
 				8EB8B006179DD21500D21F39 /* z.txt in Resources */,
 				8EB8B00E179F1F2800D21F39 /* ı.txt in Resources */,
 				8EB8B010179F336800D21F39 /* iPadStoryBoard.storyboard in Resources */,
+				8E9102EF17CE056500638303 /* logo_57x57.png in Resources */,
+				8E9102F117CE057000638303 /* logo_114x114.png in Resources */,
+				8E9102F317CE058400638303 /* logo_72x72.png in Resources */,
+				8E9102F517CE05BE00638303 /* logo_144x144px.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,6 +485,10 @@
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Lugat Sozluk\"",
+				);
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -446,6 +504,10 @@
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/Lugat Sozluk\"",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
