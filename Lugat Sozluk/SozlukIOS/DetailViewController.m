@@ -15,20 +15,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     wordLabel.text = word.word;
-    NSArray *arr = [word.definition componentsSeparatedByString:@"*"];
-    if (arr.count == 1) {
-        definitionLabel.text = word.definition;
-        return;
-    }
-    
-    NSMutableString *result = [[NSMutableString alloc] init];
-    unsigned int i  = 0;
-    for (NSString *str in arr) {
-        NSString *trimmedStr = [str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
-        [result appendFormat:@"%u) %@\n", ++i, trimmedStr];
-    }
-    
-    definitionLabel.text = result;
+    definitionLabel.text = word.definition;
 }
 
 - (void)viewDidLayoutSubviews {

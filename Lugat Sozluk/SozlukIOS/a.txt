@@ -2,10 +2,10 @@ a: 1928 senesinde alınan Türk alfabesinin "a" harfi, Osmanlıcadaki elif ve ay
 a: Nida edatı olup, kelimenin sonuna gelir "ey" mânası verir. Aynı veya farklı iki kelime arasına gelirse, sözün mânasını kuvvetlendirir. "rengârenk, lebaleb" gibi.
 ab: Su. * Mc: Yağmur. * Letâfet, güzellik. * îtibar. * Irz, nâmus. * Vakar. * Cilâ. *Keskinlik.
 ab: Kusur, ayıp, noksanlık.
-ab-berîn: Akarsu ve şelâle kenarlarında suyun tazyikle akmasından meydana gelen içi oyuk kovuk.
-ab-came: Su kabı.
-ab-çera: Kahvaltı.
-ab-dest: Namaz ve sair dini ibadetler için usulüne uygun olarak, el, ağız, burun, yüz, dirseklere kadar kolları ve topuk kemiği üzerine kadar ayakları üçer defa yıkamak ve kulaklara, başa ve enseye meshetmektir. * Azarlama, paylama.
+abberîn: Akarsu ve şelâle kenarlarında suyun tazyikle akmasından meydana gelen içi oyuk kovuk.
+abcame: Su kabı.
+abçera: Kahvaltı.
+abdest: Namaz ve sair dini ibadetler için usulüne uygun olarak, el, ağız, burun, yüz, dirseklere kadar kolları ve topuk kemiği üzerine kadar ayakları üçer defa yıkamak ve kulaklara, başa ve enseye meshetmektir. * Azarlama, paylama.
 ab-endam: Güzellik. Güzel endam.
 ab-endaz: Su mühendisi.
 ab-gah: Fr. Havuz, küçük göl, su biriken yer. * Tıb: Karnın kaburga kemikleri kıkırdağı ve kısa kaburgalar altında olan kısmı. Böğür.

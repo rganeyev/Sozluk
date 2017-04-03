@@ -19,28 +19,29 @@
 
 + (Word *)wordWith:(NSString *)string {
     Word *result = [[Word alloc] init];
-    if (result) {
+    
+    NSRange range = [string rangeOfString:@":"];
+    if (range.location != NSNotFound) {
+        result.word = [string substringToIndex:range.location];
+        result.definition = [string substringFromIndex:range.location + 1];
+        result.lowercaseWord = result.word.lowercaseString;
         
-        
-        result.all = string;
-        NSRange range = [string rangeOfString:@":"];
-        if (range.location != NSNotFound) {
-            result.word = [string substringToIndex:range.location];
-            result.definition = [string substringFromIndex:range.location + 1];
-            result.lowercaseWord = result.word.lowercaseString;
-            
-            /*NSArray *arr = [word.definition componentsSeparatedByString:@"*"];
-             if (arr.count == 1) {
-             definitionLabel.text = word.definition;
-             return;
-             }
-             
-             NSMutableString *result = [[NSMutableString alloc] init];
-             unsigned int i  = 0;
-             for (NSString *str in arr) {
-             NSString *trimmedStr = [str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
-             [result appendFormat:@"%u) %@\n", ++i, trimmedStr];
-             }*/
+        NSString *temp = [string substringFromIndex:range.location + 1];
+        NSArray *arr = [temp componentsSeparatedByString:@"*"];
+        if (arr.count == 1) {
+            result.definition = temp;
+            result.all = [NSString stringWithFormat:@"%@: %@", result.word, result.definition];
+        } else {
+            NSMutableString *tempDefinition = [[NSMutableString alloc] init];
+            NSMutableString *allDefinition = [[NSMutableString alloc] init];
+            unsigned int i  = 0;
+            for (NSString *str in arr) {
+                NSString *trimmedStr = [str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
+                [tempDefinition appendFormat:@"%u) %@\n", ++i, trimmedStr];
+                [allDefinition appendFormat:@"%u) %@ ", i, trimmedStr];
+            }
+            result.definition = tempDefinition;
+            result.all = [NSString stringWithFormat:@"%@: %@", result.word, allDefinition];
         }
     }
 
