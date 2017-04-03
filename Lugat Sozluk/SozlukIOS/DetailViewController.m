@@ -22,10 +22,10 @@
     }
     
     NSMutableString *result = [[NSMutableString alloc] init];
-    NSUInteger i  = 0;
+    unsigned int i  = 0;
     for (NSString *str in arr) {
         NSString *trimmedStr = [str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
-        [result appendFormat:@"%d) %@\n", ++i, trimmedStr];
+        [result appendFormat:@"%u) %@\n", ++i, trimmedStr];
     }
     
     definitionLabel.text = result;

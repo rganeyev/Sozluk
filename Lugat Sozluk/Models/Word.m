@@ -20,12 +20,27 @@
 + (Word *)wordWith:(NSString *)string {
     Word *result = [[Word alloc] init];
     if (result) {
+        
+        
         result.all = string;
         NSRange range = [string rangeOfString:@":"];
         if (range.location != NSNotFound) {
             result.word = [string substringToIndex:range.location];
             result.definition = [string substringFromIndex:range.location + 1];
             result.lowercaseWord = result.word.lowercaseString;
+            
+            /*NSArray *arr = [word.definition componentsSeparatedByString:@"*"];
+             if (arr.count == 1) {
+             definitionLabel.text = word.definition;
+             return;
+             }
+             
+             NSMutableString *result = [[NSMutableString alloc] init];
+             unsigned int i  = 0;
+             for (NSString *str in arr) {
+             NSString *trimmedStr = [str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
+             [result appendFormat:@"%u) %@\n", ++i, trimmedStr];
+             }*/
         }
     }
 

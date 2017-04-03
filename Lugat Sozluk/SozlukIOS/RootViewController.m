@@ -31,20 +31,20 @@ static NSString *segueID = @"detailSegue";
 #pragma mark SearchDisplayDelegate
 
 
-- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchString:(NSString *)searchString {
+- (BOOL)searchDisplayController:(UISearchController *)controller shouldReloadTableForSearchString:(NSString *)searchString {
     [self filterSearchContentForText:searchString];
     return YES;
 }
 
-- (BOOL)searchDisplayController:(UISearchDisplayController *)controller shouldReloadTableForSearchScope:(NSInteger)searchOption {
+- (BOOL)searchDisplayController:(UISearchController *)controller shouldReloadTableForSearchScope:(NSInteger)searchOption {
     return NO;
 }
 
-- (void)searchDisplayControllerDidBeginSearch:(UISearchDisplayController *)controller {
+- (void)searchDisplayControllerDidBeginSearch:(UISearchController *)controller {
     isSearchActive = YES;
 }
 
-- (void)searchDisplayControllerDidEndSearch:(UISearchDisplayController *)controller {
+- (void)searchDisplayControllerDidEndSearch:(UISearchController *)controller {
     isSearchActive = NO;
 }
 
