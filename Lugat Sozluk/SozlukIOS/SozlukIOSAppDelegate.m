@@ -24,29 +24,4 @@ NSString *const LAST_WORD = @"lastWord";
     return YES;
 }
 
-- (void)applicationDidBecomeActive:(UIApplication *)application {
-    
-    /*NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
-    lastWord = [defaults stringForKey:LAST_WORD];
-    UIPasteboard *pasteboard = [UIPasteboard generalPasteboard];
-    
-    if ([pasteboard containsPasteboardTypes:UIPasteboardTypeListString] && pasteboard.strings.count == 1) {
-        NSString *string = pasteboard.string;
-        NSRange range = [string rangeOfString:@" "];
-        if (range.location != NSNotFound) {
-            string = [string substringToIndex:range.location];
-        }
-        
-        if (![lastWord isEqualToString:string]) {
-            if (self.navigationController.viewControllers.count > 1) {
-                [self.navigationController popToRootViewControllerAnimated:NO];
-            }
-            [defaults setValue:string forKey:LAST_WORD];
-            RootViewController *rootViewController = (RootViewController *) self.navigationController.topViewController;
-            [rootViewController searchText:string];
-        }
-    }*/
-}
-
-
 @end
