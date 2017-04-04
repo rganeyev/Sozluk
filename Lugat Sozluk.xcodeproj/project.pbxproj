@@ -563,7 +563,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: RUSTAM GANEEV (UDG6JPBR37)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: RUSTAM GANEEV (UDG6JPBR37)";
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
@@ -591,7 +591,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: RUSTAM GANEEV (UDG6JPBR37)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: RUSTAM GANEEV (UDG6JPBR37)";
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lugat Sozluk/Lugat Sozluk-Prefix.pch";
 				INFOPLIST_FILE = "Lugat Sozluk/Lugat Sozluk-Info.plist";
