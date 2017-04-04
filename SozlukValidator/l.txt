@@ -1,4 +1,4 @@
-lâ: Arabçada kelimenin başında nefy edatı'dır. Cevap yerine veya yersiz inkârda kullanılır. "Yoktur, değildir" gibi. Mâzi fiilinin evvelinde bulunan Lâ, duâiye olur. Lâ zâle sıhhatehu: "Sıhhati zâil olmasın" sözündeki gibi. * Harf-i atıf da olur. Ve mâba'dını makabline nefyen rabt eder ve irabı da ona tâbi kılar. $ "şeref edeb iledir, neseb ile değildir" sözündeki gibi. * Vav edatıyla beraber olursa, atıf edatı vav olur, lâ da nefyi te'kid eder.
+lâ: Arabçada kelimenin başında nefy edatı'dır. Cevap yerine veya yersiz inkârda kullanılır. "Yoktur, değildir" gibi. Mâzi fiilinin evvelinde bulunan Lâ, duâiye olur. Lâ zâle sıhhatehu: "Sıhhati zâil olmasın" sözündeki gibi. * Harf-i atıf da olur. Ve mâba'dını makabline nefyen rabt eder ve irabı da ona tâbi kılar. "şeref edeb iledir, neseb ile değildir" sözündeki gibi. * Vav edatıyla beraber olursa, atıf edatı vav olur, lâ da nefyi te'kid eder.
 la': Korkak.
 lâ ve neam: Hayır ve evet. (Daha çok, hiçbir fikir beyan edilmediği zamanlar kullanılır.)
 lâ yezalî: Zevalsiz olana ait, sonu olmayanla ilgili.
@@ -233,7 +233,7 @@ lâne-î harab: Bozulmuş yuva.
 lâne-î nermîn: Sıcak ve yumuşak yuva.
 lâne-î peder: Baba yuvası. Peder evi.
 lânegîr: Yuva tutan.
-la'net: Nefret. Tiksinti. Allah'ın rahmetinden mahrumiyyet.(Ehl-i Sünnet'in ve îlm-i Kelâm'ın azim imamlarından meşhur "Sa'deddin-i Teftezani", Yezid ve Velid hakkında tel'in ve tadlile cevaz vermesine mukabil "Seyyid-i şerif-i Cürcani" gibi Ehl-i Sünnet Velcemaat'in allâmeleri demişler: "Gerçi Yezid ve Velid, zalim ve gaddar ve fâcirdirler; fakat sekeratta imansız gittikleri gaybidir. Ve kat'i bir derecede bilinmediği için, o şahısların nass-ı kat'i ve delil-i kat'i bulunmadığı vakit, imanla gitmesi ihtimali ve tevbe etmek ihtimâli olduğundan, öyle hususi şahsa lânet edilmez. Belki $ gibi umumi bir ünvan ile lânet caiz olabilir. Yoksa zararlı, lüzumsuzdur." diye "Sa'deddin-i Teftezani"ye mukabele etmişler. R.N.)
+la'net: Nefret. Tiksinti. Allah'ın rahmetinden mahrumiyyet.(Ehl-i Sünnet'in ve îlm-i Kelâm'ın azim imamlarından meşhur "Sa'deddin-i Teftezani", Yezid ve Velid hakkında tel'in ve tadlile cevaz vermesine mukabil "Seyyid-i şerif-i Cürcani" gibi Ehl-i Sünnet Velcemaat'in allâmeleri demişler: "Gerçi Yezid ve Velid, zalim ve gaddar ve fâcirdirler; fakat sekeratta imansız gittikleri gaybidir. Ve kat'i bir derecede bilinmediği için, o şahısların nass-ı kat'i ve delil-i kat'i bulunmadığı vakit, imanla gitmesi ihtimali ve tevbe etmek ihtimâli olduğundan, öyle hususi şahsa lânet edilmez. Belki gibi umumi bir ünvan ile lânet caiz olabilir. Yoksa zararlı, lüzumsuzdur." diye "Sa'deddin-i Teftezani"ye mukabele etmişler. R.N.)
 la'netullah: "Allah lânet eylesin" mânâsında beddua.
 la'netullahî aleyh: Allah'ın lâneti onun üzerine olsun.
 lârayb: şüphesiz, şeksiz, tereddütsüz.
@@ -312,7 +312,7 @@ lâyetecezza: Bölünmez. Parçalanmaz. Ayrılmaz. Tecezzi kabul etmez.
 lâyetegayyer: Değişmez, bozulmaz.
 lâyetenahî: Sonsuz. Nihayetsiz.
 lâyetenahîyet: Lâyetenahilik, sonsuzluk, nihayetsizlik.
-layetezelzel : Sarsılmaz. Tezelzül etmez.(Tahkiki iman sâhibleri, lâyetezelzel bir itikada sâhibdirler.)
+layetezelzel : Sarsılmaz. Tezelzül etmez.(Tahkiki iman sâhibleri, lâyetezelzel bir itikada sâhibdirler.)
 lâyezal: Zeval bulmaz. Yok olmaz.
 lâyih (lâyîh): Parlak. Meydanda. Aşikâr. Hatıra gelen.
 lâyiha: Düşünülen veya tasavvur edilen bir şeyin yazılması. Tasarı.
@@ -335,15 +335,15 @@ laz: Doğu Karadeniz bölgesinde, bilhassa Rize dolaylarında yaşayan bir kavim
 laza: Ateş. Alev. * Cehennem'in altıncı katı.
 lâzâle: (Lâzâlet) Zeval bulmasın, zâil ve eksik olmasın. * Olsun!
 lâzâle âlîyen: Yüce ve âli olsun.
-lâzeval : Zevalsiz. Sonu gelmez. Zeval bulmaz.
+lâzeval : Zevalsiz. Sonu gelmez. Zeval bulmaz.
 lâzik: Yapışkan, yapışıcı. Yapışmış olan.
 lâzim: Lüzumlu, gerekli. * Bir şeyden aslâ ayrılmayan. Bir işte beraber bulunmasına ve vücuduna ihtiyaç olan şey. * Gr: Müteaddi olmayan.
 lâzim fîîl (fîîl-î lâzim): Fâilin zâtında kalan fiil. (Geldi, gitti, güldü gibi)
 lâzim-amed: Lâzım gelir, lüzum eder. Lâzım geldi.
-lâzim-âmed çâr-çîz : Dört şey lâzım geldi.
+lâzim-âmed çâr-çîz : Dört şey lâzım geldi.
 lâzim-i beyyîn: Bu tabirin masdariyet şekli "Lüzum-u beyyin" olup ikisi aynı mânaya gelir. Herhangi bir şey hatıra gelince hiç bir delil ve emareye ihtiyaç olmadan o şeyle beraber düşünülmesi zaruri olan diğer bir şey. Meselâ: însan denildiği zaman, kabiliyet-i ilim ve san'at akla gelmesi gibi...
 lâzim-i gayr-i müfarik: Ayrılması mümkün olmayan, terki câiz olmayan, ziyade gerekli, çok lüzumlu.
-lâzim-i melzum : Biri birisinden aslâ ayrılmaz, birisi olunca diğerinin de olması şart olan.
+lâzim-i melzum : Biri birisinden aslâ ayrılmaz, birisi olunca diğerinin de olması şart olan.
 lâzim-i zatî: Kendisine ait icab eden hal. Kendisine has vaziyet.
 lazî: (Bak: Lazâ)
 lazîb: Sâbit olan, yapışan.
@@ -602,7 +602,7 @@ lemy: Dudak içinde olan siyahlık.
 lemz: Ayıplamak. Dil ile tân etmek.
 lemz: Ağızda olan yemek artığını dil ile araştırmak.
 lemze: Göz veya kaşla işaret etmek.
-len: Gr: (Muzâri fiilini nasbeden edatlardan birisi). Bir işin aslâ olamıyacağını ifade eder: $ cümlesinde; kâfirler aslâ Cennete giremezler, derken olduğu gibi. (Bak: Huruf-u nâsibe)
+len: Gr: (Muzâri fiilini nasbeden edatlardan birisi). Bir işin aslâ olamıyacağını ifade eder: cümlesinde; kâfirler aslâ Cennete giremezler, derken olduğu gibi. (Bak: Huruf-u nâsibe)
 len-teranî: Beni aslâ göremezsin (meâlinde).
 lenc: Edâ, naz ve cilve ile salınma.
 lenf: (Lenfâ) Tıb: înce damarların içinde dolaşan beyaz kan. Kanın esasını teşkil eden sıvı. * Eski tıbba göre; ahlât-ı erbaa'dan birisi. (Bak: Hılt)
@@ -703,14 +703,14 @@ levîse: çeşitli topluluklardan bir yere toplanmış olan kimseler.
 levîyye: Bir kimse için ayrılıp saklanan yiyecek.
 levk: çiğnemek.
 levka: Ceviz ağacı.
-levlake: Eğer sen olmasaydın (meâlindedir).( $ beyanında "Bu hitab zâhiren Hazret-i Peygamber Aleyhissalâtü Vesselâm'a müteveccih ise de, zımnen hayata ve zevilhayata râcidir." fıkrası, ta'dile muhtaçtır. çünkü: Külli hakikat-ı Muhammediye (A.S.M.) hem hayatın hayatı, hem kâinatın hayatı, hem ism-i âzamın tecelli-i âzamının mazharı ve bütün ziruhların nuru ve kâinatın çekirdek-i aslisi ve gaye-i hilkati ve meyve-i ekmeli olmasından, o hitab, doğrudan doğruya ona bakar. Sonra hayata ve şuura ve ubudiyete onun hesabına nazar eder. R.N.)
+levlake: Eğer sen olmasaydın (meâlindedir).( beyanında "Bu hitab zâhiren Hazret-i Peygamber Aleyhissalâtü Vesselâm'a müteveccih ise de, zımnen hayata ve zevilhayata râcidir." fıkrası, ta'dile muhtaçtır. çünkü: Külli hakikat-ı Muhammediye (A.S.M.) hem hayatın hayatı, hem kâinatın hayatı, hem ism-i âzamın tecelli-i âzamının mazharı ve bütün ziruhların nuru ve kâinatın çekirdek-i aslisi ve gaye-i hilkati ve meyve-i ekmeli olmasından, o hitab, doğrudan doğruya ona bakar. Sonra hayata ve şuura ve ubudiyete onun hesabına nazar eder. R.N.)
 levleb: Makara deliğine soktukları ip.
 levm: çekiştirmek. Birisinin yüzüne karşı kötü söz söylemek. Zemmetmek. Paylamak. Başa kakmak.
 levma: (C.: Levâyim) Azarlama.
 levme: Kınanmaya ve çekiştirilmeğe sebep olacak şey.
 levn: Renk, boya. Sıfat, nev', çeşit, tür. Bir şeyi diğerinden ayıran alâmet.
 levs: Pislik, murdarlık. Kir. * Zor. Kuvvet. * Tam olmayan, zayıf beyyine. * Bir şeyi ağızda öte beri gevelemek. * Deprenmek. * Bulaştırmak ve karıştırmak. Bulaşıklık. * Cerâhet, yara.
-levs : Kapı aralığından veya örtü ve perde kenarından bir nesneyi görmek.
+levs : Kapı aralığından veya örtü ve perde kenarından bir nesneyi görmek.
 levs-î fânî: Gelip geçici murdarlık, pislik. Dünyanın fâni, faydasız eğlenceleri.
 levs-ül katl: Birisini katletmekle müttehem olan şahısta, katlin nişânesi veyahut maktul ile aralarında zâhir bir düşmanlık bulunması gibi alâmet ve karineler.
 levsîyyât: Kirli ve pis şeyler.
@@ -903,7 +903,7 @@ lînç: Halk tarafından öldürülme. Halkın bir suçluyu tutup derhal öldür
 lîne: (C.: Lun-Elvan) Hurma ağacı.
 lînet: (Liynet) Mülâyimlik, yumuşaklık.
 lîrîk: Heyecan ve ahenge fazla ehemmiyet verilen şiir. * Bu tarzda şiir yazan şair.
-lîs: Yalayıcı, yalayan. Birleşik kelimeler yapılır. Meselâ: Kâse-lis $: çanak yalayıcı. Dalkavuk.
+lîs: Yalayıcı, yalayan. Birleşik kelimeler yapılır. Meselâ: Kâse-lis: çanak yalayıcı. Dalkavuk.
 lîsam: Yüz örtüsü, yaşmak. Nikab.
 lîsan: Dil. Konuşma dili. Lehçe. (Bak: Dil)
 lîsan-âşnâ: Lisan bilir. Yabancı dil bilen.
@@ -949,7 +949,7 @@ lîzaz: Kapı ardına konulan ağaç sürgü.
 loca: îtl. Bazı toplantı yerlerinde bir veya birkaç seyirciye mahsus hususi odacıklar. * Hücre, küçük bölme. * Masonların toplandıkları yeri.
 loça: Geminin baş tarafında ve iki yanda demir zincirin geçmesine mahsus delikler.
 lodos: Güneyden esen ılık yel, rüzgâr.
-lohusa : (Bak: Lühusa)
+lohusa : (Bak: Lühusa)
 lojîstîk: Ask: Askerlik san'atının ve seferi orduların iaşe, muhabere ve sevkiyat şartları, hareket ve harb kabiliyeti bakımından en etkili durumda bulundurulması için lâzım gelen çalışmalara aid kısım.
 lokavt: ing. Bir işverenin, isteklerini kabul ettirmek gayesiyle işyerini kapaması.
 lokman hekîm: Kur'an-ı Kerim'de ismi geçen büyük zatlardan olup öğütleri ve ahlâki, tıbbi sözleri ile tanınmıştır. Peygamber Davud (A.S.) zamanında yaşadığı rivayet edilmektedir. Peygamber veya veli olduğu hususunda ihtilaf vardır.
@@ -1053,7 +1053,7 @@ lühuk: Ulaşmak. Yaklaşmak. Sonradan yetişmek.
 lühum: (Lahm. C.) Etler.
 lühum: Cömertler. îyiler. îyi insanlar.
 lühum-u lezîze: Lezzetli etler.
-lühusa : Yeni doğurmuş kadın. Henüz yataktan kalkmamış kadın. Bu hâl 9 ilâ 40 gün kadar devam eder.
+lühusa : Yeni doğurmuş kadın. Henüz yataktan kalkmamış kadın. Bu hâl 9 ilâ 40 gün kadar devam eder.
 lühve: (C.: Lühâ-Lühât) Değirmencinin, eliyle değirmenin ağzına döktüğü tane. (Daha çok hediye, atâ ve hibe mânasına kullanılmıştır.)
 lük: Kalın ve yoğun şey. * Kırmızı boya.
 lü'ka: Kaşıkla alınan şey.
@@ -1121,9 +1121,9 @@ lüvka: Kaymak, zübde. * Yapışmak.
 lüvse: Zayıflık. * Eğlenmek. * îsabet etmek.
 lüzk: (Lâzık) Yapışmak. * Ulaşmak varmak.
 lüzub: Yapıştırma, yapışma. Birbirine kafes gibi girdirip yapıştırma. * Sâbit olma.
-lüzucet : Yapışkanlık. Yapışan, uzayan şeyin hali.
+lüzucet : Yapışkanlık. Yapışan, uzayan şeyin hali.
 lüzucî: Yapışkan. * Kopmadan uzayan.
 lüzucîyyet: çekilip uzayış.
-lüzum : Lâzım olmak. Bir şey bir şeyden aslâ ayrı olmayıp onunla sâbit ve dâim olmak. Gereklilik.
+lüzum : Lâzım olmak. Bir şey bir şeyden aslâ ayrı olmayıp onunla sâbit ve dâim olmak. Gereklilik.
 lüzum-u beyyîn: îsbata ihtiyacı olmayan şey. Cehil, ilimsizliğe lüzum olması gibi. Ve yine meselâ: Kör olmak, görmemezliğe delildir. (Lüzum-u beyyin'in zıddı: "Lüzum-u gayr-ı beyyin"dir. îsbata ihtiyacı olan şey demektir.)
 lüzum-u gayr-î münfek: Ayrılmazlık.

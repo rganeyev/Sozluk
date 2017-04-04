@@ -197,7 +197,7 @@ rahlâ': Arkası beyaz, diğer yerleri siyah olan dişi koyun. * Yalnız arkası
 rahle: Küçük masa.
 rahle-î tedrîs: üzerine ders verilen veya alınan rahle. * Bir âlimden alınan ders.
 rahm: Acıma, koruma, esirgeme, şefkat etmek. * Hısımlık, karabet, akrabalık.
-rahm ü şefkat : Merhamet ve şefkat etmek.
+rahm ü şefkat : Merhamet ve şefkat etmek.
 rahma': Başı beyaz olan dişi koyun.
 rahman: Bütün yaratıklara rızıklarını veren, her an bütün mahlukat hakkında hayır ve rahmet irade buyuran, bütün mahlukatına sayısız nimetler veren. Nizam ve adâlet sâhibi. (Allah)
 rahman suresî: (Errahman Suresi de denir.) Kur'an-ı Kerim'in 55. suresidir. Bu sureye Arus-ül Kur'an da denilmiştir. Mekkidir.
@@ -337,7 +337,7 @@ ramt: Ayıplama.
 ramuz: Deniz.
 ra'n: (C.: Ruun-Riân) Ahmaklık. * Sarp dağ. * önüne sivrilmiş dağ burnu.
 ran: (Reyn. den fiil) Kalb katılaşması, lekelenmek. Kalbin kasavetlenmesi. * Pas, kir. (Bak: Reyn)
-ran: Bacağın uyluk kısmı. Uyluk. * Kelimenin sonuna getirilerek. " Süren, sürücü" mânasını ifade eden birleşik kelimeler yapılır. Meselâ: Hükümrân $: Hüküm süren.
+ran: Bacağın uyluk kısmı. Uyluk. * Kelimenin sonuna getirilerek. " Süren, sürücü" mânasını ifade eden birleşik kelimeler yapılır. Meselâ: Hükümrân: Hüküm süren.
 ra'na: îyi, güzel, hoş, lâtif. Pür ve revnak olan.
 ranec: Hindistan cevizi.
 ranîn: Pantolon. şalvar. Don.
@@ -394,7 +394,7 @@ rastbîn: Herşeyin hak ve doğrusunu görüp farkeden.
 rastgû: (C.: Râstguyân) Doğru konuşan, hak konuşan. 
 rastî: Doğruluk, gerçeklik.
 rastkâr: Doğru adam.
-rasyonalîzm: Fr. Fls: Akliyecilik. Her şeyin yalnız akıl ile bilinebileceğini iddia eden bir felsefi görüş. (Bak: Felsefe)(Nazar-ı nübüvvet ve tevhid ve iman; vahdete, âhirete, uluhiyyete baktığı için hakaiki ona göre görür. Ehl-i felsefe ve hikmetin nazarı; kesrete, esbaba, tabiata bakar, ona göre görür. Nokta-i nazar birbirinden çok uzaktır. Ehl-i felsefenin en büyük bir maksadı ehl-i usul-id din ve ülemâ-i îlm-i Kelâm'ın makasıdı içinde görünmeyecek bir derecede küçük ve ehemmiyetsizdir.îşte onun içindir ki, mevcudatın tafsil-i mâhiyetinde ve ince ahvâllerinde ehl-i hikmet çok ileri gitmişler. Fakat hakiki hikmet olan ulûm-u âliye-i îlâhiye ve uhreviyede o kadar geridirler ki, en basit bir mü'minden daha geridirler. Bu sırrı fehmetmeyenler, muhakkikin-i îslâmiyeyi hükemâlara nisbeten geri zannediyorlar. Halbuki akılları gözlerine inmiş, kesrette boğulmuş olanların ne haddi var ki, veraset-i nübüvvet ile makasıd-ı âliye-i kudsiyeye yetişenlere yetişebilsinler. Hem her bir şey, iki nazar ile bakıldığı vakit iki muhtelif hakikatı gösteriyor. îkisi de hakikat olabilir. Fennin hiç bir hakikat-ı kat'iyyesi Kur'anın hakaik-ı kudsiyyesine ilişemez. Fennin kısa eli onun münezzeh ve muallâ dâmenine erişemez. Nümune olarak bir misâl zikrederiz.Meselâ: Küre-i arz, ehl-i hikmet nazarı ile bakılsa, hakikatı şudur ki: Güneş etrafında mutavassıt bir seyyare gibi hadsiz yıldızlar içinde döner. Yıldızlara nisbeten küçük bir mahluk. Fakat ehl-i Kur'ân nazarı ile bakıldığı vakit hakikatı şöyledir ki; semere-i âlem olan insân, en câmi, en bedi' ve en âciz, en aziz, en zayıf, en lâtif bir mu'cize-i kudret olduğundan beşik ve meskeni olan zemin semaya nisbeten maddeten küçüklüğü ile ve hakareti ile beraber, manen ve san'aten bütün kâinatın kalbi, merkezi; bütün mu'cizat-ı sanatının meşheri, sergisi, bütün tecelliyat-ı esmâsının mazharı, nokta-i mihrakiyesi; nihayetsiz faaliyet Rabbaniyenin mahşeri, ma'kesi; hadsiz hallakıyet-i îlâhiyenin, hususan, nebatat ve hayvânâtın, kesretli enva-ı sagiresinden cevadane icadın medarı, çarşısı ve pek geniş âhiret âlemlerindeki masnuatın küçük mikyasta nümunegâhı ve mensucat-ı ebediyenin sür'atle işleyen tezgâhı ve menazır-ı sermediyenin çabuk değişen taklidgâhı ve besatin-i daimenin tohumcuklarına sür'atle sünbüllenen dar ve muvakkat mezraası ve terbiyegâhı olmuştur.îşte arzın bu azamet-i maneviyesinden ve ehemmiyet-i san'aviyesindendir ki, Kur'an-ı Hakim semâvata nisbeten büyük bir ağacın küçük bir meyvesi hükmünde olan arzı, bütün semavata karşı küçücük kalbi büyük kalıba mukabil tutmak gibi denk tutuyor. Onu bir kefede, bütün semavatı bir kefede koyuyor, mükerreren $ diyor. îşte sair mesaili buna kıyas et. Ve anla ki, felsefenin ruhsuz, sönük hakikatları Kur'anın parlak, ruhlu hakikatları ile müsademe edemez. Nokta-i nazar ayrı ayrı olduğu için ayrı ayrı görünür. S.)(...Acaba akıllarına güvenen akılsız feylesoflar gibi "aklımız bize yeter" deyip sana ittiba'dan istinkâf mı ederler? Halbuki akıl ise, sana ittibaı emreder. çünkü bütün dediğin mâkuldür. Fakat akıl kendi başı ile ona yetişemez...Yahut inkârlarına sebeb, tâgi zâlimler gibi hakka serfüru etmemeleri midir? Halbuki mütecebbir zâlimlerin rüesaları olan fir'avunların, nemrudların âkibetleri mâlumdur... S.) (Bak: îsbatiyecilik)
+rasyonalîzm: Fr. Fls: Akliyecilik. Her şeyin yalnız akıl ile bilinebileceğini iddia eden bir felsefi görüş. (Bak: Felsefe)(Nazar-ı nübüvvet ve tevhid ve iman; vahdete, âhirete, uluhiyyete baktığı için hakaiki ona göre görür. Ehl-i felsefe ve hikmetin nazarı; kesrete, esbaba, tabiata bakar, ona göre görür. Nokta-i nazar birbirinden çok uzaktır. Ehl-i felsefenin en büyük bir maksadı ehl-i usul-id din ve ülemâ-i îlm-i Kelâm'ın makasıdı içinde görünmeyecek bir derecede küçük ve ehemmiyetsizdir.îşte onun içindir ki, mevcudatın tafsil-i mâhiyetinde ve ince ahvâllerinde ehl-i hikmet çok ileri gitmişler. Fakat hakiki hikmet olan ulûm-u âliye-i îlâhiye ve uhreviyede o kadar geridirler ki, en basit bir mü'minden daha geridirler. Bu sırrı fehmetmeyenler, muhakkikin-i îslâmiyeyi hükemâlara nisbeten geri zannediyorlar. Halbuki akılları gözlerine inmiş, kesrette boğulmuş olanların ne haddi var ki, veraset-i nübüvvet ile makasıd-ı âliye-i kudsiyeye yetişenlere yetişebilsinler. Hem her bir şey, iki nazar ile bakıldığı vakit iki muhtelif hakikatı gösteriyor. îkisi de hakikat olabilir. Fennin hiç bir hakikat-ı kat'iyyesi Kur'anın hakaik-ı kudsiyyesine ilişemez. Fennin kısa eli onun münezzeh ve muallâ dâmenine erişemez. Nümune olarak bir misâl zikrederiz.Meselâ: Küre-i arz, ehl-i hikmet nazarı ile bakılsa, hakikatı şudur ki: Güneş etrafında mutavassıt bir seyyare gibi hadsiz yıldızlar içinde döner. Yıldızlara nisbeten küçük bir mahluk. Fakat ehl-i Kur'ân nazarı ile bakıldığı vakit hakikatı şöyledir ki; semere-i âlem olan insân, en câmi, en bedi' ve en âciz, en aziz, en zayıf, en lâtif bir mu'cize-i kudret olduğundan beşik ve meskeni olan zemin semaya nisbeten maddeten küçüklüğü ile ve hakareti ile beraber, manen ve san'aten bütün kâinatın kalbi, merkezi; bütün mu'cizat-ı sanatının meşheri, sergisi, bütün tecelliyat-ı esmâsının mazharı, nokta-i mihrakiyesi; nihayetsiz faaliyet Rabbaniyenin mahşeri, ma'kesi; hadsiz hallakıyet-i îlâhiyenin, hususan, nebatat ve hayvânâtın, kesretli enva-ı sagiresinden cevadane icadın medarı, çarşısı ve pek geniş âhiret âlemlerindeki masnuatın küçük mikyasta nümunegâhı ve mensucat-ı ebediyenin sür'atle işleyen tezgâhı ve menazır-ı sermediyenin çabuk değişen taklidgâhı ve besatin-i daimenin tohumcuklarına sür'atle sünbüllenen dar ve muvakkat mezraası ve terbiyegâhı olmuştur.îşte arzın bu azamet-i maneviyesinden ve ehemmiyet-i san'aviyesindendir ki, Kur'an-ı Hakim semâvata nisbeten büyük bir ağacın küçük bir meyvesi hükmünde olan arzı, bütün semavata karşı küçücük kalbi büyük kalıba mukabil tutmak gibi denk tutuyor. Onu bir kefede, bütün semavatı bir kefede koyuyor, mükerreren diyor. îşte sair mesaili buna kıyas et. Ve anla ki, felsefenin ruhsuz, sönük hakikatları Kur'anın parlak, ruhlu hakikatları ile müsademe edemez. Nokta-i nazar ayrı ayrı olduğu için ayrı ayrı görünür. S.)(...Acaba akıllarına güvenen akılsız feylesoflar gibi "aklımız bize yeter" deyip sana ittiba'dan istinkâf mı ederler? Halbuki akıl ise, sana ittibaı emreder. çünkü bütün dediğin mâkuldür. Fakat akıl kendi başı ile ona yetişemez...Yahut inkârlarına sebeb, tâgi zâlimler gibi hakka serfüru etmemeleri midir? Halbuki mütecebbir zâlimlerin rüesaları olan fir'avunların, nemrudların âkibetleri mâlumdur... S.) (Bak: îsbatiyecilik)
 rasyonel: Fr. Fls: Akla uygun, hesaplı, ölçülü, biçili.
 ra'şan: Titreme, titreyiş.
 ra'şe-î dest: El titremesi.
@@ -444,7 +444,7 @@ ravîye: Su taşıyan hayvan.
 ravuk: Süzek, süzgeç.
 ravvah: Rahat ettirmek. (Bak: Ravh)RAVZ: Bahçeler. Ağaçlık ve çimenlik yerler.
 ravza: Sulu yer, bahçe, bostan, çimenlik yer.
-ravza-î cînân : Cennet bahçeleri. Cennetlere giden yol.
+ravza-î cînân : Cennet bahçeleri. Cennetlere giden yol.
 ravza-î mutahhara: Fahr-i Kâinat Aleyhi Efdal-üs-Salavat ve Efdal-üt-tahiyyât Efendimizin Kabr-i şerifiyle Minberin arasındaki saha.
 ravza-î ridvân: Cennet.
 ravzat: (Ravza. C.) Bahçeler. çimenlik ve ağaçlık yerler.
@@ -714,7 +714,7 @@ reîs-î âlem: âlemin reisi. Hazret-i Muhammed'in (A.S.M.) bir ismi. (Bak: Mef
 reîs-î kabîle: Kabile reisi.
 reîs-î vükelâ: Vekillerin başı. Başvekil. Başbakan.
 reîs-ül küttab: Eskiden Hâriciye Nâzırı, Dışişleri Bakanı.
-rejîm ©: Fr. Bir devletin sevk ve idare usulü, yolu. * Tıb: Hastanın tedavisinde tatbik edilen gıdalandırma yolu. Perhiz.
+rejîm : Fr. Bir devletin sevk ve idare usulü, yolu. * Tıb: Hastanın tedavisinde tatbik edilen gıdalandırma yolu. Perhiz.
 rekabet: Kıskanmak. * Hıfzetmek. * Gözetmek. * Terakkub üzere olmak, başkalarından ileri geçmeğe çalışmak, benzerleriyle üstünlük yarışına çıkmak. * Kendi işini yürütmeğe çalışmak.
 rekaîk: (Rakik. C.) înce ve nâzik olan şeyler.
 rekaket: Kekeleme, dil tutukluğu. * Sözün kusurlu oluşu. Belagattan mahrum olmak. * Zayıf ve ince olmak, yufka olmak. * El ile cismin hacmi ve cüssesini anlamak için yoklamak. * Gevşeklik, zayıflık, dermansızlık.
@@ -788,7 +788,7 @@ rems: Sürtme odunu. * El ile meshetmek. * Islah etmek, düzeltmek.
 remy: Atma. Tüfek atma.
 remz: îşaret. îşaretle anlatmak. * Güç anlaşılır. * Gizli ve kapalı söyleme.
 remza': Güneşin tesiriyle kızmış taş.
-remzen : îşaretle. Remz olarak.
+remzen : îşaretle. Remz olarak.
 remzî: îşarete ait, işaretle alâkalı.
 remzşînas: Bir maksad anlatan şekil, resim vb. * Gizli ve kapalı olarak anlatılan şeyleri ve işaretleri bilen.
 rena: Nazar olunan, bakılan.
@@ -950,7 +950,7 @@ rett: şerif, seyyid.
 retv: Kuyudan kova çekmek.
 retve: Adım. Hatve.
 reum: Yavrusunu seven deve. * Yanından geçen kimsenin elbisesini yalayan koyun.
-rev: (Reften mastarının emir kökü) "Giden, yürüyen" mânasında olup birleşik kelimeler yapılır. Meselâ: Piş-rev $: önde giden.
+rev: (Reften mastarının emir kökü) "Giden, yürüyen" mânasında olup birleşik kelimeler yapılır. Meselâ: Piş-rev: önde giden.
 rev': Korku, halecan. ürkmek. * Nefsani hareket.
 rev'a: Korkak kadın. * Kendisini görenleri şaşırtacak derecede güzel olan kadın veya kız. (Müz: Ervâ)REVA': Tatlı.
 reva: Lâyık, uygun. Meydana gelmek. * Gidici.
@@ -999,7 +999,7 @@ revhanîyet: Gönül açıcılık, güzel görünüşlülük.
 revhat: öğlen vaktinden akşama kadar gitmek.
 revhullah: (Bak: Ravhullah)
 revîr: Alm. Okul, kışla gibi yerlerde ufak hastalıkları olanların yatırıldıkları hasta odası, ilk bakım yeri. * Bölge, mıntıka.
-revîş : Gidiş, hal, tavır. * Tutum, yol.
+revîş : Gidiş, hal, tavır. * Tutum, yol.
 revîy: Edb: Kafiye olan kelimenin son harfi. şiirde kafiye harfi.
 revîyyet: (C.: Reviyyât) Bir işin her cihetini iyice düşünme.
 revk: (C.: Ervâk) Perde, hicâb. * Boynuz. * Ev önü. * Saf, hâlis, katıksız.
@@ -1064,7 +1064,7 @@ rezeme: (C.: Ruzum) Devenin ağzını açmadan boğazından çıkan ses.
 rezen: (C.: Revâzin) îçeri çukurca olup su toplanabilen yüksek ve sağlam yer.
 rezîe: (C.: Rezâyâ) Musibet, felâket, belâ.
 rezîl: Alçak, adi, utanmaz, hayâsız, soysuz.
-rezîl ü rüsva : Kusur ve ayıpları meydana çıkarılmış, kepâze olmuş olan.
+rezîl ü rüsva : Kusur ve ayıpları meydana çıkarılmış, kepâze olmuş olan.
 rezîle: (C.: Rezâil) Fenâ ve kötü huy.
 rezîm: Arslan kükremesi.
 rezîn: Vakarlı, temkinli, ağır başlı, sağlam.
@@ -1122,7 +1122,7 @@ riza-yi tarafeyn: îki tarafın isteği.
 rizaen: Razı olarak.
 rizaen-lîllâh: Allah rızası için.
 rizam: Büyük kaya parçası.
-rizk: Yiyip içecek şey. Maddi mânevi ihtiyaca lâzım nimet. Allah'ın herkese lütuf ve kısmet ettiği ve bekaya sebeb olan nimet.(Rızk-ı helâl, iktidar ile alınmadığına, belki iftikara binaen verildiğine delil-i kat'i; iktidarsız yavruların hüsn-ü maişeti ve muktedir canavarların dik-ı mâişeti; hem, zekâvetsiz balıkların semizliği ve zekâvetli, hileli tilki ve maymunun derd-i maişetle vücutça zaifliğidir. Demek rızık, iktidar ve ihtiyar ile mâkusen mütenasiptir. Ne derece iktidar ve ihtiyarına güvense, o derece derd-i maişete mübtelâ olur. S.)(Rızk ise; hayattan sonra ni'metlerin en büyük bir hazinesi ve şükür ve hamdin en zengin bir menbaı ve ubudiyet ve dua ve ricaların en cem'iyetli bir mâdeni olmasından, suret-i zâhirede müphem ve tesadüfe bağlı gibi gösterilmiş. Tâ her vakit Rezzak-ı Kerim'in dergâhına iltica ve rica ve yalvarmak ve hamd ve şükür şefaatiyle rızk istemek kapısı kapanmasın. Yoksa muayyen olsa idi, mâhiyeti bütün bütün değişecekti. şâkirane, minnetdarane ricalar, dualar, belki mütezellilâne ubudiyet kapıları kapanırdı. ş.)( $ sarahatiyle; ummadığı tarzda yaşayacak kadar rızkını bulacak. çünki şu âyet taahhüd ediyor. Evet, rızk ikidir:Biri hakiki rızktır ki, onunla yaşıyacak. Bu âyetin hükmü ile o rızk, taahhüd-ü Rabbani altındadır. Beşerin su-i ihtiyarı karışmazsa, o zaruri rızkı her halde bulabilir. Ne dinini, ne namusunu, ne izzetini feda etmeğe mecbur olmaz.îkincisi: Rızk-ı mecazidir ki, su-i istimâlât ile hâcât-ı gayr-ı zaruriye hâcât-ı zaruriye hükmüne geçip, görenek belâsiyle tiryaki olup, terkedemiyor. îşte bu rızk, taahhüd-ü Rabbani altında olmadığı için, bu rızkı tahsil etmek, hususan bu zamanda çok pahalıdır. R.N.)
+rizk: Yiyip içecek şey. Maddi mânevi ihtiyaca lâzım nimet. Allah'ın herkese lütuf ve kısmet ettiği ve bekaya sebeb olan nimet.(Rızk-ı helâl, iktidar ile alınmadığına, belki iftikara binaen verildiğine delil-i kat'i; iktidarsız yavruların hüsn-ü maişeti ve muktedir canavarların dik-ı mâişeti; hem, zekâvetsiz balıkların semizliği ve zekâvetli, hileli tilki ve maymunun derd-i maişetle vücutça zaifliğidir. Demek rızık, iktidar ve ihtiyar ile mâkusen mütenasiptir. Ne derece iktidar ve ihtiyarına güvense, o derece derd-i maişete mübtelâ olur. S.)(Rızk ise; hayattan sonra ni'metlerin en büyük bir hazinesi ve şükür ve hamdin en zengin bir menbaı ve ubudiyet ve dua ve ricaların en cem'iyetli bir mâdeni olmasından, suret-i zâhirede müphem ve tesadüfe bağlı gibi gösterilmiş. Tâ her vakit Rezzak-ı Kerim'in dergâhına iltica ve rica ve yalvarmak ve hamd ve şükür şefaatiyle rızk istemek kapısı kapanmasın. Yoksa muayyen olsa idi, mâhiyeti bütün bütün değişecekti. şâkirane, minnetdarane ricalar, dualar, belki mütezellilâne ubudiyet kapıları kapanırdı. ş.)( sarahatiyle; ummadığı tarzda yaşayacak kadar rızkını bulacak. çünki şu âyet taahhüd ediyor. Evet, rızk ikidir:Biri hakiki rızktır ki, onunla yaşıyacak. Bu âyetin hükmü ile o rızk, taahhüd-ü Rabbani altındadır. Beşerin su-i ihtiyarı karışmazsa, o zaruri rızkı her halde bulabilir. Ne dinini, ne namusunu, ne izzetini feda etmeğe mecbur olmaz.îkincisi: Rızk-ı mecazidir ki, su-i istimâlât ile hâcât-ı gayr-ı zaruriye hâcât-ı zaruriye hükmüne geçip, görenek belâsiyle tiryaki olup, terkedemiyor. îşte bu rızk, taahhüd-ü Rabbani altında olmadığı için, bu rızkı tahsil etmek, hususan bu zamanda çok pahalıdır. R.N.)
 rizvan: (Bak: Rıdvan)
 rîa: (Râi. C.) çobanlar.
 rîa: Yüksek yer.
@@ -1281,7 +1281,7 @@ rîvad: Talep etmek, istemek, arzulamak.
 rîvak: (Bak: Revak)
 rîvayat: (Rivâyet. C.) Rivayetler.
 rîvayet: Hikâye edilen hâdise veya söz. * Bir hâdisenin başkalarına anlatılması. * Peygamberimiz'den (A.S.M.) işittiklerini veya sahabeden duyduklarını birisinin başkasına anlatması. * Kuyudan halk için su çekmek.(Eğer denilse: Resül-i Ekrem Aleyhissalâtü Vesselâm'ın her hal ve hareketini kemal-i ihtimam ile Sahabeler muhafaza ederek nakletmişler. Böyle mu'cizat-ı azime, neden on-yirmi tarik ile geliyor? Yüz tarik ile gelmeli idi. Hem neden Hazret-i Enes, Câbir, Ebu Hüreyre'den çok geliyor; Hazret-i Ebu Bekir ve ömer az rivayet ediyor?Elcevab: Nasılki insan, bir ilâca muhtaç olsa, bir tabibe gider; hendese için mühendise gider, mühendisten nakleder; mes'ele-i şer'iyye, müftüden haber alınır ve hâkezâ.. öyle de, sahabe içinde, ehadis-i Nebeviyeyi, gelecek asırlara ders vermek için, ulemâ-i sahabeden bir kısım, ona mânen muvazzaf idiler. Bütün kuvvetleriyle ona çalışıyorlardı. Evet Hazret-i Ebu Hüreyre, bütün hayatını, hadisin hıfzına vermiş; Hazret-i ömer, siyaset âlemiyle ve hilafet-i kübra ile meşgul imiş. Onun için, ehâdisi, ümmete ders vermek için, Ebu Hüreyre ve Enes ve Câbir gibi zatlara itimad edip; ondan, rivayeti az ederdi. Hem mâdem sıddık, saduk, sâdık ve musaddak bir sahabenin meşhur bir namdarı, bir tarik ile bir hâdiseyi haber verse; yeter denilir, başkasının nakline ihtiyaç da kalmaz. Onun için bâzı mühim hâdiseler, iki-üç tarik ile geliyor. M.)
-rîvayet-î sâdika : Senet ve delillerle sâbit, şüphesiz, doğru rivâyet.
+rîvayet-î sâdika : Senet ve delillerle sâbit, şüphesiz, doğru rivâyet.
 rîvayetkerde: Söylenilen. Rivayet edilen.
 rî'y: Hey'et. * Güzel halet, iyi hal. * Güzel elbise.
 rîya: özü sözü bir olmamak. înandığı gibi hareket etmeyiş. îki yüzlülük etmek. Gösteriş için yapılan hareket. (Bak: îhlâs)
@@ -1324,7 +1324,7 @@ romörk: Fr. Denizde veya karada başka bir vasıta tarafından çekilen motorsu
 rota: Vapur ve gemilerde istikamet yolu. Geminin seyir yolu.
 rovelver: Fr. (Aslı: Revolver-Lüverver) Tabanca. Küçük silâh. Toplu tabanca. Altı patlar denilen, altı mermi alan tabanca.
 röntgen: Röntgen adında bir Alman âliminin 1896' da keşfettiği ışıklar. Bunlar gözle görülmediği halde fotoğraf camına tesir eder, vücuddan, tahta, kâğıt gibi maddelerden bu ışık geçebilir. Bazı hastalıkların teşhis ve tedavisinde de kullanılır. * Vücuddaki iç uzuvların filmini çekmek.
-röportaj ©: Fr. Bir gazete muharririnin gördüklerini anlatan yazısı.
+röportaj : Fr. Bir gazete muharririnin gördüklerini anlatan yazısı.
 ru: Olan, biten manalarında birleşik kelimeler yapılır. Meselâ: Hod-ru: Kendiliğinden.
 ru': Kalb, fuad. Kalbde korku ârız olacak yer. * Zihin ve akıl.
 ru (ruy): Yüz, cihet. Sebep. çehre.
@@ -1383,8 +1383,8 @@ rugba': Rağbet etmek, istemek, arzulamak.
 rugerdan: Yüz döndüren, yüz çeviren.
 rugl: Bir acı ot. * Sünnetsizlik. * Bol olmak, bolluk.
 ruh: Yanak, yüz, çehre. * Arabçada: Efsânevi bir kuş. (Bak: Ruhsâr)
-ruh: Can, nefes, canlılık. * öz, hülâsa, en mühim nokta. * His. * Kur'an. * îsa (A.S.). * Cebrail (A.S.). * Korkmak. (Bak: Vicdan)(Ruh, bir kanun-u zivücud-u haricidir. Bir namus-u zişuurdur. Sabit ve dâim fıtri kanunlar gibi, ruh dahi âlem-i emirden, sıfat-ı iradeden gelmiş, kudret ona vücud-u hissi giydirmiştir. Bir seyyale-i lâtifeyi o cevhere sadef etmiştir. Mevcud ruh, mâkul kanunun kardeşidir. îkisi hem dâimi, hem âlem-i emirden gelmişlerdir. şâyet, nevilerdeki kanunlara kudret-i ezeliye bir vücud-u harici giydirseydi, ruh olurdu. Eğer ruh, şuuru başından indirse yine lâyemut bir kanun olurdu. H.)(Ruha bir derece müşabih ve ikisi de âlem-i emirden ve iradeden geldiklerinden masdar itibariyle ruha bir derece muvafık, fakat yalnız vücud-u hissi olmayan nevilerde hükümran olan kavânine dikkat edilse ve o namuslara bakılsa görünür ki: Eğer o kanun-u emri, vücud-u harici giyse idi, o nevilerin birer ruhu olurdu. Halbuki o kanun dâima bakidir. Dâima müstemir, sabittir. Hiçbir tegayyürat ve inkılâbat, o kanunların vahdetine te'sir etmez, bozmaz. Meselâ: Bir incir ağacı ölse, dağılsa; onun ruhu hükmünde olan kanun-u teşekkülâtı, zerre gibi bir çekirdeğinde ölmeyerek baki kalır. îşte madem en âdi ve zaif emri kanunlar dahi böyle beka ile devam ile alâkadardır. Elbette ruh-u insani, değil yalnız beka ile, belki ebed-ül âbâd ile alâkadar olmak lâzım gelir. çünki: Ruh dahi Kur'an'ın nassı ile: $ ferman-ı celili ile âlem-i emirden gelmiş bir kanun-u zişuur ve bir namus-u zihayattır ki: Kudret-i Ezeliyye, ona vücud-u harici giydirmiş. Demek, nasılki sıfat-ı iradeden ve âlem-i emirden gelen şuursuz kavânin, dâima veya ağleben baki kalıyor. Aynen onların bir nevi kardeşi ve onlar gibi sıfat-ı iradenin tecellisi ve âlem-i emirden gelen ruh, bekaya mazhar olmak daha ziyade kat'idir, lâyıktır. çünki: Zivücuddur, hakikat-ı hariciye sahibidir. Hem onlardan daha kavidir, daha ulvidir. çünki: Zişuurdur. Hem onlardan daha daimidir, daha kıymetdardır. çünki: Zihayattır. S.)
-ruh-bahş : Ruh veren, ruh bahşeden.
+ruh: Can, nefes, canlılık. * öz, hülâsa, en mühim nokta. * His. * Kur'an. * îsa (A.S.). * Cebrail (A.S.). * Korkmak. (Bak: Vicdan)(Ruh, bir kanun-u zivücud-u haricidir. Bir namus-u zişuurdur. Sabit ve dâim fıtri kanunlar gibi, ruh dahi âlem-i emirden, sıfat-ı iradeden gelmiş, kudret ona vücud-u hissi giydirmiştir. Bir seyyale-i lâtifeyi o cevhere sadef etmiştir. Mevcud ruh, mâkul kanunun kardeşidir. îkisi hem dâimi, hem âlem-i emirden gelmişlerdir. şâyet, nevilerdeki kanunlara kudret-i ezeliye bir vücud-u harici giydirseydi, ruh olurdu. Eğer ruh, şuuru başından indirse yine lâyemut bir kanun olurdu. H.)(Ruha bir derece müşabih ve ikisi de âlem-i emirden ve iradeden geldiklerinden masdar itibariyle ruha bir derece muvafık, fakat yalnız vücud-u hissi olmayan nevilerde hükümran olan kavânine dikkat edilse ve o namuslara bakılsa görünür ki: Eğer o kanun-u emri, vücud-u harici giyse idi, o nevilerin birer ruhu olurdu. Halbuki o kanun dâima bakidir. Dâima müstemir, sabittir. Hiçbir tegayyürat ve inkılâbat, o kanunların vahdetine te'sir etmez, bozmaz. Meselâ: Bir incir ağacı ölse, dağılsa; onun ruhu hükmünde olan kanun-u teşekkülâtı, zerre gibi bir çekirdeğinde ölmeyerek baki kalır. îşte madem en âdi ve zaif emri kanunlar dahi böyle beka ile devam ile alâkadardır. Elbette ruh-u insani, değil yalnız beka ile, belki ebed-ül âbâd ile alâkadar olmak lâzım gelir. çünki: Ruh dahi Kur'an'ın nassı ile: ferman-ı celili ile âlem-i emirden gelmiş bir kanun-u zişuur ve bir namus-u zihayattır ki: Kudret-i Ezeliyye, ona vücud-u harici giydirmiş. Demek, nasılki sıfat-ı iradeden ve âlem-i emirden gelen şuursuz kavânin, dâima veya ağleben baki kalıyor. Aynen onların bir nevi kardeşi ve onlar gibi sıfat-ı iradenin tecellisi ve âlem-i emirden gelen ruh, bekaya mazhar olmak daha ziyade kat'idir, lâyıktır. çünki: Zivücuddur, hakikat-ı hariciye sahibidir. Hem onlardan daha kavidir, daha ulvidir. çünki: Zişuurdur. Hem onlardan daha daimidir, daha kıymetdardır. çünki: Zihayattır. S.)
+ruh-bahş : Ruh veren, ruh bahşeden.
 ruh-efza: Cana can katan. Canlılık veren. (Ruhfeza da denir)
 ruh-u revan: Ruhun zuhuru. Ruhun ferahlığı. Ruhun akışı.
 ruh-ül emîn (ruh-ül kudüs): Cebrail Aleyhisselâm'ın iki ayrı ismi. Emin ve mukaddes ruh. * Allah'ın ism-i azamı. * încil. * Kur'an.
@@ -1447,12 +1447,12 @@ rusta: Köy, karye.
 rustaî: Köylü.
 rustak: (C.: Resâtik) Köy, karye. çiftlik.
 rustakî: Köylü.
-ruşen : Parlak, aydın. Belli, âşikâr.
+ruşen : Parlak, aydın. Belli, âşikâr.
 ruşenbeyan: Fasih konuşan. Açık ifadeli.
-ruşendîl : Kalbi nurlanmış. Kâmil ve çok temiz dindar.
+ruşendîl : Kalbi nurlanmış. Kâmil ve çok temiz dindar.
 ruşengîr: Cilâcı, parlatıcı.
 ruşenî: Açıklık, aydınlık. * Belli olma.
-ruşenzamîr : Hakikatları bilen. Kalbi, gönlü hakikatlara vakıf olan.
+ruşenzamîr : Hakikatları bilen. Kalbi, gönlü hakikatlara vakıf olan.
 rutab: Hurma.
 rutb: Yaş ot.
 rutebî: Rütbelere ait.
@@ -1477,7 +1477,7 @@ ruz: Gün, 24 saatlik müddet. * Gündüz.
 ruz u şeb: Gece ve gündüz.
 ruz-efzun: Uzun ömürlü.
 ruz-î ceza: Kıyamet günü. * Haşir günü.
-ruz-î haşîr : (Ruz-i hesab) Kıyamet günü. * âhiretteki toplanma günü. Haşir günü. Dirilip toplanıp hesap görülecek gün. (Bak: Yevm)
+ruz-î haşîr : (Ruz-i hesab) Kıyamet günü. * âhiretteki toplanma günü. Haşir günü. Dirilip toplanıp hesap görülecek gün. (Bak: Yevm)
 ruzaa': (Razi. C.) Süt emen çocuklar. * Süt kardeşler.
 ruzan: (Ruz. C.) Günler. Gündüzler. 
 ruzane: Gündelik. Yevmiye.
@@ -1494,7 +1494,7 @@ ruzîresan: Rızık yetiştiren, rızık ulaştıran, Allah (C.C.)
 ruzmerre: Her günkü. Her günlük.
 ruzname: Vakit cetveli, takvim. * Günlük gazete, günlük hâdiselerin yazıldığı kâğıt. * Bir meclis veya hey'etin müzakerat proğramı. * Hergünkü gelir ve giderin kaydedilip yazıldığı defter.
 rüavî: Köy yakınında ve halk yöresinde güdülen deve.
-rüba: Kapan, çalan, alan (mânâsına birleşik kelimeler yapılır). Meselâ: Dil-rüba $: Gönül kapan, gönül alan. îz'an-rüba $: Aklı alan, hayret veren.
+rüba: Kapan, çalan, alan (mânâsına birleşik kelimeler yapılır). Meselâ: Dil-rüba: Gönül kapan, gönül alan. îz'an-rüba: Aklı alan, hayret veren.
 rüba: (C.: Ravâbi) Tepe, yüksek yer.
 rübaî: Dörtlük olan. Dörtle ilgili. * Edb: Dört mısralık belli vezinlerle yazılmış manzume. Aynı esasta 24 şekilli vezinle yazılan 4 mısralık şiir. * Gr: Mastarını meydana getiren dört harften hepsi de asli olan kelimeler.
 rübb: (C.: Rubub) En aşağı derece ile pişmiş ve üçte birinden azı gitmiş olan sıkılmış üzüm.
@@ -1566,7 +1566,7 @@ rüsg: (C.: Ersâg) Bilek. * Hayvanların tırnağıyla baldırı arasında olan
 rüsta-hîz: Mahşer, kıyamet.
 rüstaî: (Rüstâyi) Köyle ilgili. * Köylü.
 rüstak: (C.: Resâtik) Büyük köy.
-rüste: "çıkmış, bitmiş, yetişmiş" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Nev-rüste $: Yeni yetişmiş bitki.
+rüste: "çıkmış, bitmiş, yetişmiş" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Nev-rüste: Yeni yetişmiş bitki.
 rüstem: şark edebiyatında kuvvet ve cesaretin timsali olarak bilinen ve Zaloğlu Rüstem diye veya "Rüstem-i Sistani" nâmiyle meşhur îran'lı bir kahramandır. 
 rüstî: üstünlük, muvaffakıyet. * Yiğitlik. * Kuvvet.
 rüsub: Kab içinde kalan su. * Suyun dibine batmak. * Tortu, dibe çöken, çöküntü.
@@ -1582,7 +1582,7 @@ rüsvayî: Rezillik, itibarsızlık, haysiyetsizlik.
 rüsve: Muhkem ve sağlam olmak. * Sâbit olmak.
 rüşa: (Rişvet. C.) Rüşvetler.
 rüşd: Doğru yol bulup bağlanmak. Hak yolunda salabet, metanet ve kemal-i isabetle dosdoğru gitmek. * Hayra isabet etmek. * Büluğa ermek. * îstikamette olmak. Dinine ve malına zarar gelecek şeyi bilmek, doğru düşünmek. * Kişinin akıl ve idraki kavi ve tedbiri metin olmak. (Bak: îrşâd)
-rüşd ü îrşad : Rüşd ve irşad. Doğru yola sevketmenin mükemmeliyeti. îslâmiyeti en mükemmel şekilde öğretmek.
+rüşd ü îrşad : Rüşd ve irşad. Doğru yola sevketmenin mükemmeliyeti. îslâmiyeti en mükemmel şekilde öğretmek.
 rüşdî: Rüşdle ilgili. Olgunluğa dair.
 rüşdîye: Eskiden orta tahsil derecesindeki mektep. * Rüşde dair.
 rüşeda: (Reşid. C.) Reşid olanlar. Rüşd, olgunluk sâhibleri.
@@ -1602,7 +1602,7 @@ rüüd: Genç kadın. Kız.
 rüval: Salya, ağız suyu.
 rüveyde: (Rüvide) înce, hoş, nazik. * Bitmiş, neşvünema bulmuş.
 rüveyha: Zariflik, incelik.
-rüya: (Rü'ya) Uykuda görülen misali âlem. Düş.(Hayalâtlara karşı kapısı açık olan rüyaları tahkiki bir surette mevzubahs etmek, tahkik mesleğine tam uygun gelmediğinden; o cüz'i hâdise-i nevmiye münasebetiyle, mevtin küçük bir kardeşi olan nevme ait ilmi ve düsturi olarak altı nükte-i hakikatı, âyât-ı Kur'aniyenin işaret ettiği vecihte beyan edeceğiz.Birincisi: Sure-i Yusuf'un mühim bir esâsı, rüya-yı Yusufiye olduğu gibi; $ âyeti misillü çok âyetlerle, rüyada ve nevmde perdeli olarak ehemmiyetli hakikatlar var olduğunu gösterir.îkincisi: Kur'an ile tefe'üle ve rüyaya itimada ehl-i hakikat tarafdar değiller. çünki Kur'an-ı Hakim, ehl-i küfrü kesretle ve şiddetli bir tarzda vuruyor. Tefe'ülde, kâfire ait şiddeti, tefe'ül eden insana çıktığı vakit, yeis veriyor; kalbi müşevveş ediyor. Hem rüya dahi hayr iken, bâzı aks-i hakikatla göründüğü için şer telâkki edilir, yeise düşürür, kuvve-i mâneviyeyi kırar, su'-i zan verir. çok rüyalar var ki: Sureti dehşetli, zararlı, mülevves iken; tâbiri ve mânası çok güzel oluyor. Herkes rüyanın suretiyle mânasının hakikatı mâbeynindeki münasebeti bulamadığı için; lüzumsuz telâş eder, me'yus olur, keder eder.üçüncüsü: Hadis-i sahih ile nübüvvetin kırk cüz'ünden bir cüz'ü nevmde rüya-yı sâdıka suretinde tezahür etmiş. Demek rüya-yı sâdıka hem haktır, hem nübüvvetin vezaifine taalluku var. şu üçüncü mes'ele, gayet mühim ve uzun ve nübüvvetle alâkadar ve derin olduğundan, başka vakte tâlik ediyoruz; şimdilik o kapıyı açmıyoruz.Dördüncüsü: Rüya üç nevidir: îkisi, tabir-i Kur'an'la $ da dahildir; tabire değmiyor. Mânası varsa da ehemmiyeti yok. Ya mizacın inhirafından kuvve-i hayaliye şahsın hastalığına göre bir terkibat, tasvirat yapıyor; yahut gündüz veya daha evvel, hattâ bir-iki sene evvel aynı vakitte başına gelen müheyyic hâdisatı, hayal tahattur eder; ta'dil ve tasvir eder, başka bir şekil verir. îşte bu iki kısım $ dır, tabire değmiyor. üçüncü kısım ki, rüya-yı sâdıkadır. O, doğrudan doğruya mâhiyet-i insaniyedeki lâtife-i Rabbaniye âlem-i şehadetle bağlanan ve o âlemde dolaşan duyguların kapanmasıyla ve durmasıyla, âlem-i gayba karşı bir münasebet bulur; bir menfez açar. O menfez ile, vukua gelmeye hazırlanan hâdiselere bakar ve Levh-i Mahfuz'un cilveleri ve mektubat-ı kaderiyenin nümuneleri nevinden birisine rastgelir, bâzı vâkıat-ı hakikiyeyi görür. Ve o vâkıatta, bazan hayal tasarruf eder, suret libasları giydirir. Bu kısmın çok envaı ve tabakatı var. Bazı aynen gördüğü gibi çıkar, bazan bir ince perde altında çıkıyor, bazan kalınca bir perde ile sarılıyor.Hadis-i şerifte gelmiş ki: Resül-i Ekrem Aleyhissalâtü Vesselâm'ın bidayet-i vahiyde gördüğü rüyalar; subhun inkişafı gibi zâhir, açık, doğru çıkıyordu.Beşincisi: Rüya-yı sâdıka, hiss-i kablelvukuun fazla inkişafıdır. Hiss-i kablelvuku ise, herkeste cüz'i-külli vardır. Hattâ hayvanlarda dahi vardır.Altıncısı ve en mühimmi: Rüya-yı sâdıka benim için hakkalyakin derecesine gelmiş ve pek çok tecrübatımla, kader-i îlâhinin her şeye muhit olduğuna bir hüccet-i katı' hükmüne geçmiştir. Evet bu rüyalar, benim için hususan bir birkaç sene zarfında o dereceye gelmiştir ki; meselâ: Yarın başıma gelecek en küçük hâdisat ve en ehemmiyetsiz muamelât ve hattâ en âdi muhaverat yazılı olduğunu ve daha gelmeden muayyen olduğunu ve gecede onları görmekle, dilim ile değil, gözüm ile okuduğum bana kat'i olmuştur. Bir değil, yüz değil, belki bin def'a; gecede, hiç düşünmediğim halde gördüğüm bazı adamlar veyahut söylediğim mes'eleler, o gecenin gündüzünde, az bir tabir ile aynen çıkıyor. Demek en cüz'i hâdisat vukua gelmeden evvel hem mukayyeddir, hem yazılmıştır. Demek tesadüf yok, hâdisat başıboş gelmiyor, intizamsız değillerdir. M.)
+rüya: (Rü'ya) Uykuda görülen misali âlem. Düş.(Hayalâtlara karşı kapısı açık olan rüyaları tahkiki bir surette mevzubahs etmek, tahkik mesleğine tam uygun gelmediğinden; o cüz'i hâdise-i nevmiye münasebetiyle, mevtin küçük bir kardeşi olan nevme ait ilmi ve düsturi olarak altı nükte-i hakikatı, âyât-ı Kur'aniyenin işaret ettiği vecihte beyan edeceğiz.Birincisi: Sure-i Yusuf'un mühim bir esâsı, rüya-yı Yusufiye olduğu gibi; âyeti misillü çok âyetlerle, rüyada ve nevmde perdeli olarak ehemmiyetli hakikatlar var olduğunu gösterir.îkincisi: Kur'an ile tefe'üle ve rüyaya itimada ehl-i hakikat tarafdar değiller. çünki Kur'an-ı Hakim, ehl-i küfrü kesretle ve şiddetli bir tarzda vuruyor. Tefe'ülde, kâfire ait şiddeti, tefe'ül eden insana çıktığı vakit, yeis veriyor; kalbi müşevveş ediyor. Hem rüya dahi hayr iken, bâzı aks-i hakikatla göründüğü için şer telâkki edilir, yeise düşürür, kuvve-i mâneviyeyi kırar, su'-i zan verir. çok rüyalar var ki: Sureti dehşetli, zararlı, mülevves iken; tâbiri ve mânası çok güzel oluyor. Herkes rüyanın suretiyle mânasının hakikatı mâbeynindeki münasebeti bulamadığı için; lüzumsuz telâş eder, me'yus olur, keder eder.üçüncüsü: Hadis-i sahih ile nübüvvetin kırk cüz'ünden bir cüz'ü nevmde rüya-yı sâdıka suretinde tezahür etmiş. Demek rüya-yı sâdıka hem haktır, hem nübüvvetin vezaifine taalluku var. şu üçüncü mes'ele, gayet mühim ve uzun ve nübüvvetle alâkadar ve derin olduğundan, başka vakte tâlik ediyoruz; şimdilik o kapıyı açmıyoruz.Dördüncüsü: Rüya üç nevidir: îkisi, tabir-i Kur'an'la da dahildir; tabire değmiyor. Mânası varsa da ehemmiyeti yok. Ya mizacın inhirafından kuvve-i hayaliye şahsın hastalığına göre bir terkibat, tasvirat yapıyor; yahut gündüz veya daha evvel, hattâ bir-iki sene evvel aynı vakitte başına gelen müheyyic hâdisatı, hayal tahattur eder; ta'dil ve tasvir eder, başka bir şekil verir. îşte bu iki kısım dır, tabire değmiyor. üçüncü kısım ki, rüya-yı sâdıkadır. O, doğrudan doğruya mâhiyet-i insaniyedeki lâtife-i Rabbaniye âlem-i şehadetle bağlanan ve o âlemde dolaşan duyguların kapanmasıyla ve durmasıyla, âlem-i gayba karşı bir münasebet bulur; bir menfez açar. O menfez ile, vukua gelmeye hazırlanan hâdiselere bakar ve Levh-i Mahfuz'un cilveleri ve mektubat-ı kaderiyenin nümuneleri nevinden birisine rastgelir, bâzı vâkıat-ı hakikiyeyi görür. Ve o vâkıatta, bazan hayal tasarruf eder, suret libasları giydirir. Bu kısmın çok envaı ve tabakatı var. Bazı aynen gördüğü gibi çıkar, bazan bir ince perde altında çıkıyor, bazan kalınca bir perde ile sarılıyor.Hadis-i şerifte gelmiş ki: Resül-i Ekrem Aleyhissalâtü Vesselâm'ın bidayet-i vahiyde gördüğü rüyalar; subhun inkişafı gibi zâhir, açık, doğru çıkıyordu.Beşincisi: Rüya-yı sâdıka, hiss-i kablelvukuun fazla inkişafıdır. Hiss-i kablelvuku ise, herkeste cüz'i-külli vardır. Hattâ hayvanlarda dahi vardır.Altıncısı ve en mühimmi: Rüya-yı sâdıka benim için hakkalyakin derecesine gelmiş ve pek çok tecrübatımla, kader-i îlâhinin her şeye muhit olduğuna bir hüccet-i katı' hükmüne geçmiştir. Evet bu rüyalar, benim için hususan bir birkaç sene zarfında o dereceye gelmiştir ki; meselâ: Yarın başıma gelecek en küçük hâdisat ve en ehemmiyetsiz muamelât ve hattâ en âdi muhaverat yazılı olduğunu ve daha gelmeden muayyen olduğunu ve gecede onları görmekle, dilim ile değil, gözüm ile okuduğum bana kat'i olmuştur. Bir değil, yüz değil, belki bin def'a; gecede, hiç düşünmediğim halde gördüğüm bazı adamlar veyahut söylediğim mes'eleler, o gecenin gündüzünde, az bir tabir ile aynen çıkıyor. Demek en cüz'i hâdisat vukua gelmeden evvel hem mukayyeddir, hem yazılmıştır. Demek tesadüf yok, hâdisat başıboş gelmiyor, intizamsız değillerdir. M.)
 rüya-yi sâdika: Makbul ve muteber kimselerin gördükleri ve gördükleri gibi dünyada hakikatları zuhur eden sâdık rüya.
 rü'yet: Görmek, bakmak. îdare etmek. Göz ile veya kalb gözü ile görmek. * Akıl ile müşahede derecesinde bilmek, idrak etmek, tefekkür etmek, düşünmek. * Araştırmak.
 rü'yetullah: Cennet'te mü'minlerin Allah'ı görmeleri.(Ey insan! Bilir misin nereye gidiyorsun? Ve nereye sevk olunuyorsun? Dünyanın bin sene mes'udane hayatı, bir saat hayatına mukabil gelmeyen Cennet hayatının; ve o Cennet hayatının dahi bin senesi, bir saat rü'yet-i cemaline mukabil gelmeyen bir Cemil-i Zülcelâl'in daire-i rahmetine ve mertebe-i huzuruna gidiyorsun. Mübtelâ ve meftun ve müştak olduğunuz mecazi mahbublarda ve bütün mevcudat-ı dünyevideki hüsün ve cemal, O'nun cilve-i cemalinin ve hüsn-ü esmasının bir nevi gölgesi... ve bütün Cennet, bütün letaifiyle bir cilve-i rahmeti... ve bütün iştiyaklar ve muhabbetler ve incizablar ve câzibeler, bir lem'a-i muhabbeti olan bir Mâbud-u Lemyezel'in, bir Mahbub-u Lâyezâl'in daire-i huzuruna gidiyorsunuz ve ziyafetgâh-ı ebedisi olan Cennet'e çağrılıyorsunuz. öyle ise; kabir kapısına ağlayarak değil, gülerek giriniz. M.)

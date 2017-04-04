@@ -16,7 +16,7 @@ dabb: (C.: Dıbâb-Edubb) Keler, kertenkele. * Yaraya merhem sürmek. * Akmak. *
 dabbe: (C.: Dıbâb) Dişi kertenkele. * Kapıya koyulan yassı enli demir.
 dâbbe: Yürüyen mahluk. Debelenen.
 dâbbe-süvâr: Hayvana binen, binici.
-dâbbet-ül arz: Hadis-i şerifle âhir zamanda olacağı haber verilen ve âhir zaman alâmetlerinden olan bir nevi mahluk. (Cenâb-ı Hakk'a itâat etmeyenleri içlerinden kemireceği ve yiyeceği bildirilen dehşetli bir mahluk tâifesi.)(Kur'ânda, gayet mücmel bir işaret ve lisân-ı hâlinden kısacık bir ifâde, bir tekellüm var. Tafsili ise; ben şimdilik, başka mes'eleler gibi kat'i bir kanaatla bilemiyorum. Yalnız bu kadar diyebilirim: $ Nasıl ki Kavm-i Fir'avne "çekirge âfâtı ve bit belâsı" ve Kâbe tahribine çalışan Kavm-i Ebrehe'ye "Ebâbil kuşları" musallat olmuşlar. öyle de: Süfyan'ın ve deccalların fitneleriyle bilerek, severek isyan ve tuğyana ve "Ye'cüc ve Me'cüc"ün anarşistliği ile fesada ve canavarlığa giden ve dinsizliğe, küfür ve küfrana düşen insanların akıllarını başlarına getirmek hikmetiyle arzdan bir hayvan çıkıp musallat olacak, zir ü zeber edecek. Allahu a'lem, o dâbbe bir nev'dir. çünki gayet büyük birtek şahıs olsa, her yerde herkese yetişmez. Demek dehşetli bir tâife-i hayvaniye olacak. Belki $ âyetinin işaretiyle, o hayvan, dâbbet-ül arz denilen ağaç kurtlarıdır ki; insanların kemiklerini ağaç gibi kemirecek, insanın cisminde dişinden tırnağına kadar yerleşecek. Mü'minler iman bereketiyle ve sefâhet ve su-i istimâlâttan tecennübleriyle kurtulmasına işâreten, âyet, iman hususunda o hayvanı konuşturmuş. ş.)
+dâbbet-ül arz: Hadis-i şerifle âhir zamanda olacağı haber verilen ve âhir zaman alâmetlerinden olan bir nevi mahluk. (Cenâb-ı Hakk'a itâat etmeyenleri içlerinden kemireceği ve yiyeceği bildirilen dehşetli bir mahluk tâifesi.)(Kur'ânda, gayet mücmel bir işaret ve lisân-ı hâlinden kısacık bir ifâde, bir tekellüm var. Tafsili ise; ben şimdilik, başka mes'eleler gibi kat'i bir kanaatla bilemiyorum. Yalnız bu kadar diyebilirim: Nasıl ki Kavm-i Fir'avne "çekirge âfâtı ve bit belâsı" ve Kâbe tahribine çalışan Kavm-i Ebrehe'ye "Ebâbil kuşları" musallat olmuşlar. öyle de: Süfyan'ın ve deccalların fitneleriyle bilerek, severek isyan ve tuğyana ve "Ye'cüc ve Me'cüc"ün anarşistliği ile fesada ve canavarlığa giden ve dinsizliğe, küfür ve küfrana düşen insanların akıllarını başlarına getirmek hikmetiyle arzdan bir hayvan çıkıp musallat olacak, zir ü zeber edecek. Allahu a'lem, o dâbbe bir nev'dir. çünki gayet büyük birtek şahıs olsa, her yerde herkese yetişmez. Demek dehşetli bir tâife-i hayvaniye olacak. Belki âyetinin işaretiyle, o hayvan, dâbbet-ül arz denilen ağaç kurtlarıdır ki; insanların kemiklerini ağaç gibi kemirecek, insanın cisminde dişinden tırnağına kadar yerleşecek. Mü'minler iman bereketiyle ve sefâhet ve su-i istimâlâttan tecennübleriyle kurtulmasına işâreten, âyet, iman hususunda o hayvanı konuşturmuş. ş.)
 da'bel: Kurbağa yumurtası. * Güçlü, kuvvetli deve.
 dabentî: Güçlü, kuvvetli kimse.
 dabgam: Arslan, esed.
@@ -43,7 +43,7 @@ dabuka: Pis. Necis.
 dabure: Yer yüzünde gezen hayvanât.
 dabv: Pişirmek. * Tağyir etmek, değiştirmek.
 dac: çağırmak.
-dac' $ (ducu'): Yan tarafını yere koyup yatmak.
+dac' (ducu'): Yan tarafını yere koyup yatmak.
 da'ca': Gözü çok siyah ve büyük olan kadın. (müz: Edac)
 dacc: Hacıların hizmetkârı ve devecileri. * Hacılar ile birlikte giden, fakat, hac maksudu olmayan bezirgân.
 dacce: Bir kere çağırmak ve inlemek.
@@ -190,8 +190,8 @@ dahîs: Hayvanların tırnak diplerindeki et parçası. Dolama hastalığı.
 dahîs: Kokmuş, kemiksiz et. * Semiz nesne. * çok adet, fazla miktar.
 dâhîye: Hârikulâde zekâ ve fetanet sahibi. * âfet, belâ, musibet. Kazâ. Emr-i azim. Büyük iş ve hâdise.
 dâhîye-î dehyâ: çok büyük belâ, musibet.
-dâhîye-î edeb "": Edebiyatta dâhi olan, eşine az rastlanan büyük edib.
-dâhîye-î harb "": çok becerikli büyük kumandan.
+dâhîye-î edeb: Edebiyatta dâhi olan, eşine az rastlanan büyük edib.
+dâhîye-î harb: çok becerikli büyük kumandan.
 dâhîye-î hîlkat: Yaradılıştan dâhi olan. Hârika.
 dahîyye: Kurbanlık hayvan.
 dahk: Tere yağı. * Bal. * Kar. * Ağzı yarılmış olan çiçek tomurcuğu.
@@ -238,15 +238,15 @@ daîn: Asıl. * Mâden. * Doğruluk.
 daîn: (C.: Daân) Yünlü olan koyun.
 daîr: Devreden. Dolaşan. Dönen. Bir şeyin etrafını kuşatan. * Belli bir şey hakkında olan. Alâkalı, müteallik.
 daîre: Resmi hükümet makamlarından her biri. * Yazıhane. * Büyük bir idare adamının makamı. * Ev veya apartman katı. * Bir manevi te'sirin hükmü geçtiği mahal. * Sınır içi. * Büro, büyük ev, konak. * çember, düz yuvarlak şekil. * Mat: Merkezden aynı uzaklıktaki noktaların çevirdiği düzlük parçası. * Hezimet ve musibet. Beliye-i muhita. * Dönüp dolaşıp meydana gelen hâdise ve inkılâb.
-daîre-î âfâk "": Ufuklar dairesi. çok geniş ve büyük dâire, kâinat.
-daîre-î ehadîyet "": Allah'ın ehadiyetle tecelli ettiği dâire. (Bak: Ehadiyet)
-daîre-î esbab "": Sebepler dâiresi. Sebep ve kanunların bulunduğu yer olan maddi âlem.
+daîre-î âfâk: Ufuklar dairesi. çok geniş ve büyük dâire, kâinat.
+daîre-î ehadîyet: Allah'ın ehadiyetle tecelli ettiği dâire. (Bak: Ehadiyet)
+daîre-î esbab: Sebepler dâiresi. Sebep ve kanunların bulunduğu yer olan maddi âlem.
 daîre-î esmâ: Cenab-ı Hakk'ın isimlerinin sahası ve dairesi.
 daîre-î îmkân: Kâinat. îmkân âlemi. Mükevvenat. Mümkün olan, şartların müsait olduğu âlem. (Daire-i mümkinat da aynı mânada kullanılır.)
-daîre-î mümkînat "": (Bak: Daire-i imkân)
-daîre-î resmîye "": Hükûmet dairesi, resmi daire.
+daîre-î mümkînat: (Bak: Daire-i imkân)
+daîre-î resmîye: Hükûmet dairesi, resmi daire.
 daîre-î vücub: Tebeddül ve tagayyür etmeyen ve mümkinat âleminden olmayan âlemler. Esmâ ve Sıfât-ı îlâhiyye gibi. (Bak: Vücub âlemi)
-daîre-î vücud "": Vücud ve varlık dairesi ve sahası.
+daîre-î vücud: Vücud ve varlık dairesi ve sahası.
 daîrevî: Daire şeklinde. Daire gibi.
 daîrezen: Mehter takımında def çalan.
 daîyan: (Dâi. C.) Dua edenler, duacılar.
@@ -341,7 +341,7 @@ dammad: Hastalara efsun okuyan kimse.
 dampîng: ing. Bir pazarı elde etmek veya bir malı elden çıkartabilmek için benzerlerinden çok düşük fiyatla satma.
 damz: Susmak, sükut etmek.
 damzer: (C.: Damazir) Sütü az olan deve. * Sağlam ve sert yer. * şişman kadın.
-dan: Arabca, Farsça veya bazı Türkçe kelimelerin sonuna takılarak, âlet ismi veya sıfat yapılır. Meselâ: Ateş-dan $: Mangal. Cüz-dan $: Cüz kabı, çanta.
+dan: Arabca, Farsça veya bazı Türkçe kelimelerin sonuna takılarak, âlet ismi veya sıfat yapılır. Meselâ: Ateş-dan: Mangal. Cüz-dan: Cüz kabı, çanta.
 dan: Tane.
 dânâ: Bilgili, bilen, malûmatlı, âlim.
 dânâ-î bî-müdanî: Eşsiz âlim. Zamanında emsali olmayan âlim.
@@ -369,7 +369,7 @@ dantela: Fr. Tentene. Her nevi iplikle örülen, bir kumaşın kenarına işlene
 danu': Evlâdı çok olmak.
 danv: Oğul ve kız, veled.
 dâr: Yer, mekân, konak.
-dâr: Sâhib, mâlik, tutan (mânasındadır.) Meselâ: Bayrakdâr $: Bayrak tutan.
+dâr: Sâhib, mâlik, tutan (mânasındadır.) Meselâ: Bayrakdâr: Bayrak tutan.
 dar': (C.: Durâ-Duru) Davar emziği.
 dar': Men'etmek, engel olmak. * Ansızın haberli olmak. * Eğrilik.
 dâr ü gîr: Kavga, savaş, muharebe, harp, ceng.
@@ -498,7 +498,7 @@ dase: Orak.
 da'sere: Yıkmak.
 dâsîtân: (Dâstân) Destan, sergüzeşt. Geçmiş hâdiseleri anlatan nesir veya nazım halinde yazı. * şöhret.
 dâsîtâne-î aşk: Aşk hikâyesi ve destanı.
-daş: îsimlerin sonlarına eklenerek eşlik, refakat ve ortaklık bildirir. Meselâ: Arka-daş $: Refik.
+daş: îsimlerin sonlarına eklenerek eşlik, refakat ve ortaklık bildirir. Meselâ: Arka-daş: Refik.
 da'şere: Yıkmak.
 daşte: Köhne, harab olmuş, eskimiş, yıpranmış. * Mâlik olmuş.
 daşten: Tutmak, elde etmek, mâlik olmak, zimmetine geçirmek. * Zabtetmek, gasbetmek, almak. * Görüp gözetlemek. * Eskimek, yıpranmak, harab olmak, köhneleşmek.
@@ -634,7 +634,7 @@ defn-î emvat: ölülerin gömülmesi.
 defn-î meyyît: ölünün gömülmesi.
 defr: Kokmak.
 defter: (C.: Defâtir) (Yunanca iki kanatlı manasına gelen bir kelimeden alınmıştır). Not yazmağa, ders için veya ticari hesablara mahsus kağıttan beyaz kitab. Pusula. * Liste.
-defter-î a'mâl: însanların amellerinin iyilik veya, kötülüklerinin meleklerce kaydolunduğu manevi defter.( $ kelimesiyle ifade eder ki: Haşirde herkesin bütün a'mâli bir sahife içinde yazılı olarak neşrediliyor. şu mes'ele kendi kendine çok acib olduğundan akıl ona yol bulamaz. Fakat, surenin işaret ettiği gibi haşr-i bahâride başka noktaların naziresi olduğu gibi, şu neşr-i suhuf naziresi pek zâhirdir. çünki her meyvedar ağaç ve çiçekli bir otun da amelleri var. Fiilleri var, vazifeleri var. Esmâ-i îlâhiyeyi ne şekilde göstererek tesbihat etmiş ise ubudiyetleri var. îşte onun bütün bu amelleri tarih-i hayatlarıyla beraber umum çekirdeklerinde, tohumcuklarında yazılıp başka bir baharda, başka bir zeminde çıkar. Gösterdiği şekil ve suret lisanıyla gayet fasih bir surette analarının ve asıllarının a'mâlini zikrettiği gibi dal, budak, yaprak, çiçek ve meyveleriyle sahife-i a'mâlini neşreder. S.)
+defter-î a'mâl: însanların amellerinin iyilik veya, kötülüklerinin meleklerce kaydolunduğu manevi defter.( kelimesiyle ifade eder ki: Haşirde herkesin bütün a'mâli bir sahife içinde yazılı olarak neşrediliyor. şu mes'ele kendi kendine çok acib olduğundan akıl ona yol bulamaz. Fakat, surenin işaret ettiği gibi haşr-i bahâride başka noktaların naziresi olduğu gibi, şu neşr-i suhuf naziresi pek zâhirdir. çünki her meyvedar ağaç ve çiçekli bir otun da amelleri var. Fiilleri var, vazifeleri var. Esmâ-i îlâhiyeyi ne şekilde göstererek tesbihat etmiş ise ubudiyetleri var. îşte onun bütün bu amelleri tarih-i hayatlarıyla beraber umum çekirdeklerinde, tohumcuklarında yazılıp başka bir baharda, başka bir zeminde çıkar. Gösterdiği şekil ve suret lisanıyla gayet fasih bir surette analarının ve asıllarının a'mâlini zikrettiği gibi dal, budak, yaprak, çiçek ve meyveleriyle sahife-i a'mâlini neşreder. S.)
 defterdar: Defter tutan. Devletin gelir ve masraflarını tutan vazifeli memur. Eskiden Maliye Nâzırı bu nam ile anılırdı. Bir vilayetin maliye işlerine bakan memur.
 defterdarlik: Eskiden maliye bakanlığı. * şimdi vilâyetlerin mali işlerine bakan daire.
 defva: Boyu uzun ağaç. Uzun boyunlu keçi.* Boynu uzun olan kadın.
@@ -700,13 +700,13 @@ dehş: Bulanıklık, karanlık. Zulümat. * Bir işe başlama.
 dehş(e): Tenbel olmak.
 dehşet: Korkup kaçılacak şey. ürkmek, şaşmak. Korku ve telâş içinde olmak.
 dehşet-efşan: Korkunç, korku ve dehşet saçan, ürkütücü.
-dehşet-engîz : çok dehşet verici. çok korkutucu.
+dehşet-engîz : çok dehşet verici. çok korkutucu.
 dehun: Hatırlama, ezber okuma.
 dehüm: Onuncu.
 dehver: Cem'etmek, toplamak. * Lokmayı büyük yapmak.
 dehy (dehâ): Kişinin fikir ve ferâsetinin isabetli ve doğru olması.
 dehya: Te'kid için "Dahiye" lâfzına sıfat yapılır. "Dâhiye-i dehya" gibi.
-dejenere ©: Fr. Bozulma, soysuzlaşma.
+dejenere : Fr. Bozulma, soysuzlaşma.
 dek: t. Edat olup zaman ve mekân için kullanılır. "Hatta, tâ, kadar" mânalarına gelir. Meselâ: Akşama dek çalıştım.
 dek: Desise, hile, dolandırıcılık. * Sâil, dilenci. * Dilencilik. * Sağlam, metin, muhkem. * çatma, tokuşma.
 dek-baz: Hileci, hilekâr, oyuncu, aldatıcı.
@@ -720,7 +720,7 @@ dekdak: (C.: Dekâdik) Kum yığını.
 dekdeke: Yerin deprenmesi. * Sancıma. * Def etme, kovma.
 dekele: Sıvı balçık. Kuvvetleriyle gururlanıp sultanın emrine uymayan kavim.
 dekîk: Tam bir yıl.
-dekk ò: (C.: Dekeke) Vurmak. * Dökmek. * Parça parça etmek. Delil.
+dekk: (C.: Dekeke) Vurmak. * Dökmek. * Parça parça etmek. Delil.
 dekke: Ufalanmak. Pâre pâre olmak. * Vurmak, döğmek. * Seki, sofa.
 dekken: Hurdahaş olmak, yerle bir olma, ufalanmak, parça, parça olmak. 
 dekor: Fr. Süs. Bir sahneyi mütenasib bir nizamla süslemek.
@@ -734,7 +734,7 @@ delaîl-î aklîye: Aklı ile bulunan deliller. Akla âid deliller.
 delaîl-î enfüsîye: Kişinin kendi nefsinde olan deliller. Yani vücudun gerek maddi ve gerek (vicdan ve hisler gibi) mânevi yapısında olan ve imana ait hükümleri isbat eden delillerdir.
 delaîl-î kalbîye: Kalbe âid deliller. Kalb ile bilinen deliller.
 delaîl-î naklîye: Nakil yolu ile gelen deliller. (Bak: Delil-i nakli)
-delaîl-î nübüvvet: Peygamberliğin hak olduğuna dair olan deliller.(Resul-i Ekrem Aleyhissalâtü Vesselâm iddiâ-yı Nübüvvet etmiş; Kur'an-ı Azimüşşan gibi bir fermanı göstermiş ve ehl-i tahkikin yanında bine kadar mu'cizat-ı bâhireyi göstermiştir. O mu'cizât, hey'et-i mecmuasiyle, dâvâ-yı nübüvvetin vukuu kadar vücudları kat'idir. Kur'an-ı Hakim'in çok yerlerinde en muannid kâfirlerden naklettiği sihir isnad etmeleri gösteriyor ki; o muannid kâfirler dahi mu'cizatın vücudlarını ve vukularını inkâr edemiyorlar. Yalnız, kendilerini aldatmak veya etba'larını kandırmak için, hâşâ sihir demişler.Evet, mu'cizat-ı Ahmediyenin (A.S.M.) yüz tevatür kuvvetinde bir kat'iyeti vardır. Mu'cize ise; Hâlik-ı Kâinat tarafından O'nun dâvasına bir tasdiktir; $ hükmüne geçer. Nasılki sen bir padişahın meclisinde ve daire-i nazarında desen ki: "Padişah beni filân işe me'mur etmiş." Senden o dâvaya bir delil istenilse; padişah "Evet" dese, nasıl seni tasdik eder. öyle de: âdetini ve vaziyetini senin iltimasınla değiştirirse; "Evet" sözünden daha kat'i, daha sağlam, senin dâvanı tasdik eder. öyle de, Resul-i Ekrem Aleyhissalâtü Vesselâm dâva etmiş ki: "Ben, şu kâinat Hâlik'ının meb'usuyum. Delilim de şudur ki: Müstemir âdetini, benim duâ ve iltimasımla değiştirecek. îşte, parmaklarıma bakınız; beş musluklu bir çeşme gibi akıttırıyor. Kamere bakınız; bir parmağımın işaretiyle iki parça ediyor. şu ağaca bakınız; beni tasdik için yanıma geliyor, şehadet ediyor. şu bir parça taama bakınız; iki - üç adama ancak kâfi geldiği halde; işte ikiyüz - üçyüz adamı tok ediyor." Ve hâkezâ... yüzer mu'cizatı böyle göstermiştir.şimdi, şu Zâtın delâil-i sıdkı ve berâhin-i nübüvveti yalnız mu'cizatına münhasır değildir. Belki, ehl-i dikkat için, hemen umum harekâtı ve ef'âli, ahvâl ve akvâli, ahlâk ve etvârı, siret ve sureti, sıdkını ve ciddiyetini isbat eder. Hattâ meşhur ulemâ-i Beni îsrâiliyeden Abdullah îbn-i Selâm gibi pek çok zatlar, yalnız o Zât-ı Ekrem Aleyhissalâtü Vesselâm'ın simasını görmekle: "şu simâda yalan yok! şu yüzde hile olamaz!" diyerek imana gelmişler.çendan muhakkikin-i ulema, delail-i nübüvveti ve mu'cizatı bin kadar demişler; fakat binler, belki yüzbinler delâil-i nübüvvet vardır. Ve yüzbinler yol ile yüzbinler muhtelif fikirli adamlar, o zâtın nübüvvetini tasdik etmişler. Yalnız Kur'an-ı Hakim'de kırk vech-i i'cazdan başka, nübüvvet-i Ahmediyenin (A.S.M.) bin bürhanını gösteriyor. M.)
+delaîl-î nübüvvet: Peygamberliğin hak olduğuna dair olan deliller.(Resul-i Ekrem Aleyhissalâtü Vesselâm iddiâ-yı Nübüvvet etmiş; Kur'an-ı Azimüşşan gibi bir fermanı göstermiş ve ehl-i tahkikin yanında bine kadar mu'cizat-ı bâhireyi göstermiştir. O mu'cizât, hey'et-i mecmuasiyle, dâvâ-yı nübüvvetin vukuu kadar vücudları kat'idir. Kur'an-ı Hakim'in çok yerlerinde en muannid kâfirlerden naklettiği sihir isnad etmeleri gösteriyor ki; o muannid kâfirler dahi mu'cizatın vücudlarını ve vukularını inkâr edemiyorlar. Yalnız, kendilerini aldatmak veya etba'larını kandırmak için, hâşâ sihir demişler.Evet, mu'cizat-ı Ahmediyenin (A.S.M.) yüz tevatür kuvvetinde bir kat'iyeti vardır. Mu'cize ise; Hâlik-ı Kâinat tarafından O'nun dâvasına bir tasdiktir; hükmüne geçer. Nasılki sen bir padişahın meclisinde ve daire-i nazarında desen ki: "Padişah beni filân işe me'mur etmiş." Senden o dâvaya bir delil istenilse; padişah "Evet" dese, nasıl seni tasdik eder. öyle de: âdetini ve vaziyetini senin iltimasınla değiştirirse; "Evet" sözünden daha kat'i, daha sağlam, senin dâvanı tasdik eder. öyle de, Resul-i Ekrem Aleyhissalâtü Vesselâm dâva etmiş ki: "Ben, şu kâinat Hâlik'ının meb'usuyum. Delilim de şudur ki: Müstemir âdetini, benim duâ ve iltimasımla değiştirecek. îşte, parmaklarıma bakınız; beş musluklu bir çeşme gibi akıttırıyor. Kamere bakınız; bir parmağımın işaretiyle iki parça ediyor. şu ağaca bakınız; beni tasdik için yanıma geliyor, şehadet ediyor. şu bir parça taama bakınız; iki - üç adama ancak kâfi geldiği halde; işte ikiyüz - üçyüz adamı tok ediyor." Ve hâkezâ... yüzer mu'cizatı böyle göstermiştir.şimdi, şu Zâtın delâil-i sıdkı ve berâhin-i nübüvveti yalnız mu'cizatına münhasır değildir. Belki, ehl-i dikkat için, hemen umum harekâtı ve ef'âli, ahvâl ve akvâli, ahlâk ve etvârı, siret ve sureti, sıdkını ve ciddiyetini isbat eder. Hattâ meşhur ulemâ-i Beni îsrâiliyeden Abdullah îbn-i Selâm gibi pek çok zatlar, yalnız o Zât-ı Ekrem Aleyhissalâtü Vesselâm'ın simasını görmekle: "şu simâda yalan yok! şu yüzde hile olamaz!" diyerek imana gelmişler.çendan muhakkikin-i ulema, delail-i nübüvveti ve mu'cizatı bin kadar demişler; fakat binler, belki yüzbinler delâil-i nübüvvet vardır. Ve yüzbinler yol ile yüzbinler muhtelif fikirli adamlar, o zâtın nübüvvetini tasdik etmişler. Yalnız Kur'an-ı Hakim'de kırk vech-i i'cazdan başka, nübüvvet-i Ahmediyenin (A.S.M.) bin bürhanını gösteriyor. M.)
 delaîl-î zâhîrîye: Açık olarak zâhirde görünen deliller. Maddi deliller.
 delak: Sansar.
 delal: Cilve, naz, işve. însana güzel ve sevimli görünecek hâl, durum.
@@ -760,8 +760,8 @@ delîl: Kılavuz. Doğru yolu gösteren. Meçhûlü keşfetmekte ve malumun sıh
 delîl-î aklî: Akıl yolu ile bulunan delil. Nakil yolu ile olmadan, düşünülerek bulunan delil.
 delîl-î arşî ve süllemî: Eski mantıkta Vahdaniyyet-i îlâhiyyeyi ve teselsülün muhaliyyetini isbat bahislerinde geçen delillerdendir.
 delîl-î îhtîra': Cenab-ı Hakk'ın yeniden icad ederek yarattığı şeylerden meydana gelen, kendi zâtına mahsus delil. Buna misâl olarak birini zikredebiliriz:(Cenâb-ı Hak hususi eserlerine menşe ve kendisine lâyık kemâlâtına me'haz olmak üzere her ferde ve her nev'e has ve müstakil bir vücud vermiştir. Ezel cihetine sonsuz olarak uzanıp giden, hiçbir nev' yoktur. çünkü bütün enva'; imkândan vücub dâiresine çıkmamışlardır. Ve teselsülün de bâtıl olduğu meydandadır. Ve âlemde görünen şu tegayyür ve tebeddül ile bir kısım eşyanın hudusu, yani, yeni vücuda geldiği de göz ile görünüyor. Bir kısmının da hudusu zaruret-i akliye ile sabittir. Demek, hiçbir şeyin ezeliyyeti cihetine gidilemez.Ve keza, ilm-ül hayvanat ve ilm-ün nebatatta isbat edildiği gibi, envâın sayısı iki yüz bine bâliğdir. Bu nev'ler için birer âdem ve birer evvel baba lâzımdır. Bu evvel babaların ve âdemlerin dâire-i vücubda olmayıp ancak mümkinattan olduklarına nazaran behemehâl, vasıtasız, kudret-i îlâhiyyeden vücuda geldikleri zaruridir. çünkü, bu nev'lerin teselsülü, yani, sonsuz uzanıp gitmeleri bâtıldır. Ve bazı nev'lerin başka nev'lerden husule gelmeleri tevehhümü de bâtıldır. çünkü, iki nev'den doğan nev, alelekser ya akimdir veya nesli inkıtaa uğrar. Tenâsül ile bir silsilenin başı olamaz.Hülâsa: Beşeriyet ve sâir hayvanatın teşkil ettikleri silsilelerin mebdei en başta bir babada kesildiği gibi, en nihayeti de son bir oğulda kesilip bitecektir. î.î.)
-delîl-î îmkânî: îmkâna âit olan delil. $âyeti ile işaret edilmiştir. Bu delilin hülâsası: "Kâinatın ihtiva ettiği zerrelerden her birisinin gerek zâtında, gerek sıfatında, gerek ahvâlinde ve gerek vücudunda gayr-i mütenahi imkânlar, ihtimâller, müşkülâtlar, yollar, kanunlar varken; birdenbire o zerre gayr-i mütenâhi yollardan muayyen bir yola süluk eder. Ve gayr-i mahdut hâllerden bir vaziyete girer. Ve gayr-i ma'dut sıfatlardan bir sıfatla vasıflanır. Ve doğru bir kanun üzerine mukadder bir maksada, harekete başlar ve vazife olarak uhdesine verilen herhangi bir hikmet ve bir maslahatı derhal intac eder ki, o hikmet ve o maslahatın husule gelmesi ancak o zerrenin o çeşit hareketiyle olabilir. Acaba o kadar yollar ve ihtimaller arasında o zerrenin mâcerası, lisan-ı hâliyle, Sani'in kasd ve hikmetine delâlet etmez mi?îşte her bir zerre, müstakillen kendi başıyla Sâni'in vücuduna delâlet ettiği gibi, küçük büyük herhangi bir teşekküle girerse veya herhangi bir mürekkebe cüz' olursa, girdiği ve cüz' olduğu o makamlarda kazandığı nisbete göre Sâni'ine olan delâletini muhafaza eder. î.î.)
-delîl-î înayet: Allah'ın inâyetinin tecellisinden gelen ve kâinatta görülen hikmet ve maslahatlara uygun en mükemmel nizam ve tam esaslı san'at; ve kâinattaki eşyaların menfaat ve faydalarını bildiren âyetler, bu inâyet delilini gösteriyorlar.(Sâniin vücud ve vahdetine işaret eden delillerden biri de înayet delili'dir. Bu delil; kâinatı ve kâinatın eczasını ve envâını ihtilâlden, ihtilâftan, dağılmaktan kurtarıp bütün hususâtını intizam altına almakla kâinata hayat veren nizamdan ibarettir. Bütün maslahatların, hikmetlerin, faidelerin, menfaatlerin menşei, bu nizamdır. Menfaatlerden, maslahatlardan bahseden bütün Ayât-ı Kur'aniye, bu nizam üzerine yürüyor ve bu nizamın tecellisine mazhardır. Binaenaleyh, bütün mesalihin, fevaidin ve menafiin mercii olan ve kâinata hayat veren bir nizam; elbette ve elbette bir nâzımın vücuduna delâlet ettiği gibi, O nâzımın kasd ve hikmetine de delâlet etmekle, kör tesadüfün vehimlerini nefyeder.Ey insan! Eğer senin fikrin, nazarın şu yüksek nizamı bulmaktan âciz ise ve istikra-i tâm ile, yani umumi bir araştırma ile de o nizamı elde etmeye kadir değilsen, insanların telâhuk-u efkâr denilen fikirlerinin birleşmesinden doğan ve nev-i beşerin havassı (duyguları) hükmünde olan fünun ile kâinata bak ve sahifelerini oku ki, akılları hayrette bırakan o yüksek nizamı göresin.Evet, kâinatın herbir nev'ine dâir bir fen teşekkül etmiş veya etmektedir. Fen ise kavaid-i külliyeden ibarettir. Kaidenin külliyeti ise, nizamın yüksekliğine ve güzelliğine delâlet eder. Zira nizamı olmayanın külliyeti olamaz. Meselâ: Her âlimin başında beyaz bir imâme var. Külliyetle söylenilen şu hüküm, ulema nev'inde intizamın bulunmasına bakar. öyle ise, umumi bir teftiş neticesinde fünun-u kevniyeden herbirisi, kaidelerinin külliyeti ile kâinatta yüksek bir nizamın bulunmasına bir delildir. Ve herbir fen nurlu bir bürhan olup, mevcudatın silsilelerinde salkımlar gibi asılıp sallanan maslahat semerelerini ve ahvalin değişmesinde gizli olan faideleri göstermekle Sâniin kasd ve hikmetini ilân ediyorlar. Adeta vehim şeytanlarını tardetmek için herbir fen, birer necm-i sâkıbdır. Yani, bâtıl vehimleri delip yakan birer yıldızdırlar.Ey arkadaş! O nizamı bulmak için umum kâinatı araştırmaktansa, şu misale dikkat et, matlubun hasıl olur.Göz ile görünmeyen bir mikrob, bir hayvancık, küçüklüğüyle beraber pek ince ve garib bir makine-i îlâhiyeyi hâvidir. O makine mümkinattan olduğundan, vücud ve ademi, mütesavidir. îlletsiz vücuda gelmesi muhaldir. O makinenin bir illetten vücuda geldiği zaruridir. O illet ise, esbab-ı tabiiyye değildir. çünki, o makinedeki ince nizam, bir ilim ve şuurun eseridir. Esbab-ı tabiiyye ise; ilimsiz, şuursuz, câmid şeylerdir. Akılları hayrette bırakan o ince makinenin esbab-ı tabiiyeden neş'et ettiğini iddia eden adam, esbabın herbir zerresine Eflatun'un şuurunu, Calinos'un hikmetini i'ta etmekle beraber; o zerrat arasında bir muhaberenin de mevcut olmasını itikad etmelidir. Bu ise, öyle bir safsata ve öyle bir hurafedir ki, meşhur sofestaiyi bile utandırıyor. Maahaza, esbab-ı maddiyede esas ittihaz edilen kuvve-i câzibe ile kuvve-i dâfianın, inkısama kabiliyeti olmıyan bir cüz'de birlikte içtimaları iltizam edilmiştir. Halbuki bunlar birbirlerine zıt olduklarından, içtimaları câiz değildir. Fakat, câzibe ve dâfia kanunlarından maksat âdâtullah ile tâbir edilen kavanin-i îlâhiyye ise ve tabiatla tesmiye edilen şeriat-ı fıtriyye ise, câizdir. Lâkin kanunluktan tabiata, vücud-u zihniden vücud-u hariciye, umur-u itibariyyeden umur-u hakikiyyeye, âlet olmaktan müessir olmaya çıkmamak şartiyle makbuldür. Aksi takdirde câiz değildir.Ey arkadaş! Misâl olarak gösterdiğim o küçük hurdebini hayvancığın yani mikrobun büyük fabrikasındaki nizam ve intizamı aklın ile gördüğün takdirde başını kaldır, kâinata bak! Emin ol ki, kâinatın vuzuh ve zuhuru nisbetinde o yüksek nizamı, kâinatın sahifelerinde pek zâhir ve okunaklı bir şekilde görüp okuyacaksın.Ey arkadaş! Kâinatın sahifelerinde "Delil-ül-înaye" ile anılan nizama ait âyetleri okuyamadı isen sıfat-ı kelâmdan gelen Kur'an-ı Azimüşşan'ın âyetlerine bak ki, insanları tefekküre davet eden bütün âyetleri şu delil-ül-inaye'yi tavsiye ediyorlar. Ve ni'metleri ve faideleri sayan âyetler dahi, delil-ül inaye denilen o yüksek nizamın semerelerinden bahsediyorlar. Ezcümle: Bahsinde bulunduğumuz şu âyet $cümleleriyle o nizamın faidelerini ve nimetlerini koparıp insanlara veriyorlar. î.î.)
+delîl-î îmkânî: îmkâna âit olan delil.âyeti ile işaret edilmiştir. Bu delilin hülâsası: "Kâinatın ihtiva ettiği zerrelerden her birisinin gerek zâtında, gerek sıfatında, gerek ahvâlinde ve gerek vücudunda gayr-i mütenahi imkânlar, ihtimâller, müşkülâtlar, yollar, kanunlar varken; birdenbire o zerre gayr-i mütenâhi yollardan muayyen bir yola süluk eder. Ve gayr-i mahdut hâllerden bir vaziyete girer. Ve gayr-i ma'dut sıfatlardan bir sıfatla vasıflanır. Ve doğru bir kanun üzerine mukadder bir maksada, harekete başlar ve vazife olarak uhdesine verilen herhangi bir hikmet ve bir maslahatı derhal intac eder ki, o hikmet ve o maslahatın husule gelmesi ancak o zerrenin o çeşit hareketiyle olabilir. Acaba o kadar yollar ve ihtimaller arasında o zerrenin mâcerası, lisan-ı hâliyle, Sani'in kasd ve hikmetine delâlet etmez mi?îşte her bir zerre, müstakillen kendi başıyla Sâni'in vücuduna delâlet ettiği gibi, küçük büyük herhangi bir teşekküle girerse veya herhangi bir mürekkebe cüz' olursa, girdiği ve cüz' olduğu o makamlarda kazandığı nisbete göre Sâni'ine olan delâletini muhafaza eder. î.î.)
+delîl-î înayet: Allah'ın inâyetinin tecellisinden gelen ve kâinatta görülen hikmet ve maslahatlara uygun en mükemmel nizam ve tam esaslı san'at; ve kâinattaki eşyaların menfaat ve faydalarını bildiren âyetler, bu inâyet delilini gösteriyorlar.(Sâniin vücud ve vahdetine işaret eden delillerden biri de înayet delili'dir. Bu delil; kâinatı ve kâinatın eczasını ve envâını ihtilâlden, ihtilâftan, dağılmaktan kurtarıp bütün hususâtını intizam altına almakla kâinata hayat veren nizamdan ibarettir. Bütün maslahatların, hikmetlerin, faidelerin, menfaatlerin menşei, bu nizamdır. Menfaatlerden, maslahatlardan bahseden bütün Ayât-ı Kur'aniye, bu nizam üzerine yürüyor ve bu nizamın tecellisine mazhardır. Binaenaleyh, bütün mesalihin, fevaidin ve menafiin mercii olan ve kâinata hayat veren bir nizam; elbette ve elbette bir nâzımın vücuduna delâlet ettiği gibi, O nâzımın kasd ve hikmetine de delâlet etmekle, kör tesadüfün vehimlerini nefyeder.Ey insan! Eğer senin fikrin, nazarın şu yüksek nizamı bulmaktan âciz ise ve istikra-i tâm ile, yani umumi bir araştırma ile de o nizamı elde etmeye kadir değilsen, insanların telâhuk-u efkâr denilen fikirlerinin birleşmesinden doğan ve nev-i beşerin havassı (duyguları) hükmünde olan fünun ile kâinata bak ve sahifelerini oku ki, akılları hayrette bırakan o yüksek nizamı göresin.Evet, kâinatın herbir nev'ine dâir bir fen teşekkül etmiş veya etmektedir. Fen ise kavaid-i külliyeden ibarettir. Kaidenin külliyeti ise, nizamın yüksekliğine ve güzelliğine delâlet eder. Zira nizamı olmayanın külliyeti olamaz. Meselâ: Her âlimin başında beyaz bir imâme var. Külliyetle söylenilen şu hüküm, ulema nev'inde intizamın bulunmasına bakar. öyle ise, umumi bir teftiş neticesinde fünun-u kevniyeden herbirisi, kaidelerinin külliyeti ile kâinatta yüksek bir nizamın bulunmasına bir delildir. Ve herbir fen nurlu bir bürhan olup, mevcudatın silsilelerinde salkımlar gibi asılıp sallanan maslahat semerelerini ve ahvalin değişmesinde gizli olan faideleri göstermekle Sâniin kasd ve hikmetini ilân ediyorlar. Adeta vehim şeytanlarını tardetmek için herbir fen, birer necm-i sâkıbdır. Yani, bâtıl vehimleri delip yakan birer yıldızdırlar.Ey arkadaş! O nizamı bulmak için umum kâinatı araştırmaktansa, şu misale dikkat et, matlubun hasıl olur.Göz ile görünmeyen bir mikrob, bir hayvancık, küçüklüğüyle beraber pek ince ve garib bir makine-i îlâhiyeyi hâvidir. O makine mümkinattan olduğundan, vücud ve ademi, mütesavidir. îlletsiz vücuda gelmesi muhaldir. O makinenin bir illetten vücuda geldiği zaruridir. O illet ise, esbab-ı tabiiyye değildir. çünki, o makinedeki ince nizam, bir ilim ve şuurun eseridir. Esbab-ı tabiiyye ise; ilimsiz, şuursuz, câmid şeylerdir. Akılları hayrette bırakan o ince makinenin esbab-ı tabiiyeden neş'et ettiğini iddia eden adam, esbabın herbir zerresine Eflatun'un şuurunu, Calinos'un hikmetini i'ta etmekle beraber; o zerrat arasında bir muhaberenin de mevcut olmasını itikad etmelidir. Bu ise, öyle bir safsata ve öyle bir hurafedir ki, meşhur sofestaiyi bile utandırıyor. Maahaza, esbab-ı maddiyede esas ittihaz edilen kuvve-i câzibe ile kuvve-i dâfianın, inkısama kabiliyeti olmıyan bir cüz'de birlikte içtimaları iltizam edilmiştir. Halbuki bunlar birbirlerine zıt olduklarından, içtimaları câiz değildir. Fakat, câzibe ve dâfia kanunlarından maksat âdâtullah ile tâbir edilen kavanin-i îlâhiyye ise ve tabiatla tesmiye edilen şeriat-ı fıtriyye ise, câizdir. Lâkin kanunluktan tabiata, vücud-u zihniden vücud-u hariciye, umur-u itibariyyeden umur-u hakikiyyeye, âlet olmaktan müessir olmaya çıkmamak şartiyle makbuldür. Aksi takdirde câiz değildir.Ey arkadaş! Misâl olarak gösterdiğim o küçük hurdebini hayvancığın yani mikrobun büyük fabrikasındaki nizam ve intizamı aklın ile gördüğün takdirde başını kaldır, kâinata bak! Emin ol ki, kâinatın vuzuh ve zuhuru nisbetinde o yüksek nizamı, kâinatın sahifelerinde pek zâhir ve okunaklı bir şekilde görüp okuyacaksın.Ey arkadaş! Kâinatın sahifelerinde "Delil-ül-înaye" ile anılan nizama ait âyetleri okuyamadı isen sıfat-ı kelâmdan gelen Kur'an-ı Azimüşşan'ın âyetlerine bak ki, insanları tefekküre davet eden bütün âyetleri şu delil-ül-inaye'yi tavsiye ediyorlar. Ve ni'metleri ve faideleri sayan âyetler dahi, delil-ül inaye denilen o yüksek nizamın semerelerinden bahsediyorlar. Ezcümle: Bahsinde bulunduğumuz şu âyetcümleleriyle o nizamın faidelerini ve nimetlerini koparıp insanlara veriyorlar. î.î.)
 delîl-î înnî: (Bak: Bürhan-ı inni)
 delîl-î naklî: Kur'an, Hadis-i şerif veya diğer mukaddes kitaplardaki verilen haberler ile olan delil.
 delîl-î süllemî: (Bak: Delil-i arşi, Arş ve süllem)
@@ -791,7 +791,7 @@ dema: Her zaman. Vaktâki. * Soluk. Nefes. Hastalık sebebiyle tez tez solumak. 
 dem'a-rîz: Ağlıyan, gözyaşı döken.
 demadem: Zaman zaman. An be an. Sık sık. Her vakit.
 demagog: yun. Demagoji yapan kimse.
-demagojî ©: yun. Halkı kendi menfaati için okşama siyâseti. Halkın hoşuna gidecek sözlerle insanların sevgisini kazanarak kendi maksadını elde etmeğe çalışmak. Halk avcılığı. Cerbeze.
+demagojî : yun. Halkı kendi menfaati için okşama siyâseti. Halkın hoşuna gidecek sözlerle insanların sevgisini kazanarak kendi maksadını elde etmeğe çalışmak. Halk avcılığı. Cerbeze.
 demak: Tipi (Kış gününde rüzgârın karı her tarafa savurmasıdır.)
 demal: Ters. * Ekşimiş hurma.
 demame: çirkinlik.
@@ -902,15 +902,15 @@ derecat: (Derece. C.) Dereceler, basamaklar, kademeler, yükseklikler, mertebele
 derecat-i kurbîye: Yakınlık dereceleri. Allah'a manevi yakınlık mertebeleri.
 derecat-i şemsîye: Eski Kozmoğrafyaya göre; güneşi döndüğü farzedilen dâirenin on iki burca tekabül eden kısımları.
 derece: (C.: Derecât) Yukarıya çıkacak basamak. * Dairenin bölündüğü dilim. 360 kısmın beheri ki, açıları ölçmeye yarar. * Termometrenin bölündüğü kısımların beheri. Mertebe, paye. * Miktar, rütbe.
-derece-î hararet "": Isı derecesi.
+derece-î hararet: Isı derecesi.
 derece-î süllem: Merdiven basamağı.
-derece-î şuhud "": îmanı ve mânevi hakikatları, mânevi terakki yoluyla görmek seviyesinde olan iman mertebesi.
+derece-î şuhud: îmanı ve mânevi hakikatları, mânevi terakki yoluyla görmek seviyesinde olan iman mertebesi.
 dered: Ağızda diş olmamak.
 derek: Urgan ucuna eklenip, kovanın kulpuna bağlanan ip parçası (urgan suya değmesin diye) * Kiriş uçlarında olan halka (yayın başlarına geçirirler.)
 dereka: (C.: Deruk) Sığır derisinden yapılan kalkan.
 derekât: Aşağılık dereceleri. En aşağı mertebeler.
 dereke: Aşağı inen basamak. Aşağı mertebe. * Sıfırın altındaki derece. Düşüklük.
-dereke-î mîrkat "": Merdivenin en alt basamağı.
+dereke-î mîrkat: Merdivenin en alt basamağı.
 derekî: Gerileme.
 derem: Akçe, para.
 derem: Baldır etli olduğundan dolayı topuğun görünmeyip belirsiz olması ve sâir kemiklerin etlilikten belirmeyip örtülmesi. * Ağızdan dişlerin dökülüp yerini et bürüyüp belirsiz olması. * Davarın yavaş yürüyüp adımlarını birbirine yakın atması.
@@ -968,10 +968,10 @@ derunî: Gönülden, içten.
 derva(h): şaşkın, şaşırmış olan, hayran. * Başaşağı asılmış. * Lâzım, zaruri, lüzumu olan, gerekli.
 dervah: Hastalıktan yeni kurtulan, iyice kendisine gelemeyen kimse. * Sağlam, metin, muhkem. * Doğru, asıl, gerçek. * Yiğitlik, cesaret, cesur olmak, şecaat. * Ayıp, utanma. * Sertlik, kabalık.
 dervaze: Kapı. şehir. şehir kapısı, kale kapısı.
-dervâze-î nuş $: Mc: Ağız.
-dervîş : Gayet mütevazi ve kanaatkâr olan. * Kimsesiz, fakir. * Mâneviyâtla gönlü zengin olan fakir. * Mürid veya şeyh.
+dervâze-î nuş: Mc: Ağız.
+dervîş : Gayet mütevazi ve kanaatkâr olan. * Kimsesiz, fakir. * Mâneviyâtla gönlü zengin olan fakir. * Mürid veya şeyh.
 dervîşân: (Derviş. C.) Dervişler.
-dervîşâne : Dervişe yakışır halde, saflık ve kalenderlikle. Müstağni ve fakir bir surette.
+dervîşâne : Dervişe yakışır halde, saflık ve kalenderlikle. Müstağni ve fakir bir surette.
 dery: Bilmek.
 derya: Deniz, bahr.
 derya-bend: Liman. * Tersane.
@@ -1146,7 +1146,7 @@ devr-î bâtil: Man: Kısır devir. Bir hükmü ikinci bir hüküm ile, bunu da 
 devr-î dîl-ârâ: En hoş devir. Gönlü hoş eden zaman.
 devr-î ebvab: Kapı kapı gezip dolaşmak.
 devr-î felek: (Bak: Devr-i zaman)
-devr-î kasir : (Devre-i kasire) Fiz: Kısa devre.
+devr-î kasir : (Devre-i kasire) Fiz: Kısa devre.
 devr-î lâle: Lâle devri, lâle mevsimi, lâle zamanı.
 devr-î mîhnet: Dünya, cihan, küre-i arz.
 devr-î sâbik: Bir önceki hükümet. Geçmiş devir.
@@ -1182,7 +1182,7 @@ deymum: Devamlı, berkarar, zevalsiz.
 deymumet: Daimlik, devam, dâimiyet.
 deymumî: Devamlılık, devam, dâimiyet.
 deyn: Borç. Verilmesi lâzım gelen şey. * Fık: Zimmetinde sâbit olan şey.
-deyn-î hâl ò: Huk: Herhangi bir vakte bağlı ve te'hir edilmeyen borç.
+deyn-î hâl: Huk: Herhangi bir vakte bağlı ve te'hir edilmeyen borç.
 deyr: (C.: Edyâr) Kilise, manastır. * âlem-i insaniyet, insanlık âlemi.
 deyranî: Manastır adamı.
 deyrhane: Kilise, manastır.
@@ -1307,7 +1307,7 @@ dîger-gun: Değişmiş, başkalaşmış, bozuk.
 dîger-kâm: Başkalarını düşünen.
 dîger-ruz: Diğer gün, başka gün.
 dîh: Köy, karye. * On sayısı.
-dîh: "Veren, verici" mânalarına gelir ve kelimelerle birleşir. Meselâ: ârâm-dih $: Rahatlık veren.
+dîh: "Veren, verici" mânalarına gelir ve kelimelerle birleşir. Meselâ: ârâm-dih: Rahatlık veren.
 dîh: (C.: Diha) Hurma salkımı.
 dîh-dar: Köy ağası.
 dîh-gan: Ekinci, çiftçi, köylü.
@@ -1501,7 +1501,7 @@ dîvan-i deâvî nezaretî: çavuşbaşılığın kaldırıldığı 1836 (Hi: 12
 dîvan-i eş'âr: şiirler divanı, şiirler kitabı.
 dîvan-i harp: Harp divanı. Yüksek rütbeli askerlerin harp mes'eleleri veya harp suçluları hakkında işler için toplandıkları meclis.
 dîvan-i hümâyun: Halkın dâva ve şikâyetlerinin dinlenip halledildiği, devlet meselelerinin görüldüğü padişah huzuru. Bu mecliste; sadrazam, şeyh-ül îslâm, kazaskerler, defterdarlar ve sair büyük devlet ricali bulunurdu.
-dîvan-i îlâhî ú: âhiretteki hesap günü. Haşirde muhasebe günü.
+dîvan-i îlâhî ú: âhiretteki hesap günü. Haşirde muhasebe günü.
 dîvan-i nübüvvet: Peygamberler cemaati, peygamberler meclisi.
 dîvançe: Kafiye itibariyle harf sırası tertibiyle yapılan küçük şiir mecmuası.
 dîvane: Deli. Aklı başında olmayan.
@@ -1553,10 +1553,10 @@ dövîz: Fr. Yabancı devlet parası. * Yabancı ülkelerde ecnebi paralarla öd
 dram: yun. Korkunç ve kanlı tiyatro piyesi. * Müthiş bir vakıa. Musibet, felâket. Heyecan uyandıran hâdise veya hareket.
 dramatîk: yun. Drama benzer. Heyecan verici, acıklı. * Temsil yapılmak üzere yazılan heyecan verici veya acıklı tiyatro eseri. Acıklı olanına Trajedi, gülünç olanına da Komedi denir.
 du': (C.: Ezvâ-Zayân) Erkek baykuş.
-dua: Allah'a (C.C.) karşı rağbet, niyaz, yalvarış, tazarru. * Salât, namaz. * Cenab-ı Hak'tan hayır ve rahmet dilemek. Allah'ın rızâsını, hidayet ve istikamete muvaffakiyyeti dilemek, yalvarmak. * Peygamber'e (A.S.M.) salavat getirmek. * Birisini çağırmak. * Birisini bir şeye sevketmek. * Bir kimseyi bir isimle tesmiye etmek. * Söz, kelâm. * Okumak.(... Duâ ubudiyyetin ruhudur ve hâlis bir imanın neticesidir. çünkü, duâ eden adam duâsı ile gösteriyor ki: Bütün kâinata hükmeden birisi var ki, en küçük işlerime ıttılaı var ve bilir; en uzak maksadlarımı yapabilir; benim her halimi görür, sesimi işitir. öyle ise, bütün mevcudatın bütün seslerini işitiyor ki benim sesimi de işitiyor, bütün o şeyleri O yapıyor ki en küçük işlerimi de Ondan bekliyorum, Ondan istiyorum...Duânın en güzel, en lâtif, en leziz, en hazır meyvesi, neticesi şudur ki: "Duâ eden adam bilir ki; birisi var ki, onun sesini dinler; derdine derman yetiştirir, ona merhamet eder; Onun kudret eli her şeye yetişir. Bu büyük dünya hanında o yalnız değil, bir Kerim Zât var; ona bakar, ünsiyet verir... M.)(Duâ-yı kavli-i ihtiyarinin makbuliyeti, iki cihetledir. Ya aynı matlubu ile makbul olur veyahud daha evlâsı verilir.Meselâ: Birisi kendine bir erkek evlâd ister. Cenâb-ı Hak, Hazret-i Meryem gibi bir kız evlâdını veriyor. "Duâsı kabul olunmadı" denilmez. "Daha evlâ bir surette kabul edildi" denilir. Hem bâzan kendi dünyasının saâdeti için duâ eder. Duâsı âhiret için kabul olunur. "Duâsı reddedildi." denilmez. Belki, "Daha enfa bir sûrette kabul edildi." denilir. Ve hâkezâ... Mâdem Cenâb-ı Hak Hakim'dir, biz ondan isteriz, o da bize cevap verir. Fakat hikmetine göre bizimle muamele der. Hasta tabibin hikmetini ittiham etmemeli. Hasta bal ister; tabib-i hâzık, sıtması için sulfato verir. "Tabib beni dinlemedi." denilmez. Belki âh ü fizârını dinledi, işitti, cevap da verdi; maksudun iyisini yerine getirdi. M.) (Mü'minin mü'mine en iyi duâsı nasıl olmalıdır?Elcevap: Esbâb-ı kabul dairesinde olmalı. çünkü, bâzı şerait dahilinde duâ makbul olur, şerait-i kabulün içtimaı nisbetinde makbuliyeti ziyadeleşir. Ezcümle: Duâ edileceği vakit, istiğfar ile mânevi temizlenmeli: sonra makbul bir duâ olan Salâvat-ı şerifeyi şefaatçı gibi zikretmeli ve âhirde yine Salâvat getirmeli. çünkü, iki makbul duânın ortasında bir duâ makbul olur. Hem $ yâni "Gıyaben ona duâ etmek"; hem hadiste ve Kur'an'da gelen me'sur duâlarla duâ etmek. Meselâ: $ $ gibi câmi duâlarla duâ etmek, hem hulus ve huşu ve huzur-u kalb ile duâ etmek; hem namazın sonunda, bilhassa sabah namazından sonra; hem mevâki-i mübârekede, hususan mescidlerde, hem cum'ada, hususan saat-i icabede, hem şuhur-u selâsede, hususan leyali-i meşhurede; hem Ramazan'da, hususan leyle-i Kadir'de duâ etmek kabule karin olması rahmet-i îlâhiye'den kaviyyen me'muldür. O makbul duânın ya aynen dünyada eseri görünür; veyahut duâ olunanın âhiretine ve hayat-ı ebediyesi cihetinde makbul olur. Demek aynı maksad yerine gelmezse, duâ kabul olmadı denilmez; belki daha iyi bir surette kabul edilmiş denilir. M.)(Dördüncü nevi ki; en meşhurudur...Bizim duamızdır. Bu da iki kısımdır: Biri, fiili ve hâli; diğeri, kalbi ve kalidir. Meselâ: Esbaba teşebbüs, bir dua-yı fiilidir. Esbabın içtimaı, müsebbebi icad etmek için değil, belki lisan-ı hâl ile müsebbebi Cenab-ı Hak'tan istemek için bir vaziyet-i marziye almaktır. Hattâ çift sürmek hazine-i rahmet kapısını çalmaktır. Bu nevi dua-yı fiili, Cevad-ı Mutlak'ın isim ve ünvanına müteveccih olduğundan, kabule mazhariyeti ekseriyet-i mutlakadır. îkinci kısım: lisan ile, kalb ile dua etmektir. Eli yetişmediği bir kısım metalibi istemektir. Bunun en mühim ciheti, en güzel gayesi, en tatlı meyvesi, şudur ki: "Dua eden adam anlar ki: Birisi var; onun hatırât-ı kalbini işitir, herşey'e eli yetişir, herbir arzusunu yerine getirebilir.. Aczine merhamet eder, fakrına medet eder."îşte ey âciz insan ve ey fakir beşer! Duâ gibi hazine-i rahmetin anahtarı ve tükenmez bir kuvvetin medarı olan bir vesileyi elden bırakma. Ona yapış âlâ-yı illiyyin-i insaniyete çık, bir sultan gibi bütün kâinatın dualarını, kendi duan içine al. Bir abd-i külli ve bir vekil-i umumi gibi $ de. Kâinatın güzel bir takvimi ol!... S.)
+dua: Allah'a (C.C.) karşı rağbet, niyaz, yalvarış, tazarru. * Salât, namaz. * Cenab-ı Hak'tan hayır ve rahmet dilemek. Allah'ın rızâsını, hidayet ve istikamete muvaffakiyyeti dilemek, yalvarmak. * Peygamber'e (A.S.M.) salavat getirmek. * Birisini çağırmak. * Birisini bir şeye sevketmek. * Bir kimseyi bir isimle tesmiye etmek. * Söz, kelâm. * Okumak.(... Duâ ubudiyyetin ruhudur ve hâlis bir imanın neticesidir. çünkü, duâ eden adam duâsı ile gösteriyor ki: Bütün kâinata hükmeden birisi var ki, en küçük işlerime ıttılaı var ve bilir; en uzak maksadlarımı yapabilir; benim her halimi görür, sesimi işitir. öyle ise, bütün mevcudatın bütün seslerini işitiyor ki benim sesimi de işitiyor, bütün o şeyleri O yapıyor ki en küçük işlerimi de Ondan bekliyorum, Ondan istiyorum...Duânın en güzel, en lâtif, en leziz, en hazır meyvesi, neticesi şudur ki: "Duâ eden adam bilir ki; birisi var ki, onun sesini dinler; derdine derman yetiştirir, ona merhamet eder; Onun kudret eli her şeye yetişir. Bu büyük dünya hanında o yalnız değil, bir Kerim Zât var; ona bakar, ünsiyet verir... M.)(Duâ-yı kavli-i ihtiyarinin makbuliyeti, iki cihetledir. Ya aynı matlubu ile makbul olur veyahud daha evlâsı verilir.Meselâ: Birisi kendine bir erkek evlâd ister. Cenâb-ı Hak, Hazret-i Meryem gibi bir kız evlâdını veriyor. "Duâsı kabul olunmadı" denilmez. "Daha evlâ bir surette kabul edildi" denilir. Hem bâzan kendi dünyasının saâdeti için duâ eder. Duâsı âhiret için kabul olunur. "Duâsı reddedildi." denilmez. Belki, "Daha enfa bir sûrette kabul edildi." denilir. Ve hâkezâ... Mâdem Cenâb-ı Hak Hakim'dir, biz ondan isteriz, o da bize cevap verir. Fakat hikmetine göre bizimle muamele der. Hasta tabibin hikmetini ittiham etmemeli. Hasta bal ister; tabib-i hâzık, sıtması için sulfato verir. "Tabib beni dinlemedi." denilmez. Belki âh ü fizârını dinledi, işitti, cevap da verdi; maksudun iyisini yerine getirdi. M.) (Mü'minin mü'mine en iyi duâsı nasıl olmalıdır?Elcevap: Esbâb-ı kabul dairesinde olmalı. çünkü, bâzı şerait dahilinde duâ makbul olur, şerait-i kabulün içtimaı nisbetinde makbuliyeti ziyadeleşir. Ezcümle: Duâ edileceği vakit, istiğfar ile mânevi temizlenmeli: sonra makbul bir duâ olan Salâvat-ı şerifeyi şefaatçı gibi zikretmeli ve âhirde yine Salâvat getirmeli. çünkü, iki makbul duânın ortasında bir duâ makbul olur. Hem yâni "Gıyaben ona duâ etmek"; hem hadiste ve Kur'an'da gelen me'sur duâlarla duâ etmek. Meselâ: gibi câmi duâlarla duâ etmek, hem hulus ve huşu ve huzur-u kalb ile duâ etmek; hem namazın sonunda, bilhassa sabah namazından sonra; hem mevâki-i mübârekede, hususan mescidlerde, hem cum'ada, hususan saat-i icabede, hem şuhur-u selâsede, hususan leyali-i meşhurede; hem Ramazan'da, hususan leyle-i Kadir'de duâ etmek kabule karin olması rahmet-i îlâhiye'den kaviyyen me'muldür. O makbul duânın ya aynen dünyada eseri görünür; veyahut duâ olunanın âhiretine ve hayat-ı ebediyesi cihetinde makbul olur. Demek aynı maksad yerine gelmezse, duâ kabul olmadı denilmez; belki daha iyi bir surette kabul edilmiş denilir. M.)(Dördüncü nevi ki; en meşhurudur...Bizim duamızdır. Bu da iki kısımdır: Biri, fiili ve hâli; diğeri, kalbi ve kalidir. Meselâ: Esbaba teşebbüs, bir dua-yı fiilidir. Esbabın içtimaı, müsebbebi icad etmek için değil, belki lisan-ı hâl ile müsebbebi Cenab-ı Hak'tan istemek için bir vaziyet-i marziye almaktır. Hattâ çift sürmek hazine-i rahmet kapısını çalmaktır. Bu nevi dua-yı fiili, Cevad-ı Mutlak'ın isim ve ünvanına müteveccih olduğundan, kabule mazhariyeti ekseriyet-i mutlakadır. îkinci kısım: lisan ile, kalb ile dua etmektir. Eli yetişmediği bir kısım metalibi istemektir. Bunun en mühim ciheti, en güzel gayesi, en tatlı meyvesi, şudur ki: "Dua eden adam anlar ki: Birisi var; onun hatırât-ı kalbini işitir, herşey'e eli yetişir, herbir arzusunu yerine getirebilir.. Aczine merhamet eder, fakrına medet eder."îşte ey âciz insan ve ey fakir beşer! Duâ gibi hazine-i rahmetin anahtarı ve tükenmez bir kuvvetin medarı olan bir vesileyi elden bırakma. Ona yapış âlâ-yı illiyyin-i insaniyete çık, bir sultan gibi bütün kâinatın dualarını, kendi duan içine al. Bir abd-i külli ve bir vekil-i umumi gibi de. Kâinatın güzel bir takvimi ol!... S.)
 duâ-yi fîîlî: Fiil ile yapılan dua. Yâni: îstenilen şeyin sebeplerini yerine getirmeye çalışmak.
 duâ-yi hayr: Hâyırlı dua, hayır isteyen dua.
-duâ-yi kavlî ò: Sözle yapılan dua ki bildiğimiz meşhur duâlardır.
+duâ-yi kavlî: Sözle yapılan dua ki bildiğimiz meşhur duâlardır.
 duâ-yi müstecab: Kabul olunan dua.
 duâgû: (Duâhân) Duâ okuyan. Duâ eden.
 duat: (Dâi. C.) Duâ edenler. Allah'a yalvaranlar. * Dâvet edenler.
@@ -1643,7 +1643,7 @@ dur-baş: "Uzak ol!" anlamına gelen bir emir. * Değnek, sopa, âsa.
 dur-bîn: Uzak gören. Uzağı gösteren âlet.
 dur-bînî: îlerisini görürlük, uzağı görmeklik.
 dur-dest: Ulaşılması zor şey, erişilmesi güç şey. Uzak, uzun.
-dur-endîş : önceden görüp düşünen. Tedbirli. Her şeyin ilerisini evvelden mülâhaza eden. îlerisini düşünen.
+dur-endîş : önceden görüp düşünen. Tedbirli. Her şeyin ilerisini evvelden mülâhaza eden. îlerisini düşünen.
 dur-nüma(y): Uzağı gösteren.
 dur-nüvîs: Uzağı yazan. Telgraf.
 dura-dur: Uzaktan uzağa. Uzak uzak. Uzun uzadıya.
@@ -1661,7 +1661,7 @@ duru': Uzak, ırak, baid.
 durub: (Darb. C.) Döğmeler, vurmalar, darblar.
 durub-u emsal: Meşhur sözler. Darb-ı meseller. Ata sözleri.
 durus: Kuyu örülen taş.
-dûş : Omuz. Ketif. * Dün gece. * âlem-i menâm, rüya âlemi. * Mütesadif ve mütelâki olan.
+dûş : Omuz. Ketif. * Dün gece. * âlem-i menâm, rüya âlemi. * Mütesadif ve mütelâki olan.
 dûş azmak: Rüyâda iken kirlenmek, ihtilâm olmak.
 duşab: Hurma ve üzüm pekmezi. Pekmez.
 duşîze: (C.: Duşizegân) Kız, bâkire. El değmemiş.
@@ -1747,7 +1747,7 @@ dülfîn: Denize düşenlere yardım edip, onları kurtaran bir balık.
 dülke: Küçük bir canavar.
 dülu': Huruç etmek, çıkmak.
 düluk: Batma, güneş batması.
-düluk-uş şems : Güneşin batışı.
+düluk-uş şems : Güneşin batışı.
 dü'lul: (C.: Dâlil) Belâ, zahmet, dâhiye.
 düm: Kuyruk.
 düm-bürîde: Kuyruğu kesik.
@@ -1794,7 +1794,7 @@ dürdür: Dişin kök yeri. * çocukların dişlerinin çıkıp bittiği yer.
 dürece: Süllem, merdiven. * Bağırtlak kuşu. (Kanatlarının içi siyah ve dışı boz olan bir kuş.)
 dürer: (Dürr. C.) Büyük inciler.
 dürer-bâr: înciler yağdıran. * Mc: çok kıymetli ve güzel sözler söyleyen.
-dürer-î semavî ôò: Aslı vahiy ile gelen, parlak hakikatlı mânalar. Semâvi inciler.
+dürer-î semavî: Aslı vahiy ile gelen, parlak hakikatlı mânalar. Semâvi inciler.
 dürhamîn: Belâ. Zahmet, meşakkat.
 dürnuk: (C.: Derânik) Bir cins döşek.
 dürr: (Dürdâne, dürre) înci. înci tanesi.
@@ -1838,10 +1838,10 @@ dü'sur: (C.: Deâsir) Yıkılmış havuz.
 düsur: Mahvolma. Eseri kalmama. Ortadan kalkma. Nişanı belirsiz olma. * Kaftan eskime. * Ev köhne olma.
 düsür: (Disar. C.) Perçinler, halatlar, kenetler. Geminin tahtalarını birbirine bağlayan rabıtalar.
 düsür: (Disar. C.) üste giyilen kaftanlar, elbiseler. * Yatak çarşafları.
-düş : (Bak: Dûş)
-düşab : Pekmez.
+düş : (Bak: Dûş)
+düşab : Pekmez.
 düşenbîh: Haftanın ikinci günü, pazartesi.
-düşeş : îki altılık. Tavla zarında iki defa altı gelmesi.
+düşeş : îki altılık. Tavla zarında iki defa altı gelmesi.
 düşîn(e): Dün gece.
 düşnam: Sövme, sövüp sayma, ta'n.
 düşvar: Müşkil. Güç. Zor.

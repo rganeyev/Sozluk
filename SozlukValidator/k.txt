@@ -505,7 +505,7 @@ kamcere: Islah etmek.
 kâmcu: îsteğini ve meramını arıyan. Maksadına ve gayesine ulaşmak isteyen.
 kame: (C.: Kumme) Başını sudan kaldıran davar.
 kâme: Arzu, istek, meram, gaye, maksad.
-kam'e: $ (Kumu'): Hakaret.
+kam'e: (Kumu'): Hakaret.
 kamea: (C.: Kamâ) Büyük gök sinek. * Gözün kirpikleri diplerinde çıkan sivilceler.
 kamed: Binanın temeli.
 kamel: Bitli kişi. * Karnın büyük olması.
@@ -567,7 +567,7 @@ kamu: (Kamuğ) t. Hep, bütün, tamamen.
 kamuflaj: Fr. Gizlenme, örtme. Aldatma gayesiyle yapılan tertibat. Daha ziyade harp zamanlarında araçlar ile insanların, bulundukları mekâna göre kılığa girmeleri.
 kâmuran: (Bak: Kâmran)
 kamus: Deniz. Derya. * Denizin ortası, derin yeri. * Büyük Lügat Kitabı.
-kamus : Arslan, esed.
+kamus : Arslan, esed.
 kamus-î arabî: Arapça lügat kitabı, Arapça sözlük.
 kamus-î osmanî: Osmanlıca sözlük.
 kamus-î türkî: Türkçe lügat kitabı, Türkçe sözlük. * şemseddin Sâmi'nin yayınladığı Türkçe lügat.
@@ -930,7 +930,7 @@ kâsîd: Kesat olan, eksik olan, verimsiz olan.
 kasîde: (C.: Kasâid) Onbeş beyitten az olmamak üzere, her beyit kafiyeli olarak, büyük kimseleri veya herhangi bir şeyi medh ü senâ eden, öven manzume şekli. Büyük zatları ve daha çok Cenâb-ı Hakk'ı veya Peygamberi (A.S.M.) medheden manzume.
 kasîde-gû: Kaside yazan, kaside söyliyen.
 kasîde-î bürde: Hazret-i Peygamber (A.S.M.) önünde meşhur Arab şâiri Ka'b bin Züheyr'in okuduğu kasidenin adı olup, bu kasideyi Peygamber Aleyhissalâtü vesselâm beğenmiş, mükâfat ve iltifat eseri olarak da kendi hırkasını ona giydirdiğinden bu isimle meşhur olmuştur.
-kasîde-î ercuze : (ürcuze) Hz. îmam-ı Ali (R.A.) tarafından bahr-ı recez vezni üzere yazılan ve istikbalden haber veren meşhur kasidenin adı.(Mecmuat-ül Ahzab'ın 582. sahifesinden 597. sahifesine kadar o Ercuzedir. O Ercuzenin mevzuu ve içindeki maksad-ı asli; îsmi A'zamı tazammun eden altı ismin ehemmiyetini beyan etmek, hem o münâsebetle istikbaldeki bir kısım umur-u gaybiyeye ve te'sis-i îslâmiyette bir kısım mücâhedâtını işâret etmektir. Evet, Hz. îmâm üstâdı olan Habibullah'dan (A.S.M.) aldığı dersin bir kısmını işari bir surette zikrediyor... L.)
+kasîde-î ercuze : (ürcuze) Hz. îmam-ı Ali (R.A.) tarafından bahr-ı recez vezni üzere yazılan ve istikbalden haber veren meşhur kasidenin adı.(Mecmuat-ül Ahzab'ın 582. sahifesinden 597. sahifesine kadar o Ercuzedir. O Ercuzenin mevzuu ve içindeki maksad-ı asli; îsmi A'zamı tazammun eden altı ismin ehemmiyetini beyan etmek, hem o münâsebetle istikbaldeki bir kısım umur-u gaybiyeye ve te'sis-i îslâmiyette bir kısım mücâhedâtını işâret etmektir. Evet, Hz. îmâm üstâdı olan Habibullah'dan (A.S.M.) aldığı dersin bir kısmını işari bir surette zikrediyor... L.)
 kasîde-perdaz: Kaside yazan, kaside düzenliyen.
 kasîde-serâ: Kaside söyliyen, kaside yazan.
 kasîf: Kuru ince ağaç. * Gök gürültüsü. * Deniz sesi, dalga sesi.
@@ -1179,7 +1179,7 @@ kâvîş: Eşme, kazma.
 kâvîşger: Kazıcı, eşici, kazan.
 kavîyy-ül bünye: Bünyesi sağlam olan. Sağlam vücutlu.
 kavîyy-ül îktîdar: îktidarı kuvvetli.
-kavîyyen : Kuvvetle, kat'i olarak. şüphesiz olarak.
+kavîyyen : Kuvvetle, kat'i olarak. şüphesiz olarak.
 kavîyyen me'mul: çok kuvvetle ümid edilen.
 kâvîyyet: Yakıcılık, dağlayıcılık.
 kavkaa: Salyangoz, midye gibi hayvanların sert kabuğu.
@@ -1191,7 +1191,7 @@ kavl-î mücerred: Delilsiz söz.
 kavl-î râcîh: Daha makbul ve daha önde olan söz, kanaat, fikir.
 kavl-î resul: Hadis.
 kavl-î şârîh: Mânasını açıklayan söz. şerheden söz. Tarif. şerhedenin sözü.
-kavlen : Söyleyerek. Söz ile. Anlaşarak.
+kavlen : Söyleyerek. Söz ile. Anlaşarak.
 kavlî: Sözle alâkalı. Söz niteliğinde.
 kavlîyyat: Kaviller, kuru lâflar, boş sözler.
 kavm: (Kavim) Bir peygambere tâbi ve bağlı insan topluluğu. Aralarında dil, âdet, örf, kültür birliği olan cemâat, topluluk. Millet. Bir işe başlamak. * Pazar kurmak. * Müşteri ile anlaşmak.
@@ -1240,7 +1240,7 @@ kayîle: (Bak: Kaylule)
 kayka': Tavuk avazı, tavuk sesi.
 kaykaban: îğde yemişi gibi akça yemişi olan bir ağaç.
 kayl: (C.: Akyâl) Ulu şerif kimse. * öğle vakti şarap içmek.
-kaylule: Kerâhet vakti olmayan kuşluk vakti uykusu, öğle uykusu.(Re'fet, $ âyet-i celilesindeki $ kelimesinin mânasını merak edip sorması münasebetiyle ve hapiste sabah namazından sonra sairler gibi yatmasından gelen rehavet dolayısıyla, elmas gibi kalemini atâlete uğratmamak için yazılmıştır. Uyku üç nevidir:Birincisi: Gayluledir ki, "fecirden sonra tâ vakt-i kerahet bitinceye kadardır." Bu uyku, rızkın noksaniyetine ve bereketsizliğine Hadisçe sebebiyet verdiği için, hilâf-ı Sünnettir. çünkü; Rızk için sa'yetmenin mukaddematını ihzar etmenin en münasip zamanı, serinlik vaktidir. Bu vakit geçtikten sonra bir rehavet ârız olur. O günkü sa'ye ve dolayısıyla da rızka zarar verdiği gibi, bereketsizliğe de sebebiyet verdiği, çok tecrübelerle sabit olmuştur.îkincisi: Feyluledir ki, "îkindi namazından sonra mağribe kadardır." Bu uyku ömrün noksaniyetine, yâni uykudan gelen sersemlik cihetiyle o günkü ömrü nevm-âlud, yarı uyku, kısacık bir şekil aldığından maddi bir noksaniyet gösterdiği gibi, mânevi cihetiyle de o gün hayatının maddi ve manevi neticesi ekseriya ikindiden sonra tezahür ettiğinden, o vakti uyku ile geçirmek, o neticeyi görmemek hükmüne geçtiğinden, güya o günü yaşamamış gibi oluyor.üçüncüsü: Kayluledir ki, bu uyku Sünnet-i Seniyyedir. Duha vaktinden, öğleden biraz sonraya kadardır. Bu uyku, gece kıyamına sebebiyet verdiği için Sünnet olmakla beraber, Ceziret-ül-Arabta vakt-üz-zuhr denilen şiddet-i hararet zamanında bir tâtil-i eşgal, âdet-i kavmiye ve muhitiye olduğundan, o Sünnet-i Seniyyeyi daha ziyade kuvvetlendirmiştir. Bu uyku, hem ömrü, hem rızkı tezyide medardır. çünkü: Yarım saat kaylule, iki saat gece uykusuna muadil gelir. Demek, ömrüne hergün bir buçuk saat ilâve ediyor. Rızk için çalışmak müddetine, yine bir buçuk saati ölümün kardeşi olan uykunun elinden kurtarıp yaşatıyor ve çalışmak zamanına ilâve ediyor. L.)
+kaylule: Kerâhet vakti olmayan kuşluk vakti uykusu, öğle uykusu.(Re'fet, âyet-i celilesindeki kelimesinin mânasını merak edip sorması münasebetiyle ve hapiste sabah namazından sonra sairler gibi yatmasından gelen rehavet dolayısıyla, elmas gibi kalemini atâlete uğratmamak için yazılmıştır. Uyku üç nevidir:Birincisi: Gayluledir ki, "fecirden sonra tâ vakt-i kerahet bitinceye kadardır." Bu uyku, rızkın noksaniyetine ve bereketsizliğine Hadisçe sebebiyet verdiği için, hilâf-ı Sünnettir. çünkü; Rızk için sa'yetmenin mukaddematını ihzar etmenin en münasip zamanı, serinlik vaktidir. Bu vakit geçtikten sonra bir rehavet ârız olur. O günkü sa'ye ve dolayısıyla da rızka zarar verdiği gibi, bereketsizliğe de sebebiyet verdiği, çok tecrübelerle sabit olmuştur.îkincisi: Feyluledir ki, "îkindi namazından sonra mağribe kadardır." Bu uyku ömrün noksaniyetine, yâni uykudan gelen sersemlik cihetiyle o günkü ömrü nevm-âlud, yarı uyku, kısacık bir şekil aldığından maddi bir noksaniyet gösterdiği gibi, mânevi cihetiyle de o gün hayatının maddi ve manevi neticesi ekseriya ikindiden sonra tezahür ettiğinden, o vakti uyku ile geçirmek, o neticeyi görmemek hükmüne geçtiğinden, güya o günü yaşamamış gibi oluyor.üçüncüsü: Kayluledir ki, bu uyku Sünnet-i Seniyyedir. Duha vaktinden, öğleden biraz sonraya kadardır. Bu uyku, gece kıyamına sebebiyet verdiği için Sünnet olmakla beraber, Ceziret-ül-Arabta vakt-üz-zuhr denilen şiddet-i hararet zamanında bir tâtil-i eşgal, âdet-i kavmiye ve muhitiye olduğundan, o Sünnet-i Seniyyeyi daha ziyade kuvvetlendirmiştir. Bu uyku, hem ömrü, hem rızkı tezyide medardır. çünkü: Yarım saat kaylule, iki saat gece uykusuna muadil gelir. Demek, ömrüne hergün bir buçuk saat ilâve ediyor. Rızk için çalışmak müddetine, yine bir buçuk saati ölümün kardeşi olan uykunun elinden kurtarıp yaşatıyor ve çalışmak zamanına ilâve ediyor. L.)
 kayn: (C.: Kuyun) Demirci, haddad, * Kul, köle.
 kaynan: At ve deve ayaklarının ip bağlanacak ve bukağı vuracak yeri.
 kaynata: Karı ve kocaya göre birbirlerinin babası. * Kayınpeder.
@@ -1256,7 +1256,7 @@ kaytus: Bir yıldız kümesi.
 kayy: Fakirlik.
 kayyim: însanları birbirine kardeşlikte ve sevgide bir araya toplayıp dünya ve âhirette necat ve iyilikler yolunda cem' edici olduğundan; bütün iyilikleri haseneleri toplayıcı ve muhtaçlara çok ihsan edici mânasında Peygamberimiz Resul-i Ekrem'e (A.S.M.) verilen bir isim.
 kayyîme: Müstakim, âdil. çok değerli.
-kayyum: Başlangıç, nihayet ve yeniden oluş gibi hallerden münezzeh ve ezelden ebede kaim, dâim ve var olan Allah (C.C.). Bütün eşyanın ancak kendisi ile kaim olduğu Cenab-ı Hak.(... Sırr-ı kayyumiyetin cilvesine bu noktadan bakınız ki; bütün mevcudatı ademden çıkarıp, herbirisini bu nihayetsiz fezada $ sırrıyla durdurup, kıyam ve beka verip, umumunu böyle sırr-ı kayyumiyetin tecellisine mazhar eyliyor. Eğer bu nokta-i istinad olmazsa; hiçbir şey kendi başıyla durmaz. Hadsiz bir boşlukta yuvarlanıp ademe sukut edecek.Hem nasıl ki bütün mevcudat, vücudları ve kıyamları ve bekaları cihetinde Kayyum-u Zülcelâl'e dayanıyorlar; kıyamları onunladır... öyle de, mevcudatın keyfiyat ve ahvalinde binler silsilelerin; (temsilde hata olmasın) telefon, telgraf silsilelerinin merkezi ve santral direği hükmünde olan sırr-ı kayyumiyette $ sırriyle, uçları bağlıdır. Eğer o nurani nokta-i istinada dayanmazlarsa, ehl-i akılca muhâl ve bâtıl olan binler devirler ve teselsüller lâzım gelecek; belki, mevcudat adedince bâtıl olan devirler ve teselsüller lâzım gelir. Meselâ: Bu şey (hıfz veya nur veya vücud veya rızık gibi) bir cihette buna dayanır; bu da ötekine; o da ona... gitgide herhalde nihayetsiz olamaz, bir nihayeti bulunacak.îşte bütün böyle silsilelerin müntehâları; elbette sırr-ı kayyumiyettir. Sırr-ı kayyumiyet anlaşıldıktan sonra, o mevhum silsilelerde birbirine dayanmak rabıtası ve mânâsı kalmaz, kalkar; herşey doğrudan doğruya sırr-ı kayyumiyete bakar. L.)
+kayyum: Başlangıç, nihayet ve yeniden oluş gibi hallerden münezzeh ve ezelden ebede kaim, dâim ve var olan Allah (C.C.). Bütün eşyanın ancak kendisi ile kaim olduğu Cenab-ı Hak.(... Sırr-ı kayyumiyetin cilvesine bu noktadan bakınız ki; bütün mevcudatı ademden çıkarıp, herbirisini bu nihayetsiz fezada sırrıyla durdurup, kıyam ve beka verip, umumunu böyle sırr-ı kayyumiyetin tecellisine mazhar eyliyor. Eğer bu nokta-i istinad olmazsa; hiçbir şey kendi başıyla durmaz. Hadsiz bir boşlukta yuvarlanıp ademe sukut edecek.Hem nasıl ki bütün mevcudat, vücudları ve kıyamları ve bekaları cihetinde Kayyum-u Zülcelâl'e dayanıyorlar; kıyamları onunladır... öyle de, mevcudatın keyfiyat ve ahvalinde binler silsilelerin; (temsilde hata olmasın) telefon, telgraf silsilelerinin merkezi ve santral direği hükmünde olan sırr-ı kayyumiyette sırriyle, uçları bağlıdır. Eğer o nurani nokta-i istinada dayanmazlarsa, ehl-i akılca muhâl ve bâtıl olan binler devirler ve teselsüller lâzım gelecek; belki, mevcudat adedince bâtıl olan devirler ve teselsüller lâzım gelir. Meselâ: Bu şey (hıfz veya nur veya vücud veya rızık gibi) bir cihette buna dayanır; bu da ötekine; o da ona... gitgide herhalde nihayetsiz olamaz, bir nihayeti bulunacak.îşte bütün böyle silsilelerin müntehâları; elbette sırr-ı kayyumiyettir. Sırr-ı kayyumiyet anlaşıldıktan sonra, o mevhum silsilelerde birbirine dayanmak rabıtası ve mânâsı kalmaz, kalkar; herşey doğrudan doğruya sırr-ı kayyumiyete bakar. L.)
 kayyum: (Kıyâm. dan) Camilerde iş gören kimse. Cami hademesi.
 kayyumîyet: Allah'ın ezeli ve ebedi oluşu, dâimi mevcudiyeti, bâkiliği. (Bak: Kayyum)
 kayz: Yaz mevsiminin en sıcak zamanları.
@@ -1490,7 +1490,7 @@ keff-î yed: El çekme. Karışmama.
 keffaret: (Masdar gibi kullanılıyorsa da "keffâr" mübalâğa isminin müennesi olup, asıl mânası: örtücü ve imhâ edici demektir.) Bir mecburiyet altında veya yanlışlıkla işlenmiş günahı affettirmek ümidiyle şeriata uygun olarak verilen sadaka veya tutulan oruç. * Günahtan arınma.
 keffaret-î halk: Hac için ihrama girip de bir özre mebni saçlarını vaktinden evvel traş ettiren kimsenin tutacağı üç günlük oruçtan ibârettir.
 keffaret-î katl: Bir müslümanı veya bir zımmiyi amden değil de bir hata neticesi olarak öldüren bir müslümana lâzım gelen keffârettir ki; muktedir ise, bir mü'min köle âzad etmekten; buna muktedir değilse, iki ay muttasıl oruç tutmaktan ibârettir.
-keffaret-î savm  : Ramazan-ı şerifte özürü bulunmaksızın muayyen şartlar dâhilinde orucunu bozan bir mükellefin, müslim veya gayr-i müslim bir köle veya câriye azâd etmesinden; buna muktedir değilse, iki ay muttasıl oruç tutmasından; buna da muktedir değilse, altmış fakire yemek yedirmesinden ibârettir.
+keffaret-î savm  : Ramazan-ı şerifte özürü bulunmaksızın muayyen şartlar dâhilinde orucunu bozan bir mükellefin, müslim veya gayr-i müslim bir köle veya câriye azâd etmesinden; buna muktedir değilse, iki ay muttasıl oruç tutmasından; buna da muktedir değilse, altmış fakire yemek yedirmesinden ibârettir.
 keffaret-î yemîn: Yaptığı bir yemine sadık kalmayıp bozan bir müslümana lâzım gelen keffâret demektir ki: Muktedir ise, müslim veya gayr-i müslim bir köle veya câriye azad etmekten; muktedir değil ise, on fakiri akşamlı sabahlı doyurmaktan veya on fakire birer parça libas giydirmekten; bu üç şeyden birine muktedir olamayana da üç gün muttasıl oruç tutmaktan ibârettir.
 keffaret-î zihar: Zıhar keffareti.Keffâret-i zıharın vâcib olmasının şartı kudrettir. Muktedir olan, köle azad eder; değilse iki ay oruç tutar, buna da gücü yetmezse altmış fakire yemek verir. (Bak: Zıhâr)
 keffaret-üz zünub: Günahların keffareti. Mü'min insanların çeşitli hastalık ve musibetlerine denir. çünkü günahlarından afvına vesile olabilir. (Huk. îslâmiye ve Ist. Fık. K.)
@@ -1957,7 +1957,7 @@ kess: Alt dişleri çenesiyle çıkmak.
 kessare: çoğaltan. Artıran.
 kestel: itl. Küçük kale. Hisarcık.
 kesub: çok kazanan ve kesbeden.
-keş: (Keşiden) çekmek fiilinin emir kökü. Birleşik kelimeler de yapılır. Meselâ: Cefâ-keş $: Cefâ çeken. Esrar-keş $: Esrar çeken, esrar içen serseri.
+keş: (Keşiden) çekmek fiilinin emir kökü. Birleşik kelimeler de yapılır. Meselâ: Cefâ-keş: Cefâ çeken. Esrar-keş: Esrar çeken, esrar içen serseri.
 keş: Yoğurt peyniri, yağsız âdi peynir.
 keş: Akılsız, kolay aldanır. Ahmak.
 keş': Kalb sıkıntısına uğrayıp huzursuz olmak.
@@ -1977,7 +1977,7 @@ keşf-î râz: Gizli bir şeyi meydana çıkarmak, açıklamak. * Sır toplamak,
 keşf-î râz: Gizli bir şeyi meydana çıkarmak, açıklamak. * Sır toplamak, casusluk etmek. 
 keşf-ül kubur: Kabirdeki ölünün hâlinden anlamak. ölünün azab çekip çekmediği ve sair bazı hususların bâzı veli kimselerce bilinmesi.
 keşfî: Keşifle alâkalı.
-keşfîyat: (Keşf. C.) Keşifler. Bulup meydana çıkarılan şeyler. * Cenâb-ı Hakkın ihsan ve ilhamı ile evliyâullahın, hususan evliya-ı izâm hazeratının ve hasseten Kur'ân-ı Hakimin irşadı ile ve feyzi ile Rüesâ-i Evliyâ ve Server-i Kâinat olan Peygamberimiz Resul-i Ekrem (A.S.M.) Efendimizin dersi ile ferd-i ferid-i a'zam makamının zirve-i âlisine yükselen büyük hâdinin vâkıf oldukları mâziye, hâle, istikbale müteallik, kevni, mânevi sırlar, keşifler. (Z. Gündüzalp)(S - "Keşfiyat-ı fenniye ve fünun-u hâzıra eski insanlara meçhul ve gayr-i me'luf olduğundan, onları onlara ders vermek hatadır." diyorsun. Bilhassa âhirete ait ahval gibi müstakbeldeki nazariyat da böyle değil midir? Onlar da bize meçhul ve gayr-i me'lufdurlar. Onlardan bahsetmek ne için hata olmuyor?C - Müstakbeldeki nazariyat, bilhassa âhirete ait ahvale hiç bir cihetle hiss-i zâhiri taalluk etmemiştir ki, o hissin hilâfını söylemek şaşırtma olsun. Binaenaleyh, o gibi şeyler, dâire-i imkândadırlar. öyle ise, onlara itikad ve onlar ile itmi'nan peyda etmek mümkündür. öyle ise, o gibi şeylerin hakk-ı sarihi, onları tasrih etmektir. Lâkin keşfiyat-ı fenniye; eski insanlara göre, imkân ve ihtimal dairesinden çıkıp, muhal ve imtina derecesine girmişlerdir. çünkü gözleriyle gördükleri şeyler, onlarca bedahet derecesine girmekle, onun hilâfı onlarca muhaldir. öyle ise, onların hissiyatına hürmeten, o gibi mes'elelerde belâgatın iktizası, ibham ve ıtlaktır ki, onlara bir şaşırtma olmasın. Fakat Kur'ân-ı Kerim, irşadını noksan bırakmamıştır. Bu zamanın fencilerini de istifadeden mahrum etmemek üzere, çok karine ve emareleri vaz'iyle, hakikatlara işaretler yapmıştır.Ey insafsız! Seni insafa davet ediyorum. Bir kere $ olan meşhur düsturu nazara almakla, zamanlariyle muhitlerinin müsaadesizliğini düşünerek, telâhuk eden binlerce efkârın neticelerinden doğan şu keşfiyat-ı fenniyeyi o zamanlardaki insanların kafa mideleri alıp hazmedemediklerine dikkat edersen anlayacaksın ki; Kur'an-ı Kerim'in o gibi meselelerde ihtiyar ettiği ibham ve ıtlak yolu, ayn-ı belâgat olduğu gibi, yüksek i'cazını da isbata âşikâr bir delil olduğunu gözün kör değilse göreceksin. î.î.)
+keşfîyat: (Keşf. C.) Keşifler. Bulup meydana çıkarılan şeyler. * Cenâb-ı Hakkın ihsan ve ilhamı ile evliyâullahın, hususan evliya-ı izâm hazeratının ve hasseten Kur'ân-ı Hakimin irşadı ile ve feyzi ile Rüesâ-i Evliyâ ve Server-i Kâinat olan Peygamberimiz Resul-i Ekrem (A.S.M.) Efendimizin dersi ile ferd-i ferid-i a'zam makamının zirve-i âlisine yükselen büyük hâdinin vâkıf oldukları mâziye, hâle, istikbale müteallik, kevni, mânevi sırlar, keşifler. (Z. Gündüzalp)(S - "Keşfiyat-ı fenniye ve fünun-u hâzıra eski insanlara meçhul ve gayr-i me'luf olduğundan, onları onlara ders vermek hatadır." diyorsun. Bilhassa âhirete ait ahval gibi müstakbeldeki nazariyat da böyle değil midir? Onlar da bize meçhul ve gayr-i me'lufdurlar. Onlardan bahsetmek ne için hata olmuyor?C - Müstakbeldeki nazariyat, bilhassa âhirete ait ahvale hiç bir cihetle hiss-i zâhiri taalluk etmemiştir ki, o hissin hilâfını söylemek şaşırtma olsun. Binaenaleyh, o gibi şeyler, dâire-i imkândadırlar. öyle ise, onlara itikad ve onlar ile itmi'nan peyda etmek mümkündür. öyle ise, o gibi şeylerin hakk-ı sarihi, onları tasrih etmektir. Lâkin keşfiyat-ı fenniye; eski insanlara göre, imkân ve ihtimal dairesinden çıkıp, muhal ve imtina derecesine girmişlerdir. çünkü gözleriyle gördükleri şeyler, onlarca bedahet derecesine girmekle, onun hilâfı onlarca muhaldir. öyle ise, onların hissiyatına hürmeten, o gibi mes'elelerde belâgatın iktizası, ibham ve ıtlaktır ki, onlara bir şaşırtma olmasın. Fakat Kur'ân-ı Kerim, irşadını noksan bırakmamıştır. Bu zamanın fencilerini de istifadeden mahrum etmemek üzere, çok karine ve emareleri vaz'iyle, hakikatlara işaretler yapmıştır.Ey insafsız! Seni insafa davet ediyorum. Bir kere olan meşhur düsturu nazara almakla, zamanlariyle muhitlerinin müsaadesizliğini düşünerek, telâhuk eden binlerce efkârın neticelerinden doğan şu keşfiyat-ı fenniyeyi o zamanlardaki insanların kafa mideleri alıp hazmedemediklerine dikkat edersen anlayacaksın ki; Kur'an-ı Kerim'in o gibi meselelerde ihtiyar ettiği ibham ve ıtlak yolu, ayn-ı belâgat olduğu gibi, yüksek i'cazını da isbata âşikâr bir delil olduğunu gözün kör değilse göreceksin. î.î.)
 keşfîyat-i fennîye: Fen ve ilmin keşifleri. (Telefon, radyo, uçak gibi.)
 keşhan (kîşhân): Deyyus. 
 keşîde: çekilen, çekilmiş. çekmek. * Tartılmış. Dizilmiş. Tertibedilmiş. Yazılmış.
@@ -2374,7 +2374,7 @@ kizan: Oğlan, erkek çocuk. * Delikanlı, cesur ve silâhlı köylü genç.
 kizban: (Kadib. C.) înce düz fidanlar, çubuklar, dallar.
 kizil: t. Kırmızı, alrenk. * Kıldan yapılan ip. * Aşırı, müfrit.
 kizil tehlîke: Dinsizlik, anarşistlik ve komünistlik tehlikesi.
-kizilbaş : Râfizilere verilen bir isim.
+kizilbaş : Râfizilere verilen bir isim.
 kizilelma: Tar: Osmanlı Türkleri tarafından Roma'ya verilen addır. (O.T.D.S.)
 kizilhaç: Hristiyan ülkelerde Kızılay karşılığı olan yardım teşkilâtı.
 kizm: Katı, şiddetli, şedit.
@@ -2451,7 +2451,7 @@ kîmam: (Kimm. C.) Tomurcuklar. * Hayvan ağızlığı. Boyunduruk.
 kîmn: Saman.
 kîmya: Basit cisimlerin hususiyetlerini, bu cisimlerin birbirlerine olan tesirlerini ve bundan ileri gelen birleşmeyi inceleyen ilim. Basit maddelerdeki değişikliği anlamağa çalışan ilim kolu. * Edb: Aşk. * îlâç. * Tas: Mevcud olana kanaat ve elde edilmesi mümkün olmayana ait arzuyu terk etmek.
 kîmya-yi avam: Dünyanın kıymetsiz ve fâni olan şeylerini âhiret metalarına feda etmek.
-kîmya-yi havas : Kendinden geçip Allaha tam teslim olmak ve dönmek.
+kîmya-yi havas : Kendinden geçip Allaha tam teslim olmak ve dönmek.
 kîmya-yi saadet: Rezaletlerden sakınıp nefsi tehzib ve tezkiye ve faziletleri kazanmak sureti ile nefsi tahliye etmek, süslemek, tezyin etmek. * îmâm-ı Gazalinin bir eserinin ismi.
 kîmyager: Kimyacı.
 kîmyevî: Kimyâ ile alâkalı
@@ -2605,7 +2605,7 @@ kolon: Fr. Sütun. * Matbaacılıkta, dizilen yazı sütunu.
 kolonî: Fr. Bir ülkenin, sınırları dışında işgal ettiği ve yönettiği ülkeye sıkı bağlarla bağlı arazi. * Başka bir memlekete yerleşmeğe giden göçmen topluluğu veya bir topluluğun yerleştiği yer. * Bir memlekette bulunan yabancılar topluluğu.
 kolordu: t. Ekseriyetle üç tümen ve diğer tamamlayıcı birliklerden kurulan askeri birlik.
 komando: (Portekizce) Ask: Müstakil olarak çalışan ve baskın, sabotaj v.b. gibi özel vazifeler yapan, az sayıda askerlerden kurulu birlik, çete.
-kombînezon : Fr. Tertib, düzenlemek. * çare. * Kadın iç gömleği.
+kombînezon : Fr. Tertib, düzenlemek. * çare. * Kadın iç gömleği.
 komedî: yun. Cemiyetin gülünç ve kusurlu hâllerini ortaya koyan tiyatro eseri. * Uydurma, yapmacık hareket veya söz. * Gülünecek hareketler.
 komedîyen: îki yüzlü, riyakârlık gösteren. * Komedi oynayan tiyatro oyuncusu. Maskara.
 komîser: Fr. Emniyet teşkilâtının meslek dereceleri içinde yer alan ve en az lise tahsilini yapmış, polis enstitüsünün orta ve yüksek kısmını tamamlamış üniformalı veya sivil memur.
@@ -2626,7 +2626,7 @@ kongre: Fr. çeşitli memleketlerden yöneticilerin, elçilerin ve delegelerin k
 konsey: Fr. îdare vazifesi yüklenmiş kişilerin topluluğu. * Müzakere hâlinde bulunan kimselerin meydana getirdiği kurul. * Bu tarz bir toplantının yapıldığı yer.
 konsolît: (Konsolide) Fr. Ana sermayenin ödeme tarihi belli olmayan ve yalnız faizi ödenen devlet tahvili.
 konsolos: îtl. Yabancı ülkelerde yurttaşlarının haklarını korumak ve bağlı bulunduğu hükümete siyasi ve ticari bilgileri vermekle vazifeli hariciye memuru.
-kontenjan ©: Fr. Alâkalıların her birine düşen miktar veya yer. Pay miktarı.
+kontenjan : Fr. Alâkalıların her birine düşen miktar veya yer. Pay miktarı.
 konvoy: ing. Aynı yere giden nakil vasıtaları topluluğu. * Aynı yere nakledilen insan grubu. * Harb gemilerinin himayesinde sefer yapan yük gemileri katarı.
 kopîl: Küçük Rum çocuğu. * çapkın, külhani.
 kor: t. Her tarafı iyice yanıp içine kadar ateş hâline gelmiş kömür veya odun parçası. * Askeriyede kolordu.
@@ -2635,9 +2635,9 @@ korsan gemîsî: Deniz hırsızlığı ve korsanlık yapan gemiler. Düşman gem
 kostantinîyye: îslâm dünyasında îstanbul için kullanılmış isimlerden biri.
 kotra: ing. Tek direkli, yelkenli, narin küçük gemi.
 koy: Küçük körfez. Karanın içine girmiş, rüzgârdan saklı deniz parçası. Deniz koyuna benzer, çevresi mahfuz yer. Köşe, bucak.
-kozmoğrafya : yun. Yıldızların yerlerinden ve hareketlerinden bahseden ilim. Felekiyyat. îlm-i hey'et.
+kozmoğrafya : yun. Yıldızların yerlerinden ve hareketlerinden bahseden ilim. Felekiyyat. îlm-i hey'et.
 kozmopolît: Fr. Her yabancı şeye karşı alâka gösteren, milliyet duygularından mahrum kimse. * çeşitli milletlerden insanları içine alan.
-kozmoz : (Kozmos) yun. Kâinat. Bütün gökler.
+kozmoz : (Kozmos) yun. Kâinat. Bütün gökler.
 köftehor: (Bak: Kuftehar)
 köhne: Eski, eskimiş. * Zamanı geçmiş. Demode olmuş.
 köhnebahar: Sonbahar.
@@ -2947,11 +2947,11 @@ kustar (kistâr): Kesedar. Sarraf. * Tüccar, tâcir. * Mizan, ölçü. * Bir ş
 kustas: Büyük terazi.
 kusu: Uzaklık, ırak olmaklık. * Son olmaklık.
 kus'ul: Yaramaz, leim, lânet edilen kimse. * Kurt eniği.
-kusur : Noksanlık. Eksiklik. Noksan ve âcizlik. îhmal. Tedbirsizlik. * Cem' olmalar. * Pahalanmak. *Eksilmek. * şiddetli olan şeyin yavaşlayıp sâkin olması. * Bereketlenmek. * îmtina', âciz olmak. * Bir hesabın üstü. Artan kısım. * (Kasr. C.) Kasırlar. Saraylar. Köşkler.(şeytanın mühim bir desisesi: însana kusurunu itiraf ettirmemektir. Tâ ki, istiğfar ve istiâze yolunu kapasın. Hem nefs-i insaniyenin enaniyetini tahrik edip, tâ ki, nefis kendini avukat gibi müdafaa etsin; âdeta taksiratdan takdis etsin. Evet şeytanı dinliyen bir nefis, kusurunu görmek istemez; görse de, yüz te'vil ile te'vil ettirir. $ sırriyle, nefsine nazar-ı rıza ile baktığı için ayıbını görmez. Ayıbını görmediği için itiraf etmez, istiğfar etmez, istiaze etmez; şeytana maskara olur. Hazret-i Yusuf Aleyhisselâm gibi bir Peygamber-i Alişan , $ dediği halde, nasıl nefse itimad edilebilir. Nefsini ittiham eden, kusurunu görür. Kusurunu itiraf eden, istiğfar eder. îstiğfar eden, istiaze eder. îstiaze eden, şeytanın şerrinden kurtulur. Kusurunu görmemek, o kusurdan daha büyük bir kusurdur. Ve kusurunu itiraf etmemek, büyük bir noksanlıktır. Ve kusurunu görse, o kusur kusurluktan çıkar; itiraf etse, afva müstahak olur. L.)
+kusur : Noksanlık. Eksiklik. Noksan ve âcizlik. îhmal. Tedbirsizlik. * Cem' olmalar. * Pahalanmak. *Eksilmek. * şiddetli olan şeyin yavaşlayıp sâkin olması. * Bereketlenmek. * îmtina', âciz olmak. * Bir hesabın üstü. Artan kısım. * (Kasr. C.) Kasırlar. Saraylar. Köşkler.(şeytanın mühim bir desisesi: însana kusurunu itiraf ettirmemektir. Tâ ki, istiğfar ve istiâze yolunu kapasın. Hem nefs-i insaniyenin enaniyetini tahrik edip, tâ ki, nefis kendini avukat gibi müdafaa etsin; âdeta taksiratdan takdis etsin. Evet şeytanı dinliyen bir nefis, kusurunu görmek istemez; görse de, yüz te'vil ile te'vil ettirir. sırriyle, nefsine nazar-ı rıza ile baktığı için ayıbını görmez. Ayıbını görmediği için itiraf etmez, istiğfar etmez, istiaze etmez; şeytana maskara olur. Hazret-i Yusuf Aleyhisselâm gibi bir Peygamber-i Alişan , dediği halde, nasıl nefse itimad edilebilir. Nefsini ittiham eden, kusurunu görür. Kusurunu itiraf eden, istiğfar eder. îstiğfar eden, istiaze eder. îstiaze eden, şeytanın şerrinden kurtulur. Kusurunu görmemek, o kusurdan daha büyük bir kusurdur. Ve kusurunu itiraf etmemek, büyük bir noksanlıktır. Ve kusurunu görse, o kusur kusurluktan çıkar; itiraf etse, afva müstahak olur. L.)
 kusur-î cînan: Cennet'teki köşkler.
 kusure: Acizlik, güçsüzlük.
 kusut: Haktan sapmakla cevr ve zulmetmek. * Birşeyi kısımlara ayırmak, tefrik etmek.
-kusva : Son derecede bulunan. * Son, nihayet. * Son sınır. Erişilecek olan en son nokta.
+kusva : Son derecede bulunan. * Son, nihayet. * Son sınır. Erişilecek olan en son nokta.
 kuş'am: (C: Kaşâım) Yaşlı ihtiyar, koca kimse. * Belâ. * Arslan. * Sırtlan. * örümcek. * Karınca yuvası.
 kuşam (kuşâme): Sofrada artan yemekler. 
 kuş'aman: Büyük erkek akbaba.
@@ -3036,7 +3036,7 @@ kuvvad: Kumandanlar, seraskerler, komutanlar.
 kuvve: Kuvvet. Güç. * Salâhiyyet. îktidar. * Fikir. Niyet. * Hasse. His. Duygu. Meleke. * Kabiliyyet. (Za'fiyyetin zıddı)
 kuvve-î an-îl-merkezîye: Merkezkaç kuvvet. Cisimlerin kendi mihveri üzerine hareketi zamanında merkezinde hâsıl olan kuvvete denilir. Merkezde dönen bir tekerleğin etrafında yapışık veyahut üstünde taşıdığı cisimlerin etrafa yayılıp dağılmasıyla bu kuvvetin mevcudiyyeti anlaşılır.
 kuvve-î azm: Azim kuvveti. Emele muvaffak olmak için gösterilen azim, cehd kuvveti.
-kuvve-î bâsira : Görme duygusu, görme kuvveti.
+kuvve-î bâsira : Görme duygusu, görme kuvveti.
 kuvve-î câzîbe: Kendine çekici kuvvet. Dünyanın câzibe, yani çekme kuvveti.
 kuvve-î dâfîa: Zararlı şeyleri men'etme ve onlardan korunma hissi. îtme kuvveti.
 kuvve-î galîbe: üstün ve ezici kuvvet.
@@ -3047,8 +3047,8 @@ kuvve-î îstînad: Dayanma ve istinad etme kuvveti.
 kuvve-î kudsîye: Evliyâ kuvveti. Cenab-ı Hakk'ın yardımına mazhar olan kuvvet. Hakaik-ı imâniye ve Kur'aniyeyi gayet ince ve derin bir firaset ve dirayetle anlayabilme kuvveti.
 kuvve-î lâmîse: Dokunma ve hissetme duygusu. Sertliği ve yumuşaklığı anlama duygusu.
 kuvve-î muhassala: Muhtelif kuvvetlerin ağırlık merkezi.
-kuvve-î musavvîre : Cenâb-ı Hakkın izni ve kanunu ile maddiyatın şekil ve suretini alma kabiliyeti (Bak: Madde-i musavvire)
-kuvve-î mutasarrifa : Mütehayyile vasıtasıyla zihinde hazırlanan şeyleri tertib kuvveti.
+kuvve-î musavvîre : Cenâb-ı Hakkın izni ve kanunu ile maddiyatın şekil ve suretini alma kabiliyeti (Bak: Madde-i musavvire)
+kuvve-î mutasarrifa : Mütehayyile vasıtasıyla zihinde hazırlanan şeyleri tertib kuvveti.
 kuvve-î müdrîke: îdrak kuvveti. Beş duygunun, hissin zihinde duyulması, anlaşılması.
 kuvve-î mümeyyîze: însanın iç âleminde hissedilenleri birbirinden ayırdetme kudreti. * Hayır ve şerri anlayıp ayıran bir duygu ve kuvvet.
 kuvve-î mütehayyîle: Hissolunan şeyin gıyabında resim ve tasvir kuvveti. Hayâl kuvveti.
@@ -3056,8 +3056,8 @@ kuvve-î müvellîde: Tevlid edici kuvve, meydana getirci kuvvet.
 kuvve-î nâtika: Konuşma, güzel ifade etmek kudreti.
 kuvve-î sebuîye: însanda başkalarına hücum ve zararları defetmek kuvvesi.
 kuvve-î sebuîye-î gadabîye: Zararlı şeyleri def'e sevkeden his ve kuvvet.
-kuvve-î şâmme : Koku alma, koklama duygusu. Burun.
-kuvve-î şehevîye : Cinsi istek kudreti. Yemek, içmek, konuşmak, uyumak gibi kabiliyetler.
+kuvve-î şâmme : Koku alma, koklama duygusu. Burun.
+kuvve-î şehevîye : Cinsi istek kudreti. Yemek, içmek, konuşmak, uyumak gibi kabiliyetler.
 kuvve-î teşrîîye: Kanun vaz'etme kuvveti. şeriata uyan düsturlar yapma kuvveti. * Büyük Millet Meclisi.
 kuvve-î vâhîme: Vehim ve hayâl duygusu. Kuruntu hâssesi.
 kuvve-î zahrîye: Yardımcı ve imdatçı kuvvet.
@@ -3262,7 +3262,7 @@ kürdevs: (C: Kerâdis) Kemik başı. * At sürüsü.
 kürdîstan: Kürdlerin oturdukları bölge. * îran'ın Ardelân eyaletinin eski adı.
 küre: (Kürre yanlıştır) Yuvarlak cisim. * şeklin sathındaki bütün noktalar merkeze aynı uzaklıktadır. Dünya da yuvarlak olduğundan "Küre-i arz" denilmiştir. "Küre-i zemin" de denir.
 küre: Toprak ocak. Mâdenci ocağı.
-küre-î arz: Dünya. (Yuvarlak olduğundan dolayı bu isim verilmiştir.)(Küre-i arz, küçüklüğüyle beraber semâvata karşı gelebilir. çünki nasılki "Dâimi bir çeşme, varidatsız büyük bir gölden daha büyük" denilebilir. Hem, bir ölçek ile bir şey ölçerek başka yere nakledilen ve onun elinden geçmiş ve ona girmiş çıkmış bir mahsulâtla, zâhiren binler def'a ölçekten büyük ve dağ gibi bir cisimle o ölçek muvâzeneye çıkabilir. Aynen öyle de: Küre-i arz, Cenâb-ı Hak onu san'atına bir meşher ve icadına bir mahşer ve hikmetine medar ve kudretine mazhar ve rahmetine mezher ve Cennetine mezraa ve hadsiz kâinata ve mahlukat âlemlerine ölçek ve mâzi denizlerine ve gayb âlemine akacak bir çeşme hükmünde icad etmiş. Her sene kat kat ve katmerli yüzbin tarzda, masnuattan dokunmuş gömleklerini değiştirdiği ve çok def'a dolup mâziye boşaltarak gayb âlemine döktüğü bütün o müteceddid âlemleri ve arzın müteaddit gömleklerini nazara al; yani bütün mazisini hazır farzet; sonra yeknesak ve bir derece basit semavata karşı muvazene et. Göreceksin ki: Arz, ziyade gelmezse, noksan da kalmaz. îşte $ sırrını anla. S.)
+küre-î arz: Dünya. (Yuvarlak olduğundan dolayı bu isim verilmiştir.)(Küre-i arz, küçüklüğüyle beraber semâvata karşı gelebilir. çünki nasılki "Dâimi bir çeşme, varidatsız büyük bir gölden daha büyük" denilebilir. Hem, bir ölçek ile bir şey ölçerek başka yere nakledilen ve onun elinden geçmiş ve ona girmiş çıkmış bir mahsulâtla, zâhiren binler def'a ölçekten büyük ve dağ gibi bir cisimle o ölçek muvâzeneye çıkabilir. Aynen öyle de: Küre-i arz, Cenâb-ı Hak onu san'atına bir meşher ve icadına bir mahşer ve hikmetine medar ve kudretine mazhar ve rahmetine mezher ve Cennetine mezraa ve hadsiz kâinata ve mahlukat âlemlerine ölçek ve mâzi denizlerine ve gayb âlemine akacak bir çeşme hükmünde icad etmiş. Her sene kat kat ve katmerli yüzbin tarzda, masnuattan dokunmuş gömleklerini değiştirdiği ve çok def'a dolup mâziye boşaltarak gayb âlemine döktüğü bütün o müteceddid âlemleri ve arzın müteaddit gömleklerini nazara al; yani bütün mazisini hazır farzet; sonra yeknesak ve bir derece basit semavata karşı muvazene et. Göreceksin ki: Arz, ziyade gelmezse, noksan da kalmaz. îşte sırrını anla. S.)
 küre-î ayn: Tıb: Göz yuvarlağı.
 küre-î hâk: Yeryüzü. * Zemin yüzü.
 küre-î hava: Dünyayı kaplayan hava tabakası. Atmosfer.

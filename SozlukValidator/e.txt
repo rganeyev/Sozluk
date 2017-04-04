@@ -44,8 +44,8 @@ ebbale: Bir yüklük odun. * Bir kısım halk. Cemaat. Cemiyet.
 ebbar: îğneci. îğne yapan veya satan kimse.
 ebbaz: Kaçma, ürkme. * Sıçrayıp atlayan karınca.
 ebbed-allah: (Allah ebedi, dâim eylesin!) mânasına bir dua.
-ebced: Arabça Eski Sâmi alfabesindeki harf sırasının sayı değerine göre tertiplenmesinden meydana gelen birinci kelime. Bu tertip îbrâni ve Süryâni Alfabesindeki harfleri içine alır. îbâredeki kelimelerin sırası ve harflerin rakam değerleri şu suretle gösterilmektedir.  $(Ebced) $(Hevvez) $(Hutti) $(Kelemen) $(Sa'fes) $(Kareşet) $(Sehaz) $(Dazig)Bu sekiz kelime bütün huruf-u hecâ denen yirmi sekiz harfi içine almış ve sıra ile eliften gayn harfine kadar, birden bine kadar her harfte aşağıdaki sıra ile gösterildiği gibi değerler verilmiştir. Elif: 1, Bâ: 2, Cim: 3, Dal: 4, He: 5, Vav: 6, Ze: 7, Ha: 8, Tı: 9, Yâ: 10, Kef: 20, Lâm: 30, Mim: 40, Nun: 50, Sin: 60, Ayn: 70, Fe: 80, Sad: 90, Kaf: 100 Rı: 200, şın: 300, Te: 400, Se: 500 Hı: 600, Zel: 700, Dad: 800, Zı: 900, Gayn: 1000 şimdiki Arabcada alfabe bu sırayı tutmuyorsa da harflerin rakam gibi kullanıldığı zaman, yine eski sıraya uymak için Ebced sırasını da devam ettirmişlerdir. Hem birbirine benzeyen harfler bu sırada dizilmiştir. Eskiden îslâmlarda matematik ve fizikte bu harflerin rakam yerine kullanıldıklarını biliyoruz.
-ebced hesabi: Ebced harf tertibinde görüldüğü gibi, Kur'ân-ı Kerim daha nâzil olmadan harflere rakam değeri verilerek tarih yazılır ve hâdiseler kaydedilirdi. Bundan böyle Arab, Fars ve Türk Ebediyatında hâdiselerin tarihleri Ebced hesâbı ile yazılırdı. Birçok muharebe, zafer, büyüklerin doğum ve ölümü, yüksek mevkilere geçiş, câmi, köprü, çeşme yapılış ve açılış tarihleri bu hesaba uyularak mısralarla ifade edilirdi. îşte bu ebcede göre harflere sayı değerleri verilerek kuvve-i kudsiye sâhibi ve büyük evliya ve allâmelerden ve ehl-i sünnet ve cemaat eshabı birçok müellifler, Kur'ân-ı Kerim'den, âyet ve hadis-i şeriflerden de mânalar çıkarmışlardır. Ebced hesabının Kur'ân'a tatbikinden çıkan şudur ki: Kur'ân'ın her kelimesi ve kelimelerdeki her harf bile Allah'ın ilim ve iradesiyle bilhassa belli maksatlarla seçilmiştir. Her harfin bile yerine göre hususi bir vazifesi vardır.Meselâ: Elmalı Tefsiri sh: 3956'da Molla Câmi Merhumdan şu tarihi nakil vardır: Kur'ân-ı Kerim'in 34'üncü sure, 15'inci âyetinde (Beldetün Tayyibetün: $ "îyi bir beldedir" ifâdesi ile îstanbul kasdedilmiştir ve îstanbul'un fetih tarihi bu cümlenin ebcedi ile haber verilmiştir.) diye gösteriliyor: Bu cümledeki harfleri sıra ile hesab ederek şu neticeyi görmekteyiz: 2 + 30 + 4 + 400 + 9 +10 + 2 + 400 = 857 hicri senesi oluyor. Bu tarih îstanbul'un Sultan Fatih Mehmed Hazretleri zamanında milâdi 1453 tarihinde fethine tevâfuk etmektedir. (29. Mektub Rumuzât-ı Semaniyede: Kur'ân-ı Kerim'in 108. Suresinde: $ ebcedi makamı 857 olarak, aynen "Beldetün Tayyibetün" gibi îstanbul'un îslâm eline geçmesi olan 857 tarihine tevafuk etmekle işaret ediyor... Evet mâdem Sure-i Kevser, Resul-i Ekrem'e (A.S.M.) ihsan edilen fütuhat-ı azimeye delâlet ediyor. Elbette îstanbul'a dahi bakıyor.)Bundan başka, Fetih Suresinde $ âyetinin, Sultan Mehmed Fâtih'in Uzun Hasan'a galib geldiği tarih 878 olarak görülmektedir.Bundan başka Timurleng'in şâm-ı şerif'i harab ettiği tarihi hesab edecek olursak, Kur'ân-ı Kerim'in 2'nci suresinin 114'üncü âyetindeki "Harab" $ kelimesinden aynı hesabla: 600 + 200 + 1 + 2 = 803 hicri tarihi çıkıyor.Risale-i Nur Külliyatından şuâlar Mecmuasında ve îmâm-ı Buhâri Tarihinde Ebi Aliye îbn-i Cerir ve îbn-i Hâtem'den nakledilen ve Kadı Beyzâvi Tefsirinde de mezkur bulunan aşağıdaki rivâyet dahi Ebced Hesabının Kur'ân-ı Kerim ile olan şeksiz alâkasını isbat etmektedir: (Bir zaman Beni îsrâil âlimlerinden bir kısmı huzur-u Peygamberide surelerin başlarındaki $ gibi mukattaât-ı hurufiyyeyi işittikleri vakit, hesâb-ı cifir ile dediler: "Yâ Muhammed! Senin ümmetinin müddeti azdır." Hz. Resul-ü Ekrem onlara mukabil dedi: "Az değil!" Sâir surelerin başlarındaki mukattaâtı okudu ve ferman etti. "Daha var." Onlar sustular. ş.)
+ebced: Arabça Eski Sâmi alfabesindeki harf sırasının sayı değerine göre tertiplenmesinden meydana gelen birinci kelime. Bu tertip îbrâni ve Süryâni Alfabesindeki harfleri içine alır. îbâredeki kelimelerin sırası ve harflerin rakam değerleri şu suretle gösterilmektedir. (Ebced)(Hevvez)(Hutti)(Kelemen)(Sa'fes)(Kareşet)(Sehaz)(Dazig)Bu sekiz kelime bütün huruf-u hecâ denen yirmi sekiz harfi içine almış ve sıra ile eliften gayn harfine kadar, birden bine kadar her harfte aşağıdaki sıra ile gösterildiği gibi değerler verilmiştir. Elif: 1, Bâ: 2, Cim: 3, Dal: 4, He: 5, Vav: 6, Ze: 7, Ha: 8, Tı: 9, Yâ: 10, Kef: 20, Lâm: 30, Mim: 40, Nun: 50, Sin: 60, Ayn: 70, Fe: 80, Sad: 90, Kaf: 100 Rı: 200, şın: 300, Te: 400, Se: 500 Hı: 600, Zel: 700, Dad: 800, Zı: 900, Gayn: 1000 şimdiki Arabcada alfabe bu sırayı tutmuyorsa da harflerin rakam gibi kullanıldığı zaman, yine eski sıraya uymak için Ebced sırasını da devam ettirmişlerdir. Hem birbirine benzeyen harfler bu sırada dizilmiştir. Eskiden îslâmlarda matematik ve fizikte bu harflerin rakam yerine kullanıldıklarını biliyoruz.
+ebced hesabi: Ebced harf tertibinde görüldüğü gibi, Kur'ân-ı Kerim daha nâzil olmadan harflere rakam değeri verilerek tarih yazılır ve hâdiseler kaydedilirdi. Bundan böyle Arab, Fars ve Türk Ebediyatında hâdiselerin tarihleri Ebced hesâbı ile yazılırdı. Birçok muharebe, zafer, büyüklerin doğum ve ölümü, yüksek mevkilere geçiş, câmi, köprü, çeşme yapılış ve açılış tarihleri bu hesaba uyularak mısralarla ifade edilirdi. îşte bu ebcede göre harflere sayı değerleri verilerek kuvve-i kudsiye sâhibi ve büyük evliya ve allâmelerden ve ehl-i sünnet ve cemaat eshabı birçok müellifler, Kur'ân-ı Kerim'den, âyet ve hadis-i şeriflerden de mânalar çıkarmışlardır. Ebced hesabının Kur'ân'a tatbikinden çıkan şudur ki: Kur'ân'ın her kelimesi ve kelimelerdeki her harf bile Allah'ın ilim ve iradesiyle bilhassa belli maksatlarla seçilmiştir. Her harfin bile yerine göre hususi bir vazifesi vardır.Meselâ: Elmalı Tefsiri sh: 3956'da Molla Câmi Merhumdan şu tarihi nakil vardır: Kur'ân-ı Kerim'in 34'üncü sure, 15'inci âyetinde (Beldetün Tayyibetün: "îyi bir beldedir" ifâdesi ile îstanbul kasdedilmiştir ve îstanbul'un fetih tarihi bu cümlenin ebcedi ile haber verilmiştir.) diye gösteriliyor: Bu cümledeki harfleri sıra ile hesab ederek şu neticeyi görmekteyiz: 2 + 30 + 4 + 400 + 9 +10 + 2 + 400 = 857 hicri senesi oluyor. Bu tarih îstanbul'un Sultan Fatih Mehmed Hazretleri zamanında milâdi 1453 tarihinde fethine tevâfuk etmektedir. (29. Mektub Rumuzât-ı Semaniyede: Kur'ân-ı Kerim'in 108. Suresinde: ebcedi makamı 857 olarak, aynen "Beldetün Tayyibetün" gibi îstanbul'un îslâm eline geçmesi olan 857 tarihine tevafuk etmekle işaret ediyor... Evet mâdem Sure-i Kevser, Resul-i Ekrem'e (A.S.M.) ihsan edilen fütuhat-ı azimeye delâlet ediyor. Elbette îstanbul'a dahi bakıyor.)Bundan başka, Fetih Suresinde âyetinin, Sultan Mehmed Fâtih'in Uzun Hasan'a galib geldiği tarih 878 olarak görülmektedir.Bundan başka Timurleng'in şâm-ı şerif'i harab ettiği tarihi hesab edecek olursak, Kur'ân-ı Kerim'in 2'nci suresinin 114'üncü âyetindeki "Harab" kelimesinden aynı hesabla: 600 + 200 + 1 + 2 = 803 hicri tarihi çıkıyor.Risale-i Nur Külliyatından şuâlar Mecmuasında ve îmâm-ı Buhâri Tarihinde Ebi Aliye îbn-i Cerir ve îbn-i Hâtem'den nakledilen ve Kadı Beyzâvi Tefsirinde de mezkur bulunan aşağıdaki rivâyet dahi Ebced Hesabının Kur'ân-ı Kerim ile olan şeksiz alâkasını isbat etmektedir: (Bir zaman Beni îsrâil âlimlerinden bir kısmı huzur-u Peygamberide surelerin başlarındaki gibi mukattaât-ı hurufiyyeyi işittikleri vakit, hesâb-ı cifir ile dediler: "Yâ Muhammed! Senin ümmetinin müddeti azdır." Hz. Resul-ü Ekrem onlara mukabil dedi: "Az değil!" Sâir surelerin başlarındaki mukattaâtı okudu ve ferman etti. "Daha var." Onlar sustular. ş.)
 ebcedhan: Ebced okuyan. Mektebe yeni başlayan, acemi.
 ebcel: Cüssesi büyük olan iri yapılı adam. * Atta ve devede bulunan bir damar. (însanda o damara, "ırk-ı ekhal" derler.)
 ebda': (Bedi'. den) En bedi. Ziyade bedi' ve güzel. Daha çok dikkati çeken.
@@ -67,7 +67,7 @@ eben: Töhmetli, kabahatli kişi. * Adâvet, düşmanlık.
 eben an-cedd: Babadan, dededen.
 eber: Hurmanın budaklanması ve ıslah edilmesi. * Akrep sokması.
 eberr: çok faziletli, şerefli. çok sâdık ve dindar. çok iyilik sever. * şenlikten uzak, bedevi.
-ebes: çok süt içmekten dolayı midede ve karında meydana gelen şiş. $
+ebes: çok süt içmekten dolayı midede ve karında meydana gelen şiş.
 ebeveyn: Ana ile baba. (Eb ile ümm.)
 ebgaz: çok fazla buğzedilen, hiç sevilmeyen, nefret edilen.
 ebh: Unutulan şeyi hatırlatmak.
@@ -158,7 +158,7 @@ ebtal: (C.: Ebâtil) însanın böğrü. * En boş. Boşuboşuna. çok bâtıl.
 ebter: Kuyruğu kesik hayvan. * Sonunda oğlu ve kızı kalmayan insan. * ölümünden sonra adı hatırlanıp anılacak hayrı ve ihsanı kalmayan kişi. * Eksik, tamamlanmamış.
 ebtîne: (Bâtın. C.) çukur yer, kuytu yer.
 ebu: Peder, baba, ata, eb.
-ebu bekîr-î siddik (r.a.) : Asıl adı Abdullah, künyesi Ebu Bekir, lâkabı Sıddık ve Atik. Erkekler içerisinde Resul-i Ekreme (A.S.M.) ilk iman eden; bütün muharebelerde ona refakat eden; seferde, hazarda, bütün tehlikeli anlarda Peygamber Efendimizle (A.S.M.) beraber çalışmış ve onun en yakın Sahâbesi. Onun sohbetinden feyz almış, nübüvvet sırlarının en samimi mahremi. Her şeyini, bütün malını îslâmiyet uğruna, Peygamberimize (A.S.M.) sadakati ile feda etmiş, sırf lillâh için çalışmış, hiç bir maaş kabul etmeden hilâfet makamında bulunmuş, îslâmın ilk Reis-i Cumhuru olmuştu. Seçimle başa geçmiş, zekât vermeği kabul etmemek ve irtidad etmek gibi hareketlere karşı mücadele etmişti. Kur'ân-ı Kerimin Sure ve Ayetlerini ilk def'a cem' edip bir cilt halinde toplamıştı. Hilâfeti zamanında Hz. Halid kumandasında îslâm Ordusu Suriye ve şamı fethetmişti.
+ebu bekîr-î siddik (r.a.) : Asıl adı Abdullah, künyesi Ebu Bekir, lâkabı Sıddık ve Atik. Erkekler içerisinde Resul-i Ekreme (A.S.M.) ilk iman eden; bütün muharebelerde ona refakat eden; seferde, hazarda, bütün tehlikeli anlarda Peygamber Efendimizle (A.S.M.) beraber çalışmış ve onun en yakın Sahâbesi. Onun sohbetinden feyz almış, nübüvvet sırlarının en samimi mahremi. Her şeyini, bütün malını îslâmiyet uğruna, Peygamberimize (A.S.M.) sadakati ile feda etmiş, sırf lillâh için çalışmış, hiç bir maaş kabul etmeden hilâfet makamında bulunmuş, îslâmın ilk Reis-i Cumhuru olmuştu. Seçimle başa geçmiş, zekât vermeği kabul etmemek ve irtidad etmek gibi hareketlere karşı mücadele etmişti. Kur'ân-ı Kerimin Sure ve Ayetlerini ilk def'a cem' edip bir cilt halinde toplamıştı. Hilâfeti zamanında Hz. Halid kumandasında îslâm Ordusu Suriye ve şamı fethetmişti.
 ebu cabîr: Ekmek.
 ebu ca'de: Kurt, zi'b.
 ebu cafer: Bin Abdullah Bin Cafer bin Ebi Tâlib (R.A.): Resul-i Ekrem Aleyhissalatü Vesselâm'dan 25 Hadis rivayet etmiştir. Kureyş'in Haşimi kolundandır. 80 senesinde 80 yaşında iken vefat etti. (R.A.)
@@ -167,19 +167,19 @@ ebu cehl: "Cehalet babası" demek olan bu kelime, Hazret-i Resul-i Ekrem (A.S.M.
 ebu cemîl: Tere otu.
 ebu davud: (Bak: Kütüb-ü Sitte)
 ebu eyyub: Deve, cemel.
-ebu eyyub-îl ensarî : Sahabe-yi Kiramdan olup Halid bin Zeyd-i Hazreci diye de anılır. Hicretten sonra Peygamberimize (A.S.M.) ilk mihmandârlığı yapmış idi. Hicretin 50. yılında pir-i fâni olduğu halde teberrüken Kostantiniyye'nin fethine azimet eden îslâm ordusu ile harbe iştirak etmiş, îstanbul surları dışında şehid olmuştur. Sonradan ancak Sultan Mehmed Fatih'in Hocası Akşemseddin Hazretleri tarafından mezarı keşf edilmiştir. 150 hadis-i şerif nakletmiştir. (R.A.)
+ebu eyyub-îl ensarî : Sahabe-yi Kiramdan olup Halid bin Zeyd-i Hazreci diye de anılır. Hicretten sonra Peygamberimize (A.S.M.) ilk mihmandârlığı yapmış idi. Hicretin 50. yılında pir-i fâni olduğu halde teberrüken Kostantiniyye'nin fethine azimet eden îslâm ordusu ile harbe iştirak etmiş, îstanbul surları dışında şehid olmuştur. Sonradan ancak Sultan Mehmed Fatih'in Hocası Akşemseddin Hazretleri tarafından mezarı keşf edilmiştir. 150 hadis-i şerif nakletmiştir. (R.A.)
 ebu halîd: Köpek, kelb. * Canavar.
 ebu hanîfe: (Bak: îmam-ı A'zam)
-ebu hasan-i şazelî : (Bak: şazeli)
+ebu hasan-i şazelî : (Bak: şazeli)
 ebu humeyd: Ayı denilen canavar.
 ebu hüreyre (r.a.): Peygamberimize (A.S.M.) bütün gücüyle hizmette bulunmuş ve î'lâ-yı kelimetullâh yolunda Peygamber (A.S.M.) ile bütün muharebelere iştirak etmiş, 5374 aded Hadis-i şerif nakletmiştir. Hicri 75 yılında, Medine-i Münevvere'de, 78 yaşında iken dâr-ı bekaya irtihâl etmiştir. (R.A.) (Bak: Ashab-ı Suffa)
-ebu îkrîme öò: Güvercin kuşu.
+ebu îkrîme: Güvercin kuşu.
 ebu îyaz seleme bîn amr bîn el ekvâ (r.a.): Biat-ı Rıdvanda hazır bulunan, gayet cesur, nişancı, hamiyetperver bir sahabedir. 77 hadis-i şerif rivayet etmiştir. Hicri 74 tarihinde, 80 yaşında iken Medine-i Münevvere'de vefat etmiştir. (R.A.)
 ebu kalemun: Bir nevi kumaş ki, göze türlü türlü görünür. Bâzıları "gülistân-ı kemhâ" derler.
 ebu katade harîs bîn rîb'îy (r.a.): Ensardan ve Resül-ü Ekrem Aleyhissalâtü Vesselâm'ın süvarilerindendir. 170 Hadis-i şerif rivayet etmiştir. Uhud Gazvesinden itibaren bütün muharebelere iştirak etmiş bir kahraman olup 74 tarihinde 80 yaşında iken Medine'ye avdetinde vefat etmiştir. (R.A.)
 ebu kays: çakal.
 ebu leheb: (Ebi Leheb) Asıl adı: Abduluzza'dır. Güneş gibi, âlemleri aydınlatan Resul-i Ekrem Aleyhissalatü Vesselâm'ın nurundan gözünü kapadı ve küfre hizmete çalıştı, iman etmedi. Peygamberimizin amcası idi. Karısı ve oğulları sırf düşmanlık için çalıştılar. Adı "Alev babası" mânasında olan "Ebu Leheb" kaldı.
-ebu mansur-u matürîdî : (Bak: Matüridi)
+ebu mansur-u matürîdî : (Bak: Matüridi)
 ebu nafî': Sirke.
 ebu sabîr: Tuz, milh.
 ebu saîd-îl hudrî: Ashab-ı Kirâmın en mümtazlarından ve Ensardandır. 1170 Hadis-i şerif rivayet etmiştir. Uzun müddet fetva vazifesinde bulunmuş, Hicri 72'de 86 yaşında iken Medine-i Münevvere'de vefat etmiştir. (R.A.)
@@ -190,7 +190,7 @@ ebu talîb: (...-619) Peygamberimiz Hz. Muhammed'in (A.S.M.) amcasıdır. (Diyor
 ebu tayyîb el-mütenebbî: (Hi: 915 - 965) Kûfe'de doğdu. Bağdat'ta öldü. Büyük şairlerden olup, divanı vardır.
 ebu za'fel: Fil.
 ebu zene: Maymun.
-ebu zerr-î giffarî: $ Cündüb bin Cünâde (R.A.): îlk îslâm olanların beşincisi olup ilimde îbn-i Mes'ud hazretlerine müsavi sayılırdı. Resül-ü Ekrem Aleyhissalâtu Vesselâmdan 281 Hadis-i şerif nakletmiştir. Hazreti Ali Kerremallahu Vechehu kendisine "îlim dağarcığı" lâkabını vermiştir. Hi: 31'de Hakkın rahmetine kavuşmuştur. (R.A.)
+ebu zerr-î giffarî: Cündüb bin Cünâde (R.A.): îlk îslâm olanların beşincisi olup ilimde îbn-i Mes'ud hazretlerine müsavi sayılırdı. Resül-ü Ekrem Aleyhissalâtu Vesselâmdan 281 Hadis-i şerif nakletmiştir. Hazreti Ali Kerremallahu Vechehu kendisine "îlim dağarcığı" lâkabını vermiştir. Hi: 31'de Hakkın rahmetine kavuşmuştur. (R.A.)
 ebu zîyad: Eşek, hımar.
 ebu zübab: Fâre.
 ebu zür'a: Domuz, hınzır.
@@ -198,7 +198,7 @@ ebu-d derda: Uveymir adı ile de meşhurdur. Ashab-ı kirâmın âlim ve hakimle
 ebu-l ala-î maarrî: (Mi: 973 - 1057) Kör olmasına rağmen hafızasının fevkalâdeliği ile tanınmış büyük Arap şairlerinden biridir ki, kasideleriyle meşhurdur.
 ebu-l avn: Hurma.
 ebu-l emîn: Tokluk, şiba'.
-ebu-l fadl ò: Altun.
+ebu-l fadl: Altun.
 ebu-l harîs: Arslan.
 ebu-l husayn: Tilki.
 ebu-l îber: Utanmaz, edepsiz, hayasız adam.
@@ -207,7 +207,7 @@ ebu-l meymun: Bal, asel.
 ebu-l mîreh: şeytan.
 ebu-l muhtal: Katır, bağal.
 ebu-l vakt: Vakit ve hâlin te'siri altında kalmıyanlar.
-ebu-la-şey : Hiçbir şeyin babası. Hiç bir şeyi olmayan.
+ebu-la-şey : Hiçbir şeyin babası. Hiç bir şeyi olmayan.
 ebu-n nacî': Helva.
 ebu-n necm: Tilki.
 ebu-t-turab: Hz. Alinin (R.A.) bir lâkabı.(Bu isim Hz. Ali Radiyallahu anh, toprak üzerine oturduğu veya yattığından dolayı tevâzuuna işareten Peygamber Efendimiz (A.S.M.) tarafından verilmiştir.)
@@ -274,7 +274,7 @@ ecîr: ücretle çalışan, nefsini kiraya veren. Gündelikçi.(Devletler, mille
 ecîrlîk: t. ücretle çalışma, hizmetkârlık.
 ecîrnâ: (îcâret. den) Bizi hıfzeyle, muhafaza eyle (meâlinde.)
 ecîrnî: (îcâret. den) Beni hıfzeyle, beni koru (meâlinde).
-ecl: îllet, sebeb, cihet. îçin, dolayı... den. Arabçada "Li" ilâve ederek kullanılır. Meselâ: Li-eclillâh $: Allah için, Allah rızası için.
+ecl: îllet, sebeb, cihet. îçin, dolayı... den. Arabçada "Li" ilâve ederek kullanılır. Meselâ: Li-eclillâh: Allah için, Allah rızası için.
 ecla: Pek âşikâr, pek belli. Pek parlak, ziyade güzel. * Başında kıl bitmeyen kel.
 ecla': Dudakları kısa olup dişlerini tamamen örtmeyen.
 eclad: (Cild. C.) Hayvan derileri.
@@ -332,10 +332,10 @@ ecyal: (Cil. C.) Soylar. Tâifeler. Kavimler. Nesiller.
 ecyed: Uzun boyunlu (adam.)
 ecyem: Gözü büyük ve kırmızı olan. (Müe: Ceymâ)
 eczâ: (Cüz. C.) Eczacılıkta kullanılan çeşitli maddeler. * Ciltlenmemiş kitab ve saire. * Cüz'ler, parçalar, kısımlar. * Bir kimyevi terkible vücuda gelip yanma hassası gibi böyle bir kuvvet ve te'siri haiz bulunan şey.
-eczâ-î aslîye : Vücudda temel teşkil eden parçalar ve kısımlar, unsurlar.
+eczâ-î aslîye : Vücudda temel teşkil eden parçalar ve kısımlar, unsurlar.
 eczâ-î unsurîyye: Esas teşkil eden parçalar.
-eczâ-î zâîde : Fazladan olan kısımlar, parçalar.
-eczâ-yi şerîfe : Kur'ân-ı Kerim'i meydana getiren otuz cüz.
+eczâ-î zâîde : Fazladan olan kısımlar, parçalar.
+eczâ-yi şerîfe : Kur'ân-ı Kerim'i meydana getiren otuz cüz.
 eczahane: Eczacı dükkanı. Ecza dolabı. îlaç satılan mağaza.
 eczal: (Cizl. C.) Ağaç kökleri, tomrukları.
 eczeb: Suyu geçirmeyen sağlam zemin.
@@ -382,21 +382,21 @@ edhem: (C.: Dühem-Edâhim) Karayağız at.
 edhîne: (Duhân. C.) Duhanlar, dumanlar, sisler. * Tütünler.
 edî: Küçük ve şerir (adam). * Küçük kap.
 edîb: Edebiyatçı. Güzel ve san'atlı söz söyleyen veya yazan. * Edebli, terbiyeli.(Edibler edebli olmalı, hem de edeb-i îslâmiye ile müteeddib olmalı. Ve onların sözleri, kalb-i umumi-i müşterek-i milletten bitarafane çıkmalı. Ve matbuat nizamnamesini, vicdanınızdaki hiss-i diyânet ve niyet-i hâlisa tanzim etmeli. îk. M.)
-edîb-î bî-müdanî ": Eşsiz edebiyatçı.
+edîb-î bî-müdanî: Eşsiz edebiyatçı.
 edîbâne: Edibe yakışır, terbiyeli bir surette. Edebiyatçı gibi.
 edîlle: (Delil. C.) Deliller, işaretler. Alâmetler. Rehberler. îsbat vasıtaları.
-edîlle-î aklîye "": Akıl ile bulunan isbat vâsıtaları, akli deliler.
-edîlle-î aslîye "": (Bak: Edille-i erbaa)
-edîlle-î erbaa "": (Edille-i şer'iye) Fık: Fıkıh ilminin istinad ettiği deliller: Kitab (yani Kur'an-ı Kerim'deki deliller), sünnet, icma-ı ümmet ve kıyas-ı fukaha. (Usul-ü erbaa ve edille-i asliye tabirleri de aynı mânada kullanılır.)
+edîlle-î aklîye: Akıl ile bulunan isbat vâsıtaları, akli deliler.
+edîlle-î aslîye: (Bak: Edille-i erbaa)
+edîlle-î erbaa: (Edille-i şer'iye) Fık: Fıkıh ilminin istinad ettiği deliller: Kitab (yani Kur'an-ı Kerim'deki deliller), sünnet, icma-ı ümmet ve kıyas-ı fukaha. (Usul-ü erbaa ve edille-i asliye tabirleri de aynı mânada kullanılır.)
 edîlle-î kati'a: îtiraz edilmeyecek derecede kat'i ve sağlam deliller.
 edîlle-î kavîyye: Sağlam deliller.
-edîlle-î şer'îye "": (Bak: Edille-i erbaa)
+edîlle-î şer'îye: (Bak: Edille-i erbaa)
 edîlle-î tâlîye: Huk: örf, âdet, teâmül, istishab, asıl ve amel, maslahat-ı mürsele, kaide-i külliye, âsâr-ı sahabe ve âsâr-ı kibar-ı tabiin gibi deliller.
 edîm: Sahtiyan, tabaklanmış deri. * Satıh, yüz, zemin.
 edîm-î arz: Yer yüzü.
 edîmme: Derinin ikinci tabakası.
 ed'îye: (Duâ. C.) Duâlar.
-ed'îye-î hayrîye "": Hayırlı dualar.
+ed'îye-î hayrîye: Hayırlı dualar.
 ed'îye-î me'sure: Peygamberimiz (A.S.M.) ile, sahabelerden naklolunan te'sirli ve makbul duâlar.
 edîyye: Az, kalil.
 edken: Bulanık, * Rengi siyaha yakın olan.
@@ -429,7 +429,7 @@ edvar-perdaz: Devirleri dile getiren. Devirleri terennüm eden.
 edvek: Devenin, misvak ağacını yemesi. * Bir yerde sâkin olmak. * Yaranın veremi sakin olmak.
 edveş: Gözü dumanlı adam.
 edvîye: (Devâ. C.) îlâçlar, devâlar.
-edvîye-î müessîre "": Te'sirli ilaçlar.
+edvîye-î müessîre: Te'sirli ilaçlar.
 edyak: (Dik. C.) Dikler, horozlar.
 edyan: (Din. C.) Dinler.
 edyan-i bâtila: Bâtıl dinler. Bozuk, hükmü hakikatten ayrılmış olan dinler.
@@ -585,13 +585,13 @@ efvek: Yalancı, yalan söyleyen.
 efyal: (Fil. C.) Filler.
 efyun: Haşhaştan çıkarılan uyutucu madde. Afyon.
 efyun-keş: Afyon kullanmaya alışmış olan. Afyon tiryakisi.
-efza: (Sonlarına eklenen kelimelere) Artıran, çoğaltan mânasını verir. Meselâ: Hayret-efzâ $: Hayret verici, hayret artıran.
+efza: (Sonlarına eklenen kelimelere) Artıran, çoğaltan mânasını verir. Meselâ: Hayret-efzâ: Hayret verici, hayret artıran.
 efza': (Fezâ. C.) Korku ile bağırıp çağırmalar.
 efza': şiddetli, katı, eşed.
 efzar: Ayakkabı, kundura. * Gemi yelkeni. * Yemeklere koku ve tad vermesi için konulan baharat. * San'atkârların kullandıkları san'at âletleri.
 efzayîş: Artma, çoğalma, tezayüd, tekessür.
 efzûd: çoğalan, artan, tekessür eden, tezayüd eden.
-efzun : Fazla, çok ziyade.
+efzun : Fazla, çok ziyade.
 efzunî: Kesret, çokluk, fazlalık, ziyadelik.
 efzunî-yî ömr: ömrün çokluğu, ömrün uzun olması.
 efzunter: Daha fazla, daha çok.
@@ -658,7 +658,7 @@ ehass: Daha uyanık. Daha hassas.
 ehass: Saçı dökülmüş kişi.
 ehass: Daha hususi, daha yakın, daha hâlis. Hususi. Ziyade hâs.(Eamm'ın zıddıdır.)
 ehass-i âmâl: Emellerin en hası.
-ehass-ül havâs : En hâlisin hâlisi. şuhudi imân sahibleri olan evliyalar. Cenab-ı Hakk'a yakınlık kazananların en hâlisi olan enbiyâ ve evliya. Efdallerin efdali, sâlihlerin sâlihi.
+ehass-ül havâs : En hâlisin hâlisi. şuhudi imân sahibleri olan evliyalar. Cenab-ı Hakk'a yakınlık kazananların en hâlisi olan enbiyâ ve evliya. Efdallerin efdali, sâlihlerin sâlihi.
 ehatt: En ucuz, daha ucuz. * Daha cilâlı.
 ehaveyn: îki kardeş.
 ehbar: (Habr. C.) âlimler. Yahudi âlimleri. * Sürurlu anlar.
@@ -710,12 +710,12 @@ ehl-î îstîğrak: Manevi bir coşkunlukla kendinden geçmiş hâle giren zatla
 ehl-î kalb: (Bak: Ehl-i dil)
 ehl-î kelâm: (Bak: Mütekellimin)
 ehl-î keşf: Perdeli olan ve zâhir hislerle bilinmeyen hakikatları, Cenab-ı Hak'kın lütf u ihsanı ile bilen veliler.
-ehl-î keşf-îl kubur: Kabir âleminde olanları bilen, kabirdeki ölünün ahvâlini keşfedip doğru olarak haber veren veli, evliya.(Ehl-i keşf-il kuburun müşahedesiyle müteaddid vâkıatla, tahsil-i ulum ânında vefat eden bazı müştak ve ciddi bir talebe-i ulum, şehidler gibi kendini hayatta ve kendi dersiyle meşgul görüyor. Hattâ meşhur bir ehl-i keşf-il kubur, vefat eden ve îlm-i Sarf ve Nahv okuyan bir talebenin kabrinde Münker, Nekir'e nasıl cevap verecek diye murakabe etmiş ve müşahede edip işitmiş ki; melek-i sual, ondan sordu: $ "Senin Rabbin kimdir?" dediği zaman, o Nahv dersiyle iştigal ederken vefat eden talebe, o meleğin cevabında demiş:"â mübtedâdır, onun haberidir." Nahiv ilmince cevab vermiş, kendini medresede zannetmiş. ş.) 
+ehl-î keşf-îl kubur: Kabir âleminde olanları bilen, kabirdeki ölünün ahvâlini keşfedip doğru olarak haber veren veli, evliya.(Ehl-i keşf-il kuburun müşahedesiyle müteaddid vâkıatla, tahsil-i ulum ânında vefat eden bazı müştak ve ciddi bir talebe-i ulum, şehidler gibi kendini hayatta ve kendi dersiyle meşgul görüyor. Hattâ meşhur bir ehl-i keşf-il kubur, vefat eden ve îlm-i Sarf ve Nahv okuyan bir talebenin kabrinde Münker, Nekir'e nasıl cevap verecek diye murakabe etmiş ve müşahede edip işitmiş ki; melek-i sual, ondan sordu: "Senin Rabbin kimdir?" dediği zaman, o Nahv dersiyle iştigal ederken vefat eden talebe, o meleğin cevabında demiş:"â mübtedâdır, onun haberidir." Nahiv ilmince cevab vermiş, kendini medresede zannetmiş. ş.)
 ehl-î kible: Müslüman, kıble ehli.
 ehl-î kîtab: Allah'ın gönderdiği kitaplara inanan. * Müslüman, Hristiyan veya Yahudi olan. (Hakiki Hristiyanlık veya Yahudilikten çıkmamış bulunan.)(Kur'an-ı Kerim, o cümlede ehl-i kitabı imana teşvik etmekle, onlara bir ünsiyet, bir sühulet gösteriyor. şöyle ki:Ey ehl-i kitab! îslâmiyeti kabul etmekte size bir meşakkat yoktur. Size ağır gelmesin! Zira, size bütün bütün dininizi terketmenizi emretmiyor. Ancak, itikadatınızı ikmal ve yanınızda bulunan esasat-ı diniye üzerine bina ediniz; diye teklifte bulunuyor. Zira Kur'ân, bütün kütüb-ü sâlifenin güzelliklerini ve eski şeriatlarının kavaid-i esasiyelerini cem'etmiş olduğundan, usulde muaddil ve mükemmildir. Yâni ta'dil ve tekmil edicidir. Yalnız, zaman ve mekânın tegayyür etmesi tesiriyle tahavvül ve tebeddüle maruz olan füruat kısmında müessistir. Bunda akli ve mantıki olmayan bir cihet yoktur. Evet, mevasim-i erbaada giyecek, yiyecek ve sair ilâçların tebeddülüne lüzum ve ihtiyaç hasıl olduğu gibi, bir şahsın yaşayış devrelerinde, talim ve terbiye keyfiyeti tebeddül eder. Kezalik, hikmet ve maslahatın iktizası üzerine, ömr-ü beşerin mertebelerine göre ahkâm-ı fer'iyede tebeddül vardır. çünkü, fer'i hükümlerden biri, bir zamanda maslahat iken, diğer bir zamana göre mazarrat olur. Veya bir ilâç, bir şahsa deva iken, şahs-ı âhere dâ' olur. Bu sırdandır ki, Kur'ân, fer'i hükümlerden bir kısmını nesh etmiştir. Yâni vakitleri bitti, nöbet başka hükümlere geldi, diye hükmetmiştir. î.î.)
 ehl-î kubur: Kabir ehli. ölüler.
 ehl-î kura: Köylerde, kasabalarda yaşayan.
-ehl-î meder òòö: Evde oturan. Medeni.
+ehl-î meder: Evde oturan. Medeni.
 ehl-î namus: Namuslu kimse, namus ehli.
 ehl-î nâr: Cehennemlik olan. Cehennem ehli.
 ehl-î nefîy: Nefyedenler, aksini veya olmadığını iddia edenler.
@@ -742,7 +742,7 @@ ehl-î vukuf: Bir mes'ele hakkında bilgi sahibi olan salâhiyetli kimseler. Vuk
 ehl-î zevk: Zevklenenler, lezzet alanlar. * Tas: Cenab-ı Hakk'a yakınlıkla, kurbiyetle veya uyanık kalble iman ve Kur'an hakikatlarından zevk alanlar.
 ehl-î zîmmet: îslâm Devletinin tâbiiyetinden olan Hıristiyanlar. îslâm Devleti tarafından korunan müslümandan başka kimse. Zimmi.
 ehleb: Kuyruğu kıllı olan at.
-ehlen ve sehlen : Hoş geldiniz, safâ geldiniz (meâlinde söylenir.)
+ehlen ve sehlen : Hoş geldiniz, safâ geldiniz (meâlinde söylenir.)
 ehlî: Munis, alışık. Yabancı olmayan. Kendisi ile ünsiyet edilen.
 ehlîyyet: Yeterlik. Bir işin ehli olduğuna dâir vesika. îktidar. Liyâkat. îstihkak. Meharet ve mensubiyet.
 ehlullah: Allah'a itaat edip, O'nun sevgisi ile O'na yaklaşmış olan Veli. Allah'ın sevgisine mazhar olan Evliya.
@@ -773,7 +773,7 @@ ehvec: Uzun boylu ahmak adam.
 ehvek: Ahmak kimse.
 ehvel: Korkunç nesne.
 ehven: Daha aşağı. Daha ucuz. Bayağı. Adi. * Zararı az olan. En zararsız.
-ehven-üş şer : Ehven-i şerreyn de denir. îki şerli işin veya şeyin daha az zararlısı. (Bak: Adalet-i izafiye)
+ehven-üş şer : Ehven-i şerreyn de denir. îki şerli işin veya şeyin daha az zararlısı. (Bak: Adalet-i izafiye)
 ehvenîyet: Ucuzluk, ehvenlik, daha hafif, daha zararsızlık.
 ehver: Sevgili, mâşuk.
 ehya: (Bak: Ahyâ)
@@ -787,7 +787,7 @@ ehza': Ok mahfazası içinde sona kalan ok.
 ehzab: (Bak: Ahzab)
 eîmme: (îmam. C.) îmamlar. (Bak: îmam)
 eîmme-î âlîşan: çok yüksek mertebesi ve büyük kıymeti olan imamlar. îmam-ı A'zam, îmam-ı şâfii gibi.
-eîmme-î dîn "": Din imamları, müçtehidler, müceddidler.
+eîmme-î dîn: Din imamları, müçtehidler, müceddidler.
 eîmme-î ehl-î beyt: Ehl-i Beyt'ten yetişen, saltanata bilfiil girmeyen ve karışmayan en salâhiyetli, mânevi nüfuz ve ilim ve riyaset sahibi imamlar.
 eîmme-î erbaa: Dört imâm. Müslümanların en büyük ve yüksek âlimleri ve müctehidlerinden hak mezheb müessisleri olan ve ehl-i imâna rehberlik eden büyük imâmlar. îsimleri şöyle sıralanabilir: îmâm A'zam Ebu Hanife, îmâm-ı şâfii, îmâm-ı Mâlik, îmâm-ı Ahmed ibn-i Hanbel. (R.A.)
 eîmme-î îsnâ aşer: On iki imâm. Silsile-i sâdâttan olup müceddit olan imâmlar hakkındaki bir tâbirdir. Bu zâtlar esasât-ı îslâmiye ve hakaik-i Kur'âniye ve imâniyenin, dini esasların ve şeriatın muhafazasına çalışan, saltanat işlerine karışmayan mânevi riyâset ve ilim sahibi şahsiyetlerdir.
@@ -796,7 +796,7 @@ eîmme-î verese: Vâris olan imamlar. Resul-i Ekrem Aleyhissalâtü Vesselâmı
 eînne: (înân. C.) Yularlar. Dizginler.
 eîzze: (Aziz. C.) Azizler.
 ejah: Vücutta ve bilhassa ellerde çıkan ufak urlar, siğil, sivilce.
-ejder ©: (Ejderha) Büyük canavar. Büyük yılan.
+ejder : (Ejderha) Büyük canavar. Büyük yılan.
 ejgan: (Ejgehân): Tenbel, miskin, iş yapmaktan hoşlanmayan.
 ejhan: Tenbel.
 ejîr: Akıllı, uyanık, açık göz.
@@ -857,7 +857,7 @@ ekkaf: Eğerci, semerci.
 ekkal: çok yeyici, obur.
 ekke: Pek sıcak gün.
 ekl: Yemek yeme.
-ekl ü şürb : Yeyip içme.
+ekl ü şürb : Yeyip içme.
 ekle: Bir kere doyana kadar yemek.
 eklef: Yüzü çilli olan adam. * Koyu renkli arslan.
 eklektîzm: yun. Fls: Birbirinden farklı görüşlerin bazı ortak taraflarını bulup uzlaştırıcı bir görüş ileri sürme.
@@ -1045,8 +1045,8 @@ elsîne: (Lisan. C.) Diller. Lisanlar.
 elsîne-î enam: Mahlukatın dilleri. Halkın dilleri.
 elsîne-î garbîyye: Batı dilleri, garb lisanları.
 elsîne-î muhtelîfe: çeşitli ve birbirinden farklı diller.
-elsîne-î selâse "": üç lisan. Türkçe, Arapça ve Farsça.
-elsîne-î şarkîye "": Doğu dilleri.
+elsîne-î selâse: üç lisan. Türkçe, Arapça ve Farsça.
+elsîne-î şarkîye: Doğu dilleri.
 elsîne-î terkîbîye: Birbirine eklenen kelimelerle konuşulan diller. Terkibli ifâdesi çok olan, Arabçaya uymayan lisanların hususiyeti. (Arabi Lisanına "Tasrifi" denilir. çünkü aynı kökten kelimeler rahatlıkla yapılmaktadır. Arabçaya bu hususta yetişen başka bir lisan yoktur.)
 elt: Noksanlaştırmak. Hapsetmek. * Yemin vermek.
 elta': Boz dudaklı. Dişlerinin rengi değişmiş olan.
@@ -1248,7 +1248,7 @@ en'am: Deve, sığır, koyun gibi hayvanlar. * Kur'ân-ı Kerimin altıncı Sure
 enam: Halk. Bütün mahlukat.
 enamîl: (Enmele. den) Parmak uçları.
 en'amte: Sen nimet verdin, in'âm ettin (meâlinde).
-enanîyet: (Enâniyyet) Benlik. Kendine güvenmek, gurur. Hodbinlik. Sadece kendine taraftarlık. Her yaptığı işi kendinden bilmek.(Gök, zemin, dağ, tahammülünden çekindiği ve korktuğu emanetin müteaddit vücuhundan bir ferdi, bir vechi, "Ene" dir. Evet "Ene" , zaman-ı âdem'den şimdiye kadar âlem-i insaniyetin etrafına dal budak salan nurani bir şecere-i tuba ile, müthiş bir şecere-i zakkumun çekirdeğidir. şu azim hakikata girişmeden evvel, o hakikatın fehmini teshil edecek bir mukaddime beyan ederiz. şöyle ki:Ene, künuz-u mahfiye olan esmâ-i îlâhiyyenin anahtarı olduğu gibi, kâinatın tılsım-ı muğlakının dahi anahtarı olarak bir muamma-yı müşkilküşadır, bir tılsım-ı hayretfezadır. O ene, mahiyetinin bilinmesiyle, o garib muamma, o acib tılsım olan ene açılır ve kâinat tılsımını ve âlem-i vücubun künuzunu dahi açar. şu mes'eleye dair "şemme" isminde bir risale-i Arabiyemde şöyle bahsetmişiz ki:âlemin miftahı insanın elindedir ve nefsine takılmıştır. Kâinat kapıları zâhiren açık görünürken, hakikaten kapalıdır. Cenab-ı Hak, emanet cihetiyle, insana ene namında öyle bir miftah vermiş ki; âlemin bütün kapılarını açar ve öyle tılsımlı bir enaniyet vermiş ki; Hallâk-ı Kâinat'ın künuz-u mahfiyesini onun ile keşfeder. Fakat ene, kendisi de gayet muğlak bir muamma ve açılması müşkil bir tılsımdır. Eğer onun hakiki mahiyeti ve sırr-ı hilkati bilinse; kendisi açıldığı gibi kâinat dahi açılır. şöyle ki:Sâni-i Hakim, insanın eline emanet olarak Rububiyyetinin sıfât ve şuunatının hakikatlarını gösterecek işaret ve nümuneleri câmi' bir ene vermiştir. Tâ ki; o ene, bir vâhid-i kıyâsi olup, evsaf-ı rububiyyet ve şuunat-ı Uluhiyyet bilinsin. Fakat vâhid-i kıyâsi, bir mevcud-u hakiki olmak lâzım değil. Belki, hendesedeki farazi hatlar gibi, farz ve tevehhümle bir vâhid-i kıyasi teşkil edilebilir. îlim ve tahakkukla hakiki vücudu lâzım değildir.Sual: Niçin Cenab-ı Hakk'ın sıfât ve esmâsının mârifeti, enaniyete bağlıdır?Elcevab: çünki mutlak ve muhit bir şey'in hududu ve nihayeti olmadığı için, ona bir şekil verilmez ve üstüne bir suret ve bir taayyün vermek için hükmedilmez, mahiyeti ne olduğu anlaşılmaz. Meselâ: Zulmetsiz daimi bir ziya, bilinmez ve hissedilmez. Ne vakit hakiki veya vehmi bir karanlık ile bir hat çekilse, o vakit bilinir. îşte Cenab-ı Hakk'ın, ilim ve kudret, Hakim ve Rahim gibi sıfât ve esmâsı; muhit, hudutsuz, şeriksiz olduğu için onlara hükmedilmez ve ne oldukları bilinmez ve hissolunmaz. öyle ise, hakiki nihayet ve hadleri olmadığından farazi ve vehmi bir haddi çizmek lâzım geliyor. Onu da enaniyet yapar. Kendinde bir rububiyyet-i mevhume, bir mâlikiyet, bir kudret, bir ilim tasavvur eder; bir had çizer. Onun ile muhit sıfatlara bir hadd-i mevhum vaz'eder. "Buraya kadar benim, ondan sonra O'nundur" diye bir taksimat yapar. Kendindeki ölçücükler ile, onların mahiyetini yavaş yavaş anlar. Meselâ: Daire-i mülkünde mevhum rububiyetiyle, daire-i mümkinatta Hâlikının rububiyyetini anlar ve zâhiri mâlikiyyetiyle, Hâlıkının hakiki mâlikiyyetini fehmeder ve "Bu haneye mâlik olduğum gibi, Hâlık da şu kâinatın malikidir." der ve cüz'i ilmiyle O'nun ilmini fehmeder ve kesbi san'atçığıyla O Sâni-i Zülcelâl'in ibdâ-i san'atını anlar. Meselâ: "Ben şu evi nasıl yaptım ve tanzim ettim. öyle de şu dünya hanesini birisi yapmış ve tanzim etmiş" der. Ve hâkezâ... Bütün sıfât ve şuunat-ı îlâhiyyeyi bir derece bildirecek, gösterecek binler esrarlı ahval ve sıfât ve hissiyat, enede münderiçtir. Demek ene, âyine-misâl ve vâhid-i kıyasi ve alet-i inkişaf ve mâna-yı harfi gibi; mânası kendinde olmayan ve başkasının mânasını gösteren, vücud-u insâniyetin kalın ipinden şuurlu bir tel ve mâhiyet-i beşeriyenin hullesinden ince bir ip ve şahsiyet-i âdemiyyetin kitabından bir eliftir ki, o elifin "îki yüzü" var. Biri, hayra ve vücuda bakar. O yüz ile yalnız feyze kabildir. Vereni kabul eder: Kendi icad edemez. O yüzde fâil değil; îcattan eli kısadır. Bir yüzü de şerre bakar ve ademe gider. şu yüzde o fâildir, fiil sahibidir. Hem, onun mahiyeti, harfiyedir; başkasının mânasını gösterir. Rububiyeti hayâliyedir. Vücudu o kadar zaif ve incedir ki; bizzat kendinde hiçbir şey'e tahammül edemez ve yüklenemez. Belki, eşyanın derecat ve miktarlarını bildiren mizân-ül-hararet ve mizân-ül-hava gibi mizanlar nev'inden bir mizandır ki, Vâcib-ül Vücud'un mutlak ve muhit ve hudutsuz sıfâtını bildiren bir mizandır.îşte, mahiyetini şu tarzda bilen ve iz'an eden ve ona göre hareket eden $ beşaretinde dâhil olur. Emaneti bihakkın edâ eder ve o ene'nin dürbüniyle, kâinat ne olduğunu ve ne vazife gördüğünü görür ve âfâki malûmat nefse geldiği vakit, ene'de bir musaddık görür. O ulum, nur ve hikmet olarak kalır. Zulmet ve abesiyete inkılâb etmez. Vaktâki ene, vazifesini şu suretle ifa etti; vâhid-i kıyâsi olan mevhum rububiyetini ve farazi mâlikiyetini terkeder. Hakiki ubudiyetini takınır. Makam-ı "ahsen-i takvim"e çıkar.Eğer o ene, hikmet-i hilkatini unutup, vazife-i fıtriyesini terkederek kendine mâna-yı ismiyle baksa kendini mâlik itikad etse; o vakit emanete hiyânet eder. $ altında dâhil olur. îşte bütün şirkleri ve şerleri ve dalâletleri tevlid eden enaniyetin şu cihetindendir ki, semâvat ve arz ve cibal, tedehhüş etmişler; farazi bir şirkten korkmuşlar. Evet ene ince bir elif, bir tel, farazi bir hat iken, mahiyeti bilinmezse, tesettür toprağı altında neşvünema bulur; gittikçe kalınlaşır. Vücud-u insanın her tarafına yayılır. Koca bir ejderha gibi, vücud-u insanı bel'eder. Bütün o insan, bütün letâifiyle âdeta ene olur. Sonra nev'in enaniyeti de bir asabiyet-i nev'iye ve milliye cihetiyle o enaniyete kuvvet verip, o ene, o enaniyet-i nev'iyeye istinad ederek, şeytan gibi, Sâni-i Zülcelâl'in evamirine karşı mübareze eder. Sonra kıyas-ı binnefs suretiyle herkesi, hattâ herşeyi kendine kıyas edip, Cenab-ı Hakk'ın mülkünü onlara ve esbaba taksim eder. Gayet azim bir şirke düşer...Evet, nasıl miri malından kırk parayı çalan bir adam, bütün hâzır arkadaşlarına birer dirhem almasını kabul ile hazmedebilir. öyle de: "Kendime mâlikim" diyen adam, "Herşey kendine mâliktir" demeye ve itikad etmiye mecburdur.îşte, ene, şu hâinâne vaziyetinde iken; cehl-i mutlaktadır. Binler fünunu bilse de, cehl-i mürekkeble bir echeldir. çünki duyguları, efkârları; kâinatın envâr-ı mârifetini getirdiği vakit, nefsinde onu tasdik edecek, ışıklandıracak ve idame edecek bir madde bulmadığı için, sönerler. Gelen herşey, nefsindeki renkler ile boyalanır. Mahz-ı hikmet gelse; nefsinde, abesiyet-i mutlaka suretini alır. çünki şu haldeki ene'nin rengi, şirk ve ta'tildir, Allah'ı inkârdır. Bütün kâinat parlak âyetlerle dolsa; o ene'deki karanlıklı bir nokta, onları nazarda söndürür; göstermez. S.)
+enanîyet: (Enâniyyet) Benlik. Kendine güvenmek, gurur. Hodbinlik. Sadece kendine taraftarlık. Her yaptığı işi kendinden bilmek.(Gök, zemin, dağ, tahammülünden çekindiği ve korktuğu emanetin müteaddit vücuhundan bir ferdi, bir vechi, "Ene" dir. Evet "Ene" , zaman-ı âdem'den şimdiye kadar âlem-i insaniyetin etrafına dal budak salan nurani bir şecere-i tuba ile, müthiş bir şecere-i zakkumun çekirdeğidir. şu azim hakikata girişmeden evvel, o hakikatın fehmini teshil edecek bir mukaddime beyan ederiz. şöyle ki:Ene, künuz-u mahfiye olan esmâ-i îlâhiyyenin anahtarı olduğu gibi, kâinatın tılsım-ı muğlakının dahi anahtarı olarak bir muamma-yı müşkilküşadır, bir tılsım-ı hayretfezadır. O ene, mahiyetinin bilinmesiyle, o garib muamma, o acib tılsım olan ene açılır ve kâinat tılsımını ve âlem-i vücubun künuzunu dahi açar. şu mes'eleye dair "şemme" isminde bir risale-i Arabiyemde şöyle bahsetmişiz ki:âlemin miftahı insanın elindedir ve nefsine takılmıştır. Kâinat kapıları zâhiren açık görünürken, hakikaten kapalıdır. Cenab-ı Hak, emanet cihetiyle, insana ene namında öyle bir miftah vermiş ki; âlemin bütün kapılarını açar ve öyle tılsımlı bir enaniyet vermiş ki; Hallâk-ı Kâinat'ın künuz-u mahfiyesini onun ile keşfeder. Fakat ene, kendisi de gayet muğlak bir muamma ve açılması müşkil bir tılsımdır. Eğer onun hakiki mahiyeti ve sırr-ı hilkati bilinse; kendisi açıldığı gibi kâinat dahi açılır. şöyle ki:Sâni-i Hakim, insanın eline emanet olarak Rububiyyetinin sıfât ve şuunatının hakikatlarını gösterecek işaret ve nümuneleri câmi' bir ene vermiştir. Tâ ki; o ene, bir vâhid-i kıyâsi olup, evsaf-ı rububiyyet ve şuunat-ı Uluhiyyet bilinsin. Fakat vâhid-i kıyâsi, bir mevcud-u hakiki olmak lâzım değil. Belki, hendesedeki farazi hatlar gibi, farz ve tevehhümle bir vâhid-i kıyasi teşkil edilebilir. îlim ve tahakkukla hakiki vücudu lâzım değildir.Sual: Niçin Cenab-ı Hakk'ın sıfât ve esmâsının mârifeti, enaniyete bağlıdır?Elcevab: çünki mutlak ve muhit bir şey'in hududu ve nihayeti olmadığı için, ona bir şekil verilmez ve üstüne bir suret ve bir taayyün vermek için hükmedilmez, mahiyeti ne olduğu anlaşılmaz. Meselâ: Zulmetsiz daimi bir ziya, bilinmez ve hissedilmez. Ne vakit hakiki veya vehmi bir karanlık ile bir hat çekilse, o vakit bilinir. îşte Cenab-ı Hakk'ın, ilim ve kudret, Hakim ve Rahim gibi sıfât ve esmâsı; muhit, hudutsuz, şeriksiz olduğu için onlara hükmedilmez ve ne oldukları bilinmez ve hissolunmaz. öyle ise, hakiki nihayet ve hadleri olmadığından farazi ve vehmi bir haddi çizmek lâzım geliyor. Onu da enaniyet yapar. Kendinde bir rububiyyet-i mevhume, bir mâlikiyet, bir kudret, bir ilim tasavvur eder; bir had çizer. Onun ile muhit sıfatlara bir hadd-i mevhum vaz'eder. "Buraya kadar benim, ondan sonra O'nundur" diye bir taksimat yapar. Kendindeki ölçücükler ile, onların mahiyetini yavaş yavaş anlar. Meselâ: Daire-i mülkünde mevhum rububiyetiyle, daire-i mümkinatta Hâlikının rububiyyetini anlar ve zâhiri mâlikiyyetiyle, Hâlıkının hakiki mâlikiyyetini fehmeder ve "Bu haneye mâlik olduğum gibi, Hâlık da şu kâinatın malikidir." der ve cüz'i ilmiyle O'nun ilmini fehmeder ve kesbi san'atçığıyla O Sâni-i Zülcelâl'in ibdâ-i san'atını anlar. Meselâ: "Ben şu evi nasıl yaptım ve tanzim ettim. öyle de şu dünya hanesini birisi yapmış ve tanzim etmiş" der. Ve hâkezâ... Bütün sıfât ve şuunat-ı îlâhiyyeyi bir derece bildirecek, gösterecek binler esrarlı ahval ve sıfât ve hissiyat, enede münderiçtir. Demek ene, âyine-misâl ve vâhid-i kıyasi ve alet-i inkişaf ve mâna-yı harfi gibi; mânası kendinde olmayan ve başkasının mânasını gösteren, vücud-u insâniyetin kalın ipinden şuurlu bir tel ve mâhiyet-i beşeriyenin hullesinden ince bir ip ve şahsiyet-i âdemiyyetin kitabından bir eliftir ki, o elifin "îki yüzü" var. Biri, hayra ve vücuda bakar. O yüz ile yalnız feyze kabildir. Vereni kabul eder: Kendi icad edemez. O yüzde fâil değil; îcattan eli kısadır. Bir yüzü de şerre bakar ve ademe gider. şu yüzde o fâildir, fiil sahibidir. Hem, onun mahiyeti, harfiyedir; başkasının mânasını gösterir. Rububiyeti hayâliyedir. Vücudu o kadar zaif ve incedir ki; bizzat kendinde hiçbir şey'e tahammül edemez ve yüklenemez. Belki, eşyanın derecat ve miktarlarını bildiren mizân-ül-hararet ve mizân-ül-hava gibi mizanlar nev'inden bir mizandır ki, Vâcib-ül Vücud'un mutlak ve muhit ve hudutsuz sıfâtını bildiren bir mizandır.îşte, mahiyetini şu tarzda bilen ve iz'an eden ve ona göre hareket eden beşaretinde dâhil olur. Emaneti bihakkın edâ eder ve o ene'nin dürbüniyle, kâinat ne olduğunu ve ne vazife gördüğünü görür ve âfâki malûmat nefse geldiği vakit, ene'de bir musaddık görür. O ulum, nur ve hikmet olarak kalır. Zulmet ve abesiyete inkılâb etmez. Vaktâki ene, vazifesini şu suretle ifa etti; vâhid-i kıyâsi olan mevhum rububiyetini ve farazi mâlikiyetini terkeder. Hakiki ubudiyetini takınır. Makam-ı "ahsen-i takvim"e çıkar.Eğer o ene, hikmet-i hilkatini unutup, vazife-i fıtriyesini terkederek kendine mâna-yı ismiyle baksa kendini mâlik itikad etse; o vakit emanete hiyânet eder. altında dâhil olur. îşte bütün şirkleri ve şerleri ve dalâletleri tevlid eden enaniyetin şu cihetindendir ki, semâvat ve arz ve cibal, tedehhüş etmişler; farazi bir şirkten korkmuşlar. Evet ene ince bir elif, bir tel, farazi bir hat iken, mahiyeti bilinmezse, tesettür toprağı altında neşvünema bulur; gittikçe kalınlaşır. Vücud-u insanın her tarafına yayılır. Koca bir ejderha gibi, vücud-u insanı bel'eder. Bütün o insan, bütün letâifiyle âdeta ene olur. Sonra nev'in enaniyeti de bir asabiyet-i nev'iye ve milliye cihetiyle o enaniyete kuvvet verip, o ene, o enaniyet-i nev'iyeye istinad ederek, şeytan gibi, Sâni-i Zülcelâl'in evamirine karşı mübareze eder. Sonra kıyas-ı binnefs suretiyle herkesi, hattâ herşeyi kendine kıyas edip, Cenab-ı Hakk'ın mülkünü onlara ve esbaba taksim eder. Gayet azim bir şirke düşer...Evet, nasıl miri malından kırk parayı çalan bir adam, bütün hâzır arkadaşlarına birer dirhem almasını kabul ile hazmedebilir. öyle de: "Kendime mâlikim" diyen adam, "Herşey kendine mâliktir" demeye ve itikad etmiye mecburdur.îşte, ene, şu hâinâne vaziyetinde iken; cehl-i mutlaktadır. Binler fünunu bilse de, cehl-i mürekkeble bir echeldir. çünki duyguları, efkârları; kâinatın envâr-ı mârifetini getirdiği vakit, nefsinde onu tasdik edecek, ışıklandıracak ve idame edecek bir madde bulmadığı için, sönerler. Gelen herşey, nefsindeki renkler ile boyalanır. Mahz-ı hikmet gelse; nefsinde, abesiyet-i mutlaka suretini alır. çünki şu haldeki ene'nin rengi, şirk ve ta'tildir, Allah'ı inkârdır. Bütün kâinat parlak âyetlerle dolsa; o ene'deki karanlıklı bir nokta, onları nazarda söndürür; göstermez. S.)
 enar: Nar meyvesi.
 enase: Demirin yumuşak olması.
 enasî: (Enâsiye) (însan. C.) însanlar. * Basar, göz.
@@ -1270,7 +1270,7 @@ enbeste-dem: Miskin, uyuşuk kişi. Tenbel, gayretsiz kimse.
 enbîr: Yaş ve kuru çamur.
 enbîre: üzeri toprakla sıvalı olan damlarda sıvanın altına konulan çalı, saz, talaş gibi şeyler.
 enbîya: (Nebi. C.) Nebiler. Peygamberler (Aleyhimüsselâm.)(Eğer suâl etseniz ki: Bi'set-i enbiya ile beraber şeytanların vücudundan ekser insanlar kâfir oluyor, küfre gidiyor, zarar görüyor. "El hükmü lil-ekser" kaidesince, ekser ondan şer görse, o vakit halk-ı şer, şerdir; hattâ bi'set-i enbiya dahi rahmet değil denilebilir?Elcevab: Kemiyetin, keyfiyete nisbeten ehemmiyeti yok. Asıl ekseriyet, keyfiyete bakar. Meselâ: Yüz hurma çekirdeği bulunsa... toprak altına konup su verilmezse ve muamele-i kimyeviye görmezse ve bir mücahede-i hayatiyeye mazhar olmazsa, yüz para kıymetinde yüz çekirdek olur. Fakat su verildiği ve mücâhede-i hayatiyeye mâruz kaldığı vakit, su-i mizâcından sekseni bozulsa; yirmisi, meyvedar yirmi hurma ağacı olsa, diyebilir misin ki: "Suyu vermek şer oldu, ekserisini bozdu?" Elbette diyemezsin. çünki o yirmi, yirmi bin hükmüne geçti. Sekseni kaybeden, yirmi bini kazanan, zarar etmez; şer olmaz. Hem meselâ: Tavus kuşunun yüz yumurtası bulunsa, yumurta itibariyle beşyüz kuruş eder. Fakat o yüz yumurta üstünde tavus oturtulsa, sekseni bozulsa; yirmisi, yirmi tavus kuşu olsa, denilebilir mi ki: "çok zarar oldu, bu muamele şer oldu, bu kuluçkaya kapanmak çirkin oldu, şer oldu?" Hayır öyle değil, belki hayırdır. çünkü o tavus milleti ve o yumurta taifesi, dörtyüz kuruş fiatında bulunan seksen yumurtayı kaybedip, seksen lira kıymetinde yirmi tavus kuşu kazandı.îşte nev'-i beşer bi'set-i enbiya ile, sırr-ı teklif ile, mücâhede ile, şeytanlarla muharebe ile kazandıkları yüzbinlerle enbiya... ve milyonlarla evliya... ve milyarlarla asfiyâ gibi âlem-i insaniyetin güneşleri, ayları ve yıldızları mukabilinde, kemiyetçe kesretli, keyfiyetçe ehemmiyetsiz hayvanat-ı muzırra nev'inden olan küffarı ve münafıkları kaybetti. M.)
-enbîya suresî ": Kur'ân-ı Kerim'in 21.suresi olup Mekke-i Mükerreme'de nazil olmuştur.
+enbîya suresî: Kur'ân-ı Kerim'in 21.suresi olup Mekke-i Mükerreme'de nazil olmuştur.
 enbub: Minder, döşek, yatak. Döşeme.
 enbude: îstif edilmiş, katlanmış, nizamlanmış, nizama konmuş, devşirilmiş.
 enbuh: Ziyade, çok, kalabalık. * çokluk, ziyadelik, cemaat, izdiham. * Meclis, kurultay. * Kalın, yoğun. * Duvarın yıkılıp dökülmesi.
@@ -1304,7 +1304,7 @@ endar: Baştan geçen bir olay, vakıa, sergüzeşt, hikâye, kıssa.
 endave: Sıvacı malası. * şikâyet.
 endayîş: Yaldızlama, sıvama.
 endayîşger: Yaldızcı, sıvacı.
-endaz: Atan, atmış, atıcı mânasında birleşik kelimeler yapılır. Meselâ: Dehşet-endaz $: Dehşet verici, korkutucu.
+endaz: Atan, atmış, atıcı mânasında birleşik kelimeler yapılır. Meselâ: Dehşet-endaz: Dehşet verici, korkutucu.
 endaze: ölçü, mikyas. * Arşının bez, basma vesâire ölçmeğe mahsus küçük cinsi. (60 cm.dir) * Tahmin, takdir. * Derece, mertebe. * Mc: Hesap.
 endek: Az, kalil. * Yaşı küçük, küçük yaşlı.
 endeme: Mazideki sıkıntıları hatırlama, geçmişdeki ıztırabları tahattur etme.
@@ -1313,7 +1313,7 @@ ender: (Zarfiyet edatıdır) îçinde. Derununda. Dahilinde.
 enderez: Nasihat, öğüt, vasiyet. * Mektub.
 enderî: Kalın ip, halat. * şam yakınında bir köyün adı. * Bir dağ adı.
 enderun: îç, dâhil. * Kalb, içyüz, gönül. * Vaktiyle Osmanlı Sarayının iç teşkilâtı.
-endîş: Düşünen, mülâhaza eden, ölçülü davranan mânasında sıfat terkiblerinde kullanılır. Meselâ: Akibet-endiş $: Her işin sonunu düşünen.
+endîş: Düşünen, mülâhaza eden, ölçülü davranan mânasında sıfat terkiblerinde kullanılır. Meselâ: Akibet-endiş: Her işin sonunu düşünen.
 endîşe: Korku. Düşünce. Merak, keder, kuruntu.
 endîşe-î îstîkbal: Gelecek zamanı düşünmekten gelen merak, üzüntü, keder. Geleceği düşünmek.
 endîşe-î mevt: ölüm endişesi. ölüm korkusu.
@@ -1327,13 +1327,13 @@ enduz: Kazanan, elde eden, biriktiren, toplıyan mânalarına gelir ve kelimeler
 endülüs: (Mi: 756-1031) Dört halife devrinden sonra kurulan Emevi devleti yıkıldıktan sonra Emevilerin Afrikadan Avrupa'ya geçip şimdiki Portekiz ve îspanya'da kurdukları îslâmi devletin bir ismidir. Bunlara Endülüs Emevileri denir. Abbasilerin katliâmından kurtulan Abdurrahman ismindeki zât Afrika yoluyla îspanyaya geçerek Emevilerin orada devamı sayılabilecek Endülüs Emevi devletini kurdu. El-Dahil (muhacir) lakabiyle maruf Abdurrahmandan itibaren lll. Hişamla sona ermek üzere 16 halife gelip geçmiştir. lll. Abdurrahman'a kadar Kurtuba emirliği diye adlandırılan bu devlete bu hükümdar zamanında Emdülüs Emevi Hilâfeti nâmı verildi. Hükümdar, Emir-ül Mü'minin ünvanını aldı. Bu devir; ilim ve irfanın zirveye ulaştığı, Avrupalıların ilim tahsili için Endülüs'e akın ettikleri devirdir. Bundan sonra Emevilerin inhitat ve sukut devri başlar. Ne kadar çalışırlarsa da kaderin fetvasıyla icraatı sona erer. (Bak: Emevi)
 endüstrî: Fr. Sanayi, imalât, sanatlar. Hammaddeyi mâmul eşya hâline getirme. Bu da ikiye ayrılır. 1- Küçük sanayi: Ev ve atölyelerde basit âlet ve makinelerle eşya imalâtıdır. 2- Büyük sanayi: Su buharı, akaryakıt, elektrik, atom enerjisi gibi büyük çapta enerji kaynaklarından faydalanılarak fabrikalarda seri hâlde ve çok miktarda yapılan imalâttır.
 ene: Ben. * Gr: Birinci şahıs zamiri. (Bak: Enaniyet)
-enerjî ©: Fr. Kuvvet. Güç. Fiziki kuvvet. * Gücünü harcama isteği ve iktidarı.
+enerjî : Fr. Kuvvet. Güç. Fiziki kuvvet. * Gücünü harcama isteği ve iktidarı.
 enes: üns mânasına kullanılır ve vahşetin zıddıdır.
 enes îbn-î malîk: Ensardan ve Ashâb-ı Kiram'ın fakihlerindendir. Hicretin ibtidasından itibaren on sene Resul-i Ekrem Efendimizin (A.S.M.) hizmetinde bulunmakla şeref kazanmıştır.Resul-i Ekrem'den (A.S.M.) 2630 Hadis-i şerif rivâyet etmiştir. 100 yaşına kadar yaşamış, hicri 92 veya 94 senelerinde Basra'da ebedi hayata kavuşmuştur. En son vefat eden sahabe, Hazret-i Enes'tir. (R.A.)
 enf: Burun. Koku ve teneffüse mahsus âzâ. * Bir şeyin ucu veya evveli veya en şiddetlisi. * Bir şeyin sivri yeri. * Bir şeyin en şerefli olan yeri.
 enfa': Daha nâfi. Daha menfaatli. Pek faydalı.
 enfal: Ganimetler. Düşmandan alınan mallar.
-enfal suresî ": Kur'ân-ı Kerim'in 8. suresidir.
+enfal suresî: Kur'ân-ı Kerim'in 8. suresidir.
 enfar: (Nefir. C.) Cemaatler, topluluklar, cemiyetler. Halk, ahali, kalabalıklar, izdihamlar.
 enfas: (Nefes. C.) Nefesler. Soluklar. * Ruhlar. Canlar. * Cevherler. * Duâlar.
 enfas-i hayrîyye: Hayırlı nefesler.
@@ -1357,13 +1357,13 @@ engîhte: Yükseltilmiş, karıştırılmış, oynatılmış, koparılmış.
 engîşt: Kömür.
 engîştal: Hasta ve zayıf kimse. Dermansız, bi-derman kişi.
 engîz: Koparan, karıştıran, tahrib eden.
-engîzîsyon : Fr. XVI. ve XVII. asırlarda Hristiyan Katolik Mezhebine âit kiliselerden alâkayı kesen veya Papa'ya karşı gelenlere yapılan -insanları arslanlara parçalatmak, fırında yakmak gibi- dehşetli işkenceler veya onları bu azaba mahkûm eden mahkemelere verilen isim. * çok ağır ve çok zâlimce cezâya hükmeden mahkeme. * çok ağır işkence.
+engîzîsyon : Fr. XVI. ve XVII. asırlarda Hristiyan Katolik Mezhebine âit kiliselerden alâkayı kesen veya Papa'ya karşı gelenlere yapılan -insanları arslanlara parçalatmak, fırında yakmak gibi- dehşetli işkenceler veya onları bu azaba mahkûm eden mahkemelere verilen isim. * çok ağır ve çok zâlimce cezâya hükmeden mahkeme. * çok ağır işkence.
 engûr: üzüm.
 engûrek: Gözbebeği.
 engübîn: Bal.
 engüj: Filcilerin fili idare etmekte kullandıkları ucu eğriltilmiş demir karga burnu.
 engürus: Macar. * Macaristan.
-engüşt : Parmak.
+engüşt : Parmak.
 engüşt haîden: Yok farzetmek, bir an için olmadığını kabul etmek. * Mahvetmek. * Parmakla göstermek.
 engüşt-î kîhîn: Serçe parmak.
 engüşt-î muhannâ: Kınalı parmak.
@@ -1475,13 +1475,13 @@ erbab: Ulu, ulvi, âlâ. * Reis, başkan, şef.
 erbab: (Rab. C.) Sahipler. * Rabler, Terbiyeciler. * Bâtıl ilâhlar. * Türkçede diğer bir mânası: Maharet sahibi, elinden iyi iş çıkan kimse. Bir işin ehli.
 erbab-i denâet: Alçak ve rezil kimseler.
 erbab-i garaz: Garaz sahibleri, kötü niyetliler.
-erbab-i sîyer ò: Tarihçiler. Peygamberimiz Resul-i Ekrem'in (A.S.M.) hayatını bilenler.
+erbab-i sîyer: Tarihçiler. Peygamberimiz Resul-i Ekrem'in (A.S.M.) hayatını bilenler.
 erbah: (Ribh. C.) Ribhler, faydalar, kazançlar, kârlar, gelirler. * Faizler.
 erbaîn: Kırk. Kırk gün devam eden kara kış.
 erbaîyyet: Dört olmak.
 erbaş: Ask: Subay ve assubayların dışında kalan rütbeli asker.
 erbaun: Kırk sayısı.
-erbed òöòö: Boz renkli.
+erbed: Boz renkli.
 erc: Kıymet, kadr, değer. * Gergedan.
 erc: Uzunluğuna yapılan ev.
 erca: (Recâ. C.) Taraflar, yönler, cihetler.
@@ -1657,7 +1657,7 @@ esabî-ül kadem: Ayak parmakları.
 es'ad: Daha mes'ud, en bahtiyar. Daha said olan. En mes'ud.
 esadd: Menedici.
 esafîl: (Esfel. C.) Esfeller. Sefâlet çekenler. Pek adi ve bayağı kimseler. çok alçak olanlar.
-esahh: En sahih. çok doğru. îllet ve kusurdan çok uzak ve beri olan $
+esahh: En sahih. çok doğru. îllet ve kusurdan çok uzak ve beri olan
 esakif: (üskuf. C.) Piskoposlar, başpapazlar, metropolitler.
 esakîf: (Eskef. C.) Eskiciler, kunduracılar.
 esakk: Yürürken dizlerini birbirine vuran.
@@ -1700,7 +1700,7 @@ esbab-i muhaffîfe: (Esbâb-ı mazeret) Yapılan bir cürmün ve kabahatın ceza
 esbab-i mücbîre: îcbar eden, cebreden, zorlayan sebepler.
 esbab-i müşeddîde: Kuvvetlendiren, artıran sebepler. Cezâ hukukunda; cezâyı ağırlaştıran kanuni veya takdiri sebepler. (Esbâb-ı muhaffifenin zıddıdır.)
 esbab-i nakzîyye: Bir hükmün daha yüksek bir merci tarafından bozulmasını icâb ettiren sebepler. Bozma sebepleri.
-esbab-i nüzul : înmesinin sebebleri. * Kur'an-ı Kerim âyetlerinin gelmesine (Cebrail Aleyhisselâm vasıtası ile indirilmesine) sebeb olan hâdiseler.
+esbab-i nüzul : înmesinin sebebleri. * Kur'an-ı Kerim âyetlerinin gelmesine (Cebrail Aleyhisselâm vasıtası ile indirilmesine) sebeb olan hâdiseler.
 esbab-i sahîha: Doğru ve sahih sebepler.
 esbab-i sübutîye: îsbata yarıyan sebepler. Sübut delilleri.
 esbab-i tabîîye: Tabiattaki sebepler. (Bak: Delil-i înâyet)
@@ -1776,11 +1776,11 @@ esîl: şerefli, şanlı, namlı, haysiyetli, itibarlı ve otoriter kişi.
 esîl: Parlak, uzun ve dolgun yüz. * Doğru şey.
 esîl: (C.: Asal-Esail-Usul) îkindi sonrasından akşama kadar olan vakit. * Kavi, muhkem, sağlam.
 es'île: (Sual. C.) Sualler. Bir şey istemeler. Sorular.
-es'île-î sîtte "": Altı suâl. * Risale-i Nur Külliyatından Mektubat Mecmuasında bir küçük risâlenin adı.
+es'île-î sîtte: Altı suâl. * Risale-i Nur Külliyatından Mektubat Mecmuasında bir küçük risâlenin adı.
 esîm: (îsm. den) Günahkâr, günah işlemiş, kabahatlı, cürümlü, suçlu, yalancı kişi.
 esînne: (Sinân. C.) Kılıçlar, seyfler. * Süngüler. * Bileği taşları.
 esîr: Birbirine yakın olmak, mütekarib.
-esîr: Bütün kâinatta bulunan ve her tarafı kaplamış olan lâtif madde. Elektrik, ışık ve hararetin yayılmasına vasıtalık eden madde. Görülmeyen ve varlığı bütün ehl-i ilimce kabul edilen lâtif, rakik, elâstikiyeti hâiz seyyal madde.("îkisi de birbirine bitişikti, sonra ayrı ettik." mânasında olan $nın ifadesine nazaran, manzume-i şemsiye ile arz, dest-i kudretin madde-i esiriyeden yoğurmuş olduğu bir hamur şeklinde imiş. Madde-i esiriye, mevcudata nazaran akıcı bir su gibi mevcudatın aralarına nüfuz etmiş bir maddedir. $ âyeti, şu madde-i esiriyeye işarettir ki, Cenab-ı Hakk'ın arşı su hükmünde olan şu esir maddesi üzerinde imiş; esir maddesi yaratıldıktan sonra, Sâniin ilk icadlarının tecellisine merkez olmuştur. Yani esiri halkettikten sonra, cevahir-i ferd'e kalbetmiştir. î.î.)
+esîr: Bütün kâinatta bulunan ve her tarafı kaplamış olan lâtif madde. Elektrik, ışık ve hararetin yayılmasına vasıtalık eden madde. Görülmeyen ve varlığı bütün ehl-i ilimce kabul edilen lâtif, rakik, elâstikiyeti hâiz seyyal madde.("îkisi de birbirine bitişikti, sonra ayrı ettik." mânasında olannın ifadesine nazaran, manzume-i şemsiye ile arz, dest-i kudretin madde-i esiriyeden yoğurmuş olduğu bir hamur şeklinde imiş. Madde-i esiriye, mevcudata nazaran akıcı bir su gibi mevcudatın aralarına nüfuz etmiş bir maddedir. âyeti, şu madde-i esiriyeye işarettir ki, Cenab-ı Hakk'ın arşı su hükmünde olan şu esir maddesi üzerinde imiş; esir maddesi yaratıldıktan sonra, Sâniin ilk icadlarının tecellisine merkez olmuştur. Yani esiri halkettikten sonra, cevahir-i ferd'e kalbetmiştir. î.î.)
 esîr: Kul, köle. Harpte teslim alınan düşman. Teslim olan.
 esîr-î harb: Harp esiri, harpte esir edilmiş olan.
 esîrâne: Esirce, kölece.
@@ -1819,7 +1819,7 @@ eslîha-î sakîle: Top gibi ağır silâhlar.
 esma': Kulaklar. îşitmeler.
 esma': Adlar. Nâmlar. îsimler.
 esma-î îlâhîye ú: Allah'ın isimleri.(Herşeyden Cenab-ı Hakk'a karşı pencereler hükmünde çok vecihler var. Bütün mevcudatın hakaikı, bütün kâinatın hakikatı, esma-i îlâhiyeye istinad eder. Her bir şeyin hakikatı, bir isme veyahut çok esmâya istinad eder. Eşyadaki san'atlar dahi, herbiri birer isme dayanıyor. Hattâ hakiki fenn-i hikmet, "Hakim" ismine ve hakikatlı fenn-i tıb "şafi" ismine ve fenn-i hendese, "Mukaddir' ismine ve hâkezâ.. Herbir fen, bir isme dayandığı ve onda nihayet bulduğu gibi, bütün fünun ve kemalât-ı beşeriye ve tabakat-ı kümmelin-i insaniyenin hakikatları, esma-i îlâhiyeye istinad der. Hattâ muhakkıkin-i evliyanın bir kısmı demişler: "Hakiki hakaik-i eşyâ, esma-i îlâhiyedir. Mâhiyet-i eşya ise, o hakaikın gölgeleridir. Hattâ birtek zihayat şeyde, yalnız zâhir olarak yirmi kadar esma-i îlâhiyenin cilve-i nakşı görünebilir. S.)
-esma-î mevsule : Vasleden isimler. (Bak: îsm-i mevsule)
+esma-î mevsule : Vasleden isimler. (Bak: îsm-i mevsule)
 esma-î mübheme: Tek başına bir mâna ifade etmeyen isimler. Arabcada: (Ellezine) gibi kelimeler esma-i mübhemeden olduğundan onu tayin ve temyiz eden yalnız sılasıdır. Demek bütün kıymet sılasına aittir.
 esma-î zâtîye: Zâta ait isimler. * Allah'ın zâtına ait isimleri.(Zât-ı Vâcib-ül-Vücud'un bin bir esmasından bir kısmına "Esma-i Zâtiye" denilir ki, her cihetle Zât-ı Akdes'i gösterir. Onun adı ve onun ünvanıdır. "Allah, Ehad, Samed, Vâcib-ül-Vücud" gibi çok esmâ var. Bir kısmına da "Esmâ-i Fiiliye" tâbir edilir ki, çok nevileri var. Meselâ: "Gaffâr, Rezzak, Muhyi, Mümit, Mün'im, Muhsin" R.N.)
 esma-î züruf: Gr: Zarf olan isimler. Bir şeyin bir zamanda veya mekânda veya diğer bir şey ile beraber veya ondan evvel veya sonra vuku' bulduğunu ifade eden kelimelerdir. Bunlar Arapçada (maa, kabl, ba'd, ind) gibi kelimelerdir.
@@ -1853,7 +1853,7 @@ esrem: Kırık dişli, dişleri kırılmış veya dökülmüş olan kişi.
 esrîk: Sarhoş, mest. * Azgın, kızgın. * Zayıf, hasta, hâlsiz, dermansız, tâkatsiz.
 esrüm: Dişi dökük olan kimse.
 ess: Otun vaya saçın çok ve sık olup birbirine dolaşması.
-essalavat : Peygamberimiz Resul-ü Ekrem Aleyhissalâtü Vesselâm Efendimize veya Cenab-ı Hakk'a (C.C.) karşı hamd, şükür ve teşekkür ifade eden dua, selâm ve salâvâtlar. (Bak: Salâvat)
+essalavat : Peygamberimiz Resul-ü Ekrem Aleyhissalâtü Vesselâm Efendimize veya Cenab-ı Hakk'a (C.C.) karşı hamd, şükür ve teşekkür ifade eden dua, selâm ve salâvâtlar. (Bak: Salâvat)
 essebebü kelfaîl: (Essebebü ke-l fâil) Bir işe sebeb olan, o şeyi yapan fâil gibidir (mealinde). (Hizmet-i Kur'âniye ve imâniyenin yapılmasına sebeb olanlar, bu mukaddes hizmeti yapmış gibi mes'ud ve me'cur olurlar, hayırlara, ecir ve sevablara nâil olmak nimet-i uzmasına erişirler.)
 est: Ayakları uzun olan.
 esta': (Satı. dan) Uzun boyunlu. Boynu uzun olan insan veya hayvan.
@@ -1876,7 +1876,7 @@ esvaf: (Suf. C.) Suflar, koyun yünleri.
 esvak: (Sûk. C.) çarşılar. Pazarlar.
 esvak: Uzun incikli.
 esvar: (Sur. C.) Surlar, hisarlar, kaleler, kal'alar. * Ziyafetler, şölenler.
-esvat : (Savt. C.) Sesler. Savtlar.
+esvat : (Savt. C.) Sesler. Savtlar.
 esve': Yaramaz nesne.
 esved: çok siyah. kara renkli olan.
 esved-ül-kalb: (Bak: Süveydâ)
@@ -2025,7 +2025,7 @@ etîbba-î hassa: Saray hekimleri, saray doktorları.
 etîket: Fr. Bir şeyin cinsini, miktarını veya fiyatını belli etmek için üzerine konan küçük yafta. * Teşrifat, görgü.
 et'îme: (Taam. dan) Yemekler, taamlar, yenecek şeyler.
 etîme: (C.: Etâyim) Ateş yakacak yer.
-et'îme-î lezîze "": Lezzetli yemekler.
+et'îme-î lezîze: Lezzetli yemekler.
 etîr: Günah.
 etka: (Taki. den) Allah korkusu ile günahtan çok fazla çekinen. Haram veya helâl olduğunu iyice bilmediği şüpheli şeyleri yapmayan. Günah işlemeyen. Her şeyde Cenab-ı Hakk'ın rızasını gaye ve maksad edinen.
 etkiya: (Taki. C.) çok takvâ sâhibi olanlar. Takiler. Takvâda çok ileri giden mes'ud kimseler.
@@ -2078,7 +2078,7 @@ evasit: (Evsât. C.) Vasatlar, orta hal ve vaziyetler.
 evavîn: (îyvan. C.) Büyük salonlar, sofalar, holler. Kasırlar, köşkler.
 evb: Dönülmesi lâzım gelen yere dönmek. * Kasd. îstikamet.
 evbar: Yutma, yutuş.
-evbaş : Mahalle çapkını. şahısların rezilleri. * Muhtelif yerlerden gelmiş, toplanmış bir cemaat, bir bölük.
+evbaş : Mahalle çapkını. şahısların rezilleri. * Muhtelif yerlerden gelmiş, toplanmış bir cemaat, bir bölük.
 evbaşan: (Evbaş. C.) Aşağılık kimseler, âdi kişiler, alçak ve rezil insanlar. Ayak takımları.
 evbe: Rucu etmek. Geri çekilmek, dönmek.
 evc: Bir şeyin en yüksek derecesi, en yüksek noktası. Zirve. * Koz: Seyyare mahreklerinin merkezden en uzak noktaları.
@@ -2114,8 +2114,8 @@ evhad: Vahid. Tek.
 evhal: (Vahal. C.) Sıvalar, balçıklar, çamurlar. * Mekânlar, hâneler, evler, durulacak veya oturulacak yerler.
 evham: Olmayan bir şeyi olur zannı ile meraklanma. üzüntü. Vehimler. Kuruntular. Zarar ihtimâli çok az olan bir şeyden meraklanma ve üzülme.
 evham-sâz: Evham veren.
-evhamin müdafaasi «": Vehimlerin def'edilmesi, kuruntuların kovulması.
-evhaş : Daha vahşi. En vahşi.
+evhamin müdafaasi: Vehimlerin def'edilmesi, kuruntuların kovulması.
+evhaş : Daha vahşi. En vahşi.
 evhaş: Nefret veren şey.
 evhen: En gevşek, çok zayıf, pek dayanıksız, kuvvetsiz tâkatı kalmamış.
 evîdda: Ahbablar. Hâlis ve sâdık dostlar.
@@ -2135,7 +2135,7 @@ evkaş: Ayak takımı. Terbiyesiz, ahlaksız, adi ve alçak kimse.
 evkat: (Vakit. C.) Vakitler.
 evkat-i hamse: Beş vakit. Sabah, öğle, ikindi, akşam ve yatsı namazlarının kılındığı vakitler.
 evkat-i muayyene: Belli vakitler, belli zamanlar.
-evkat-i salât : Namaz vakitleri.
+evkat-i salât : Namaz vakitleri.
 evked: Pek te'kitli, çok kuvvetli, en kavi.
 evkes: Pinti ve soysuz kişi.
 evl: (Bak: Te'vil)
@@ -2169,12 +2169,12 @@ evrend: Hile, aldatma, hud'a, oyun. * Nam, şan, şeref. * Serir, erike, taht.
 evreng: Taht, evrend. * şan, şeref, nâm. * Zinet, süs. * Akıl, irfan. * Ağaç kurdu. * Hoş hâllilik, hâlin hoşluğu. * Hile, desise, hud'a, aldatma, oyun. * Yakışıklılık.
 evreng-nîşîn: Tahtta oturan, hükümdar.
 evreng-zîb: Tahtı süsleyen. Hükümdar, padişah.
-evrîde: (Verid. C.) Vücudun her tarafından kalbe kanın gitmesini temin eden damarlar. Siyah kan damarları.(Sâni-i Hakim, beden-i insanı, gayet muntazam bir şehir hükmünde halketmiştir. Damarların bir kısmı telgraf ve telefon vazifesini görür. Bir kısmı da, çeşmelerin boruları hükmünde, âb-ı hayat olan kanın cevelânına medardırlar. Kan ise; içinde iki kısım küreyvât halkedilmiş. Bir kısmı küreyvât-ı hamrâ tâbir edilir ki, bedenin hüceyrelerine erzak dağıtıyor. Ve bir kanun-i îlahi ile hüceyrelere erzak yetiştiriyor. (Tüccar ve erzak memurları gibi). Diğer kısmı küreyvât-ı beyzâdırlar ki; ötekilere nisbeten ekalliyettedirler. Vazifeleri, hastalık gibi düşmanlara karşı asker gibi müdafaadır ki, ne vakit müdafaaya girseler Mevlevi gibi iki hareket-i devriyye ile, sür'atli bir vaziyet-i acibe alırlar. Kanın hey'et-i mecmuası ise: îki vazife-i umumiyyesi var. Biri: Bedendeki hüceyratın tahribatını tâmir etmek. Diğeri; hüceyratın enkazlarını toplayıp, bedeni temizlemektir. Evride ve şerayin namında iki kısım damarlar var ki: Biri sâfi kanı getirir; dağıtır, sâfi kanın mecralarıdır. Diğer kısmı enkazı toplayan bulanık kanın mecrasıdır ki, şu ikinci ise kanı, "Ree" denilen nefesin geldiği yere getirirler.Sâni-i Hakim, havada iki unsur halketmiştir. Biri azot, biri müvellid-ül-humuza. Müvellid-ül-humuza ise: Nefes içinde kana temas ettiği vakit, kanı telvis eden karbon unsur-u kesifini kehribar gibi kendine çeker, ikisi imtizaç eder. Buhari hâmız-ı karbon denilen (Semli havai) bir maddeye inkılâb ettirir. Hem hararet-i gariziyyeyi te'min eder, hem kanı tasfiye eder. çünki: Sâni-i Hakim fenn-i kimyada aşk-ı kimyevi tâbir edilen bir münasebet-i şedideyi, müvellid-ül-humuza ile karbona vermiş ki: O iki unsur birbirine yakın olduğu vakit, o kanun-u îlâhi ile, o iki unsur imtizaç ederler. Fennen sabittir ki: îmtizaçtan hararet hâsıl olur. çünki imtizaç, bir nevi ihtiraktır. şu sırrın hikmeti şudur ki: O iki unsurun, herbirisinin zerrelerinin ayrı ayrı hareketleri var. îmtizaç vaktinde her iki zerre, yâni onun zerresi, bunun zerresiyle imtizaç eder, birtek hareketle hareket eder. Bir hareket muallâk kalır. çünki imtizaçtan evvel iki hareket idi. şimdi iki zerre, bir oldu. Her iki zerre, bir zerre hükmünde bir hareket aldı. Diğer hareket, Sâni-i Hakim'in bir kanunu ile hararete inkılâb eder. Zaten "hareket, harareti tevlid eder" bir kanun-u mukarreredir. îşte bu sırra binaen beden-i insanideki hararet-i gariziyye, bu imtizac-ı kimyeviyye ile temin edildiği gibi, kandaki karbon alındığı için kan dahi sâfi olur. îşte nefes dahile girdiği vakit, vücudun hem âb-ı hayatını temizliyor. Hem nâr-ı hayatı işal ediyor. çıktığı vakit, ağızda, mucizat-ı kudret-i îlâhiyye olan kelime meyvelerini veriyor. $ S.)
+evrîde: (Verid. C.) Vücudun her tarafından kalbe kanın gitmesini temin eden damarlar. Siyah kan damarları.(Sâni-i Hakim, beden-i insanı, gayet muntazam bir şehir hükmünde halketmiştir. Damarların bir kısmı telgraf ve telefon vazifesini görür. Bir kısmı da, çeşmelerin boruları hükmünde, âb-ı hayat olan kanın cevelânına medardırlar. Kan ise; içinde iki kısım küreyvât halkedilmiş. Bir kısmı küreyvât-ı hamrâ tâbir edilir ki, bedenin hüceyrelerine erzak dağıtıyor. Ve bir kanun-i îlahi ile hüceyrelere erzak yetiştiriyor. (Tüccar ve erzak memurları gibi). Diğer kısmı küreyvât-ı beyzâdırlar ki; ötekilere nisbeten ekalliyettedirler. Vazifeleri, hastalık gibi düşmanlara karşı asker gibi müdafaadır ki, ne vakit müdafaaya girseler Mevlevi gibi iki hareket-i devriyye ile, sür'atli bir vaziyet-i acibe alırlar. Kanın hey'et-i mecmuası ise: îki vazife-i umumiyyesi var. Biri: Bedendeki hüceyratın tahribatını tâmir etmek. Diğeri; hüceyratın enkazlarını toplayıp, bedeni temizlemektir. Evride ve şerayin namında iki kısım damarlar var ki: Biri sâfi kanı getirir; dağıtır, sâfi kanın mecralarıdır. Diğer kısmı enkazı toplayan bulanık kanın mecrasıdır ki, şu ikinci ise kanı, "Ree" denilen nefesin geldiği yere getirirler.Sâni-i Hakim, havada iki unsur halketmiştir. Biri azot, biri müvellid-ül-humuza. Müvellid-ül-humuza ise: Nefes içinde kana temas ettiği vakit, kanı telvis eden karbon unsur-u kesifini kehribar gibi kendine çeker, ikisi imtizaç eder. Buhari hâmız-ı karbon denilen (Semli havai) bir maddeye inkılâb ettirir. Hem hararet-i gariziyyeyi te'min eder, hem kanı tasfiye eder. çünki: Sâni-i Hakim fenn-i kimyada aşk-ı kimyevi tâbir edilen bir münasebet-i şedideyi, müvellid-ül-humuza ile karbona vermiş ki: O iki unsur birbirine yakın olduğu vakit, o kanun-u îlâhi ile, o iki unsur imtizaç ederler. Fennen sabittir ki: îmtizaçtan hararet hâsıl olur. çünki imtizaç, bir nevi ihtiraktır. şu sırrın hikmeti şudur ki: O iki unsurun, herbirisinin zerrelerinin ayrı ayrı hareketleri var. îmtizaç vaktinde her iki zerre, yâni onun zerresi, bunun zerresiyle imtizaç eder, birtek hareketle hareket eder. Bir hareket muallâk kalır. çünki imtizaçtan evvel iki hareket idi. şimdi iki zerre, bir oldu. Her iki zerre, bir zerre hükmünde bir hareket aldı. Diğer hareket, Sâni-i Hakim'in bir kanunu ile hararete inkılâb eder. Zaten "hareket, harareti tevlid eder" bir kanun-u mukarreredir. îşte bu sırra binaen beden-i insanideki hararet-i gariziyye, bu imtizac-ı kimyeviyye ile temin edildiği gibi, kandaki karbon alındığı için kan dahi sâfi olur. îşte nefes dahile girdiği vakit, vücudun hem âb-ı hayatını temizliyor. Hem nâr-ı hayatı işal ediyor. çıktığı vakit, ağızda, mucizat-ı kudret-i îlâhiyye olan kelime meyvelerini veriyor. S.)
 evs: Bahşiş vermek. * Kurt.
 evsa': Daha geniş. çok vasi'.
-evsâf : (Vasf. C.) Vasıflar, sıfatlar.
-evsâf-i cemîle : Güzel vasıflar. îyi hasletler.
-evsâf-i nîsbîye : ölçü ve kıyasa göre olan vasıflar. (Sıcaklık, soğuklukla bilindiği, karanlık derecesi aydınlıkla görüldüğü gibi.)
+evsâf : (Vasf. C.) Vasıflar, sıfatlar.
+evsâf-i cemîle : Güzel vasıflar. îyi hasletler.
+evsâf-i nîsbîye : ölçü ve kıyasa göre olan vasıflar. (Sıcaklık, soğuklukla bilindiği, karanlık derecesi aydınlıkla görüldüğü gibi.)
 evsah: (Vesah. C.) Pislikler, murdarlıklar, kirler.
 evsak: En çok inanılan, ziyade sağlam. Daha çok vüsuk sahibi.
 evsal: (Vasl. C.) Vücuttaki mafsallar, oynaklar.
@@ -2205,7 +2205,7 @@ evvel-be-evvel: Herşeyden önce, ilk, evvelâ.
 evvel-emîrde: îşin başlangıcında, herşeyden önce.
 evvel-ül-evâîl: Evvellerin evveli. * Hâdiselerin başlangıcı.
 evvela: îlkönce, birinci olarak, herşeyden önce.
-evvelen : Evvelâ, birinci, ilk olarak.
+evvelen : Evvelâ, birinci, ilk olarak.
 evvelîn: Evvelkiler, ilkler.
 evvelîn ü âhîrîn: îlkler ve sonlar. Evvelkiler ve sonrakiler.
 evvelîyat: Başlangıçlar. Mukaddemat. îlk öndekiler. îbtidaki cihetler. * Her akıllının tereddütsüz tasdik ve kabul edeceği hususlar. * Man: Mücerred mevzu ve mahmulleri arasındaki nisbet tasavvur edilince aklın kat'iyyetle teslim ve tasdik ettiği kaziyeler.
@@ -2289,9 +2289,9 @@ ez-dîl: Gönülden.
 ez-kadîm: Eskiden, önceleri.
 ez-men: Benden.
 ez-nev: Yeni baştan, yeniden.
-ez-on sebeb : O sebepten.
+ez-on sebeb : O sebepten.
 ez-ost: Ondan.
-ez-tu : Senden.
+ez-tu : Senden.
 ez-yah: "Buzdan soğuk" mânasına gelir.
 eza: Ticarette kaybetme, zarar etme. * Kibir ve gururunu bıraktırma. * Sıkıntı, eziyet, zulüm, cevr, sitem, renc, incinmek. însanın kerih görüp mahzun olduğu şey. * Hayır ve sadaka yoluyla mal vermede gururlanmak. Tetavül etmek.
 ez'af: (Zı'f. C.) Bir şeyi iki katı yapan fazlalıklar. Katlar.
@@ -2312,7 +2312,7 @@ ez'ar: Saçı az olan kimse. * Otu az olan yer. * Zâlim ve kötü huylu kimse.
 ezat: (C.: üzâ-Ezy) îçinde su birikmiş çukur yer.
 ezb: Anasından yeni doğmuş hayvan.
 ezbad: (Zebed. C.) Paslar. * Dörtte birler, çeyrekler. * Köpükler.
-ezdad: Zıdlar. Mukabil ve muhalif olan şeyler. Birbirinin tersi veya zıddı olanlar.(şu kâinata dikkat edilse görünüyor ki: îçinde iki unsur var ki, her tarafa uzanmış, kök atmış: Hayır şer, güzel çirkin, nef zarar, kemâl noksan, ziya zulmet, hidayet dalâlet, nur nâr, imân küfür, tâat isyan, havf muhabbet gibi âsârlariyle, meyveleriyle şu kâinatta ezdad, birbiriyle çarpışıyor. Daima tagayyür ve tebeddülâta mazhar oluyor. Başka bir âlemin mahsulâtının tezgâhı hükmünde çarkları dönüyor. Elbette o iki unsurun birbirine zıd olan dalları ve neticeleri, ebede gidecek; temerküz edip birbirinden ayrılacak. O vakit, Cennet - Cehennem suretinde tezahür edecektir. Madem âlem-i beka, şu âlem-i fenâdan yapılacaktır. Elbette anasır-ı esasiyesi, bekaya ve ebede gidecektir. Evet, Cennet - Cehennem; şecere-i hilkatten ebed tarafına uzanıp eğilerek giden dalının iki meyvesidir ve şu silsile-i kâinatın iki neticesidir ve şu seyl-i şuunatın iki mahzenidir, ve ebede karşı cereyan eden ve dalgalanan mevcudatın iki havzıdır ve lütuf ve kahrın iki tecelligâhıdır ki; dest-i kudret bir hareket-i şedide ile kâinatı çalkaladığı vakit, o iki havuz, münasip maddelerle dolacaktır.şu remizli nüktenin sırrı şudur ki:Hakim-i Ezeli, inayet-i sermediyye ve hikmet-i ezeliyyenin iktizası ile, şu dünyayı, tecrübeye mahal ve imtihana meydan ve esmâ-i hüsnâsına âyine ve kalem-i kader ve kudretine sahife olmak için yaratmış. Ve tecrübe ve imtihan ise neşvünemaya sebeptir. O neşvünema ise, istidatların inkişafına sebeptir. O inkişaf ise, kabiliyetlerin tezahürüne sebeptir. O kabiliyetlerin tezahürü ise, hakaik-ı nisbiyenin zuhuruna sebeptir. Hakaik-ı nisbiyyenin zuhuru ise, Sâni-i Zülcelâl'in esmâ-i hüsnâsının nukuş-u tecelliyatını göstermesine ve kâinatı mektubat-ı Samedaniyye suretine çevirmesine sebeptir. îşte şu sırr-ı imtihan ve sırr-ı teklif iledir ki: Ervâh-ı âliyenin elmas gibi cevherleri, ervâh-ı sâfilenin kömür gibi maddelerinden tasaffi eder, ayrılır.îşte, bu mezkur sırlar gibi daha bilmediğimiz çok ince, âli hikmetler için, âlemi bu surette irade ettiğinden şu âlemin tegayyür ve tahavvülünü dahi o hikmetler için irade etti. Tahavvül ve tegayyür için zıtları birbirine hikmetle karıştırdı ve karşı karşıya getirdi. Zararları menfaatlara mezcederek, şerleri hayırlara idhal ederek, çirkinlikleri güzelliklerle cem ederek, hamur gibi yoğurarak şu kâinatı tebeddül ve tagayyür kanununa ve tehavvül ve tekâmül düsturuna tâbi kıldı. Vaktaki meclis-i imtihan kapandı. Tecrübe vakti bitti, esmâ-i hüsnâ hükmünü icra etti. Kalem-i kader, mektubatını tamamiyle yazdı. Kudret, nukuş-u san'atını tekmil etti. Mevcudat, vezaifini ifa etti. Mahlukat, hizmetlerini bitirdi. Herşey, mânasını ifade etti. Dünya âhiret fidanlarını yetiştirdi. Zemin, Sâni-i Kadirin bütün mu'cizat-ı kudretini, umum havarik-ı san'atını teşhir edip gösterdi. şu âlem-i fena, sermedi manzaraları teşkil eden levhaları zaman şeridine taktı. O Sâni-i Zülcelâl'in hikmet-i sermediyyesi ve inayet-i ezeliyyesi; o imtihan neticelerini, o tecrübenin neticelerini, o esmâ-i hüsnânın tecellilerinin hakaikını, o kalem-i kader mektubâtının hakaikını, o nümûne-misâl nukuş-u san'atının asıllarını, o vezaif-i mevcudatın faidelerini, gayelerini, o hidemat-ı mahlukatın ücretlerini ve o kelimat-ı kitab-ı kâinatın ifade ettikleri mânaların hakikatlarını ve istidat çekirdeklerinin sünbüllenmesini ve bir mahkeme-i kübra açmasını ve dünyadan alınmış misali manzaraların göstermesini ve esbab-ı zâhiriyenin perdesinin yırtmasını ve herşey doğrudan doğruya Hâlık-ı Zülcelâline teslim etmesi gibi hakikatları iktiza etti ve o mezkur hakikatları iktiza ettiği için, kâinatı dağdağa-i tagayyür ve fenadan tahavvül ve zevalden kurtarmak ve ebedileştirmek için o zıtların tasfiyesini istedi ve tegayyürün esbabını ve ihtilâfatın maddelerini tefrik etmek istedi. Elbette kıyâmeti koparacak ve o neticeler için tasfiye edecek. îşte şu tasfiyenin neticesinde cehennem, ebedi ve dehşetli bir suret alıp, taifeleri $ tehdidine mazhar olacak. Cennet ebedi, haşmetli bir suret giyerek ehil ve ashabı $ hitabına mazhar olacak. Hakim-i Ezeli, şu iki hanenin sekenelerine, kudret-i kâmilesiyle ebedi ve sabit bir vücut verir ki; hiç inhilâl ve tagayyüre ve ihtiyarlığa ve inkıraza mâruz kalmazlar. çünki inkıraza sebebiyet veren tagayyürün esbabı bulunmaz. S.)
+ezdad: Zıdlar. Mukabil ve muhalif olan şeyler. Birbirinin tersi veya zıddı olanlar.(şu kâinata dikkat edilse görünüyor ki: îçinde iki unsur var ki, her tarafa uzanmış, kök atmış: Hayır şer, güzel çirkin, nef zarar, kemâl noksan, ziya zulmet, hidayet dalâlet, nur nâr, imân küfür, tâat isyan, havf muhabbet gibi âsârlariyle, meyveleriyle şu kâinatta ezdad, birbiriyle çarpışıyor. Daima tagayyür ve tebeddülâta mazhar oluyor. Başka bir âlemin mahsulâtının tezgâhı hükmünde çarkları dönüyor. Elbette o iki unsurun birbirine zıd olan dalları ve neticeleri, ebede gidecek; temerküz edip birbirinden ayrılacak. O vakit, Cennet - Cehennem suretinde tezahür edecektir. Madem âlem-i beka, şu âlem-i fenâdan yapılacaktır. Elbette anasır-ı esasiyesi, bekaya ve ebede gidecektir. Evet, Cennet - Cehennem; şecere-i hilkatten ebed tarafına uzanıp eğilerek giden dalının iki meyvesidir ve şu silsile-i kâinatın iki neticesidir ve şu seyl-i şuunatın iki mahzenidir, ve ebede karşı cereyan eden ve dalgalanan mevcudatın iki havzıdır ve lütuf ve kahrın iki tecelligâhıdır ki; dest-i kudret bir hareket-i şedide ile kâinatı çalkaladığı vakit, o iki havuz, münasip maddelerle dolacaktır.şu remizli nüktenin sırrı şudur ki:Hakim-i Ezeli, inayet-i sermediyye ve hikmet-i ezeliyyenin iktizası ile, şu dünyayı, tecrübeye mahal ve imtihana meydan ve esmâ-i hüsnâsına âyine ve kalem-i kader ve kudretine sahife olmak için yaratmış. Ve tecrübe ve imtihan ise neşvünemaya sebeptir. O neşvünema ise, istidatların inkişafına sebeptir. O inkişaf ise, kabiliyetlerin tezahürüne sebeptir. O kabiliyetlerin tezahürü ise, hakaik-ı nisbiyenin zuhuruna sebeptir. Hakaik-ı nisbiyyenin zuhuru ise, Sâni-i Zülcelâl'in esmâ-i hüsnâsının nukuş-u tecelliyatını göstermesine ve kâinatı mektubat-ı Samedaniyye suretine çevirmesine sebeptir. îşte şu sırr-ı imtihan ve sırr-ı teklif iledir ki: Ervâh-ı âliyenin elmas gibi cevherleri, ervâh-ı sâfilenin kömür gibi maddelerinden tasaffi eder, ayrılır.îşte, bu mezkur sırlar gibi daha bilmediğimiz çok ince, âli hikmetler için, âlemi bu surette irade ettiğinden şu âlemin tegayyür ve tahavvülünü dahi o hikmetler için irade etti. Tahavvül ve tegayyür için zıtları birbirine hikmetle karıştırdı ve karşı karşıya getirdi. Zararları menfaatlara mezcederek, şerleri hayırlara idhal ederek, çirkinlikleri güzelliklerle cem ederek, hamur gibi yoğurarak şu kâinatı tebeddül ve tagayyür kanununa ve tehavvül ve tekâmül düsturuna tâbi kıldı. Vaktaki meclis-i imtihan kapandı. Tecrübe vakti bitti, esmâ-i hüsnâ hükmünü icra etti. Kalem-i kader, mektubatını tamamiyle yazdı. Kudret, nukuş-u san'atını tekmil etti. Mevcudat, vezaifini ifa etti. Mahlukat, hizmetlerini bitirdi. Herşey, mânasını ifade etti. Dünya âhiret fidanlarını yetiştirdi. Zemin, Sâni-i Kadirin bütün mu'cizat-ı kudretini, umum havarik-ı san'atını teşhir edip gösterdi. şu âlem-i fena, sermedi manzaraları teşkil eden levhaları zaman şeridine taktı. O Sâni-i Zülcelâl'in hikmet-i sermediyyesi ve inayet-i ezeliyyesi; o imtihan neticelerini, o tecrübenin neticelerini, o esmâ-i hüsnânın tecellilerinin hakaikını, o kalem-i kader mektubâtının hakaikını, o nümûne-misâl nukuş-u san'atının asıllarını, o vezaif-i mevcudatın faidelerini, gayelerini, o hidemat-ı mahlukatın ücretlerini ve o kelimat-ı kitab-ı kâinatın ifade ettikleri mânaların hakikatlarını ve istidat çekirdeklerinin sünbüllenmesini ve bir mahkeme-i kübra açmasını ve dünyadan alınmış misali manzaraların göstermesini ve esbab-ı zâhiriyenin perdesinin yırtmasını ve herşey doğrudan doğruya Hâlık-ı Zülcelâline teslim etmesi gibi hakikatları iktiza etti ve o mezkur hakikatları iktiza ettiği için, kâinatı dağdağa-i tagayyür ve fenadan tahavvül ve zevalden kurtarmak ve ebedileştirmek için o zıtların tasfiyesini istedi ve tegayyürün esbabını ve ihtilâfatın maddelerini tefrik etmek istedi. Elbette kıyâmeti koparacak ve o neticeler için tasfiye edecek. îşte şu tasfiyenin neticesinde cehennem, ebedi ve dehşetli bir suret alıp, taifeleri tehdidine mazhar olacak. Cennet ebedi, haşmetli bir suret giyerek ehil ve ashabı hitabına mazhar olacak. Hakim-i Ezeli, şu iki hanenin sekenelerine, kudret-i kâmilesiyle ebedi ve sabit bir vücut verir ki; hiç inhilâl ve tagayyüre ve ihtiyarlığa ve inkıraza mâruz kalmazlar. çünki inkıraza sebebiyet veren tagayyürün esbabı bulunmaz. S.)
 ezder: Münâsib, muvâfık, yaraşır, lâyık.
 ezdîlî can: (Ez-dil-i cân) Candan ve gönülden.
 ezeb: Leim kimse. * Kısa boylu.
@@ -2377,7 +2377,7 @@ ezmel: Hareket etmek. * Muzdarib olmak, acı çekmek. * Savt, sadâ, ses. * Gül
 ezmîne: (Zaman. C.) Zamanlar.
 ezmîne-î kadîme: Eski zamanlar.
 ezmîne-î mâzîyye: Geçmiş zamanlar.
-ezmîne-î müstakbele "": Gelecek zamanlar, müstakbel zamanlar.
+ezmîne-î müstakbele: Gelecek zamanlar, müstakbel zamanlar.
 eznab: (Zenb. C.) Suçlar, günahlar. * Kuyruklar.
 eznem: Kulakları ucunda sarkık uzun kılları olan keçi.
 ezr: (C.: Uzur) Arka ve sırt. * Kuvvet.
@@ -2390,8 +2390,8 @@ ezrebî: Azerbeycan'ın Arapça adı.
 ezûc: Hayâsız ve edebsiz adam. * Sert başlı at.
 ezum: Isırıcı, ısıran.
 ezuz: Pek keskin olan kılınç veya hançer.
-ezvac : çiftler. Zevceler. Nikâhlı karılar. * Kocalar.
-ezvac-i tâhîrat : Hz. Peygamber Efendimizin (A.S.M.) ismetli ve iffetli, pâk zevce-i muhteremeleri (R.A.) "Mü'minlerin anneleri" diye bilinen ve Peygamberimize (A.S.M.) âilelik etmek şerefine ermiş mübârek hanımlar.(Zât-ı Risaletin akvâli gibi, ef'al ve ahvâli ve etvâr ve harekâtı dahi menabi-i din ve şeriattır ve ahkâmın mehazleridir. şıkk-ı zâhirisine Sahabeler hamele oldukları gibi, hususi dairesindeki mahfi ahvalâtından tezâhür eden esrar-ı din ve ahkâm-ı şeriatın hameleleri ve râvileri de Ezvac-ı Tâhirat'tır ve bilfiil o vazifeyi ifa etmişlerdir. Esrar ve ahkâm-ı dinin hemen yarısı, belki onlardan geliyor. Demek bu azim vazifeye, bir çok ve meşrebce muhtelif Ezvac-ı Tâhirat lâzımdır. M.)
+ezvac : çiftler. Zevceler. Nikâhlı karılar. * Kocalar.
+ezvac-i tâhîrat : Hz. Peygamber Efendimizin (A.S.M.) ismetli ve iffetli, pâk zevce-i muhteremeleri (R.A.) "Mü'minlerin anneleri" diye bilinen ve Peygamberimize (A.S.M.) âilelik etmek şerefine ermiş mübârek hanımlar.(Zât-ı Risaletin akvâli gibi, ef'al ve ahvâli ve etvâr ve harekâtı dahi menabi-i din ve şeriattır ve ahkâmın mehazleridir. şıkk-ı zâhirisine Sahabeler hamele oldukları gibi, hususi dairesindeki mahfi ahvalâtından tezâhür eden esrar-ı din ve ahkâm-ı şeriatın hameleleri ve râvileri de Ezvac-ı Tâhirat'tır ve bilfiil o vazifeyi ifa etmişlerdir. Esrar ve ahkâm-ı dinin hemen yarısı, belki onlardan geliyor. Demek bu azim vazifeye, bir çok ve meşrebce muhtelif Ezvac-ı Tâhirat lâzımdır. M.)
 ezvah: Münkabız olmak. * Yakınlık.
 ezvak: Zevkler. Keyfler. Eğlenceler.
 ezver: Boynu eğri olan kimse.

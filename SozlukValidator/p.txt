@@ -86,14 +86,14 @@ palude: Süzülmüş, saf hâle getirilmiş.
 paluş: Karışık.
 palvane: Dağ kırlangıcı.
 palvaye: Dağ kırlangıcı.
-pan: Yun. "Bütün, karşı" mânasına kelimenin başına getirilerek kullanılır. Meselâ: Panzehir $: Zehire karşı ilâç.
-pan-îslamîzm : Bütün müslümanların birleşmesi siyaseti. îttihad-ı îslâm. îslâm birliği siyaseti.
+pan: Yun. "Bütün, karşı" mânasına kelimenin başına getirilerek kullanılır. Meselâ: Panzehir: Zehire karşı ilâç.
+pan-îslamîzm : Bütün müslümanların birleşmesi siyaseti. îttihad-ı îslâm. îslâm birliği siyaseti.
 panayir: Yun. Yılda bir - iki defa muayyen bir yerde kurulan ve bir müddet devam eden büyük pazar.
 pandomîma: Yun. Vahşi ve gürültülü karışıklık, anarşi. * Sessiz tiyatro oyunu.
 pandomîma kopmak: Karışıklık çıkmak. * Seyircileri eğlendiren kavga çıkmak.
 pano: Fr. üzerine ilân, tablo, vs. asmaya yarayan levha.
 panzde(h): Onbeş.
-panzehîr : Zehire karşı ilâç.
+panzehîr : Zehire karşı ilâç.
 papa: îtl. (Baba kelimesinden) Roma Katolik kilisesinin ruhâni reisi.
 papağan: îtl. însan konuşmasını taklid edebilen bir kuş.
 papez: înişi ve yokuşu olan yer.
@@ -102,13 +102,13 @@ par: Geçen yıl, bıldır. * Para.
 parafe: Fr. Kısa imza, işâret.
 paragraf: Yun. Düz yazıda bölümlerden herbiri.
 paralel: Yun. Müvazi. * Geo: Bütün noktaları birbirinden aynı uzaklıkta olan çizgi veya hat, düzlük, satıh.
-parantez : Yun. Cümle içinde geçen bir sözü, metin dışı tutmak için o sözün başına ve sonuna konulan işaret.
+parantez : Yun. Cümle içinde geçen bir sözü, metin dışı tutmak için o sözün başına ve sonuna konulan işaret.
 parav: Kocakarı, acûze.
 paravan(a): îtl. Eskiden haremle selâmlığı ayıran ve şimdi de ilk bakışta görülmesi caiz olmıyan yerleri örten perdeler. * Daha ziyade kapıların dışına veya içine konan, katlanır, taşınır tenteneli perde. * Gizleme vasıtası.
-parazît : Yun. Radyo gibi ses veya elektrik âletlerinin zırıltı ve gürültü çıkarması. * Başka bir hayvan veya nebatın üzerinde onun zararına yaşayan canlı. Asalak. Tufeyli.
+parazît : Yun. Radyo gibi ses veya elektrik âletlerinin zırıltı ve gürültü çıkarması. * Başka bir hayvan veya nebatın üzerinde onun zararına yaşayan canlı. Asalak. Tufeyli.
 parçe: Ufak şey, küçük nesne, parça.
 parduz: Eskici, yamacı.
-pare: Cüz, parça. Kesinti. * Para. Kuruşun kırkta biri. * Kur'an-ı Kerim'in otuz kısmından bir kısmı, bir cüz'ü. * Sayı, bölük. * "Parça" mânâsına gelir ve birleşik kelimeler yapılır. Meselâ: Meh-pâre $: Ay parçası. * Güzel. Yek-pâre $: Tek parça, bir parça.
+pare: Cüz, parça. Kesinti. * Para. Kuruşun kırkta biri. * Kur'an-ı Kerim'in otuz kısmından bir kısmı, bir cüz'ü. * Sayı, bölük. * "Parça" mânâsına gelir ve birleşik kelimeler yapılır. Meselâ: Meh-pâre: Ay parçası. * Güzel. Yek-pâre: Tek parça, bir parça.
 pare-duz: Eskici, yamacı.
 pare-pare: Parça parça.
 pargî: Mutfak ve banyo sularının toplandığı çukur. * Orospuluk.
@@ -186,7 +186,7 @@ pazac: Ebe kadın. * Dadı, sütnine.
 pazen: Pezevenk.
 pazîn: Gecenin bir kısmı.
 pazîr: Destek, payanda, dayak.
-pazubend : (Bak: Bâzubend)
+pazubend : (Bak: Bâzubend)
 peçe: (C.: Peçegân) însan veya hayvan yavrusu. * Oğlan, çocuk. * Sarmaşık bitkisi.
 peçe: Kadınların tesettür için yüzlerine örttükleri tüle benzer örtü. (Bak: Tesettür)
 peçegân: (Peçe. C.) însan veya hayvan yavruları.
@@ -256,7 +256,7 @@ pencüm: Beşinci.
 pencümîn: Beşinci.
 pençe: El ayası ile beş parmağın tamamı. * Hayvanların ön ayaklarının parmaklarıyla tırnakları. * Eskiden şark hükümdarlarının imza yerine ellerini kırmızı boyaya sürüp, kâğıdın üstüne basmalarıyla olan şekil, tuğra. * Mc: Kuvvet. Savlet, satvet.
 pençe-î kahr: Kahir pençesi. Mahveden el.
-pençezen : Pençe vuran, düşman.
+pençezen : Pençe vuran, düşman.
 pend: Nasihat, vaaz, öğüt.
 pendîmî guş ettî: Nasihatımı dinledi.
 pendkâr: (C.: Pendkârân) Nasihat eden, nâsih. öğüt veren.
@@ -275,7 +275,7 @@ perda: Yarın.
 perdaht: Cilâ. Parlaklık, parlama. * Düzleme, temizleme.
 perdahte: Cilâlanmış, parlatılmış. * Temizlenmiş, düzenlenmiş, tertib edilmiş.
 perdar: (Bak: Berdâr)
-perdaz : Tertib eden, düzenleyen, düzeltici.
+perdaz : Tertib eden, düzenleyen, düzeltici.
 perde: Kapı, pencere gibi yerlere asılan veya iki yeri birbirinden ayıran, görünmeğe mâni olan şey. * Mc: Irz, namus, iffet.* Bir müzik parçasını meydana getiren seslerden herbirinin kalınlık veya incelik derecesi. * Bir sahne eserinin büyük bölümlerinden her biri. * Ekran, sinema perdesi. * Tıb: Aksu. * Mc: Gaflet. Basiretsizlik. (Bak: Esbabperest.)
 perde yirtilmak: Hayasızlık etmek, utanmazlık.
 perde-î cümud: Donmuş, katı perde. * Mc: Alem, tabiat. * Akıl ve hissiyatı kendisi ile meşgul edip, dini ve ulvi hakikatlardan ayıran, gaflet veren perde.
@@ -332,8 +332,8 @@ perh: Hisse, pay. * Değersiz mal.
 perhaş: Savaş, harb, muharebe, cidâl, ceng. Kavga.
 perhaşcu(y): Muharib, savaşçı. Kavgacı.
 perhîde: îşaret olunmuş.
-perhîz : Sakınmak, çekinmek. * Vücuda zararlı ve tıbben muzır; ve dinen, zevk veren şeylerden sakınmak. * Hastalıkta bazı yiyecek ve içeceklerden sakınmak.
-perhîzkâr : Perhiz eden, nefsini tutan. Zararlı şeylerden, günahlardan sakınan.
+perhîz : Sakınmak, çekinmek. * Vücuda zararlı ve tıbben muzır; ve dinen, zevk veren şeylerden sakınmak. * Hastalıkta bazı yiyecek ve içeceklerden sakınmak.
+perhîzkâr : Perhiz eden, nefsini tutan. Zararlı şeylerden, günahlardan sakınan.
 perhun: Pergelle çizilmiş çember, dâire, halka.
 perhüde: Saçmasapan söz, hezeyan. * Ateşten dolayı sararmış eşyâ.
 perî: Cisimleri çok lâtif ve görünmez olan hoş mahluk. * însana muhabbet eden, muvahhid ve müslim lâtif mahluk. *Mc: Güzel insan. Güzel kimse.
@@ -369,8 +369,8 @@ pervanegân: (Pervane. C.) Gece kelebekleri.
 pervanek: Karakulak adı verilen bir hayvan. * Ask: öncü, pişdâr.
 pervar: Besili, beslenmiş.
 pervas: El ile dokunup temas etme, eli ile yoklama.
-pervaz : Kanat açmak, uçmak. Uçan, uçucu. * Nur. * Karargâh. * Saçmak. * Hücre. * Saçak. * Ayna. Dolap. * înce, uzun tahta. * Uçan, uçucu gibi mânâlara gelerek birleşik kelimeler yapılır.
-pervaz-i berdâr : Yükselip uçan. Uçarak dolaşan.
+pervaz : Kanat açmak, uçmak. Uçan, uçucu. * Nur. * Karargâh. * Saçmak. * Hücre. * Saçak. * Ayna. Dolap. * înce, uzun tahta. * Uçan, uçucu gibi mânâlara gelerek birleşik kelimeler yapılır.
+pervaz-i berdâr : Yükselip uçan. Uçarak dolaşan.
 pervaze: Kır gezisi için hazırlanan yemek. * Altun ve gümüş yaprakların kırıntısı.
 pervazgâh: Uçulacak yer. Tayyâre meydanı. Hava alanı.
 perver: (Pervar) "Besleyen, yetiştiren, velinimet, koruyan" mânâsında birleşik kelimeler yapılır.
@@ -463,7 +463,7 @@ peyvend: Ulaşma, varma, vasıl olma. * Bağ, alâka.
 peyvest: Ulaşma, vasıl olma, kavuşma.
 peyveste: Her zaman, dâima. * Ulaşmış, ermiş. * Bitişik, muttasıl.
 peyvestegî: Bitişme, ulaşma, bitişiklik.
-pezîr : Kabul eden, olan, olabilen. * "Söz dinleyici, emir tutan" mânasında birleşik kelimeler yapılır.
+pezîr : Kabul eden, olan, olabilen. * "Söz dinleyici, emir tutan" mânasında birleşik kelimeler yapılır.
 pezîra: Kabul eden.
 pezîray-hîtam: Sona eren, biten, hitam bulan.
 pezîre: Karşılama, karşılayış.
@@ -493,7 +493,7 @@ pîleste: Fildişi.
 pîlvaye: Kırlangıç.
 pîndar: Sanma, zannetme. * Böbürlenme.
 pîne: Yama.
-pîneduz : Yamacı. * Ayakkabı tamircisi, eskici.
+pîneduz : Yamacı. * Ayakkabı tamircisi, eskici.
 pîneduzî: Eskicilik, yamacılık.
 pîneduzluk: Yamacılık. Eskicilik.
 pîngan: Fincan, tas.
@@ -509,7 +509,7 @@ pîrahen-î îsmet: Namus perdesi.
 pîramen: çevre, etraf, yan.
 pîramun: Yan, etraf, çevre.
 pîran: (Pir. C.) îhtiyarlar, yaşlılar.
-pîraste: Tertibedilmiş, düzenlenmiş donatılmış, süslü.Pirastegi $ . Düzen, intizam. 
+pîraste: Tertibedilmiş, düzenlenmiş donatılmış, süslü.Pirastegi . Düzen, intizam.
 pîraye: Zinet. Süs.
 pîrayebahş: Süsleyici, süs veren.
 pîrayende: Süsleyici, donatıcı.
@@ -540,7 +540,7 @@ pîşanî: Alın, cebin.
 pîşanîdâr: Yüzsüzlük yaparak işini beceren.
 pîşbîn: îlerisini gören. Basiretli, ihtiyatlı.
 pîşdar : öncü. Harpte ileriden düşmana gönderilen askerler. * önde giden. önayak olan. * San'at, meslek. * Kumandan. * Mc: Yüzsüz. Yüzsüzlükle iş beceren.
-pîşe : îş, kâr. Meşguliyet. * Alışkanlık, huy, âdet. * Meslek, san'at. * "Huy edinmiş, alışmış" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Hasenât-pişe $: îyi şeyleri âdet edinmiş olan.
+pîşe : îş, kâr. Meşguliyet. * Alışkanlık, huy, âdet. * Meslek, san'at. * "Huy edinmiş, alışmış" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Hasenât-pişe: îyi şeyleri âdet edinmiş olan.
 pîşegâh: îş yeri. Fabrika.
 pîşegân: (Pişe. C.) Meslekler, san'atlar. îşler. * Huylar, âdetler, tabiatlar.
 pîşeger: San'atkâr işçi.
@@ -574,25 +574,25 @@ postnîşîn: Posta oturan. Daha evvelkinin yerine geçen.
 pot: t. Irmakları geçmek için kullanılan sal. * Dikişin bir tarafında görülen kumaş kabarığı.
 pot kirmak: Farkında olmıyarak karşısındakine dokunacak söz söylemek.
 pota: Toprak veya mâdenden yapılmış, kimyacı, eczâcı, mâdenci veya kuyumcu âletlerindendir. Altın, gümüş ve benzeri mâdenlerin eritilimesine mahsustur.
-poz : Fr. Fotoğraf alınırken kendine düzen vermek, tavır takınmak. Kımıldamadan durduğu halde kalmak.
-pozîsyon : Fr. Vaziyet, durum, duruş.
-pozîtîf : Fr. Tecrübe neticesine dayanan, müsbet, isbatlı. Negatifin zıddı.
-pozîtîvîst : Fr. Fls: Pozitivizm taraftarı.
-pozîtîvîzm : Fr. Fls: Hakikatın yalnız tecrübe ve müşahede ile vakıalara istinaden tam olarak bilineceği iddiasında olan felsefe sistemi. (Bak: îsbatiyecilik)
+poz : Fr. Fotoğraf alınırken kendine düzen vermek, tavır takınmak. Kımıldamadan durduğu halde kalmak.
+pozîsyon : Fr. Vaziyet, durum, duruş.
+pozîtîf : Fr. Tecrübe neticesine dayanan, müsbet, isbatlı. Negatifin zıddı.
+pozîtîvîst : Fr. Fls: Pozitivizm taraftarı.
+pozîtîvîzm : Fr. Fls: Hakikatın yalnız tecrübe ve müşahede ile vakıalara istinaden tam olarak bilineceği iddiasında olan felsefe sistemi. (Bak: îsbatiyecilik)
 pranga: îng. Eskiden ağır cezalı mahkûmların ayaklarına takılan kalın zincir. * Halkalarıyla beraber iki okka yüz dirhem ağırlığındaki demire verilen addır. * Umumi hapishanelerde, hapishanenin iç nizamını bozan ve taşkınlık gösteren mahkûmların ayaklarına da pranga vurulurdu.
 prens bîsmark: (1815 - 1898) Meşhur Alman siyasilerinden ve Alman birliği için çalışanlardan birisidir. îslamiyeti ve Hz. Peygamber'i (A.S.M.) medh ü sena ederek hayranlığını bildiren bir mütefekkirdir.
 prensîp: Fr. Umde. îlk unsur. Temel kanaat, temel düşünce. Temel bilgi * Man: Her çeşit münakaşanın dışında olan.
 program: Fr. Yapılacak işler için önceden hazırlanmış tasarı. Plân.
-proje ©: Fr. Tasarlanan ilk şekil. Tasarı. Mütehayyel.
-projeksîyon ©: Fr. Kuvvetli ışık âleti.
+proje : Fr. Tasarlanan ilk şekil. Tasarı. Mütehayyel.
+projeksîyon : Fr. Kuvvetli ışık âleti.
 propaganda: Fr. Bir fikri veya malı herkese bildirmek veya kabulü için yapılan ilân. çok kıymetli olduğu veya olmadığı hâlde bir şeyin kıymetini arttırmak maksadiyle yapılan konuşma veya ilânat.
 proteîn: Lât. Tıb: Albüminli besleyici madde.
 protestanlik: (Prutluk) Papayı Hristiyanların başı olarak tanımayıp ruhaniyetini kabul etmeyen bir Hristiyanlık mezhebi. (Bak: Nasraniye)
 proton: yun. Atom çekirdeğinde pozitif yüklü zerrecik. (Bak: Delil-i inayet) 
 prutluk: (Bak: Protestanlık)
 psîkolog: Fr. Ruhiyatçı, ruh ilmiyle uğraşan.
-psîkolojî ©: Fr. Ruhiyat, ruhi hâdiseleri tetkik eden ilim kolu.
-psîkoz : Fr. Tıb: Akıl hastalıklarının umumi adı.
+psîkolojî : Fr. Ruhiyat, ruhi hâdiseleri tetkik eden ilim kolu.
+psîkoz : Fr. Tıb: Akıl hastalıklarının umumi adı.
 pu: (Puy) Araştırma, arama. * Koşma.
 puç: Kaba, çirkin. * Boş ve faydasız şey. * îçi boş.
 puç-magz: Boş kafalı.
@@ -609,11 +609,11 @@ pur-î duht: Hemşirezâde, yeğen.
 purân: (Pur. C.) Oğullar, veledler.
 purmend: Evlâd sahibi.
 pusîde: çürümüş, paslanıp çürümüş, çürük.
-puş : "örten, giyen, giyinmiş" mânasına birleşik kelimeler yapılır. * örtü, elbise, zırh.
+puş : "örten, giyen, giyinmiş" mânasına birleşik kelimeler yapılır. * örtü, elbise, zırh.
 puşe: (Bak: Puşide)
 puşende: örten. örtücü.
 puşende-î hatâ: Ayıp örten.
-puşîde : (Puşe) örtülmüş. * örtü. * örtülü, gizli.
+puşîde : (Puşe) örtülmüş. * örtü. * örtülü, gizli.
 puşîde-çeşm: örtünecek, giyilecek şey. * örtü.
 puşîde-raz: Sırrı gizli.
 puşîdenî: örtünecek, giyilecek şey. örtü.
@@ -655,7 +655,7 @@ pür-heyecân: Heyecan dolu. çok heyecanlı.
 pür-hun: Kan içinde. Kan dolu.
 pür-kîne: Düşmanlık ve gazab dolu.
 pür-nâr: çok ateşli. çok kızgın. Ateş dolu.
-pür-nâz : çok nazlı.
+pür-nâz : çok nazlı.
 pür-nevâl: çok lütuf ve ihsan. çok çok ihsan etmek, vermek.
 pür-nur: (Bak: Pür-envar)
 pür-paye: Kırkayak.

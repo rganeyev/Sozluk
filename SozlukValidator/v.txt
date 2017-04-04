@@ -16,7 +16,7 @@ vâcîbe: Yapılıp yerine getirilmesi vâcib derecesinde lüzumlu olan şey.
 vacîd(e): Vücuda getiren. * Varlıklı. Fâtır. Gani ve zengin. * Mevcud olan.
 vacîfe: Muztarib olan. Istırab çeken. Korkan. * Sallana sallana yürüyen.
 vacîz(e): Kısa.
-va'd: Söz verme. Söz verilen şey. Bir kimsenin yapacağına veya yapmayacağına dâir söz vermiş olduğu husus. Bir şeyi yapmak veya bir şey için söz vermek va'ddır. Hayır işlenecek iş için masdar "va'd" veya "vaide" dir. îşlenecek şey şer ise; ev'ide denir. Masdarı "îâd: $ " dır. Va'd hayırda, iâd ve vaid şerde kullanıldığına göre; vaid: $ masdarı şerre niyet ettiğini, korkulacak iş işleyeceğini haber vermekle korkutmaktan ibarettir.
+va'd: Söz verme. Söz verilen şey. Bir kimsenin yapacağına veya yapmayacağına dâir söz vermiş olduğu husus. Bir şeyi yapmak veya bir şey için söz vermek va'ddır. Hayır işlenecek iş için masdar "va'd" veya "vaide" dir. îşlenecek şey şer ise; ev'ide denir. Masdarı "îâd: " dır. Va'd hayırda, iâd ve vaid şerde kullanıldığına göre; vaid: masdarı şerre niyet ettiğini, korkulacak iş işleyeceğini haber vermekle korkutmaktan ibarettir.
 vad: Oğul.
 vadade: Reddolunmuş, geri çevrilmiş. Merdud.
 va'de: Bir iş için önceden belli edilen zaman. Bir işi te'hir etmek, sonraya bırakmak için olan belli vakit. * Ecel.
@@ -70,21 +70,21 @@ vahl: Sıvı çamur. Balçık. Tin-i rakik.
 vahl-gâh: Bataklık.
 vahş: (C.: Vuhuş - Vahşân) însandan kaçan, yabani ve ürkek hayvan. * Tenha ve ıssız yer.
 vahşân: (Vahş. C.) Issız, tenha yerler. * Yabani hayvanlar.
-vahşet : (Vahş - Vahiş) Yabanilik. * Issızlık, tenhalık. * Vehim, ürküntü. Korku. Vahşilik. * Tenha, ıssız, korkunç yer. * Elbise ve silâhını çıkarıp atmak. * Aç kimse.
-vahşet-âbâd : Issız, korku ve ürkeklik veren yer.
+vahşet : (Vahş - Vahiş) Yabanilik. * Issızlık, tenhalık. * Vehim, ürküntü. Korku. Vahşilik. * Tenha, ıssız, korkunç yer. * Elbise ve silâhını çıkarıp atmak. * Aç kimse.
+vahşet-âbâd : Issız, korku ve ürkeklik veren yer.
 vahşet-âgîn: çok ıssız, korkulu yer, korkunç.
-vahşet-âmîz : Vahşetle karışık.
-vahşet-âver : Korku veren, ürküten.
-vahşet-engîz : Korkulu.
-vahşet-gâh : Korku yeri. Issız yer.
+vahşet-âmîz : Vahşetle karışık.
+vahşet-âver : Korku veren, ürküten.
+vahşet-engîz : Korkulu.
+vahşet-gâh : Korku yeri. Issız yer.
 vahşet-nâk: Korku veren yer. Issız ve korkulu yer.
-vahşet-zâr : Yabani, ıssız yer.
-vahşîyâne : Vahşice. Vahşiye yakışır şekilde.
-vahşî(ye) : Medeni olmayan. însanlardan kaçan. Alışık ve ehli olmayan. * Merhametsiz, duygusuz. * ürkek, korkak.
+vahşet-zâr : Yabani, ıssız yer.
+vahşîyâne : Vahşice. Vahşiye yakışır şekilde.
+vahşî(ye) : Medeni olmayan. însanlardan kaçan. Alışık ve ehli olmayan. * Merhametsiz, duygusuz. * ürkek, korkak.
 vahşur: Peygamber, nebi.
 vahy: (Bak: Vahiy)
 vahy-î mahz: Kuvvetli ve sarih mertebede olan vahiy. Sırf vahiy olup, içinde Allah'ın bildirdiğinden başka bir şey katılmamış vahiy.
-vahy-î sarîhî : Hem sözü, hem mânası tam vahiy olan. (âyetler ve kudsi hadisler gibi) Resul-ü Ekrem burada sırf tebliğ edendir. Müdahalesi yoktur.
+vahy-î sarîhî : Hem sözü, hem mânası tam vahiy olan. (âyetler ve kudsi hadisler gibi) Resul-ü Ekrem burada sırf tebliğ edendir. Müdahalesi yoktur.
 vahy-î semavî: Beşerin düşünerek yapmasına inkân olmayan, Allah (C.C.) tarafından melek vasıtasıyla Peygambere gönderilen vahiy.
 vahy-î zimnî: Mücmel ve hulâsası vahye ve ilhama istinad eden; tasvirât ve tafsilatı Resul-ü Ekrem'e (A.S.M.) âit olan vahiydir.
 vahz: Sivri bir şey batırarak acıtma. * çimdikleme. * Isırma. * Sokma.
@@ -139,7 +139,7 @@ vâkîb: Ayak üstüne duran kişi.
 vakîh: Hayâsız, utanmaz, edepsiz.
 vakîn: Oturucu, oturan.
 vakîr: Yuvasına girmiş kuş.
-vakkas : Okçu. îyi muharebe eden. Savaşçı.
+vakkas : Okçu. îyi muharebe eden. Savaşçı.
 vakl: Yükselmek. * Bir nesnenin üstüne çıkmak. * Mukul ağacı.
 vakm: Reddetmek. * Hor ve zelil etmek.
 vakne: Her nesnenin azı.
@@ -180,7 +180,7 @@ valîd: (Vilâdet. den) Doğurtan. Baba.
 valîdan: (Bak: Vâlideyn)
 valîdat: (Vâlide. C.) Anneler. Vâlideler.
 valîde: Ana. Doğuran.
-valîdeyn: Ana ile baba. Vâlidân de denir.(Peder ve valideyi, şefkat ile teçhiz eden ve seni onların merhametli elleriyle terbiye ettiren hikmet ve rahmet hesabına onlara hürmet ve muhabbet, Cenâb-ı Hakk'ın muhabbetine aittir. O muhabbet ve hürmet, şefkat, Lillâh için olduğuna alâmeti şudur ki: Onlar ihtiyar oldukları ve sana hiçbir faideleri kalmadığı ve seni zahmet ve meşakkate attıkları zaman, daha ziyade muhabbet ve şefkat etmektir. $âyeti: Beş mertebe hürmet ve şefkate evlâdı dâvet etmesi; Kur'an'ın nazarında valideynin hukukları ne kadar ehemmiyetli ve ukukları, ne derece çirkin olduğunu gösterir. Madem peder; kimseyi değil, yalnız veledinin kendinden daha ziyade iyi olmasını ister. Ona mukabil veled dahi, pedere karşı hak dâva edemez. Demek valideyn ve veled ortasında fıtraten sebeb-i münakaşa yok. Zira münakaşa, ya gıpta ve hasetten gelir. Pederde oğluna karşı o yok. Veya münakaşa haksızlıktan gelir. Veledin hakkı yoktur ki, pederine karşı hak dâva etsin. Pederini haksız görse de, ona isyan edemez. Demek; pederine isyan eden ve onu rencide eden, insan bozması bir canavardır. S.)
+valîdeyn: Ana ile baba. Vâlidân de denir.(Peder ve valideyi, şefkat ile teçhiz eden ve seni onların merhametli elleriyle terbiye ettiren hikmet ve rahmet hesabına onlara hürmet ve muhabbet, Cenâb-ı Hakk'ın muhabbetine aittir. O muhabbet ve hürmet, şefkat, Lillâh için olduğuna alâmeti şudur ki: Onlar ihtiyar oldukları ve sana hiçbir faideleri kalmadığı ve seni zahmet ve meşakkate attıkları zaman, daha ziyade muhabbet ve şefkat etmektir.âyeti: Beş mertebe hürmet ve şefkate evlâdı dâvet etmesi; Kur'an'ın nazarında valideynin hukukları ne kadar ehemmiyetli ve ukukları, ne derece çirkin olduğunu gösterir. Madem peder; kimseyi değil, yalnız veledinin kendinden daha ziyade iyi olmasını ister. Ona mukabil veled dahi, pedere karşı hak dâva edemez. Demek valideyn ve veled ortasında fıtraten sebeb-i münakaşa yok. Zira münakaşa, ya gıpta ve hasetten gelir. Pederde oğluna karşı o yok. Veya münakaşa haksızlıktan gelir. Veledin hakkı yoktur ki, pederine karşı hak dâva etsin. Pederini haksız görse de, ona isyan edemez. Demek; pederine isyan eden ve onu rencide eden, insan bozması bir canavardır. S.)
 valîdîyyet: Annelik ve babalık vasfı.
 vâlîh: Keder ve hüzünle aklı gitmiş, şaşırmış, hayrette kalmış.
 vâlîhâne: şaşkınca.
@@ -227,21 +227,21 @@ vasat-ül hâl: Orta halli, orta halde.
 vasat-ül kame: Orta boylu.
 vasatî: îkisi ortası. Ortalama. Orta halde.
 vasatî saat: Hakiki güneşe tâbi olmak üzere, muntazam hareket ettiği tasavvur olunan mevhum bir güneşin, o yerin nısfun nehârından (meridyeninden) arka arkaya iki defa geçişi arasındaki zamanın yirmi dörtte biri.
-vasf : Sıfat. Bir kimsenin veya şeyin taşıdığı hâl. Bir kimsenin veya şeyin durumunu anlatarak tarif etmek.
-vasf-i tahsînî : Bir şeyin mahiyetini beyan etmekten ziyade lâfzını süslemek için kullanılan sıfatlar. Bunlar haşv-i melih kabilindendir.
-vasfetmek : Bir şeyin vasıflarını, hâlini, şeklini veya rengini tarif etmek, anlatmak.
+vasf : Sıfat. Bir kimsenin veya şeyin taşıdığı hâl. Bir kimsenin veya şeyin durumunu anlatarak tarif etmek.
+vasf-i tahsînî : Bir şeyin mahiyetini beyan etmekten ziyade lâfzını süslemek için kullanılan sıfatlar. Bunlar haşv-i melih kabilindendir.
+vasfetmek : Bir şeyin vasıflarını, hâlini, şeklini veya rengini tarif etmek, anlatmak.
 vasfî (vasfîye): Vasıfla, mahiyetiyle alâkalı. Beyan ve tarife dair.
 vasib: Hasta.
 vasib: Yerinde duran. Sürekli.
-vasif : Vasfeden. Bildiren. * Medheden, öven.
-vasif terkîbî : Gr: Birleşik sıfat. Bir ismin sonuna Farsça bir emir eklenerek yapılan terkib. Meselâ: Zevk-efzâ: Zevk artıran.
+vasif : Vasfeden. Bildiren. * Medheden, öven.
+vasif terkîbî : Gr: Birleşik sıfat. Bir ismin sonuna Farsça bir emir eklenerek yapılan terkib. Meselâ: Zevk-efzâ: Zevk artıran.
 vâsik: (Vüsuk. dan) Güvenen. îtimad eden.
-vâsil : Ulaşan, erişen, kavuşan. Hakka vâsıl olan.
-vâsilûn : (Vâsılin) Hakka, hakikata, marifete ermiş kimseler. Hakka erenler. Yetişenler.
+vâsil : Ulaşan, erişen, kavuşan. Hakka vâsıl olan.
+vâsilûn : (Vâsılin) Hakka, hakikata, marifete ermiş kimseler. Hakka erenler. Yetişenler.
 vâsit: Ortada bulunan. * îkisinin ortası.
 vâsita: îki şeyi birbirine ulaştıran. * Aracı. Arada bulunan. Vasıtalık eden.
 vâsita-î necat: Necat vasıtası. Kurtuluşa sebep.
-vasî : (Vesâyet. den) Bir ölünün vasiyetini yerine getirmeye me'mur edilen kimse. Bir yetimin veya akılca zayıf, hasta olan bir kimsenin malını idare eden kimse.
+vasî : (Vesâyet. den) Bir ölünün vasiyetini yerine getirmeye me'mur edilen kimse. Bir yetimin veya akılca zayıf, hasta olan bir kimsenin malını idare eden kimse.
 vâsî': (Vasia) Geniş, enli. Bol. Engin. Meydanlı. * Her ihtiyacı olana vergisi kâfi ve bol bol ihsan eden. îlmi cümle eşyayı muhit, rızkı bütün mahlukata şâmil ve rahmeti bütün şeyleri kaplamış olan Allah (C.C.)
 vâsî'-î muhîta: Muhitin genişliği.
 vasîd: Kapı eşiği.
@@ -249,14 +249,14 @@ vasîf: (C.: Vusafâ - Vesâif) Hizmetçi, uşak.
 vasîl: Birinden aslâ ayrılmaz kimse.
 vasîle: Geniş yer. * Ucuzluk. * îmaret.
 vasît: Hakem, aracı. * Orta. 
-vasîyet : Bir işi birisine havale etmek. * Emir. * Fık: Bir malı veya menfaatı, ölümden sonrası için bir şahsa veya bir hayır cihetine teberru yolu ile (yani, meccanen) temlik etmek.
+vasîyet : Bir işi birisine havale etmek. * Emir. * Fık: Bir malı veya menfaatı, ölümden sonrası için bir şahsa veya bir hayır cihetine teberru yolu ile (yani, meccanen) temlik etmek.
 vasîyetnâme: Yazılı vasiyet. Bir kimsenin vasiyetini yazmış olduğu kâğıt.
 vasîyy: Yetim gibi güçsüzlerin işleri kendine vazife olarak verilen kimse.
-vasl : âşığın sevdiğine kavuşması. Kavuşmak. * Birleştirmek, ulaştırmak. * Gr: Ulama, ekleme. * Edb: Sözü teşkil eden cümlelerin atıf ve rabt suretiyle birbirine bağlı olarak yazılması usulü ki, buna Sebk-i Mevsul da ta'bir edilir. * Bir kelimenin sonundaki harfi, bir sonraki lâfzın sesli harflerle başlayan ilk hecesine birleştirmek.
+vasl : âşığın sevdiğine kavuşması. Kavuşmak. * Birleştirmek, ulaştırmak. * Gr: Ulama, ekleme. * Edb: Sözü teşkil eden cümlelerin atıf ve rabt suretiyle birbirine bağlı olarak yazılması usulü ki, buna Sebk-i Mevsul da ta'bir edilir. * Bir kelimenin sonundaki harfi, bir sonraki lâfzın sesli harflerle başlayan ilk hecesine birleştirmek.
 vasm(e): Utanacak şey. * Vurmak. (Liyazon yapmak)
 vasmet: Kırıklık, güçsüzlük, halsizlik. * Ayıp, eksiklik.
 vassad: ören, örücü, dokuyan, dokuyucu.
-vassaf : Vasıflarını sayarak medheden. Vasıflandıran. Vasıf ve beyanda ârif ve âlim olan.
+vassaf : Vasıflarını sayarak medheden. Vasıflandıran. Vasıf ve beyanda ârif ve âlim olan.
 vassal: Ulaştıran, vasleden. Birleştiren.
 vasut: Gölgelik. * Sütü sağdıkları kabı dolduran deve.
 vasvas: Kadınların örtündükleri ve ancak gözleri görünecek derecede dar olan yüz örtüsü.
@@ -271,7 +271,7 @@ vaşüde: Defolunmuş, kovulmuş, geri çekilmiş.
 vata': Bir şeyi ayakla çiğneme.
 vataf: Kaşın çok kıllı olması. * Kirpiğin sık ve çok olması.
 vatan: (C.: Evtan) Bir kimsenin doğup büyüdüğü yer. Yurt.
-vatan-i aslî : Bir insanın doğup büyüdüğü veya içinde barınmak kasdedip, başka yere gitmek istemediği yerdir. Yalnız en az 15 gün kalmak istediği yer de kendisi için vatan-ı ikamettir. (Bak: Mukim) * Cennet.
+vatan-i aslî : Bir insanın doğup büyüdüğü veya içinde barınmak kasdedip, başka yere gitmek istemediği yerdir. Yalnız en az 15 gün kalmak istediği yer de kendisi için vatan-ı ikamettir. (Bak: Mukim) * Cennet.
 vatan-i sânî: îkinci vatan. Sonradan yerleşilen yer.
 vatan-i süknâ: Bir misafirin içinde 15 günden az oturmak istediği yerdir. Bu kimse de fıkıhta misafir sayılır.
 vatandaş: Bir devlet ahalisinden ve teb'asından olan.
@@ -316,18 +316,18 @@ vazaat: Alçaklık, âdilik, bayağılık.
 vazah: Beyaz ve güzel yüzlü adam.
 vazahat: Açıklık, vâzıhlık.
 vazaîf: (Vazife. C.) Vazifeler, işler.
-vaz'an : Vaz' ile, vaziyeti, durumu itibariyle, yerleştirmek suretiyle. * Asıl lügat mânası cihetinden.
+vaz'an : Vaz' ile, vaziyeti, durumu itibariyle, yerleştirmek suretiyle. * Asıl lügat mânası cihetinden.
 vâzi': (Vazıa) Koyan. Yerleştiren. Vaz' eden.
 vâzi-i kanun: Kanun koyan. Kanun yerleştiren. Kanun hazırlayan.
 vâzi-ul yed: El koyan. Eline alan. Bir malı eline geçirmiş olan.
 vâzih: Açık, ayan, âşikâr. Besbelli. Kapalı olmayan. * Edb: Vuzuhlu söz. Bir okunuşta mânâsı anlaşılacak ifâde.
-vâzihan : Açık olarak. Açıkça. Açık açık. Aşikâr surette.
+vâzihan : Açık olarak. Açıkça. Açık açık. Aşikâr surette.
 vâzihât: (Vâzıh. C.) Açık ve meydanda olan şeyler.
 vazî': (Vazia) Alçak, deni, bayağı, âdi.
-vazîfe: Bir kimsenin yapmaya mecbur olduğu iş. Yapılması birisine havale edilen şey. Kıymet verilen iş. * ücret.(Tarik-ı Hakta çalışan ve mücahede edenler, yalnız kendi vazifelerini düşünmek lâzım gelirken, Cenab-ı Hakk'a aid vazifeyi düşünüp, harekâtını ona bina ederek hataya düşerler.Meşhurdur ki: Bir zaman îslâm kahramanlarından ve Cengiz'in ordusunu müteaddit defa mağlup eden Celâleddin-i Harzemşah harbe giderken, vüzerası ve etbaı ona demişler: "Sen muzaffer olacaksın; Cenab-ı Hak seni galip edecek." O demiş." Ben Allah'ın emriyle cihad yolunda hareket etmeye vazifedarım, Cenab-ı Hakk'ın vazifesine karışmam; muzaffer etmek veya mağlub etmek onun vazifesidir." îşte o zât bu sırr-ı teslimiyeti anlamasıyla hârika bir surette çok defa muzaffer olmuştur.üstad-ı Mutlak, Mukteda-yı Küll, Rehber-i Ekmel olan Resul-ü Ekrem Aleyhissalâtü Vesselâm $ olan ferman-ı îlâhiyi kendine rehber-i mutlak ederek, insanların çekilmesiyle ve dinlememesiyle daha ziyade sa'y-ü gayret ve ciddiyetle tebliğ etmiş. çünki $ sırrıyla anlamış ki: însanlara dinlettirmek ve hidayet vermek, Cenab-ı Hakk'ın vazifesidir. Cenab-ı Hakk'ın vazifesine karışmazdı. L.)
+vazîfe: Bir kimsenin yapmaya mecbur olduğu iş. Yapılması birisine havale edilen şey. Kıymet verilen iş. * ücret.(Tarik-ı Hakta çalışan ve mücahede edenler, yalnız kendi vazifelerini düşünmek lâzım gelirken, Cenab-ı Hakk'a aid vazifeyi düşünüp, harekâtını ona bina ederek hataya düşerler.Meşhurdur ki: Bir zaman îslâm kahramanlarından ve Cengiz'in ordusunu müteaddit defa mağlup eden Celâleddin-i Harzemşah harbe giderken, vüzerası ve etbaı ona demişler: "Sen muzaffer olacaksın; Cenab-ı Hak seni galip edecek." O demiş." Ben Allah'ın emriyle cihad yolunda hareket etmeye vazifedarım, Cenab-ı Hakk'ın vazifesine karışmam; muzaffer etmek veya mağlub etmek onun vazifesidir." îşte o zât bu sırr-ı teslimiyeti anlamasıyla hârika bir surette çok defa muzaffer olmuştur.üstad-ı Mutlak, Mukteda-yı Küll, Rehber-i Ekmel olan Resul-ü Ekrem Aleyhissalâtü Vesselâm olan ferman-ı îlâhiyi kendine rehber-i mutlak ederek, insanların çekilmesiyle ve dinlememesiyle daha ziyade sa'y-ü gayret ve ciddiyetle tebliğ etmiş. çünki sırrıyla anlamış ki: însanlara dinlettirmek ve hidayet vermek, Cenab-ı Hakk'ın vazifesidir. Cenab-ı Hakk'ın vazifesine karışmazdı. L.)
 vazîfedâr: (C.: Vazifedârân) Vazifeli, görevli. * Memur.
 vazîfehâr: (C.: Vazifehârân) ücret alan.
-vazîfeşînâs : îşini dikkatle yapan. Vazifesini özenerek, severek yapan.
+vazîfeşînâs : îşini dikkatle yapan. Vazifesini özenerek, severek yapan.
 vazîfeten: Vazife ile, vazife olarak.
 vazîh(a): (Vuzuh. dan) Meydanda, apaçık.
 vâzîr: (Vâzire) Günah işleyen. Suç işleyen.
@@ -356,11 +356,11 @@ vech: (Vecih) Yüz, çehre, surat. * Tarz, üslub. * Her şeyin karşısına gel
 vech-î âhar: Başka sebeple.
 vech-î dîkkat: Dikkat ve ferasetle.
 vech-î mâ: Bir sebepten dolayı.
-vech-î meşruh : şerh edilen, açıklanan tarzda.
-vech-î şebeh : Edb: Bir şeyin başka bir şeye neden benzediğini anlatan söz. (Bak: Teşbih)
+vech-î meşruh : şerh edilen, açıklanan tarzda.
+vech-î şebeh : Edb: Bir şeyin başka bir şeye neden benzediğini anlatan söz. (Bak: Teşbih)
 vech-ül arz: Yeryüzü.
 veche: Yan, taraf. Yüz.
-vechen : Bir vechiyle. Bir suretle. Bir bakımdan.
+vechen : Bir vechiyle. Bir suretle. Bir bakımdan.
 vechen mîn-el vücuh: Hiçbir suretle.
 vecheyn: îki taraf, iki yan, iki yüz.
 vechî: (Vechiye) Yüz ile ilgili.
@@ -462,7 +462,7 @@ veka': Ayak parmaklarından baş parmağın, şehâdet parmağı üstüne gelmes
 vekad: Sığır bağladıkları ip.
 vekahat: Hayâsızlık. Utanmazlık. Edebsizlik. (Bak: Vakahat)
 vekâlet: Vekillik. Birisinin nâmına iş görme. Kendi nâmına hareket etme salâhiyetini başkasına verme. Nezâret, bakanlık. * Vekilin vazife gördüğü bina.
-vekâleten : Birisine vekil olarak. Başkası adına.
+vekâleten : Birisine vekil olarak. Başkası adına.
 vekâletnâme: Birisine vekillik verildiğini isbat eden ve ekseriya noterlikçe tanzim edilmiş bulunan yazılı kâğıt.
 vekâletpenâh: Padişahın vekili olan, sadrâzam. Başvekil. Başbakan.
 vekar: (Bak: Vakar)
@@ -502,7 +502,7 @@ velb: Ulaşmak, varmak.
 velec: Kumlu yerde olan yol.
 veled: Erkek çocuk. Oğul. çocuk. * Döl, yavru.
 veled-î manevî: Evlâdlığa kabul edilen, âhiret evlâdı. Bir hocanın talebesi. Mürid.
-veled-î sulbî : öz oğul, evlenmekle hâsıl olan kendi soyundan gelen çocuk.
+veled-î sulbî : öz oğul, evlenmekle hâsıl olan kendi soyundan gelen çocuk.
 veledîyet: Birisinin evlâdı olma hâli. çocuk oluş.
 veledîyet akîdesî: Hristiyanlıkta bir bâtıl akide. (Bak: Teslis)(îslâmiyet, tevhid-i hakiki dinidir ki; vasıtaları, esbabları ıskat ediyor. Enaniyeti kırıyor, ubudiyet-i hâlisa te'sis ediyor. Nefsin rububiyetinden tut, tâ her nevi rububiyet-i bâtılayı kat'ediyor, reddediyor. Bu sır içindir ki; havastan bir büyük insan tam dindar olsa enâniyeti terketmeye mecbur olur. Enaniyeti terketmiyen, salâbet-i diniyeyi ve kısmen de dinini terkeder.şimdiki Hristiyanlık dini ise; "Velediyet Akidesi"ni kabul ettiği için, vesait ve esbaba te'sir-i hakiki verir. Din nâmına enaniyeti kırmaz; belki Hazret-i îsâ Aleyhisselâm'ın bir mukaddes vekili diye, o enaniyete bir kudsiyet verir. Onun için, dünyaca en büyük makam işgal eden Hristiyan havasları, tam dindar olabilirler. Hattâ Amerika'nın esbak Reis-i Cumhuru Wilson ve îngiliz esbak Reis-i Vükelâsı Loid George gibi çoklar var ki, mutaassıb birer papaz hükmünde dindar oldular. Müslümanlarda ise, öyle makamlara girenler, nâdiren tam dindar ve salâbetli kalırlar. çünki, gururu ve enaniyeti bırakamıyorlar. Takvâ-yı hakiki ise, gurur ve enaniyetle içtima edemiyor. M.)
 veleh: Kahr, gazab, şiddet, hışım.
@@ -560,7 +560,7 @@ venîm: Sinek tersi.
 venn: Zebunluk, zayıflık, zaaf. * çengilerin ve köçeklerin parmaklarıyla çaldıkları çalpara.
 vennecmî: Yıldıza yemin olsun.
 veny: îş hususunda gevşeklik gösterme.
-ver: "Sahib, mâlik; anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Dâniş-ver $: âlim. Suhan-ver $: Edip, şâir.
+ver: "Sahib, mâlik; anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Dâniş-ver: âlim. Suhan-ver: Edip, şâir.
 ver'a: Korkaklık, havf.
 vera: Halk. Mahluk. Arzı örten mahlukat. Yaratılmış olanlar.
 vera: öte. Başka taraf. Arka, geri. * Torun.
@@ -618,7 +618,7 @@ vesak: Bağ. Rabıta. Yeminleşerek anlaşmak. * Sözleşme yeri.
 vesam: (Vesâmet) Güzel olma. Güzellik.
 vesatet: Vâsıta olma, araya girme, aracılık yapma.
 vesavîs: (Vesvese. C.) Vesveseler.
-vesaya : (Vasiyet. C.) Vasiyetler. öğütler. Nasihatlar.
+vesaya : (Vasiyet. C.) Vasiyetler. öğütler. Nasihatlar.
 vesayet: (Visâyet) Vasilik. * Vasiyet. * Tembih, emir. Tavsiye. (Bak: Vasi)
 vesb: çok olmak.
 vesbe: Bir atlama. Bir sıçrayış.
@@ -655,7 +655,7 @@ vestîyer: Fr. Pardesü, palto vesairenin çıkartılıp bırakıldığı yer.
 vesvas: Müvesvis. Vesveseye sürükleyen şeytan. Nefsin zihinde ilka eylediği dağdağa ve fitne. Avcının ve köpeklerin gizli sesi.
 vesvese: şübhe. Tereddüt. Kuruntu. Aslı olmayan ihtimaller.(Vesvese, lügatta hışırtı, fısıltı gibi gizli ses demektir. Bu münasebetle gönülde tevali ve tekerrür eden gizli söze vesvese; ve bir nefse böyle bir söz ilka etmeğe de, vesvese vermek tâbir olunur.) (E.T.)(Arkadaş! Vesvese ve evham zulmetleri içinde yürürken, Resul-ü Ekrem Aleyhissalâtü Vesselâmın sünnetleri birer yıldız, birer lâmba vazifesini gördüklerini gördüm. Her bir sünnet veya bir hadd-i şer'i zulmetli dalâlet yollarında güneş gibi parlıyor. O yollarda, insan zerre miskal o sünnetlerden inhiraf ve udul ederse; şeytanlara mel'abe, evhama merkeb, ehval ve korkulara ma'rez ve dağlar kadar ağır yüklere matiyye olacaktır.Ve keza o sünnetleri, sanki semadan tedelli ve tenezzül eden ipler gibi gördüm ki: Onlara temessük eden yükselir, saadetlere nâil olur. Muhalefet edip de akla dayananlar ise, uzun bir minâre ile semaya çıkmak hamakatinde bulunan firavun gibi bir firavun olur. M.N.)(Ey su-i vesveseden me'yus nefsim! Tedai-yi hayâlât, tahattur-u faraziyat, bir nevi irtisam-ı gayr-ı ihtiyaridir. îrtisam ise, eğer hayırdan ve nuraniyetten olsa, hakikatın hükmü bir derece suretine ve misaline geçer. Güneşin ziyası ve harareti, âyinedeki misaline geçtiği gibi... Eğer şerden ve kesiften olsa, aslın hükmü ve hassası, suretine geçmez ve timsaline sirayet etmez. Meselâ necis ve murdar bir şeyin âyinedeki sureti ne necistir, ne murdardır. Ve yılanın timsali, ısırmaz.îşte şu sırra binaen, tasavvur-u küfür, küfür değil; tahayyül-ü şetm, şetm değil. Hususan ihtiyarsız olsa ve farazi bir tahattur olsa, bütün bütün zararsızdır. Hem ehl-i hak olan Ehl-i Sünnet ve Cemaatin mezhebinde bir şey'in şer'an çirkinliği, pisliği; nehy-i îlâhi sebebiyledir. Mâdemki ihtiyarsız ve rızasız bir tahattur-u farazidir, bir tedâi-yi hayalidir; nehiy ona taalluk etmez. O dahi ne kadar çirkin ve pis şeyin sureti dahi olsa, çirkin ve pis olmaz. M.)(însan kalben ve fikren hakaik-i îlâhiyeye bakıp düşündüğü zaman, bilhassa namaz ve ibadet esnasında, gerek şeytan tarafından, gerek nefsi tarafından pek fena, pis ve çirkin vesveseler, hâtıralar, sinekler gibi kalbe, akla hücum ederler. Bu gibi hevâi, vehmi ve çirkin şeylerin def'iyle uğraşan adam, o vesveselere mağlup olur. Ancak onları mağlup edip kaçırmak çaresi, müdafaayı terk edip onlar ile uğraşmamaktır. Evet arılar ile uğraşıldıkça onlar hücumlarını arttırırlar. Onlara karışılmadığı takdirde, insanı terkeder, giderler. Hem de o gibi vesveselerin, ne hakaik-ı îlâhiyeye ve ne de senin kalbine bir mazarratı yoktur. Evet, pis bir menzilin deliklerinden semânın güneş ve yıldızlarına, cennetin gül ve çiçeklerine bakılırsa, o deliklerdeki pislik ne bakana ve ne de bakılana bulaşmaz. Ve fena bir te'sir etmez. (Hâşiye)(Hâşiye): O çirkin sözler senin kalbinin sözleri değil. çünkü senin kalbin ondan müteessir ve müteessiftir. Belki kalbe yakın olan lümme-i şeytaniden geliyor. Meselâ: Sen namazda, Kâbe karşısında, huzur-u îlâhide âyâtı tefekkürde olduğun bir halde, şu tedâi-yi efkâr seni tutup en uzak mâlâyâniyat-ı rezileye sevkeder. Meselâ: Ayinenin içindeki yılanın timsali ısırmaz. Ateşin misali yakmaz. Ve necasetin görünmesi âyineyi telvis etmez. M.N.)
 vesvesedâr: Vesveseli, kuruntulu.
-veş : Gibi (mânâsına teşbih edatı.) Mah-veş $: Ay gibi.
+veş : Gibi (mânâsına teşbih edatı.) Mah-veş: Ay gibi.
 veş': Bir şeyin üstüne çıkmak.
 veşak: Dağ köpeği.
 veşb: Ayıplamak.
@@ -673,13 +673,13 @@ veşk: Yaralamak. * Parçalamak.
 veşk (vîşâk): Evmek, acele etmek, sür'at.
 veşkan: Hızlı ve aceleci kimse.
 veşl: Az miktarda olan su.
-veşm : îğne ile kan çıkarmak suretiyle vücudda yapılan damga, işaret.
+veşm : îğne ile kan çıkarmak suretiyle vücudda yapılan damga, işaret.
 veşme: Yağmur tanesi.
-veşşemsî suresî : Kur'an-ı Kerim'in 91. suresidir. Suret-üş şems de denir. Mekke-i Mükerreme'de nazil olmuştur.
+veşşemsî suresî : Kur'an-ı Kerim'in 91. suresidir. Suret-üş şems de denir. Mekke-i Mükerreme'de nazil olmuştur.
 veşt: Güzel.
 veşvaş: Hafif hal. Hafif adam.
 veşveşe: Hafiflik. * Kırış mırış olmak.
-veşy : Elbiseyi güzel nakışlamak, süslemek. * Nesil ve zürriyet. * çoğalma. * Geceleyin devamlı tefekkür ve mütalâa etmek. * Bir çeşit elbise.
+veşy : Elbiseyi güzel nakışlamak, süslemek. * Nesil ve zürriyet. * çoğalma. * Geceleyin devamlı tefekkür ve mütalâa etmek. * Bir çeşit elbise.
 veşz: Kırmak. * Dar etmek, darlaştırmak.
 vetaîr: (Vetire. C.) Meslekler, yollar.
 veted: çadır kazığı. Ağaç kazık. Demir mıh. * Edb: Aruzda üç harfden meydana gelen nazım.
@@ -718,7 +718,7 @@ vezîz: ördek.
 vezk: çirkin yürüyüşlü olmak.
 vezme: Kış sonu. * Bir kere yemek. 
 vezn: (Vezin) Tartma. ölçme. Hesaplama. * Tartacak şey. Tartı. * Ağırlık.
-vezn-î mahsus : özgül ağırlık. Bir cismin bir santimetre küp hacmindeki parçasının ağırlığı. * Edb: Nazmın veya kelimenin belli kalıplarından her biri. Nazmın ahenk ölçüsü.
+vezn-î mahsus : özgül ağırlık. Bir cismin bir santimetre küp hacmindeki parçasının ağırlığı. * Edb: Nazmın veya kelimenin belli kalıplarından her biri. Nazmın ahenk ölçüsü.
 vezne: Tartı. Terazi. * Tartı yeri. Eskiden altun ve gümüş paralar sayı ile olduğu gibi tartıyla da alınıp verildiği için bu tabir meydana gelmiştir. Para alınıp verilen yer mânasında da kullanılır. Devlet daireleri ile büyük müesseselerde para alıp veren memura Veznedar denir. * Barut yuvası.
 veznedâr: Vezne memuru. Bir teşkilâta âit parayı alıp veren memur.
 veznî: Vezinle ilgili, vezne ait. * Tartılan şey.
@@ -741,14 +741,14 @@ vîata: (C: Viât) Sarı gül.
 vîca': Ağrılar, sızılar.
 vîca': Hayvanı burma, iğdiş etme.
 vîcah: (Vech. den) Yüz yüze gelmek. Yüzleşmek.
-vîcahen : Yüzüne karşı. Yüz yüze gelerek.
+vîcahen : Yüzüne karşı. Yüz yüze gelerek.
 vîcahî: (Vicahiyye) Yüzyüze olan, karşılıklı olan.
 vîcar: (C.: Vücur - Evcire) Sel suyunun oyduğu yer. * Arslan ve kurt gibi vahşi hayvanların yatağı. în.
 vîcd: Zenginlik. Gına.
 vîcdan: însanın içindeki iyiyi kötüden ayırabilen ve iyilik etmekten lezzet duyan ve kötülükten elem alan manevi his. * Kendinden geçme, dalma. * Bir şeyi bir halde görme, bulma. * Duyma, duygu. * înanç. * şuur. * Bâtın ile Hakkı tanımak. * Din.(Vicdanın anâsır-ı erbaası ve ruhun dört havassı olan irade, zihin, his, lâtife-i Rabbaniye, herbirinin bir gayât-ül gayâtı var: îradenin ibadetullâhdır. Zihnin ma'rifetullahdır. Hissin muhabbetullahdır. Lâtifenin müşâhedetullâhtır. Takva denilen ibadet-i kâmile dördünü tazammun eder. şeriat şunları hem tenmiye, hem tehzib, hem bu gayât-ül gayâta sevkeder. H.)
 vîcdan hürrîyetî: (Bak: Hürriyet-i vicdan)
-vîcdan-suz : Acı ve keder veren, kalb yakan, vicdânen çok ıztırab verici.
-vîcdanen : Vicdanca, iyilik hissine göre.
+vîcdan-suz : Acı ve keder veren, kalb yakan, vicdânen çok ıztırab verici.
+vîcdanen : Vicdanca, iyilik hissine göre.
 vîcdanî: (Vicdaniyye) Vicdanla, kalbi his ile ilgili. * Kendinden geçip dalmakla ilgili.
 vîcdanîyyat: Vicdanlılıklar. Vicdana ait hususiyetler ve hisler.(î'lem eyyühel aziz! Hayrat ve hasenatın hayatı niyet iledir. Fesadı da ucb, riyâ ve gösteriş iledir. Ve fıtri olarak vicdanda şuur ile bizzat hissedilen vicdaniyatın esası, ikinci bir şuur ve niyet ile inkıtâ bulur.Nasıl ki amellerin hayatı niyet iledir. Onun gibi, niyet bir cihetle fıtri ahvâlin ölümüdür. Meselâ: Tevazua niyet, onu ifsad eder, tekebbüre niyet onu izâle eder, feraha niyet onu uçurur, gam ve kedere niyet onu tahfif eder. Ve hâkezâ kıyas et. M.N.)
 vîdad: Dostluk. Sevmek. Muhabbet. * Dost ve muhib. * Her şeye muhabbeti olan.
@@ -773,7 +773,7 @@ vîlakâr: Ahbab, dost.
 vîlaperver: Dost, muhib.
 vîlayat: (Vilayet. C.) Vilayetler.
 vîlayet: Bir şeyi kudretle elde etme. * îl. * Birisine kefil olmak. * Dostluk. Muhabbet.
-vîldan: (Velid. C.) çocuklar. * Kullar. Köleler.(Kur'an-ı Hakim'de $ sırrı ve meâli şudur ki: Mü'minlerin kabl-el-büluğ vefat eden evlâdları, Cennet'te ebedi, sevimli, Cennet'e lâyık bir surette dâimi çocuk kalacaklarını.. ve Cennet'e giden peder ve vâlidelerinin kucaklarında ebedi medar-ı sürurları olacaklarını.. ve çocuk sevmek ve evlâd okşamak gibi en lâtif bir zevki, ebeveynine te'mine medar olacaklarını.. ve her bir lezzetli şey'in Cennet'te bulunduğunu.. "Cennet tenasül yeri olmadığından, evlâd muhabbeti ve okşaması olmadığı" nı diyenlerin hükümleri hakikat olmadığını.. hem dünyada on senelik kısa bir zamanda teellümatla karışık evlâd sevmesine ve okşamasına bedel sâfi, elemsiz milyonlar sene ebedi evlâd sevmesini ve okşamasını kazanmak, ehl-i imanın en büyük bir medar-ı saâdeti olduğunu şu âyet-i kerime $ cümlesiyle işaret ediyor ve müjde veriyor. M.)
+vîldan: (Velid. C.) çocuklar. * Kullar. Köleler.(Kur'an-ı Hakim'de sırrı ve meâli şudur ki: Mü'minlerin kabl-el-büluğ vefat eden evlâdları, Cennet'te ebedi, sevimli, Cennet'e lâyık bir surette dâimi çocuk kalacaklarını.. ve Cennet'e giden peder ve vâlidelerinin kucaklarında ebedi medar-ı sürurları olacaklarını.. ve çocuk sevmek ve evlâd okşamak gibi en lâtif bir zevki, ebeveynine te'mine medar olacaklarını.. ve her bir lezzetli şey'in Cennet'te bulunduğunu.. "Cennet tenasül yeri olmadığından, evlâd muhabbeti ve okşaması olmadığı" nı diyenlerin hükümleri hakikat olmadığını.. hem dünyada on senelik kısa bir zamanda teellümatla karışık evlâd sevmesine ve okşamasına bedel sâfi, elemsiz milyonlar sene ebedi evlâd sevmesini ve okşamasını kazanmak, ehl-i imanın en büyük bir medar-ı saâdeti olduğunu şu âyet-i kerime cümlesiyle işaret ediyor ve müjde veriyor. M.)
 vîlde: (Veled. C.) Erkek evlâdlar, çocuklar, oğullar.
 vîle: Yüksek ses.
 vîn: Siyah üzüm. * Boya, renk.
@@ -791,7 +791,7 @@ vîsab: Yatak, döşek. * Atlama, sıçrama.
 vîsad(e): Dayanıp rahat edilecek yastık veya şilte.
 vîsâdenîşîn: Yastığa yaslanıp oturan.
 vîsak: Kuvvetli, kalın bağ. * Yeminle söz vermeler. Muahedeler. * Peyman.
-vîsal : (Vasıl. dan) Vâsıl olma. Sevdiğine ulaşma. Kavuşma. Ayrılıktan kurtulma.(Fâni mevcudatın visali, madem fanidir, ne kadar uzun da olsa yine kısa hükmündedir. Senesi bir saniye gibi geçer. Hasretli bir hayal ve esefli bir rüya olur. L.) öyle ise Bâki'nin yolunda çalışmak lâzım gelir.
+vîsal : (Vasıl. dan) Vâsıl olma. Sevdiğine ulaşma. Kavuşma. Ayrılıktan kurtulma.(Fâni mevcudatın visali, madem fanidir, ne kadar uzun da olsa yine kısa hükmündedir. Senesi bir saniye gibi geçer. Hasretli bir hayal ve esefli bir rüya olur. L.) öyle ise Bâki'nin yolunda çalışmak lâzım gelir.
 vîsam: (Vesim. C.) Damgalılar. Alâmetlenmiş olanlar. * Güzel yüzlü olanlar. * Rastıklılar.
 vîsata: Kavim arasında şerefli ve aziz olmak.
 vîsaye: Vasiyet etmek.
@@ -817,7 +817,7 @@ vufud: Gelme, geliş.
 vufur: Bolluk, çokluk, kesret.
 vuhufet: Kılın yumuşak ve çok siyah olması. * çok fazla kıllı oluş, çok kıllılık.
 vuhul: (Vahal. C.) çamurlu yerler. Bataklıklar.
-vuhuş : (Vahş. C.) Vahşiler, yabaniler, ehlileşmemiş olanlar.
+vuhuş : (Vahş. C.) Vahşiler, yabaniler, ehlileşmemiş olanlar.
 vuku': Düşme, rastlama. * Olma, oluş. * Gidip çatma. * Bir hadisenin çıkış şekli, cereyânı.
 vuku'-î hâl: Bir hâdisenin çıkış ve oluş şekli.
 vukuat: (Vak'a. C.) Vak'alar, hâdiseler. * Kavga. Yaralama gibi polisi alâkalandıran hâdise. * Normal dışında olan hâdiseler.(Verilen bütün vücud mertebeleri vukuattır, birer illet ister. Fakat, verilmeyen mertebeler; imkânattır. îmkânat ise ademdir, hem nihayetsizdir. Ademler ise illet istemezler, nihayetsize illet olamaz. Meselâ madenler diyemezler: "Niçin nebati olmadık?" şekva edemezler. M.)
@@ -828,12 +828,12 @@ vukuka: Tavuk gıdaklaması. * Köpek havlaması.
 vusafa: (Vasif. C.) Hizmetçiler, uşaklar.
 vuska: (Bak: Vüska)
 vusla: Bir şeyi başka bir şeye ekleyen, bitiştiren şey.
-vuslat : Visal. Sevdiğine kavuşma, ulaşma, bitişme. Bitiştiren.
+vuslat : Visal. Sevdiğine kavuşma, ulaşma, bitişme. Bitiştiren.
 vusta: (Müe.) Orta. Ortası. * Orta parmak.
 vusu': Kudret, tâkat, güç, kuvvet.
 vusub: Dâim ve sürekli olmak. * Vâcip olmak.
 vusuk: (Visâk ve Vesâk. C.) Bağlar, râbıtalar. * Sözleşme yerleri. * Andlaşmalar.
-vusul : Ulaşma, erişme, varma, yetişme.
+vusul : Ulaşma, erişme, varma, yetişme.
 vuu': Tilki.
 vuud: Vaidler. Vâdeler.
 vuul: şerefliler. * Kuvvetliler.
@@ -844,13 +844,13 @@ vuzuh: Açıklık. Açık ve anlaşılır şekilde olmak. Netlik. * Aydınlık. 
 vücub: Vâcib ve lâzım olmak. * Sâbit olmak. * Sukut ve vuku. * Sübut ve temekkün cihetiyle lâzım olmak. Bırakılması mümkün olmamak. * Güneşin batması. * Muztarib olmak.
 vücub-u zekât: Zekâtın vacib, şart oluşu. * Verilmesi Allah tarafından emredilmiş olan zekât.
 vücubî: Vücuba ait ve onunla alâkalı. * Müsbet.
-vücud: Varlık. Var olmak. Bulunmak. * Cesed, cisim, ten, gövde.(Vücud mertebeleri muhteliftir. Ve vücud âlemleri ayrı ayrıdır. Ayrı ayrı oldukları için, vücudda rüsuhu bulunan bir tabaka-i vücudun bir zerresi, o tabakadan daha hafif bir tabaka-i vücudun bir dağı kadardır ve o dağı istiab eder. Meselâ: âlem-i şehadetten olan kafadaki hardal kadar kuvve-i hâfıza âlem-i mânadan bir kütübhane kadar vücudu içine alır. Ve âlem-i hâriciden olan tırnak kadar bir âyine-i vücudun, âlem-i misal tabakasından koca bir şehri içine alır. Ve o âlem-i hâriciden olan o âyine ve o hâfızanın şuurları ve kuvve-i icâdiyeleri olsaydı, bir zerrecik vücud-u hâricileri kuvvetiyle, o vücud-u mânevide ve misâlide hadsiz tasarrufat ve tahavvülât yapabilirlerdi. Demek vücud rüsuh peyda ettikçe, kuvvet ziyadeleşir; az bir şey, çok hükmüne geçer. Hususan vücud rusuh-u tam kazandıktan sonra, maddeden mücerred ise, kayıt altına girmezse; o vakit cüz'i bir cilvesi, sair hafif tabakat-ı vücudun çok âlemlerini çevirebilir.îşte $ şu kâinatın Sâni'-i Zülcelâli vâcib-ül-vücuddur. Yâni: O'nun vücudu zâtidir, ezelidir, ebedidir, ademi mümteni'dir, zevali muhaldir ve tabakat-ı vücudun en râsihi, en esaslısı, en kuvvetlisi, en mükemmelidir. Sâir tabakat-ı vücud, O'nun vücuduna nisbeten gayet zaif bir gölge hükmündedir. Ve o derece vücud-u Vâcib râsih ve hakikatlı ve vücud-u mümkinat o derece hafif ve zaiftir ki; Muhyiddin-i Arabi gibi çok ehl-i tahkik, sâir tabakat-ı vücudu, evham ve hayal derecesine indirmişler: $ demişler. Yâni: Vücud-u Vâcib'e nisbeten başka şeylere vücud denilmemeli; onlar, vücud ünvanına lâyık değillerdir diye hükmetmişler. M.)(Vücudun en kuvvetli mertebesi olan "Vücub" un; ve vücudun en sebatlı derecesi olan maddeden tecerrüdün; ve vücudun zevalden en uzak tavrı olan "mekândan münezzehiyet" in; ve vücudun en sağlam ve tegayyürden ve ademden en mukaddes sıfatı olan "vahdet"in sâhibi "Zât-ı Vâcib-ül Vücud"un en has hassası ve lâzım-ı zâtisi olan ezeliyyeti ve sermediyyeti, vücudun en zayıf mertebesi ve en incecik derecesi ve en mütegayyir, mütehavvil tavrı ve en ziyâde mekâna yayılmış olan hadsiz kesretli bir maddi madde olan esir ve zerrat gibi şeylere vermek ve onlara ezeliyyet isnad etmek ve onları ezeli tasavvur etmek ve kısmen âsâr-ı îlâhiyyenin onlardan neş'et ettiğini tevehhüm etmek, ne kadar hilâf-ı hakikat ve vakıa muhalif ve akıldan uzak ve bâtıl bir fikir olduğu, Risale-i Nur'un müteaddid cüzlerinde kat'i bürhanlarla gösterilmiştir. L.)(Vücud ise; birincisi mümeyyize, ikincisi muhassısa, üçüncüsü müreccihe olmak üzere ilim, irade, kudret sıfatlarını istilzam eder. î.î.)
+vücud: Varlık. Var olmak. Bulunmak. * Cesed, cisim, ten, gövde.(Vücud mertebeleri muhteliftir. Ve vücud âlemleri ayrı ayrıdır. Ayrı ayrı oldukları için, vücudda rüsuhu bulunan bir tabaka-i vücudun bir zerresi, o tabakadan daha hafif bir tabaka-i vücudun bir dağı kadardır ve o dağı istiab eder. Meselâ: âlem-i şehadetten olan kafadaki hardal kadar kuvve-i hâfıza âlem-i mânadan bir kütübhane kadar vücudu içine alır. Ve âlem-i hâriciden olan tırnak kadar bir âyine-i vücudun, âlem-i misal tabakasından koca bir şehri içine alır. Ve o âlem-i hâriciden olan o âyine ve o hâfızanın şuurları ve kuvve-i icâdiyeleri olsaydı, bir zerrecik vücud-u hâricileri kuvvetiyle, o vücud-u mânevide ve misâlide hadsiz tasarrufat ve tahavvülât yapabilirlerdi. Demek vücud rüsuh peyda ettikçe, kuvvet ziyadeleşir; az bir şey, çok hükmüne geçer. Hususan vücud rusuh-u tam kazandıktan sonra, maddeden mücerred ise, kayıt altına girmezse; o vakit cüz'i bir cilvesi, sair hafif tabakat-ı vücudun çok âlemlerini çevirebilir.îşte şu kâinatın Sâni'-i Zülcelâli vâcib-ül-vücuddur. Yâni: O'nun vücudu zâtidir, ezelidir, ebedidir, ademi mümteni'dir, zevali muhaldir ve tabakat-ı vücudun en râsihi, en esaslısı, en kuvvetlisi, en mükemmelidir. Sâir tabakat-ı vücud, O'nun vücuduna nisbeten gayet zaif bir gölge hükmündedir. Ve o derece vücud-u Vâcib râsih ve hakikatlı ve vücud-u mümkinat o derece hafif ve zaiftir ki; Muhyiddin-i Arabi gibi çok ehl-i tahkik, sâir tabakat-ı vücudu, evham ve hayal derecesine indirmişler: demişler. Yâni: Vücud-u Vâcib'e nisbeten başka şeylere vücud denilmemeli; onlar, vücud ünvanına lâyık değillerdir diye hükmetmişler. M.)(Vücudun en kuvvetli mertebesi olan "Vücub" un; ve vücudun en sebatlı derecesi olan maddeden tecerrüdün; ve vücudun zevalden en uzak tavrı olan "mekândan münezzehiyet" in; ve vücudun en sağlam ve tegayyürden ve ademden en mukaddes sıfatı olan "vahdet"in sâhibi "Zât-ı Vâcib-ül Vücud"un en has hassası ve lâzım-ı zâtisi olan ezeliyyeti ve sermediyyeti, vücudun en zayıf mertebesi ve en incecik derecesi ve en mütegayyir, mütehavvil tavrı ve en ziyâde mekâna yayılmış olan hadsiz kesretli bir maddi madde olan esir ve zerrat gibi şeylere vermek ve onlara ezeliyyet isnad etmek ve onları ezeli tasavvur etmek ve kısmen âsâr-ı îlâhiyyenin onlardan neş'et ettiğini tevehhüm etmek, ne kadar hilâf-ı hakikat ve vakıa muhalif ve akıldan uzak ve bâtıl bir fikir olduğu, Risale-i Nur'un müteaddid cüzlerinde kat'i bürhanlarla gösterilmiştir. L.)(Vücud ise; birincisi mümeyyize, ikincisi muhassısa, üçüncüsü müreccihe olmak üzere ilim, irade, kudret sıfatlarını istilzam eder. î.î.)
 vücud-u hârîcî: Zâhir, ademden çıkmış olan. îlmi vücuddan âlem-i şehadete gelmiş olan. Maddi varlık, cismani eşya.
 vücud-u hîssî: His ile bilinen vücud. Hisse aid vücud, varlık. Duygulu cesed.
 vücud-u îlmî: îlmi varlık.(Vücud-u ilmi, hayat-ı umumiyenin ma'nevi bir cilvesine mazhardır ki, mukadderat-ı hayatiye o ma'nidar ve o canlı elvâh-ı kaderiyeden alınır. S.)
 vücudî: Varlığa dair. Var olan şey ile alâkalı.
 vücuh: (Vech. C.) çehreler, yüzler, suretler. * Tarzlar. * Sebepler. * îmkânlar. * Münasebetler. * Kur'an-ı Kerim okunuşundaki farklar. * Bir memleketin ileri gelenleri.
-vücuh-u î'caz : Mu'ciz olmanın yolları. î'caz nevileri ve vecihleri.
+vücuh-u î'caz : Mu'ciz olmanın yolları. î'caz nevileri ve vecihleri.
 vücuh-u seb'a: Yedi vecih. Kur'anın yedi tarzda okunuşu.
 vücum: Tiksinme, iğrenme. * Darılma, küsüp susma. * Göğüse vurma. * Kederli olma.
 vücür: (Vicâr. C.) Arslan, ayı, kurt gibi vahşi hayvanların inleri. * Sel sularının oyduğu yerler.

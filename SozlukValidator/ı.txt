@@ -257,7 +257,7 @@
 ısfîrar: Sararmak. Sarı olmak.
 ısfîrar-i ayn: Gözün sararması.
 ısfîrar-i evrak: Yaprakların sararması.
-ısfîrar-i şems : Güneşin sararmış gibi görünüşü.
+ısfîrar-i şems: Güneşin sararmış gibi görünüşü.
 ısga': Söylenilen bir sözü dinleyip kabul etme ve yapma. * Söylenilen bir sözü kulak verip dinleme. * Meyl etmek. * Eksiltmek.
 ısgar: (Sagir. den) Hakir ve hor görme. * Küçültme.
 ısha': Gökyüzünün açık ve bulutsuz olması.

@@ -1,8 +1,8 @@
 za: "Ze" harfinin adı.
 za: "Bu, şu" mânalarına gelir. Ve birleşik kelimeler yapılır. Meselâ: Hâkezâ: Bunun gibi, böyle.
 za: Sâhib, malik, erbab, ehil mânalarında olup, "Zi" ve "Zû" şeklinde de kullanılır. (Müennesi "Zât" dır)
-za: Zı harfinin bir adı. "Zâ-yı mu'ceme" de denir. Noktalı olduğundan dolayı ": tı" harfinden ayırdetmek için bu isim verilmiştir.
-za (-): (-Zây) " Doğuran" anlamına gelir ve birleşik kelimeler yapılır. Meselâ: Nâdire-zâ $: Nâdir şeyler yapan, bulunmaz şey meydana getiren.
+za: Zı harfinin bir adı. "Zâ-yı mu'ceme" de denir. Noktalı olduğundan dolayı: tı" harfinden ayırdetmek için bu isim verilmiştir.
+za (-): (-Zây) " Doğuran" anlamına gelir ve birleşik kelimeler yapılır. Meselâ: Nâdire-zâ: Nâdir şeyler yapan, bulunmaz şey meydana getiren.
 za-î mu'ceme: "Rı" harfinden ayırd etmek için "ze" harfine verilen bir isim.
 zaaf: (Bak: Za'f)
 zaal: şâdlık, neşeli oluş, neşat.
@@ -47,7 +47,7 @@ zad: "Doğma, doğmuş, evlâd" mânalarına gelerek birleşik kelime yapılır.
 zad: (Ziyadet. den) Artsın, çoğalsın.
 zâd-i âhîret: âhiret için hazırlık. âhiret azığı. îbadet ve sâlih amel.
 zade: (Ziyâdet. den fiil) çoğaldı, ziyade oldu veya çok olsun, çoğalsın (meâlinde).
-zade: Evlâd, oğul. * îyi insan. * Nikâh neticesi olmuş çocuk. * Kelime sonuna getirilerek birleşik kelimeler de yapılır. Meselâ: şah-zade (şehzade) $: Padişah evlâdı.
+zade: Evlâd, oğul. * îyi insan. * Nikâh neticesi olmuş çocuk. * Kelime sonuna getirilerek birleşik kelimeler de yapılır. Meselâ: şah-zade (şehzade): Padişah evlâdı.
 zade-î tab': (Zâde-i tabiat - Zâde-i hâtır) Bir kimsenin kabiliyetinden, tabiatından meydana gelen eseri.
 zadegân: Asâlet. * Temiz ve meşhur soydan olan. Tanınmış ve temiz âileden olan. Aristokrat. * Meşhur ve belli âileler cemaatı.
 zadegî: Asillik, soy temizliği, zadelik.
@@ -130,13 +130,13 @@ zahmîn: Yaralı, mecruh.
 zahmkâr: Yaralayıcı, yara açan.
 zahmnak: Yaralı, zahmzede, mecruh.
 zahmres: Yara açan, yaralayıcı.
-zahmzede : Yaralı. Mecruh.
+zahmzede : Yaralı. Mecruh.
 zahr: (C.: Zuhur-Ezhâr) Binek devesi. * Kuş yeleklerinin kısa tarafı. * Kara yolu. * Sırt, arka. * Yüksek yer. * Kur'an'ın lâfz-ı şerifi. * Haber.
 zahr-i gayb: Gıyabında, kendisi hâzır olmadan.
 zahr-i kalb: Kuvve-i hâfıza. Ezber kuvveti. Ezbere.
 zahrî: (Zahriyye) Arkaya âit, arka ile alâkalı. * Bir kâğıdın arkasına yazılan yazı, şerh.
 zahzah: Uzak, baid.
-zahzaha : îkrar etme, uzaklaştırma. * Uzak, baid olma.
+zahzaha : îkrar etme, uzaklaştırma. * Uzak, baid olma.
 zaî': Yayılmış olan. Dağılmış olan. Herkesçe bilinen şey.
 zaîb: Eriyici, eriyen.
 zaîd: Artan. Fazlalık. îlâve olunmuş. * Lüzumsuz, gereksiz. * Gr: Te'kid için söylenen. * Mat: Müsbet işareti, artı. (+) (Bak: Harf-i zâid)
@@ -161,7 +161,7 @@ zakî: Güzel kokulu, keskin kokulu.
 zâkîr: Zikreden, zikredici. * Hafızası kuvvetli. * îlâhiler okuyan. çok çok duâ ve Esmâ-i îlâhiyeyi okuyan. * Tekrar eden.
 zâkîre: Andıran, hatırlatan, hatıra getiren şey.
 zâkîrûn (zâkîrîn): Zikredenler.
-zakkum : Cehennem'de bir ağacın ismi, cehennemliklerin yiyeceği. * Gösterişi güzel, çiçekli ve zehirli meyvesi olan yâsemine benzeyen bir bitki ismi.
+zakkum : Cehennem'de bir ağacın ismi, cehennemliklerin yiyeceği. * Gösterişi güzel, çiçekli ve zehirli meyvesi olan yâsemine benzeyen bir bitki ismi.
 zakm: Yemek, ekl.
 zakn: Yükletmek.
 zakna': Uzun. * Kaba, yoğun. * Eğri.
@@ -234,7 +234,7 @@ zamzam: (C: Zamâzim) Büyük ve kuvvetli arslan. * Gadaplı ve kızgın kimse.
 za'n: Göçmek.
 zan: (Bak: Zann)
 zan: Ayıp.
-zanbur : (Bak: Zünbur)
+zanbur : (Bak: Zünbur)
 zangoç: (Ermenice) Kilisenin hizmetlerini gören ve çan çalan kimse.
 zanîn: Cimri, bahil ve hasis olan.
 zanîn: Suç işlediği zannedilen kimse. Töhmetli, suçlu kimse.
@@ -258,7 +258,7 @@ zapt-ü rabt: (Bak: Zabt ü rabt)
 za'r: Bedende kılın az olması.
 za'r: Meyletmek, eğilmek.
 zar: înleyen, sesle ağlayan. * Zayıf, dermansız.
-zar: Kelimenin sonuna gelerek birleşik kelimeler olur. îsimlere eklenerek yer adı bildirilir. Meselâ: Lâle-zar $: Lâle bahçesi.
+zar: Kelimenin sonuna gelerek birleşik kelimeler olur. îsimlere eklenerek yer adı bildirilir. Meselâ: Lâle-zar: Lâle bahçesi.
 zar': (C.: Zuru') Meme. * Süt veren hayvan memesi.
 zar zar: Hazin hazin, yanık yanık, (sesle) ağlıya ağlıya.
 zaraat: (Derâat) Alçalma. Kendini küçük görme, küçültme.
@@ -297,11 +297,11 @@ zarr: Soğuktan dolayı suyun donması.
 zârr: Zarar veren, zararlı.
 zarrâ': (Darrâ') şiddet. Keder, mihnet, sıkıntı.
 zarurat: (Zaruret. C.) Zaruretler. Sıkıntı ve muhtaçlıklar.
-zaruret: çaresizlik. Muhtaçlık. Sıkıntı. Yoksulluk. ( $ kaidesi, yâni: "Zaruret, haramı helâl derecesine getirir." îşte şu kaide ise, külli değil. Zaruret, eğer haram yoluyla olmamış ise, haramı helâl etmeye sebebiyet verir. Yoksa, su-i ihtiyariyle, gayr-ı meşru sebeblerle zaruret olmuş ise, haramı helâl edemez, ruhsatlı ahkâmlara medar olamaz, özür teşkil edemez. Meselâ: Bir adam su-i ihtiyariyle, haram bir tarzda kendini sarhoş etse; tasarrufatı, ulema-i şeriatça aleyhinde câridir, mâzur sayılmaz. Tatlik etse, talâkı vâki olur. Bir cinâyet etse, cezâ görür. Fakat su-i ihtiyariyle olmazsa, talâk vâki olmaz, ceza da görmez. Hem meselâ, bir içki mübtelâsı, zaruret derecesinde mübtelâ olsa da, diyemez ki: "Zarurettir, bana helâldir." S.)(Meşakkat teysiri celb eder. Yâni: Suubet, sebeb-i teshil olur ve darlık vaktinde vüs'at gösterilmek lâzım gelir. Karz ve havale ve hacr gibi pek çok ahkâm-ı fıkhıyye bu asla müteferri' dir. Ve fukahanın ahkâm-ı şer'iyyede gösterdikleri ruhas ve tahfifat hep bu kaideden istihraç olunmuştur.şu kadar var ki hakkında nass-ı kat'i bulunan, meselâ yapılması her halde kat'iyyen memnu bulunan bir hususda meşakkat özrile o nassın hilâfı irtikâb olunamaz. Orada meşakkat, teysiri celb etmez.Bu kaide, Eşbah'da $ diye münderiçtir.Zaruretler, memnu olan şeyleri mübah kılar. Yâni: îşlenmesi men ve nehy edilmiş bazı şeyler vardır ki, bunları yapmak, zaruret halinde mübah hükmünde olur, bundan dolayı yapan muahaza edilmez. Muteber bir ikraha mebni başkasının malını itlâf veya açlıktan helâk havfından dolayı başkasının taamını rızası olmaksızın yemek gibi.Maamafih haram ve memnu olan şeyler, üç nevidir. Birincisi: Memnuiyeti aslâ sâkıt olmayan muharremattır. Başkasını zulmen öldürmek veya başkasının haksız yere bir uzvunu kesmek gibi. îkincisi: Aslâ sâkıt olmayıp zaruret vaktinde ruhsata mahal olan muharremattır. Başkasının malını itlâf gibi. üçüncüsü: Zaruret halinde memnuniyeti sâkıt olan muharremattır. Meyte gibi temiz olmayan bir şeyi yemek gibi.Bu kaide, Eşbah'da $ diye münderiçtir ve arz olunduğu üzere her memnua şâmil değildir. Ist. Fık. K.)
+zaruret: çaresizlik. Muhtaçlık. Sıkıntı. Yoksulluk. ( kaidesi, yâni: "Zaruret, haramı helâl derecesine getirir." îşte şu kaide ise, külli değil. Zaruret, eğer haram yoluyla olmamış ise, haramı helâl etmeye sebebiyet verir. Yoksa, su-i ihtiyariyle, gayr-ı meşru sebeblerle zaruret olmuş ise, haramı helâl edemez, ruhsatlı ahkâmlara medar olamaz, özür teşkil edemez. Meselâ: Bir adam su-i ihtiyariyle, haram bir tarzda kendini sarhoş etse; tasarrufatı, ulema-i şeriatça aleyhinde câridir, mâzur sayılmaz. Tatlik etse, talâkı vâki olur. Bir cinâyet etse, cezâ görür. Fakat su-i ihtiyariyle olmazsa, talâk vâki olmaz, ceza da görmez. Hem meselâ, bir içki mübtelâsı, zaruret derecesinde mübtelâ olsa da, diyemez ki: "Zarurettir, bana helâldir." S.)(Meşakkat teysiri celb eder. Yâni: Suubet, sebeb-i teshil olur ve darlık vaktinde vüs'at gösterilmek lâzım gelir. Karz ve havale ve hacr gibi pek çok ahkâm-ı fıkhıyye bu asla müteferri' dir. Ve fukahanın ahkâm-ı şer'iyyede gösterdikleri ruhas ve tahfifat hep bu kaideden istihraç olunmuştur.şu kadar var ki hakkında nass-ı kat'i bulunan, meselâ yapılması her halde kat'iyyen memnu bulunan bir hususda meşakkat özrile o nassın hilâfı irtikâb olunamaz. Orada meşakkat, teysiri celb etmez.Bu kaide, Eşbah'da diye münderiçtir.Zaruretler, memnu olan şeyleri mübah kılar. Yâni: îşlenmesi men ve nehy edilmiş bazı şeyler vardır ki, bunları yapmak, zaruret halinde mübah hükmünde olur, bundan dolayı yapan muahaza edilmez. Muteber bir ikraha mebni başkasının malını itlâf veya açlıktan helâk havfından dolayı başkasının taamını rızası olmaksızın yemek gibi.Maamafih haram ve memnu olan şeyler, üç nevidir. Birincisi: Memnuiyeti aslâ sâkıt olmayan muharremattır. Başkasını zulmen öldürmek veya başkasının haksız yere bir uzvunu kesmek gibi. îkincisi: Aslâ sâkıt olmayıp zaruret vaktinde ruhsata mahal olan muharremattır. Başkasının malını itlâf gibi. üçüncüsü: Zaruret halinde memnuniyeti sâkıt olan muharremattır. Meyte gibi temiz olmayan bir şeyi yemek gibi.Bu kaide, Eşbah'da diye münderiçtir ve arz olunduğu üzere her memnua şâmil değildir. Ist. Fık. K.)
 zarurî: (Bak: Zaruriyye)
 zarurîyyat: (Zaruri. C.) Mecburi işler. îster istemez olan işler.
 zarurîyyat-i dînîyye: îman edilmesi zaruri olan dinin esasları, (Allah Teâlâya, âhiret gününe, Meleklere, Peygamberlere, Kitaplara ve hayrın ve şerrin Allah'tan olduğuna inanmak.)
-zarurîyyat-i nâşîe : Bir şeyin kendisinde bulunması zaruri olan ve ondan ayrılması mümkün olmayan ve zâti hassadan meydana gelen zaruretler.
+zarurîyyat-i nâşîe : Bir şeyin kendisinde bulunması zaruri olan ve ondan ayrılması mümkün olmayan ve zâti hassadan meydana gelen zaruretler.
 zarurîyye: (Zaruri) Mecburi. îster istemez olacak iş. îhtiyari olmayan, mecburi olan.
 za't: Boğmak. Boğazlamak.
 zât: Hürmete lâyık kimse. * Kendi. öz, asıl. * Ehil. Sâhib. (Zu'nun müennesi)
@@ -324,8 +324,8 @@ zav'-uş şems: Güneş ışığı.
 zavabit: (Zâbıta. C.) Kaideler. Nizamlar, usuller.
 zavahîr: (Zâhir. C.) Görünüş. Dış görünüş. * Göze çarpan yerler. Yüksek yerler.
 zavarîb: Nabız damarları.
-zavîye : Köşe. * Küçük tekke. * îki çizginin birleşmesi ile hasıl olan köşe, şekil. * Mat: Birbiriyle kesişen iki satıh veya iki çizginin birleştiği yerde meydana gelen açıklık. Açı. Açı ölçü birimi 360 eşit parçaya bölündüğü takdirde "derece", 400 eşit parçaya bölündüğü takdirde "grat" tır.
-zavîyetân (zavîyeteyn) : îki zaviye. îki açı.
+zavîye : Köşe. * Küçük tekke. * îki çizginin birleşmesi ile hasıl olan köşe, şekil. * Mat: Birbiriyle kesişen iki satıh veya iki çizginin birleştiği yerde meydana gelen açıklık. Açı. Açı ölçü birimi 360 eşit parçaya bölündüğü takdirde "derece", 400 eşit parçaya bölündüğü takdirde "grat" tır.
+zavîyetân (zavîyeteyn) : îki zaviye. îki açı.
 zay'a: (C: Zıyâ') Geliri olan bina. * Tarla. çiftlik. * Binasız arsa.
 zaya': Elden çıkma, yok olma.
 zayan: Yasemin çiçeği.
@@ -340,9 +340,9 @@ zayîga: Meyledici, eğilen.
 zayîl: Uzun etekli gömlek. * Uzun kuyruklu at. (Müe: Zâyile)
 zayr: Mazarrat, ziyan.
 zayven: (C.: Zayâvin) Yaban kedisi. * Erkek kedi. * Hırçın ve vahşi adam.
-za'za' : Bir şeyi parça parça etmek. * şiddetle esen yel.
-za'zaa : şiddetle hareket ettirmek, sarsmak.
-za'zaa : Doldurmak. * Ayırmak. * Rüzgâra savurmak.
+za'za' : Bir şeyi parça parça etmek. * şiddetle esen yel.
+za'zaa : şiddetle hareket ettirmek, sarsmak.
+za'zaa : Doldurmak. * Ayırmak. * Rüzgâra savurmak.
 za'zaa-î esnân: Dişlerin şiddetle birbirine vurması.
 ze: Kur'an alfabesinde onbirinci harftir ve ebcedi kıymeti 7'dir.
 ze'a': Bölükler, fırkalar.
@@ -356,11 +356,11 @@ zeban-âver: Düzgün konuşan, düzgün söz veya şiir söyleyen. * Dile getir
 zeban-diraz: Dil uzatan, atıp tutan.
 zebane: Terazi gibi bazı âletlerin dili andıran parçaları. * Alev.
 zebanekeş: Alevlenen, alevli.
-zebaneş : Onun dili.
+zebaneş : Onun dili.
 zebanî: Cehennem'de vazife gören melek.
 zebanîyân: (Zebaniye) Zebaniler. Cehennemlikleri Cehennem'e atmaya vazifeli melekler.
 zebanîye: Azap melekleri.
-zebanzed : Ata sözü, darb-ı mesel. * Alışılmış, her zaman söylenen söz.
+zebanzed : Ata sözü, darb-ı mesel. * Alışılmış, her zaman söylenen söz.
 zebayîh: (Zebiha. C.) Kurbanlık hayvanlar.
 zebb: üzüm kurutmak.
 zebb: Men ve defetmek. Kovmak. * Yaban sığırı.
@@ -386,10 +386,10 @@ zebn: şiddetle def'etmek. * Devenin çifte vurması.
 zebr: Kitab. Cüz. Kitap yaprağı. * Yazı yazma. * Söz. Yazı. * Akıl, zekâ. * Kuvvetli, sağlam, şiddetli adam. * Men'eylemek.
 zebrec: Ziyne, süs.
 zebtel: Kısa boylu.
-zebun : Zayıf, güçsüz, âciz. * Alışverişte aldanan.
-zebun-kuş : Düşkünleri ezen. Zâlim. Gaddar.
+zebun : Zayıf, güçsüz, âciz. * Alışverişte aldanan.
+zebun-kuş : Düşkünleri ezen. Zâlim. Gaddar.
 zebunî: Zayıflık, güçsüzlük, âcizlik.
-zebur : Kitap. Mektub. * Peygamber Hz. Dâvud'a (A.S.) vahiy ile gelen mukaddes kitabın adı.
+zebur : Kitap. Mektub. * Peygamber Hz. Dâvud'a (A.S.) vahiy ile gelen mukaddes kitabın adı.
 zebzeb: Uzun gemi.
 zebzeb: (C.: Zebâzib) Adam zekeri.
 zebzebe: Muallâkta kalma. * Mütereddit. * Titreme. * Asılı bir şeyi havada oynatmak.
@@ -408,8 +408,8 @@ zecre: çağırmak, bağırmak, sayha. * Men'etmek, engel olmak.
 zecren: Zorlayarak, zorla. * Ceza olarak. * Engel olarak, menederek.
 zecrî: Cebren, zorlayıcı olarak.
 zed: Vurma, dövme.
-zed: "Vurucu, vuran" mânasına gelir ve birleşik kelimeler yapılır. Meselâ: Guş-zed $: Kulağa çalınan. Zeban-zed $: Yayılmış söz.
-zede (-): (Zed) Birleşik kelimeler yapılarak, "vurulmuş, çarpılmış, tutulmuş" manalarına gelir. Meselâ: Musibet-zede $: Musibete uğramış.
+zed: "Vurucu, vuran" mânasına gelir ve birleşik kelimeler yapılır. Meselâ: Guş-zed: Kulağa çalınan. Zeban-zed: Yayılmış söz.
+zede (-): (Zed) Birleşik kelimeler yapılarak, "vurulmuş, çarpılmış, tutulmuş" manalarına gelir. Meselâ: Musibet-zede: Musibete uğramış.
 zedegân: (-zede. C.) Tutulmuşlar, çarpılmışlar, uğramışlar mânalarına gelir ve birleşik kelimeler yapılır.
 zedergâh: (Bak: Zidergâh)
 zeelan: Yab yab yürümek.
@@ -452,7 +452,7 @@ zehna': Düzgün. * Süs, ziynet.
 zehr: (Zehir) Zehir, ağu, semm.
 zehr-ab: Acı su.
 zehr-abe: Acı ve zehir gibi su. Zehirli su. * Mc: Acı, acılık.
-zehr-alud : Zehirli. Zehir karışmış.
+zehr-alud : Zehirli. Zehir karışmış.
 zehr-amîz: Acı, zehirli.
 zehr-bar: Pek acı, zehir saçan.
 zehr-baz: Zehir veren. Zehir yapan. * îmandan ayıran.
@@ -461,7 +461,7 @@ zehr-hand: Acı acı gülme.
 zehr-î katîl: öldürücü zehir.
 zehr-nak: Zehirli, ağulu.
 zehra: (Müe.) Ay gibi parlak olan. çok parlak ve safi, berrak.
-zehravan : (Zehrâveyn) îki parlak şey. * Kur'an-ı Kerim'de Sure-i Bakara ile âl-i îmran Surelerine birlikte verilen isim.
+zehravan : (Zehrâveyn) îki parlak şey. * Kur'an-ı Kerim'de Sure-i Bakara ile âl-i îmran Surelerine birlikte verilen isim.
 zehr(e): çiçek. şükufe.
 zehre: (C.: Ezhâr) çiçek. * Beyaz, berrak. Süs, ziynet.
 zehre: Kahramanlık, yiğitlik. * öd. Safra.
@@ -479,7 +479,7 @@ zekâ: Saflık, duruluk. * Hâl düzgünlüğü.
 zekâb: Yazı mürekkebi.
 zekan: (C.: Ezkân) îki çenenin birleştiği yer. ("Enek" de derler.)
 zekâret: Erkeklik.
-zekât: Nisab miktarı mala, paraya sahib olan Müslümanın kırkta birini fakirlere sadaka vermesi ve bu verilen sadaka. Ziyadeleşme, artma. * Temizlik. Taharet. (Bak: Sadaka, Nisab).( $ Bu kelâmın mâkabliyle nazmını icab ettiren münasebet ise: Namaz $ Yani dinin direği ve kıvamı olduğu gibi, zekât da îslâmın kantarası, yani köprüsüdür. Demek; birisi dini, diğeri asayişi muhafaza eden îlâhi iki esastırlar. Bunun için birbiriyle bağlanmışlardır. î.î.)(Zekât ile sadakanın lâyık oldukları mevkilerini bulmak için bir kaç şart vardır:1- Sadakayı vermekte israf olmaması.2- Başkasından alıp başkasına vermek suretiyle halkın malından olmayıp kendi malından olması.3- Minnetle in'âmın bozulmaması.4- Fakir olmak korkusu ile sadakanın terk edilmemesi.5- Sadakanın yalnız mala ve paraya münhasır olmadığı bilinmesi ile ilim, fikir, kuvvet, amel gibi şeylere de muhtaç olanlara sadakanın verilmesi.6- Sadakayı alan adam, o sadakayı sefahette değil, hâcât-ı zaruriyyesinde sarfetmesi lâzımdır. î.î.)(Sadakalar kimlerin hakkıdır, bu cihete gelince, emr ü teşvik olunduğunuz infak u sadakat $ Allah yolunda tutulmuş, din uğrunda ilme, cihada vakf-ı nefs etmiş, $ Yeryüzünde şuraya buraya gidemiyen, yani Allah yolunda meşguliyetlerinden veya maraz ve acz gibi bir maniadan dolayı nafakalarını kazanmağa iktidarları olmayan o fakirler içindir ki $ hallerini tecrübe etmeyen cahil, onları $ taaffüflerinden, yani istemeğe tenezzül etmeyip tahammül ve tecemmül ile iffetlerini muhafaza ve ibraz eylediklerinden dolayı, zengin zanneder. $ Sen onları simalarıyla, dikkat edildiği zaman hallerinde görülecek edeb ü nezahet, yüzlerinde müşahede olunacak âsâr-ı fakr u zaruret gibi alâmetleriyle tanırsın. $ însanlardan dilenmezler, hele $ ilhah-ı ısrar ile hiç dilenmezler, olsa olsa pek muztar kaldıkları zaman ehline ifham-ı hâl ederler...Bu âyet, Ashab-ı Suffa tesmiye olunan fukara-yı Muhacirin hakkında nazil olmuştur ki; dörtyüz kişi kadar vardılar. Medine'de ne bir meskenleri, ne aşiret ve akrabaları, hiçbir şeyleri yoktu, daima Mescid-i Nebeviyeye mülazemet ederler, mescidin sofasında ikamet eylerler, ilm-i Kur'an tahsil ederler, mevâız ve tedrisat-ı Peygamberiyi istimâ' ile müstefid olurlar, hep oruçlu bulunurlar. Hâsılı; ilm ü ibadete hasr-ı evkat ederler ve her ne zaman bir gaza olursa giderlerdi. Bunlar Medrese-i Risalet'in Allah yoluna vakf-ı nefs etmiş talebesiydiler.îbn-i Abbas Hazretlerinden vaki olan rivayete göre birgün Resulullah (A.S.M.) Ashab-ı Suffa'nın başlarına durmuş, hallerini nazar-ı tedkikten geçirmişti. Fukaralıklarını, çekmekte bulundukları zahmetleri gördü ve kalblerini tatyib edip buyurdular ki: "Ey Ashab-ı Suffa! Size müjdeler olsun ki, her kim şu sizin bulunduğunuz hal ü sıfatta ve bulunduğu halden razı olarak bana mülaki olursa o benim refiklerimdendir. " îşte bu âyet de bunlar dolayısiyle nâzil olmuştur. Ve fakat hükmü âmmdır. Allah rızası için düşmana karşı nöbet bekleyen veya Allah rızası için medreselerde dirsek çürüten veya Allah rızası için hidemât-ı âmmeye vakf-ı nefs eden ve bu ahval içinde malı mülkü yok, muhtaç olmakla beraber nafakasını kesbe vakit bulamayan veya kudreti yetişemiyen fukara-yı mü'minin bu âyetin hükmünde dâhildirler. Bunlar infakat ü sadakatın en güzel masrıfını teşkil ederler. E.T.)
+zekât: Nisab miktarı mala, paraya sahib olan Müslümanın kırkta birini fakirlere sadaka vermesi ve bu verilen sadaka. Ziyadeleşme, artma. * Temizlik. Taharet. (Bak: Sadaka, Nisab).( Bu kelâmın mâkabliyle nazmını icab ettiren münasebet ise: Namaz Yani dinin direği ve kıvamı olduğu gibi, zekât da îslâmın kantarası, yani köprüsüdür. Demek; birisi dini, diğeri asayişi muhafaza eden îlâhi iki esastırlar. Bunun için birbiriyle bağlanmışlardır. î.î.)(Zekât ile sadakanın lâyık oldukları mevkilerini bulmak için bir kaç şart vardır:1- Sadakayı vermekte israf olmaması.2- Başkasından alıp başkasına vermek suretiyle halkın malından olmayıp kendi malından olması.3- Minnetle in'âmın bozulmaması.4- Fakir olmak korkusu ile sadakanın terk edilmemesi.5- Sadakanın yalnız mala ve paraya münhasır olmadığı bilinmesi ile ilim, fikir, kuvvet, amel gibi şeylere de muhtaç olanlara sadakanın verilmesi.6- Sadakayı alan adam, o sadakayı sefahette değil, hâcât-ı zaruriyyesinde sarfetmesi lâzımdır. î.î.)(Sadakalar kimlerin hakkıdır, bu cihete gelince, emr ü teşvik olunduğunuz infak u sadakat Allah yolunda tutulmuş, din uğrunda ilme, cihada vakf-ı nefs etmiş, Yeryüzünde şuraya buraya gidemiyen, yani Allah yolunda meşguliyetlerinden veya maraz ve acz gibi bir maniadan dolayı nafakalarını kazanmağa iktidarları olmayan o fakirler içindir ki hallerini tecrübe etmeyen cahil, onları taaffüflerinden, yani istemeğe tenezzül etmeyip tahammül ve tecemmül ile iffetlerini muhafaza ve ibraz eylediklerinden dolayı, zengin zanneder. Sen onları simalarıyla, dikkat edildiği zaman hallerinde görülecek edeb ü nezahet, yüzlerinde müşahede olunacak âsâr-ı fakr u zaruret gibi alâmetleriyle tanırsın. însanlardan dilenmezler, hele ilhah-ı ısrar ile hiç dilenmezler, olsa olsa pek muztar kaldıkları zaman ehline ifham-ı hâl ederler...Bu âyet, Ashab-ı Suffa tesmiye olunan fukara-yı Muhacirin hakkında nazil olmuştur ki; dörtyüz kişi kadar vardılar. Medine'de ne bir meskenleri, ne aşiret ve akrabaları, hiçbir şeyleri yoktu, daima Mescid-i Nebeviyeye mülazemet ederler, mescidin sofasında ikamet eylerler, ilm-i Kur'an tahsil ederler, mevâız ve tedrisat-ı Peygamberiyi istimâ' ile müstefid olurlar, hep oruçlu bulunurlar. Hâsılı; ilm ü ibadete hasr-ı evkat ederler ve her ne zaman bir gaza olursa giderlerdi. Bunlar Medrese-i Risalet'in Allah yoluna vakf-ı nefs etmiş talebesiydiler.îbn-i Abbas Hazretlerinden vaki olan rivayete göre birgün Resulullah (A.S.M.) Ashab-ı Suffa'nın başlarına durmuş, hallerini nazar-ı tedkikten geçirmişti. Fukaralıklarını, çekmekte bulundukları zahmetleri gördü ve kalblerini tatyib edip buyurdular ki: "Ey Ashab-ı Suffa! Size müjdeler olsun ki, her kim şu sizin bulunduğunuz hal ü sıfatta ve bulunduğu halden razı olarak bana mülaki olursa o benim refiklerimdendir. " îşte bu âyet de bunlar dolayısiyle nâzil olmuştur. Ve fakat hükmü âmmdır. Allah rızası için düşmana karşı nöbet bekleyen veya Allah rızası için medreselerde dirsek çürüten veya Allah rızası için hidemât-ı âmmeye vakf-ı nefs eden ve bu ahval içinde malı mülkü yok, muhtaç olmakla beraber nafakasını kesbe vakit bulamayan veya kudreti yetişemiyen fukara-yı mü'minin bu âyetin hükmünde dâhildirler. Bunlar infakat ü sadakatın en güzel masrıfını teşkil ederler. E.T.)
 zekâvet: Zeki oluş. Zeyreklik. çabuk anlama ve kavrama. Keskin anlayış.
 zeken: îlim, feraset.
 zeker: (C.: Zükrân - Zükur - Zikâr - Zikâre) Erkek. * Erkeklik organı.
@@ -501,9 +501,9 @@ zela': Ayağın altında ve üstünde; elin ise arkasında olan yarık.
 zelahlah: (C.: Zelahlahât) Büyük çanak. * Aceleci ve uzun boylu adam. * Derin olmayan ırmak.
 zelak: (Zelk) Yolmak (tıraş gibi). * Sürçmek. Ayağın kayması.
 zelak: Sülük.
-zelaka: (îzlâk - Zellâka) Fasâhat, kolaylık ve lisan inceliği, keskinlik. Nutkun güzel ve çabuk olması. * Tecvidde: Keskin olarak çıkan $ harflerinin ismi. Bunlara müzlika harfleri de denir.
+zelaka: (îzlâk - Zellâka) Fasâhat, kolaylık ve lisan inceliği, keskinlik. Nutkun güzel ve çabuk olması. * Tecvidde: Keskin olarak çıkan harflerinin ismi. Bunlara müzlika harfleri de denir.
 zelalet: Alçaklık, hakirlik, horluk. Zillet.
-zelazîl : Zelzeleler. Yer sarsıntıları.
+zelazîl : Zelzeleler. Yer sarsıntıları.
 zelazîl: (Zilzil. C.) Uzun etekler.
 zelec: Kaymak yer.
 zelef: Burnun küçük ve ucunun, gerisine eşit olması. (O burun sahibine "ezlef" derler) (Müe: Zülefâ)
@@ -526,14 +526,14 @@ zellet-ül karî': Okuyanın yanılması. Namaz içinde, kırâat esnasındaki y
 zeluh: Kaypak yer.
 zelul: Yumuşak huylu. Sert başlı olmayan. îtaatlı ve râm olan. * Hecin devesi. * însanların emrindeki yeryüzünün hâli.
 zelulî: Başı yumuşak. Dayanıklı. Sabırlı, tahammüllü.
-zelzal : (Zülzâl) Sarsıntı. Zelzele. Deprem. Sarsılma. (Bak: Zilzal)
-zelzele : Yer sarsıntısı. * Sarsma.(Sual: Mâdem bu zelzele musibeti hatâların neticesi ve keffaret-üz-zünubdur. Mâsumların ve hatâsızların o musibet içinde yanması nedendir? Adâletullah nasıl müsaade eder? Yine manevi cânipten elcevab: Bu mes'ele sırr-ı kadere taalluk ettiği için, Risale-i Kader'e havale edip yalnız burada bu kadar denildi: $ Yani: "Bir belâ, bir musibetten çekininiz ki, geldiği vakit yalnız zâlimlere mahsus kalmayıp mâsumları da yakar."şu âyetin sırrı şudur ki: Bu dünya bir meydan-ı tecrübe ve imtihandır ve dâr-ı teklif ve mücahededir. îmtihan ve teklif, iktizâ ederler ki, hakikatlar perdeli kalıp, ta müsabaka ve mücahede ile Ebubekirler, A'lâ-yı îlliyyine çıksınlar ve Ebucehiller, esfel-i sâfiline girsinler. Eğer mâsumlar, böyle musibetlerde sağlam kalsaydılar, Ebucehiller, aynen Ebubekirler gibi teslim olup, mücahede ile mânevi terakki kapısı kapanacaktı ve sırr-ı teklif bozulacaktı.Mâdem, mazlum, zâlim ile beraber musibete düşmek hikmet-i îlâhice lâzım geliyor. Acaba o biçâre mazlumların rahmet ve adâletten hisseleri nedir?Bu suale karşı cevaben denildi ki: O musibetteki gazab ve hiddet içinde onlara bir rahmet cilvesi var. çünki o mâsumların fâni malları, onların hakkında sadaka olup, bâki bir mal hükmüne geçtiği gibi, fâni hayatları dahi bir bâki hayatı kazandıracak derecede bir nevi şehâdet hükmünde olarak, nisbeten az ve muvakkat bir meşakkat ve azaptan büyük ve dâimi bir kazancı kazandıran bu zelzele, onlar hakkında aynı gazab içinde bir rahmettir. S.)
+zelzal : (Zülzâl) Sarsıntı. Zelzele. Deprem. Sarsılma. (Bak: Zilzal)
+zelzele : Yer sarsıntısı. * Sarsma.(Sual: Mâdem bu zelzele musibeti hatâların neticesi ve keffaret-üz-zünubdur. Mâsumların ve hatâsızların o musibet içinde yanması nedendir? Adâletullah nasıl müsaade eder? Yine manevi cânipten elcevab: Bu mes'ele sırr-ı kadere taalluk ettiği için, Risale-i Kader'e havale edip yalnız burada bu kadar denildi: Yani: "Bir belâ, bir musibetten çekininiz ki, geldiği vakit yalnız zâlimlere mahsus kalmayıp mâsumları da yakar."şu âyetin sırrı şudur ki: Bu dünya bir meydan-ı tecrübe ve imtihandır ve dâr-ı teklif ve mücahededir. îmtihan ve teklif, iktizâ ederler ki, hakikatlar perdeli kalıp, ta müsabaka ve mücahede ile Ebubekirler, A'lâ-yı îlliyyine çıksınlar ve Ebucehiller, esfel-i sâfiline girsinler. Eğer mâsumlar, böyle musibetlerde sağlam kalsaydılar, Ebucehiller, aynen Ebubekirler gibi teslim olup, mücahede ile mânevi terakki kapısı kapanacaktı ve sırr-ı teklif bozulacaktı.Mâdem, mazlum, zâlim ile beraber musibete düşmek hikmet-i îlâhice lâzım geliyor. Acaba o biçâre mazlumların rahmet ve adâletten hisseleri nedir?Bu suale karşı cevaben denildi ki: O musibetteki gazab ve hiddet içinde onlara bir rahmet cilvesi var. çünki o mâsumların fâni malları, onların hakkında sadaka olup, bâki bir mal hükmüne geçtiği gibi, fâni hayatları dahi bir bâki hayatı kazandıracak derecede bir nevi şehâdet hükmünde olarak, nisbeten az ve muvakkat bir meşakkat ve azaptan büyük ve dâimi bir kazancı kazandıran bu zelzele, onlar hakkında aynı gazab içinde bir rahmettir. S.)
 zelzelet-üs sâa: Kıyamet sarsıntısı. Kıyamet kopması ânında meydana gelecek olan çok müthiş zelzele.
 zelzîl: Ev içinde olan mal, mülk ve eşya.
 ze'm: Katı, şiddetli, şedid. * Hacet, ihtiyaç. * Mevt, ölüm.
 ze'm: Tahkir etmek, hakaret etmek. * Ayıplanmak.
 zema': Tenbel olmak. * Dehşetli olmak. * Acele etmek. * Yırtmak. * Alçak insan, kötü insan.
-zemahşerî : (Hi: 467-538) Türkistan'da Harzem'in Zemahşer köyünde doğdu. Hanefi fukahasındandır. Fevkalâde iktidar ve faziletine rağmen bir zamanlar itikadça Mu'tezile'den olmuştu. Meşhur bir ilm-i belâgat âlimidir.
+zemahşerî : (Hi: 467-538) Türkistan'da Harzem'in Zemahşer köyünde doğdu. Hanefi fukahasındandır. Fevkalâde iktidar ve faziletine rağmen bir zamanlar itikadça Mu'tezile'den olmuştu. Meşhur bir ilm-i belâgat âlimidir.
 zemaîm: (Zemime. C.) Kötü haller. Beğenilmeyen, sevilmeyen hal ve hareketler.
 zemam: (Bak: Zimam)
 zeman: Zaman, devir, vakit, çağ, mevsim, mehil.(Levh-i Mahv-îsbat ise, sâbit ve dâim olan Levh-i Mahfuz-u Azam'ın daire-i mümkinatta, yâni mevt ve hayata, vücut ve fenâya daima mazhar olan eşyada mütebeddil bir defteri ve yazar bozar bir tahtasıdır ki, hakikat-ı zaman odur. Evet herşey'in bir hakikatı olduğu gibi, zaman dediğimiz, kâinatta cereyan eden bir nehr-i azimin hakikatı dahi Levh-i Mahv-îsbat'taki kitabet-i kudretin sahifesi ve mürekkebi hükmündedir. S.)
@@ -564,7 +564,7 @@ zemîm: Burun suyu, sümük. * Koç ve teke zekerinden akan bevl. * Koyun emziğ
 zemîme: Zemme müstehak olan. Beğenilmeyen kötü hal ve hareket.
 zemîn: Kötürüm kimse.
 zemîn: Yer. Yeryüzü.* Meydan. Satıh. * Tarz. Eda. *Mevzu.
-zemîn ü zaman : Vakit ve yer. * Münasebet. Mevzuya veya mes'eleye olan uygunluk, hâl, vaziyet.
+zemîn ü zaman : Vakit ve yer. * Münasebet. Mevzuya veya mes'eleye olan uygunluk, hâl, vaziyet.
 zemîn-bus: (Saygı ve hürmetten dolayı) yeri öpme.
 zemîn-dâr: (C: Zemindârân) Hâkim. Vâli.
 zemîn-î şure: çorak yer.
@@ -582,12 +582,12 @@ zemn: Kötürüm olmak.
 zemr: Düdük çalmak.
 zemr: Savaşmak. * Bir nesne ile kandırmak.
 zemu' (zemî'): Aceleci ve seri kimse. * Sıçraması birbirine yakın olan tavşan.
-zemzem : çok mübarek bir su. * Kâbe-i Mükerreme'nin yanındaki maruf kuyu. (Süryanicede Zem: Dur, gitme mânasınadır. Vaktiyle Hz. Hacer, oğlu îsmail'in (A.S.) ayağı altından su çıkıp aktığını veya bu kuyunun çok çok akmağa başladığını görünce, "zem zem" diye söylemesi ile kuyunun akması kesilmiş ve bu vecihle kuyu bu ismi almıştır.) *Kelimenin lügat manası: Yavaş yavaş teganni ve terennüm eylemek, hafif ve yavaş yavaş türkü söylemek. * çok bol.
-zemzeme : Nağme, hoş ses. Uzun uzadıya gürleyerek seslenmek. Geniz ve boğaz ile ezgili ses çıkarmak. Yavaş yavaş geniz ve boğazdan ses çıkararak türkü veya şarkı söylemek. * Cemaat.
+zemzem : çok mübarek bir su. * Kâbe-i Mükerreme'nin yanındaki maruf kuyu. (Süryanicede Zem: Dur, gitme mânasınadır. Vaktiyle Hz. Hacer, oğlu îsmail'in (A.S.) ayağı altından su çıkıp aktığını veya bu kuyunun çok çok akmağa başladığını görünce, "zem zem" diye söylemesi ile kuyunun akması kesilmiş ve bu vecihle kuyu bu ismi almıştır.) *Kelimenin lügat manası: Yavaş yavaş teganni ve terennüm eylemek, hafif ve yavaş yavaş türkü söylemek. * çok bol.
+zemzeme : Nağme, hoş ses. Uzun uzadıya gürleyerek seslenmek. Geniz ve boğaz ile ezgili ses çıkarmak. Yavaş yavaş geniz ve boğazdan ses çıkararak türkü veya şarkı söylemek. * Cemaat.
 zemzeme-dâr: Ahenkli.
 zemzeme-pîrâ: şarkı söyleyen, terennüm eden.
 zen: Kadın, nisa.
-zen: Vuran, kesen, atan mânalarına gelerek birleşik kelimeler yapılır. (Zeden: Vurmak mastarında emir köküdür) Lâf-zen $: Söz atan, lâf atan.
+zen: Vuran, kesen, atan mânalarına gelerek birleşik kelimeler yapılır. (Zeden: Vurmak mastarında emir köküdür) Lâf-zen: Söz atan, lâf atan.
 zen-dost: Kadınların peşinde dolaşan, kadınlardan hoşlanan, zampara.
 zena': Kısa boylu ve dar nesne. * Sidiğini tutup işemeyen kişi.
 zenabî: Kuş kuyruğu. * Deve burnundan akan sümük.
@@ -597,9 +597,9 @@ zenadik: (Zındık. C.) Zındıklar. Allah'a ve âhirete inanmayan dinsizler. î
 zenadîka: (Zındık. C.) Zındıklar.
 zenah: (Zenâhdân) çene.
 zenan: Kadınlar.
-zenan: "Vurarak" mânasına gelir ve birleşik kelimeler yapılır. Meselâ: Ta'ne-zenan $: Söverek.
+zenan: "Vurarak" mânasına gelir ve birleşik kelimeler yapılır. Meselâ: Ta'ne-zenan: Söverek.
 zenane: Kadınla alâkalı, kadına mahsus. Kadın işi.
-zenav : (Bak: Avzen)
+zenav : (Bak: Avzen)
 zenb: Suç, günah, kabahat.
 zenbak: Güzel kokulu bir çiçek. Zambak. * Yâsemin yağı.
 zenberek: (Zenburek) Hareket ettirmeğe yarıyan yay. Saatin zenbereği. * Hayvan üzerinde taşınan ve ateşlenebilen küçük top. * Mc: Faaliyet ve harekete sebep olan şey.
@@ -729,22 +729,22 @@ zeur: Korkak kimse.
 ze'v: Sürmek ve sulamak.
 zev': ölüm sebebiyle gelen sıkıntı, keder.
 zevabe: (C.: Zevâib) Saç bölüğü. * Zülüf. * Kılıç tasması.
-zevabî' : Musibetler. Büyük belâlar. (Bak: Devâhi)
+zevabî' : Musibetler. Büyük belâlar. (Bak: Devâhi)
 zevacîr: (Zâcire. C.) Yasak edenler, men'edenler, önleyenler.
-zevad : Azıklar, yiyecekler.
+zevad : Azıklar, yiyecekler.
 zevade: Ziyadelik, çokluk.
 zevah: Gitmek.
 zevahîf: (Zâhife. C.) Yerde sürünerek yürüyen hayvanlar, sürüngenler.
 zevahîr: (Bk: Zavahir)
 zevahîr: Dolu, taşkın, coşkun denizler. * Mc: Yüksek şan ve şerefler.
-zevahîr : (Zühre. C.) çiçekler. * Parlak yıldızlar. * Ziynetli, parlak ve berrak olanlar.
+zevahîr : (Zühre. C.) çiçekler. * Parlak yıldızlar. * Ziynetli, parlak ve berrak olanlar.
 zevaîb: (Zâib. C.) Erimiş şeyler, eriyenler.
-zevaîd : (Zâide. C.) Fazlalıklar, fazla şeyler. Faydasız şeyler.
+zevaîd : (Zâide. C.) Fazlalıklar, fazla şeyler. Faydasız şeyler.
 zevaîl: (Zail. C.) Zeval bulanlar. Zail olan şeyler. * Mc: Yıldızlar.
-zeval : Zâil olma, sona erme. * Gitmek. Yerinden ayrılıp gitmek. * Güneşin tam ortada gibi, baş ucunda bulunduğu zaman. * Güneşin nısf-ı nehar dairesinden batmaya doğru dönmesi. Seyrinin sonuna yaklaşması.(Gafletten kurtulan evvelki adam, o şedit şefkatin elemine karşı ulvi bir tiryak bulur ki; acıdığı bütün zihayatların mevt ve zevâlinde bir Zât-ı Bâki'nin bâki esmasının daimi cilvelerini temsil eden âyine-i ervahları bâki görür; şefkatı, bir sürura inkılâb eder. Hem zevâl ve fenâya mâruz bütün güzel mahlukatın arkasında bir cemâl-i münezzeh ve hüsn-ü mukaddes ihsas eden bir nakış ve tahsin ve san'at ve tezyin ve ihsan ve tenvir-i dâimiyi görür. O zevâl ve fenâyı, tezyid-i hüsün ve tecdid-i lezzet ve teşhir-i san'at için bir tazelendirmek şeklinde görüp lezzetini ve şevkini ve hayretini ziyadeleştirir. M.)
+zeval : Zâil olma, sona erme. * Gitmek. Yerinden ayrılıp gitmek. * Güneşin tam ortada gibi, baş ucunda bulunduğu zaman. * Güneşin nısf-ı nehar dairesinden batmaya doğru dönmesi. Seyrinin sonuna yaklaşması.(Gafletten kurtulan evvelki adam, o şedit şefkatin elemine karşı ulvi bir tiryak bulur ki; acıdığı bütün zihayatların mevt ve zevâlinde bir Zât-ı Bâki'nin bâki esmasının daimi cilvelerini temsil eden âyine-i ervahları bâki görür; şefkatı, bir sürura inkılâb eder. Hem zevâl ve fenâya mâruz bütün güzel mahlukatın arkasında bir cemâl-i münezzeh ve hüsn-ü mukaddes ihsas eden bir nakış ve tahsin ve san'at ve tezyin ve ihsan ve tenvir-i dâimiyi görür. O zevâl ve fenâyı, tezyid-i hüsün ve tecdid-i lezzet ve teşhir-i san'at için bir tazelendirmek şeklinde görüp lezzetini ve şevkini ve hayretini ziyadeleştirir. M.)
 zeval-î elem: Elemin sona ermesi.(Zeval-i elem lezzet olduğu gibi, zeval-i lezzet dahi elemdir. S.)
 zeval-î lezzet: Lezzetin bitmesi, lezzetin sona ermesi.
-zevalî : Zevale mensub, zevale ait ve müteallik. * çok yaşlı.
+zevalî : Zevale mensub, zevale ait ve müteallik. * çok yaşlı.
 zevalnâpezîr: Geçici ve muvakkat olmayan. Zeval bulmayan. Sona ermeyen.
 zevalpezîr: Geçici olan. Muvakkat. Sona eren.
 zevamîl: (Zâmile. C.) Küçük yükler. * Yük hayvanları.
@@ -754,13 +754,13 @@ zevat: (Zât. C.) Zatlar, şahıslar, kimseler. * üzüm, buğday gibi şeylerin
 zevat-i kîram: şerefli, temiz, büyük zatlar.
 zevat-i ma'dude: Sayılı zevât. Sayılı kimseler.
 zevata: îki zat. * îki sahib. * çift.
-zevaya : (Zâviye. C.) Zaviyeler. Açılar. Köşeler. Tekyeler.
+zevaya : (Zâviye. C.) Zaviyeler. Açılar. Köşeler. Tekyeler.
 zevb: Erime.
-zevc : çift. îki şeyden meydana gelen. * Sınıf, cins, nev'. * Karı ve kocanın herbiri. * Koca, eş.
-zevcat : (Zevce. C.) Zevceler. Karılar. Kadın eşler.
-zevce : Kadın eş. Nikâhlı kadın, eş.
+zevc : çift. îki şeyden meydana gelen. * Sınıf, cins, nev'. * Karı ve kocanın herbiri. * Koca, eş.
+zevcat : (Zevce. C.) Zevceler. Karılar. Kadın eşler.
+zevce : Kadın eş. Nikâhlı kadın, eş.
 zevceyn: Karı ile koca. Kadın ile erkek çift.
-zevcîyyet : Kocalık, karılık. Eşlik. Karı ve koca oluş.
+zevcîyyet : Kocalık, karılık. Eşlik. Karı ve koca oluş.
 zevd: Ayırmak. * Uzaklaştırmka, ırak etmek. * Defetmek, menetmek.
 zevd: Koyunu su yerinden sürmek. * Sevk.
 ze've: (C: Ze'vât) Zayıf koyun.
@@ -777,13 +777,13 @@ zevî-l ehsas: Duygu sahibi olanlar, duyanlar, hissedenler.
 zevî-l erham: Yakın akraba.
 zevî-l ervah: Ruh sahipleri. Hayatlılar, ruhlular. Can sahibi olanlar.
 zevî-l îdrak: îdrak sahipleri. Anlayış ve akıl ile kavrayışlı olan.
-zevî-l ukul : Akıl sahipleri. Aklı olanlar. * Tas: Halkı zâhiren, Hakkı bâtınen görenler.
+zevî-l ukul : Akıl sahipleri. Aklı olanlar. * Tas: Halkı zâhiren, Hakkı bâtınen görenler.
 zevk: Lezzet alma, hoşa gitme, tatma. * Hoş, hoşa giden. Mânevi haz. * Boş vakit geçirmek. Eğlenmek. * Alay etmek. Güzeli çirkinden ayırma kabiliyeti.(Hayatın zevkini ve lezzetini isterseniz, hayatınızı iman ile hayatlandırınız ve ferâizle zinetlendiriniz ve günahlardan çekinmekle muhafaza ediniz... S.)
-zevk-âlud : Zevkli, zevk karışık.
+zevk-âlud : Zevkli, zevk karışık.
 zevk-bahş: Zevk veren, eğlendiren, neşelendiren. * Meşhur bir cins lâle.
 zevk-cû: (C.: Zevkcuyân) Zevkine düşkün. Zevk arıyan.
-zevk-î selîm : En temiz, nezih ve en yüksek derecedeki zevk. Selâmette olan zevk. Meşru dairedeki zevk. * Sezme kabiliyeti.
-zevk-yâb : Lezzet alan, zevklenen.
+zevk-î selîm : En temiz, nezih ve en yüksek derecedeki zevk. Selâmette olan zevk. Meşru dairedeki zevk. * Sezme kabiliyeti.
+zevk-yâb : Lezzet alan, zevklenen.
 zevkî: Zevkle alâkalı. Zevke âit.
 zevkîyyat: Zevk ve eğlenceye dair hususlar.
 zevl: (C.: Ezvâl) Acib nesne. * Zâil olmak, geçici olmak.
@@ -799,10 +799,10 @@ zevreka: (C.: Zevrak-Zevârik) ölçek. * Küçük gemi.
 zevt: Boğmak.
 zevv: Irak diyarında bir dağın adı. * Kadr, kıymet. * Miktar.
 zevvak: Bir şeyi fazlasıyla deneyen. * Bir şeyi çok fazla tadan.
-zevy : (Zevey) Döndürmek. Cem etmek, dürülmek. Tutmak.
+zevy : (Zevey) Döndürmek. Cem etmek, dürülmek. Tutmak.
 zevy: Solmak. * Değişmek, mütegayyer olmak.
 zevzat: Doğurmak. * Sür'atle gitmek. * Reddedip uzaklaştırmak.
-zevzek : t. Geveze. Münasebetsiz, temkinsiz. Ağzı ve eli durmayan. Hoppa.
+zevzek : t. Geveze. Münasebetsiz, temkinsiz. Ağzı ve eli durmayan. Hoppa.
 zey': (Zeyean) Duyulma. Meydana çıkıp yayılma.
 zey': Güzelce pişip erimek.
 zeyb: (Bak: Zib)
@@ -828,7 +828,7 @@ zeyneb: Eski fetva metinlerinde kadını temsil eden isimlerden biri. * Gül. (B
 zeyr: Eksilmek.
 zeyt: Zeytinyağı. Yağ.
 zeytun: Zeytin.
-zeytunî : Zeytin renginde olan.
+zeytunî : Zeytin renginde olan.
 zeyy: (Bak: Ziyy)
 zeyy: Döndürmek. * Toplamak, cem'etmek.
 zeyyal: Kuyruklu. * Uzun etekli.
@@ -881,8 +881,8 @@ zirgam: (C.: Zarâgım) Aslan, gazanfer.
 zirh: Cevşen. * Muharebe elbisesi, demirden örülmüş veya dökülmüş elbise.
 zirhpuş: (C.: Zırhpuşân) Zırh giyinmiş, zırh giyen.
 zirr: Gömlek ve kaftan düğmesi. * Tomurcuk.
-zivana : îki ucu açık küçük boru. * Birbirine geçen şeylere açılan boru şeklinde delik.
-zivanadan çikmak : Taşkınlık göstermek. Haddini aşmak, edepsizlik etmek.
+zivana : îki ucu açık küçük boru. * Birbirine geçen şeylere açılan boru şeklinde delik.
+zivanadan çikmak : Taşkınlık göstermek. Haddini aşmak, edepsizlik etmek.
 ziya: (Bak: Ziyâ)
 ziya': Kayıp, yitim. Kaybolma. Mahvolma.
 ziya': (Zay'a. C.) Küçük çiftlikler, tarlalar.
@@ -890,7 +890,7 @@ ziyk: (Dıyyık - Dıyk) Dar. Sıkıntılı.
 ziyyik: Pek dar.
 zî: Arapçada kelimenin yerine göre "Zâ, Zû, Zi" şeklinde okunan, "sâhib" mânasını ifade eden ve birleşik kelimeler yapılan bir edattır.
 zî: Kılık, kıyafet. Elbise.
-zî: Türkçedeki "den, dan" mânasını ifade eder. Meselâ: Zi-mısır $: Mısır'dan.
+zî: Türkçedeki "den, dan" mânasını ifade eder. Meselâ: Zi-mısır: Mısır'dan.
 zî-fîkîr: Fikir sahibi, tefekkür eden.
 zî-hassa-î meşhure: Meşhur hususiyet sâhibi.
 zî-hasse: Duygulu, duygu sâhibi, hisseden.
@@ -983,7 +983,7 @@ zîkr-î cehrî: Yüksek sesle yapılan zikir.
 zîkr-î hafî: îçten ve kalbden yapılan gizlice olan zikir. Nakşilerin zikir şekli.
 zîkr-î kalbî: Kalb ile yapılan, sessiz zikir.
 zîkra: Anma, hatırlama. * Nasihat, öğüt. * îbret. örnek.
-zîkzak : Fr. Bir sağa ve bir sola doğru gidiş yapma.
+zîkzak : Fr. Bir sağa ve bir sola doğru gidiş yapma.
 zîlal: (Zelil. C.) Hor ve hakir olanlar. Zeliller.
 zî'leb(e): Deve kuşu. * Hızlı yürüyen dişi deve.
 zîlhîcce: Hacca gitmenin içinde yapıldığı Arabi onikinci ay. Kurban bayramı, bu ayın onuncu gününe rastlar.
@@ -993,8 +993,8 @@ zîlle: Orak kuşu denilen bir böcektir, orak vaktinde öter.
 zîllet: Aşağılık, horluk, hakirlik, alçaklık.
 zîllet-î nefs: Nefis alçaklığı.
 zîlye: (C.: Zelâli) Büyük döşek.
-zîlzal : Zelzele, sarsıntı.
-zîlzal suresî : Kur'an-ı Kerim'in 99. suresidir. "Zelzele, îzâzülzile" sureleri de denir.
+zîlzal : Zelzele, sarsıntı.
+zîlzal suresî : Kur'an-ı Kerim'in 99. suresidir. "Zelzele, îzâzülzile" sureleri de denir.
 zîlzîl: (C.: Zelâzil) Uzun etek.
 zî'm: Ayıp.
 zîmal: (Bak: Zemel)
@@ -1032,14 +1032,14 @@ zînde-gî: Canlılık, zindelik, dirilik.
 zîndik: (Zındık) Dinsiz, imansız. Müşrik. (Bak: Zendeka)
 zîne: Düzgün. * Libas, elbise.
 zînet: Süs. Bezek. Kadınlara mahsus kıymetli eşya.(Her bir çiçekte, her bir meyvede bir mizan ve o mizan bir intizam içinde ve o intizam, tazelenen bir tanzim ve tevzin içinde ve o tevzin ve tanzim bir zinet ve sanat içinde ve o zinet ve san'at, manidar kokular ve hikmetli tadlar içinde bulunduğundan; her bir çiçek o ağacın çiçekleri adedince Hakem-i Zülcelâl'e işaretler ediyor. L.)
-zînfîlece: (Zinfelice) Zenbile benzer bir nesne.ZîNHAR $ Sakın, aslâ, kat'iyyen, olmaya, aman. * Elbette.
+zînfîlece: (Zinfelice) Zenbile benzer bir nesne.ZîNHAR Sakın, aslâ, kat'iyyen, olmaya, aman. * Elbette.
 zînharhâr: Sözünde durmayan adam. * Aman dileyen.
 zînkîr: Tırnak kesintisi.
 zîr: Alt, aşağı.
 zîr: (C.: Zire) înce kiriş. * Kadınlar sohbetini seven kişi.
-zîr ü zeber : Altüst, karmakarışık, darmadağın.
+zîr ü zeber : Altüst, karmakarışık, darmadağın.
 zîr-bend: Kayış, kuşak, kemer.
-zîr-î zemîn : Yeraltı.
+zîr-î zemîn : Yeraltı.
 zîra: çünkü. Ondan ki, şundan, şu sebepten ki.
 zîra': El, kol uzunluğu. Yirmidört parmak uzunluğu. Arşın. * Bir kolun dirseğinden orta parmak ucuna kadar uzunluk ölçüsü. (75-90 cm. kadar) * Gökte ayın menzillerinden birisi. * Tulum. îçine peynir veya su, yağ gibi şeyler konan deriden kap.
 zîraat: çiftçilik, ekincilik.
@@ -1056,11 +1056,11 @@ zîrr: Düğme. * Tomurcuk.
 zîrve: Bir şeyin, hususan dağın en yüksek noktası, tepesi.
 zîrve-î bâlâ: Yüksek zirve. * Yüksek makam. * Yüce kat.
 zîrve-î cebel: Dağ tepesi.
-zîşt : çirkin. Kötü. Kabih.
+zîşt : çirkin. Kötü. Kabih.
 zîştî: çirkinlik.
 zît: (Ziyât) çağırmak. * Niza edişmek, çekişmek.
-zîvana : (Bak: Zıvana)
-zîver : Süs. Zinet.
+zîvana : (Bak: Zıvana)
+zîver : Süs. Zinet.
 zîver: şiddetle yürümek.
 zîya: Işık, aydınlık, nur. Ruşenlik. (Nur, ziya'dan daha umumidir. çünkü ziyâ aydınlığın intişarı mülâhazası ile ve Nur, intişarı ve sebatı mülâhazaları ile ıtlak olunmuştur ve bazıları indinde bizzat olan aydınlığa ziya; ve vasıta ile olan aydınlığa nur ıtlâk olunur. L.R.)(Ziya ile; mevcudat görünür, hayat ile, mevcudatın varlığı bilinir; her birisi birer keşşaftır. M.)
 zîya': Kaybolma, mahvolma.
@@ -1094,7 +1094,7 @@ zû: Kelimenin başına gelerek "sâhip, mâlik olan" mânasını verir. (Bak: Z
 zû': Gece uçan kuşlardan birisi. * Erkek baykuş.
 zû': (C.: Azvâ'-Ziyâ') Işık, aydınlık.
 zu-esmar: Meyveli. Semereli.
-zu-hazz : Nasibi olan, nasibli. * Hoşlanan, zevk alan.
+zu-hazz : Nasibi olan, nasibli. * Hoşlanan, zevk alan.
 zû-zeneb: Kuyruklu. Kuyruğu olan.
 zuafa: (Zayıf. C.) Zayıflar. Zayıf olanlar.
 zuak: Tuzlu su.
@@ -1104,7 +1104,7 @@ zubban: (Zabb. C.) Kelerler, kertenkeleler.
 zube: Bir taraf.
 zucret: Yürek darlığı, iç sıkıntısı.
 zucretver: Sıkıntılı.
-zud : çabuk, tez, hemen olan, acele.
+zud : çabuk, tez, hemen olan, acele.
 zud: üçten ona kadar olan develer.
 zudaşna: (Zud-âşnâ) Her gördüğü kimseyle dost olan.
 zudendaz: (Zud-endâz) Akla geldiği şekilde, düşünülmeden söylenen söz.
@@ -1125,7 +1125,7 @@ zuhr: Sahavetli zenginlik. * Yüksek şeref.
 zuhr(e): îhtiyaç zamanı için muhafaza edilen, saklanan şey. Zahire. * Sâlih amel. âhiret için yapılan hazırlık.
 zuhrefe: Süslemek, bezemek.
 zuhruf: Yaldız. Yalancı süs. Gösteriş. Zinet. Altın.
-zuhruf suresî : Kur'an-ı Kerim'in 43. suresidir. Mekkidir.
+zuhruf suresî : Kur'an-ı Kerim'in 43. suresidir. Mekkidir.
 zuhur: Meydana çıkmak. * Ansızın meydana gelmek. * Baş göstermek. Görünmek. * Hulul. * Galip olmak. * âlikadr.
 zuhurât: Birden oluveren şeyler. Hesapta olmayan umulmadık hâdiseler. * Sünuhat. (L.R.)
 zuk': (C.: Ezkâ) îki uyluk arası.
@@ -1140,7 +1140,7 @@ zulemat: (Zulmet. C.) Zulmetler, karanlıklar.
 zullame: (Zalime) Zâlimin zulümle aldığı mal.
 zullân: (Zelil. C.) Zeliller.
 zulle: (C.: Zulel) Gölgelik. * Gölge eden bulut. * Sofa.
-zulm: (Zulüm) Haksızlık. * Eziyet, işkence. * Bir hakkı kendi yerinden başka bir yere koymak.( $ sırrınca: Dostların hataları, hizmetimizde bir nevi zulüm hükmüne geçtiği için, çabuk çarpılıyor. şefkatli tokat yer, aklı varsa intibaha gelir. Düşman ise, hizmet-i Kur'âniyeye zıddiyeti, mümânaati, dalâlet hesabına geçer. Bilerek veya bilmiyerek hizmetimize tecavüzü, zendeka hesabına geçer. Küfür devam ettiği için, onlar ekseriyetle çabuk tokat yemiyorlar. Nasılki küçük kabahatleri işliyenlerin, nâhiyelerde cezaları verilir. Büyük kabahatleri de büyük mahkemelere gönderilir. öyle de: Ehl-i imanın ve has dostların hükmen küçük hataları, çabuk onları temizlemek için kısmen dünyada ve sür'aten verilir. Ehl-i dalâletin cinayetleri, o kadar büyüktür ki: Kısacık hayat-ı dünyeviyeye cezaları sığışmadığından, muktezâ-yı adalet olarak Alem-i Beka'daki Mahkeme-i Kübrâ'ya havale edildiği için, ekseriyetle burada cezaya çarpılmıyorlar.îşte Hadis-i şerifte $ mezkûr hakikata dahi işaret ediyor. Yâni: Dünyada şu mü'min, kısmen kusuratından cezasını gördüğü için dünya onun hakkında bir dâr-ı cezadır. Dünya, onların saadetli âhiretlerine nisbeten bir zindan ve cehennemdir. Ve kâfirler, madem Cehennem'den çıkmıyacaklar. Hasenatlarının mükâfatlarını kısmen dünyada gördükleri ve büyük seyyiatları te'hir edildiği cihetle, onların âhiretine nisbeten dünya, cennetleridir. Yoksa mü'min bu dünyada dahi kâfirden manen ve hakikat nokta-i nazarında çok ziyade mes'uddur. âdeta mü'minin imanı, mü'minin ruhunda bir cennet-i maneviye hükmüne geçiyor; kâfirin küfrü, kâfirin mahiyetinde manevi bir cehennemi ateşlendiriyor. L.)
+zulm: (Zulüm) Haksızlık. * Eziyet, işkence. * Bir hakkı kendi yerinden başka bir yere koymak.( sırrınca: Dostların hataları, hizmetimizde bir nevi zulüm hükmüne geçtiği için, çabuk çarpılıyor. şefkatli tokat yer, aklı varsa intibaha gelir. Düşman ise, hizmet-i Kur'âniyeye zıddiyeti, mümânaati, dalâlet hesabına geçer. Bilerek veya bilmiyerek hizmetimize tecavüzü, zendeka hesabına geçer. Küfür devam ettiği için, onlar ekseriyetle çabuk tokat yemiyorlar. Nasılki küçük kabahatleri işliyenlerin, nâhiyelerde cezaları verilir. Büyük kabahatleri de büyük mahkemelere gönderilir. öyle de: Ehl-i imanın ve has dostların hükmen küçük hataları, çabuk onları temizlemek için kısmen dünyada ve sür'aten verilir. Ehl-i dalâletin cinayetleri, o kadar büyüktür ki: Kısacık hayat-ı dünyeviyeye cezaları sığışmadığından, muktezâ-yı adalet olarak Alem-i Beka'daki Mahkeme-i Kübrâ'ya havale edildiği için, ekseriyetle burada cezaya çarpılmıyorlar.îşte Hadis-i şerifte mezkûr hakikata dahi işaret ediyor. Yâni: Dünyada şu mü'min, kısmen kusuratından cezasını gördüğü için dünya onun hakkında bir dâr-ı cezadır. Dünya, onların saadetli âhiretlerine nisbeten bir zindan ve cehennemdir. Ve kâfirler, madem Cehennem'den çıkmıyacaklar. Hasenatlarının mükâfatlarını kısmen dünyada gördükleri ve büyük seyyiatları te'hir edildiği cihetle, onların âhiretine nisbeten dünya, cennetleridir. Yoksa mü'min bu dünyada dahi kâfirden manen ve hakikat nokta-i nazarında çok ziyade mes'uddur. âdeta mü'minin imanı, mü'minin ruhunda bir cennet-i maneviye hükmüne geçiyor; kâfirin küfrü, kâfirin mahiyetinde manevi bir cehennemi ateşlendiriyor. L.)
 zulm-ü mütehaccîr: Taş haline gelmiş, zulüm. (Bak: Sanemperest)
 zulmanî: Karanlık. Karanlıkla alâkalı. Karanlıklı ve karanlık gaflet uykusunda olan.
 zulmat: (Zulümât - Zulemât) (Zulmet. C.) Karanlıklar. Kara gün. * Dinsizlik ve zulüm devri.
@@ -1149,7 +1149,7 @@ zulmet: Karanlık. * Mc: Sıkıntı.
 zulmet-âlud: Karanlıklı. Karışık ve sıkıntılı.
 zulmet-efzâ: (Zulmet-fezâ) Karanlığı artıran.
 zulmet-î münevvere: Efkâr-ı hâzırada cehl-i basiti, cehl-i mürekkebe kalbeden en mühim sebep. Meçhul bir şeye parlak bir isim takmakla anladım zannetmek ve izah olundu zannetmektir. Manyetizma, telepati, kuvve-i mıknatısıyye ve elektrik gibi isimleri takmakla o hârika hâdiseler izah olunmuş olamazlar.
-zulmet-î müzevver : Dedikodu, fitneden hâsıl olan azab ve mânevi karanlık.
+zulmet-î müzevver : Dedikodu, fitneden hâsıl olan azab ve mânevi karanlık.
 zu'lub: (C.: Zeâlib) Bez parçası.
 zuluf: (Zılf. C.) Koyun, keçi, inek gibi hayvanların çatal tırnakları.
 zu'luk: Bir ot cinsi.
@@ -1163,8 +1163,8 @@ zun: Put, sanem.
 zunbub: încik önünde olan kuru kemik.
 zunun: (Zann. C.) Zanlar. şübheler.
 zu'r: Korku, havf.
-zur : (Zor) Kuvvet, güç.
-zur : Yalan. Asılsız. Uydurma.
+zur : (Zor) Kuvvet, güç.
+zur : Yalan. Asılsız. Uydurma.
 zurafa: (Zarif. C.) Zarifler. Zarif, hoş, tatlı ve nâzik konuşan, kibâr ve nâzik hareket eden kimseler.
 zurar: Keskin bir taş.
 zurba: Zorba. Bir işi zorla yaptıran. * Kuvvetli, güçlü.
@@ -1209,11 +1209,11 @@ zübdî: Tereyağıyla ilgili, tereyağına ait. Tereyağlı cisimler.
 zübed: (Zebed. C.) Köpükler. * (Zübde. C.) özler, özetler, zübdeler, neticeler.
 zübeh: Bir ot.
 zübeyr: (Zübür. den) Yazılı küçük şey.
-zübeyr bîn avvam (r.a.) : Sahabe-i Kiramdan ve Aşere-i Mübeşşeredendir. Erkeklerin beşincisi olarak onbeş yaşında iken îslâmiyeti kabul etti. Resül-ü Ekrem Aleyhissalâtü Vesselâm'ı muhafaza için ilk kılıç çekenlerdendir. Bütün gazalarda bulunup çok yara aldı. Mısır'ın Fethinde bulundu. çok zengin olduğu hâlde bütün varını îslâmiyete fedâ etti. Namaz kılarken şehid edildi (Hi: 67). Namazını Hz. Ali (Radıyallahü anh) kıldırdı.
+zübeyr bîn avvam (r.a.) : Sahabe-i Kiramdan ve Aşere-i Mübeşşeredendir. Erkeklerin beşincisi olarak onbeş yaşında iken îslâmiyeti kabul etti. Resül-ü Ekrem Aleyhissalâtü Vesselâm'ı muhafaza için ilk kılıç çekenlerdendir. Bütün gazalarda bulunup çok yara aldı. Mısır'ın Fethinde bulundu. çok zengin olduğu hâlde bütün varını îslâmiyete fedâ etti. Namaz kılarken şehid edildi (Hi: 67). Namazını Hz. Ali (Radıyallahü anh) kıldırdı.
 zübre: (C.: Züber) Büyük demir parçası. (örs mânasına da gelir.)
 zübul: Sararıp solma. Buruşma. * Pejmürdelik.
 zübul-yafte: Gübrelenip kuvvetlenmiş olan.
-zübur : (Zibr. C.) Mektuplar. Kitaplar.
+zübur : (Zibr. C.) Mektuplar. Kitaplar.
 zübür: (Zebur. C.) Kitaplar. Mektuplar.
 zübye: (C.: Zübâ) Tepe.
 zücac(e): Cam, şişe, sırça.
@@ -1241,7 +1241,7 @@ zühluk: (C.: Zehâlik) Semiz,besili, şişman.
 zühm: îçyağı.
 zühme: (C.: Zühem) çirkin koku. * Kedinin kuyruğu altında toplanan misk.
 zühre: çoban yıldızı. Sabah yıldızı. Târık. Venüs. Kervan kıran. çulpan. Güneşten ikinci derecede uzak olan ve sair seyyarelerden daha parlak olan yıldızlar. * Berraklık, safilik.
-zührevî : Frengi ve bel soğukluğu gibi hastalıklar.
+zührevî : Frengi ve bel soğukluğu gibi hastalıklar.
 zühruf: (Bak: Zuhruf) Yaldızlı zinet.
 zühub: (Zeheb. C.) Altınlar. 
 zühuk: Bitip tükenme, mahvolma, yok olma. Hükümsüz kalma.
@@ -1250,7 +1250,7 @@ zühul: Unutmak veya bir işi geciktirmek. Elde olmayan bir sebeple bir işi gec
 zühul: Uzak olmak, yerinden gitmek. Uzaklaşmak.
 zühul: Gafil olmak, gaflette bulunmak. Meşgul olmak.
 zühumet: Yağlılık.
-zühur : Parlaklık. Parıldama. Zühuret. * çiçekler. Ezhar.
+zühur : Parlaklık. Parıldama. Zühuret. * çiçekler. Ezhar.
 zühur: (C.: Ezhâr) Darlık zamanı için saklanıp biriktirilen şey.
 zühur: (Su) çok olmak. * (Irmak) su ile dolu olmak. * Büyük ve uzun olmak.
 zühuret: Parlaklık, parıldama.
@@ -1272,13 +1272,13 @@ zükur: (Zeker. C.) Erkekler.
 zükuret: Erkeklik.
 zülaka: (Bak: Zelâka)
 zülâl: Saf, berrak, tatlı, hafif, güzel, soğuk su. * Yumurta akı.
-zülâl-î vasl : Sevdiğine, muhabbet ettiğine kavuşmanın neticesi hâsıl olan tatlılık ve sürur.
+zülâl-î vasl : Sevdiğine, muhabbet ettiğine kavuşmanın neticesi hâsıl olan tatlılık ve sürur.
 zülâlî: (Zülâliyye) Yumurta akı özelliğinde olan maddeler. Yumurta akına benziyen.
 zülam: Parasız, züğürt.
 zülef: (Zülfe. C.) Gecenin gündüze yakın saatleri. * Yakınlık. * Rütbe. Menzile.
 zülenkata: Zeker. * Kısa boylu kişi.
 zülf: (Zülüf). Yüzün iki yanından sarkan saç lülesi.
-zülf-î perîşan : Zülfün dağınık, perişan oluşu. Sevgilinin saçının darma dağın oluşu. * Mc: Sevilen şeylerin, işlerin karma karışık oluşu.
+zülf-î perîşan : Zülfün dağınık, perişan oluşu. Sevgilinin saçının darma dağın oluşu. * Mc: Sevilen şeylerin, işlerin karma karışık oluşu.
 zülf-î yâr: Sevgilinin zülfü. * Mc: Menfaat, fayda, çıkar. * Hatır, onur, şeref.
 zülfa: Yakınlık, yaklaşma.
 zülfe: Küçük saçak, püskül. * Yazı ıstahlarındandır, sülüs yazısındaki eliflerin ucundaki çengele verilen addır. Eliflerini ucundaki çengel, ufak saçağı benzediği için bu ad verilmiştir.
@@ -1300,7 +1300,7 @@ zümh: Yüce ve büyük olmak.
 zümmah: Bahil, yaramaz kişi.
 zümmel (zümmâl): Zayıf, korkak kişi.
 zümre: Bölük, cemaat, grup, takım, sınıf. Cins.
-zümre-î muvahhîdîn : Bir Allah'a inanmış ve O'nun emirlerinden ayrılmak istemeyenler. Bir Allah'a inanıp başka fikre aldanmayanlar.
+zümre-î muvahhîdîn : Bir Allah'a inanmış ve O'nun emirlerinden ayrılmak istemeyenler. Bir Allah'a inanıp başka fikre aldanmayanlar.
 zümrüt: Cam parlaklığında, güzel, yeşil renkte şeffaf bir süs taşı.
 zümuh: Uzak olmak. * Katı olmak.
 zümum: (Zemm. C.) Ayıplamalar. Kınamalar.
@@ -1330,7 +1330,7 @@ zürrak: (C.: Zerârik) Beyaz tüylü doğan.
 zürre: Darı.
 zürrîyat: (Zürriyet. C.) Zürriyetler, kuşaklar, nesiller.
 zürrîyet: Soy, nesil, döl, kuşak.
-züru' : Ekili tarlalar.
+züru' : Ekili tarlalar.
 zürud: (Zerd ve Zered. C.) Savaşçıların halka halka örülmüş zırhları.
 zürur: Ay, güneş ve yıldızın doğması.
 zürzür: Sığırcık kuşu.
@@ -1342,7 +1342,7 @@ züvenn: Kısa boylu.
 züveyza': Kısa boylu.
 züvîyet: Toplandı, dürüldü. (Bak: Zevy)
 züvvar: (Zâir. C.) Ziyaretçiler. Hal hatır sormağa gidenler.
-züyuf : (Zeyf. C.) Kalp akça, sahte para. Mağşuş olmak, mağşuş akçalar.
+züyuf : (Zeyf. C.) Kalp akça, sahte para. Mağşuş olmak, mağşuş akçalar.
 züyul: (Zeyl. C.) îlâveler, ekler. Kuyruklar. Etekler. Bir kitaba yapılan ilâveler.
 züyur: (Bak: Ziver)
 züyut: (Zeyt. C.) Yağlar.

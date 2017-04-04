@@ -1,5 +1,5 @@
 sa: (-Sây) Sürücü, süren.
-sa: Benzetme edâtı olan "âsâ" nın hafifletilmişidir. Meselâ: Anber-sâ $: Anber gibi.
+sa: Benzetme edâtı olan "âsâ" nın hafifletilmişidir. Meselâ: Anber-sâ: Anber gibi.
 sa': çiy, rutubet, şebnem. * Kur'an-ı Kerim alfabesindeki dördüncü harfin adı.
 sa': 1040 dirhemlik hububat ölçeği. Kile.
 sa': Vakitler, saatler, zamanlar.
@@ -98,8 +98,8 @@ sabr-i cemîl: Allah'tan gelen bir acıya sabretme. şükrederek sabır.
 sabr-i eyyüb: Eyyüb'ün (A.S.) dillere destan olan sabrı.
 sabsab: Irak, uzak, baid.
 sabsaba: Dövmek. * Ateş etmek. * Kahramanlık göstermek, bahadırlık etmek. * çok inceltmek.
-sabur : çok sabır gösteren, çok sabreden.
-saburâne : çok sabır göstermek suretiyle.
+sabur : çok sabır gösteren, çok sabreden.
+saburâne : çok sabır göstermek suretiyle.
 sabye: (Sabi. C.) Küçük erkek çocukları. Oğlancıklar.
 sac: Hint vilâyetinde yetişen siyah ve büyük cins bir ağaç. * Geniş, yuvarlak libas. (Araplar giyerler)
 sace: Hatıl ağacı. * Altın ve gümüş ayarını astıkları ağaç.
@@ -117,7 +117,7 @@ sad: Göz hastalığı, göz ağrısı.
 sad: Bakır. * Toprağa ağnayan horoz. * Devenin başında olan bir hastalık.
 sad': Yarılmak, yarmak. * Kesmek, kat'etmek. * Göstermek. îzhar etmek. * Beyân ve meyl etmek, açıklamak.
 sa'd bîn ebî vakkas (r. a.): Aşere-i Mübeşşere'den ve ilk îslâm olanların yedincisidir. Peygamberimiz (A.S.M.) ile beraber bütün gazalarda bulundu. Müslüman olduğunda 17 yaşlarında idi. Hz. ömer zamanında îran'a gönderilen ordunun başkumandanı oldu. Medayin şehrinin fethinde ve Kadsiye meydan muharebesinde muvaffak oldu. Kufe şehrinin kurulmasına vesile oldu. Kufe ve Irak vâliliklerinde bulundu. Vefatı 55 Hicri yılındadır.
-sad suresî : Kur'an-ı Kerim'de 38. Suredir. Dâvud Suresi de denir. Mekkidir.
+sad suresî : Kur'an-ı Kerim'de 38. Suredir. Dâvud Suresi de denir. Mekkidir.
 sa'd-i taftazanî: (M. 1322-1389) Horasan'da doğmuş büyük bir îlm-i Kelâm âlimidir. En meşhur eseri, "Makasıd" adlı kelâm kitabıdır. (Bak: Sa'deddin-i Taftazani)
 sad-berk: Yüz yaprak.
 sadâ: Seda. Ses. Avaz. Savt. * Erkek baykuş. * Bir böcek adı. * Susuzluk. * Yankı.
@@ -175,7 +175,7 @@ sadih: Kavi, sağlam, kuvvetli.
 sadiha: Teganni eden.
 sadik-ul kavl: Doğru sözlü.
 sadik-ul kelâm: Doğru söyleyen. Doğru konuşan. Sözü doğru.
-sadik-ul va'd : Va'dinde duran, söz verdiği şeyi yerine getiren, ahdine sâdık olan. Cenab-ı Hak.
+sadik-ul va'd : Va'dinde duran, söz verdiği şeyi yerine getiren, ahdine sâdık olan. Cenab-ı Hak.
 sadik(a): Doğru, hakikatli, sadakatlı, dürüst.
 sadikan : Sâdıklar, sâdık dostlar.
 sadikane: Sâdık kimseye yakışır şekilde. Sadakatle.(...Hem o delil-i sâdık ve musaddak madem umum enbiyanın fevkinde binler mu'cizât ve neshedilmeyen bir şeriat ve umum cin ve inse şâmil bir davet sâhibi olduğundan elbette umum enbiyanın reisidir. öyle ise umum enbiyanın mu'cizatlarının sırrını ve ittifaklarını câmidir. Demek bütün enbiyanın kuvvet-i icmaı ve mu'cizatlarının şehadeti, Onun sıdk ve hakkaniyetine bir nokta-i istinad teşkil eder. M.)
@@ -213,7 +213,7 @@ sadrî: (Sadriye) Göğüsle ilgili, göğüse ait.
 sadrnîşîn: Bir toplantıda baş sedirde oturan.
 sadsal: Asır, yüzyıl.
 sadtu(y): çok katlı, yüz katmerli.
-saduk : çok sâdık.
+saduk : çok sâdık.
 sadukat: Mehir. Evlenirken erkeğin kadına vereceği para. (Bak: Mehr)
 sady: Taarruz eden kimse. * Bedeni, endamı hoş olan. * Dimağ. Başın içini dolduran haşev. * ölü insan cesedi. * Baykuş.
 saet: Doğumdan sonra koyunun rahminden çıkan madde.
@@ -252,13 +252,13 @@ safe: (C.: Savaf-Sâfât) Kanatlarını havada yayıp uçan kuş.
 safed: (C.: Esfâd) Esirlerin eline ve ayağına bağlanan bağ. *Atâ, bahşiş, hediye.
 safen: (C.: Esfan) Haya derisi.
 safer: (C.: Esfâr) Boş ve hâli olmak. * Arabi aylardan ikincisi. * Karın içinde durabilen bir yılanın adı.
-safevîler devletî : (1499-1737) Safeviler adında bir hanedana mensub olan şah îsmail'in kurduğu bir devlettir. îran'da kurulmuş olan bu devlet şii idi. Osmanlılarla münasebetleri iyi değildi. çaldıran'da 1514'de Yavuz Sultan Selim tarafından büyük bir mağlubiyete uğratıldılar. Nihayet 1737'de bir ayaklanma neticesinde Afganistan padişahı Nadir şah tarafından ortadan kaldırıldılar.
+safevîler devletî : (1499-1737) Safeviler adında bir hanedana mensub olan şah îsmail'in kurduğu bir devlettir. îran'da kurulmuş olan bu devlet şii idi. Osmanlılarla münasebetleri iyi değildi. çaldıran'da 1514'de Yavuz Sultan Selim tarafından büyük bir mağlubiyete uğratıldılar. Nihayet 1737'de bir ayaklanma neticesinde Afganistan padişahı Nadir şah tarafından ortadan kaldırıldılar.
 saff: Bir sıra dizilmiş şey, bir şeyi sıra ile uzun uzadıya dizmek. * Câmide cemâatın sırası.
 saff suresî: Kur'an-ı Kerim'de 61. suredir. îsa, Havariyyun Suresi de denir. Medenidir.
 saff-beste: Saf bağlamış, saf olmuş.
 saff-der: (C.: Saff-derân) Düşman saflarını yaran yiğit.
 saff-derâne: Yiğitçesine.
-saff-i evvel : îlk saf, birinci saf. * îlk sahabeler. * Bir hareket ve cereyanın ilk sahipleri.
+saff-i evvel : îlk saf, birinci saf. * îlk sahabeler. * Bir hareket ve cereyanın ilk sahipleri.
 saff-saff: Dizi dizi. Sıra sıra.
 saff-şîkaf: Düşman saflarını yararak bozan yiğit.
 saff-zen: Düşman saflarını vurup yaran yiğitler.
@@ -305,10 +305,10 @@ safsafe: Ekşi aş. * Ekşili nesne.
 safsata: Hezeyan, yalan, uydurma. Zâhirde doğru, hakikatte yanlış ve yalan olan kıyas. (Bak: Dimağ)
 safsataperdaz: Safsata kabilinden söz söyliyen adam.
 safsatîyât: Safsatalar, yalan ve yanlış şeytâni sözler.
-safvan : (Safvâ) Yumuşak, düz ve kaygan taş veya kaya parçası. * çok soğuk ve açık olan gün.
+safvan : (Safvâ) Yumuşak, düz ve kaygan taş veya kaya parçası. * çok soğuk ve açık olan gün.
 safve: Hâlis ve seçkin. * Katı yüzlü merhametsiz kimse. 
-safvet : Sâfilik, temizlik, pâklık. Hâlislik.
-safvet-î kalb : Fikir ve niyetinde hiçbir garazı ve kötü gâyesi olmamak, temiz kalbli olmak.
+safvet : Sâfilik, temizlik, pâklık. Hâlislik.
+safvet-î kalb : Fikir ve niyetinde hiçbir garazı ve kötü gâyesi olmamak, temiz kalbli olmak.
 safvet-î vîcdan: Vicdan saflığı.
 saga: (C.: Sayâg) Kuyumcu.
 sagaîr: (Sagire. C.) Küçük günahlar.
@@ -386,11 +386,11 @@ sahîb-kemal: Olgun, kemal sahibi.
 sahîb-kiran: Her zaman muvaffak olan ve üstünlük kazanan hükümdar.
 sahîb-nazar: Görüşü, tecrübesi ve düşüncesi kuvvetli olan.
 sâhîb-ül beyt: Ev sâhibi.
-sâhîb-ül hut : Peygamber Hazret-i Yunus'un (A.S.) bir nâmı. (Bak: Yunus)
+sâhîb-ül hut : Peygamber Hazret-i Yunus'un (A.S.) bir nâmı. (Bak: Yunus)
 sâhîb-ül yed: Mal sahibi, malı elinde tutan kimse.
 sâhîb-üs seyf: Kılınç sahibi. Maddeten kuvvetli olup, maddi cihad ile vazifeli olan.
 sâhîb-üt tâc: Tâc, sâhibi, încil'de mezkur Hz. Muhammed'in (A.S.M.) ismi.
-sâhîb-üz zaman : Zamânın sahibi. Zamânında înd-i îlâhide en makbul insan. Müceddid. *Mehdi-i zaman.
+sâhîb-üz zaman : Zamânın sahibi. Zamânında înd-i îlâhide en makbul insan. Müceddid. *Mehdi-i zaman.
 sahîb-vücud: Sözü geçer, mevki sâhibi kimse.
 sahîb-zuhur: Baş kaldıran, isyan eden, ayaklanan. Başa geçen.
 sâhîbat: (Sâhibe. C.) Kadın sâhibler.
@@ -479,8 +479,8 @@ sahur: Temcid yemeği. Ramazan'da şafaktan önce yenen yemekr.
 sahur: Gece uyanıklığı, uykusuzluk. * Ayın etrafındaki hâle. * Yer yüzünün gölgesi.
 sahv: Ateş ve ocaktan kül çıkarmak.
 sahva': (C.: Sehâvât) Yumuşak, geniş, bol yer.
-sahv(e) : Ayılma, ayıklık, aklı başında olmak. * Hastanın iyileşmesi. * Tas: Kendinden geçme hâlinin sona ermesi, his âlemine tekrar dönmek. * Uyanıklık.
-sahve : En yüksek dağ. * Atın sırtı, eğer konulan yeri. * Su menbaı.
+sahv(e) : Ayılma, ayıklık, aklı başında olmak. * Hastanın iyileşmesi. * Tas: Kendinden geçme hâlinin sona ermesi, his âlemine tekrar dönmek. * Uyanıklık.
+sahve : En yüksek dağ. * Atın sırtı, eğer konulan yeri. * Su menbaı.
 sahy: Nemli olmak. * Islaklık, rutubet.
 saî: çalışan. * Devletçe posta idaresinin kurulmasından evvel mektup ve emanet götürüp getiren kimseler. * Bir yere vâli olan. * Cemaat başı. * Yan yan giden. * Hızlı yürüyen. * Koğuculuk yapan.
 saîb: Bir yerle veya bir şeyle ilişiği ve alâkası olmayan. 
@@ -503,7 +503,7 @@ saîk: Dürten, sevkeden, sürükleyen, götüren. * Sebep.
 saîk: Kırağı, çiğ.
 saîka: Yıldırım. ölüm, mevt. * Nüzul ateşi. * Semadan gelen şiddetli ses. * Mühlik ve azab. * Bulutları sevke vazifeli melek.
 saîka: Sürükleyen, sevkeden, götüren hal, sebep.
-saîka-varî : Yıldırım gibi. şiddetli korkutarak.
+saîka-varî : Yıldırım gibi. şiddetli korkutarak.
 saîka-zede: Yıldırım çarpmış.
 saîl: (Savlet. den) Saldıran. Kibirli olup başkasına tecavüz eden.
 saîl(e): (Sual. den) Dilenci. * Fakir. * Soran. * îsteyen. * Akan, seyelan eden.
@@ -593,7 +593,7 @@ salaet: (C.: Salâât) Ezme işindeki kullanılan yassı düz taş.
 salah: Bir şeyin en iyi hâli. Rahatlık, sulh, iyileşme, düzelme, iyilik. Dine olan bağlılık. Her hayra câmi faziletlerin toplanmasında hâsıl olan yüksek bir sıfat. (Mukabili fesad ve fücurdur)
 salah-î hal: Durumun düzelmesi.
 salah-üd dîn: Salâhattin şeklinde yaygın olan bu kelime, "dine bağlı" mânasına gelir.
-salahaddîn-î eyyubî : (Doğumu: Hi: 532, Mi: 1137) Ehl-i Salib zihniyetinin îslâm dünyasına açtığı Haçlı seferlerini maddeten durduran şarkın en kahraman kumandanlarından ve sultanlarından olan bu zât hakkında bir Avrupalı tarihçi: "îslâmın en saf kahramanı" diye bahseder.Düşmanın çokluğundan bahsederek geri dönmek isteyen kumandanlarına şöyle hitab etmiş ve az bir kuvvetle Haçlı kuvvetlerini perişan etmiştir.- Madem ölümden korkuyoruz, niçin evlerimizde oturup da çocuklarımızla keyfimize bakmadık, askerliğe girdik... Bizim borcumuz, düşmanın azlığını çokluğunu kıyaslamak değil, ona karşı durmaktır...Sultan Salahaddin, Eyyübiye Devletinin başında 24 sene kaldı. Avrupa'nın Haçlı ordularını iman ve şecaatla çok defa perişan hale getirdi. Onlara mağlub olmadı. Namazını vaktinde ve cemaatla kılardı. Kerim, sabur, halim ve mütevazi idi. 57 yaşında şam'da vefat etti. (R. Aleyh)
+salahaddîn-î eyyubî : (Doğumu: Hi: 532, Mi: 1137) Ehl-i Salib zihniyetinin îslâm dünyasına açtığı Haçlı seferlerini maddeten durduran şarkın en kahraman kumandanlarından ve sultanlarından olan bu zât hakkında bir Avrupalı tarihçi: "îslâmın en saf kahramanı" diye bahseder.Düşmanın çokluğundan bahsederek geri dönmek isteyen kumandanlarına şöyle hitab etmiş ve az bir kuvvetle Haçlı kuvvetlerini perişan etmiştir.- Madem ölümden korkuyoruz, niçin evlerimizde oturup da çocuklarımızla keyfimize bakmadık, askerliğe girdik... Bizim borcumuz, düşmanın azlığını çokluğunu kıyaslamak değil, ona karşı durmaktır...Sultan Salahaddin, Eyyübiye Devletinin başında 24 sene kaldı. Avrupa'nın Haçlı ordularını iman ve şecaatla çok defa perişan hale getirdi. Onlara mağlub olmadı. Namazını vaktinde ve cemaatla kılardı. Kerim, sabur, halim ve mütevazi idi. 57 yaşında şam'da vefat etti. (R. Aleyh)
 salahat: Sâlihlik, günahsız ve temiz oluş, dindarlıkta çok ileri olmak hâli.
 salahattîn: (Bak: Salah-üd din)
 salahdem: Katı, şiddetli, şedid.
@@ -603,7 +603,7 @@ salahîyetdar: Vazifeli, salahiyet sâhibi.
 sâlâr: Kafile veya kabile reisi. Baş. Başkan. Reis. En büyük âmir. Başkumandan.
 sâlâr-i beyt-ül haram: Beyt-ül Haram'ın reisi ve başkumandanı olan Hazret-i Muhammed Aleyhissalâtü Vesselâm.
 sâlâr-i rusül: Resüller kafilesinin reisi, kumandanı. Hazret-i Muhammed Aleyhissalâtü Vesselâm.
-salat  : Namaz. Belirli vakitlerde Kur'an'da emredildiği tarzda ve Hz. Peygamber'in tarifi vechi ile yapılan ibadet. * Tebrik, tezkiye. * Dua. Peygamberimize (A.S.M.) yapılan dua. * îstiğfar. * Rahmet. (Bak: Namaz)(Namaz, dinin direği ve kıvamı olduğu gibi, bütün hasenata fihrist ve örnektir. Kul ile Allah arasında yüksek bir nisbet ve ulvi bir münasebet ve nezih bir hizmettir. î.î.)
+salat  : Namaz. Belirli vakitlerde Kur'an'da emredildiği tarzda ve Hz. Peygamber'in tarifi vechi ile yapılan ibadet. * Tebrik, tezkiye. * Dua. Peygamberimize (A.S.M.) yapılan dua. * îstiğfar. * Rahmet. (Bak: Namaz)(Namaz, dinin direği ve kıvamı olduğu gibi, bütün hasenata fihrist ve örnektir. Kul ile Allah arasında yüksek bir nisbet ve ulvi bir münasebet ve nezih bir hizmettir. î.î.)
 salât-i fecr: Sabah namazı.
 salât-i hamse: Beş vakit namaz.
 salât-i havf: Muharebeden evvel kılınan iki rekât namaz.
@@ -619,8 +619,8 @@ salât-ül mağrîb: Akşam namazı.
 salât-ül vîtr: Vitir namazı.
 salât-üz zuhr: öğle namazı.
 salatîn: (Sultan. C.) Sultanlar.
-salavat : (Salât. C.) Namazlar. * Bütün dualar. îhtiyaçtan gelen ricalar. * Nimetten çıkan şükürler. îbadetler. * Hazret-i Muhammed'e (A.S.M.) memnuniyet ve bağlılık için yapılan dualar. * Nasârâ kilisesi.
-salavatullah : Allah'ın rahmet ve inayeti, kusur ve günahları aff u mağfiret etmesi.
+salavat : (Salât. C.) Namazlar. * Bütün dualar. îhtiyaçtan gelen ricalar. * Nimetten çıkan şükürler. îbadetler. * Hazret-i Muhammed'e (A.S.M.) memnuniyet ve bağlılık için yapılan dualar. * Nasârâ kilisesi.
+salavatullah : Allah'ın rahmet ve inayeti, kusur ve günahları aff u mağfiret etmesi.
 salaye: (C.: Salâyât) Bir şey ezmede kullanılan yassı düz taş.
 salayik: Yufka yapmak.
 salb: Asmak. Darağacına çekmek. çarmıha germek. * Kemikten yağ çıkarmak.
@@ -657,7 +657,7 @@ salîh (a.s.): Büyük peygamberlerden olup Hicaz ile şam arasında oturmuş ol
 salîh(a): (Salâh. dan) îşe yarar, elverişli, uygun, iyi. Haklı olan, itikatlı, dindar, dini emirlere uyan. * Faziletli, ehl-i takva olan.
 salîha: Safi gümüş. * îyi, sâlih kimse.
 salîhat: Dine uygun iyi hareketler. Cenab-ı Hakk'ın ve Peygamber Aleyhissalâtü Vesselâm'ın beğeneceği işler, iyilikler. * Hayır ve hasenat sâhibi müslüman kadınlar.
-salîhûn : Salih kimseler, günahkâr olmayanlar, salihler.
+salîhûn : Salih kimseler, günahkâr olmayanlar, salihler.
 sâlîk: (Sülûk. dan) Bir yolda giden. Belli bir yol tutup giden. * Bir tarikat yolunda olan.
 sâlîkân: (Sâlik. C.) Sâlikler. Bir tarikata girmiş veya bir şeyhe bağlanmış kimseler.
 sâlîkûn (sâlîkîn): (Sâlik. C.) Sâlikler. Sülûk edenler.
@@ -687,7 +687,7 @@ saltanat-i senîyye: Osmanlı împaratorluğunun bir adı.
 salus: îkiyüzlü, riyakâr.
 salusî: îkiyüzlülük, riyakârlık.
 salv: Uyluk.
-salvele : Peygamberimiz Aleyhissalâtü Vesselâm'a okunan salavat ve dua.
+salvele : Peygamberimiz Aleyhissalâtü Vesselâm'a okunan salavat ve dua.
 saly: Pişirmek. * Yakmak.
 sa'm: Soymak.
 sam: ölüm, mevt. * Yer altındaki altın damarı. * Gök kuşağı. * Ateş. * Sersemlik hastalığı. * Hazret-i Nuh'un (A.S.) oğullarından birinin ismi.
@@ -760,7 +760,7 @@ san'atger: San'atçı.
 san'atkâr: Usta, san'atçı.
 san'atkârane: San'atlı olarak, özenip meharetle yapılmak suretiyle, sanatkâra yakışır şekilde.
 san'atnüma: San'atkârlığını gösteren, san'at gösteren.
-san'atperverane : San'atkârcasına, san'atkârlığına çok kıymet vererek.
+san'atperverane : San'atkârcasına, san'atkârlığına çok kıymet vererek.
 sanavber: çam fıstığı kozalağı veya onun şeklinde olan. çam fıstığı.
 sanavberî: Kozalak biçiminde. Koni şeklinde.
 san'avî: (San'aviye) San'atlı oluş. San'ata mensub. Muntazam yapılı.
@@ -806,11 +806,11 @@ sanîye: (C.: Sevâni) Su taşıyan deve. Su yükledikleri ve su çektirdikleri 
 sanîyen: îkinci olarak. îkinci derecede.
 sansür: Fr. Neşr olacak şeylerin (kitap, film veya mektubların) hükümetçe kontrol edilmesi işi.
 santît: Ulu, kerim kişi.
-santrîfüj ©: yun. Merkezden uzaklaşan kuvvet. Merkezkaç kuvvet. (Bak: Kuvve-i an-il merkeziye)
+santrîfüj : yun. Merkezden uzaklaşan kuvvet. Merkezkaç kuvvet. (Bak: Kuvve-i an-il merkeziye)
 sanvan: (Sunvân) (C.: Esvane) Kaftan. * Giyecek eşyaların muhafaza edildiği dolap veya sandık.
 sa'r: Katil zehiri. * Kısa boylu adam. * Küçük hıyar. * Yaban soğanının kökü.
 sa'r: Ateşin alevlenmesi.
-sar: Yer, mekân bildiren, birleşik kelimeler yapılan bir ek'tir. Bir şeyin kesretle bulunduğunu gösterir. Meselâ: Kühsar $: çok dağlık yer.
+sar: Yer, mekân bildiren, birleşik kelimeler yapılan bir ek'tir. Bir şeyin kesretle bulunduğunu gösterir. Meselâ: Kühsar: çok dağlık yer.
 sar: întikam, öç.
 sar': Düşmek. * Yıkıp yere çalmak. * Edb: şiirin beytini iki mısra' veya iki kafiyeli yapmak. * Tıb: Bir hastalık ki, teneffüs cihâzını his ve hareketten meneder.
 sar'a: Tıb: Bir nevi baygınlık hastalığı.
@@ -836,7 +836,7 @@ sare: (Sayr: Olmak. dan) Oldu (meâlinde fiil).
 sare: Cemaat, topluluk.
 sare: (C.: Savâr) Hâcet, ihtiyaç. * Susuzluk.
 sarf: (C.: Süruf) Harcama, masraf, gider. * Fazl. * Hile. * Men etme. Bir kimseyi yolundan ve işinden ayırıp başka tarafa yöneltme. * Farz. * Gr: Bir lisanı meydana getiren kelimelerin değişmesinden, birbirinden türemesinden bahseden ilim şubesi. Kelime bilgisi. Kelime şekli bilgisi. Morfoloji. Tasrif çeşitlerini, isim ve fiil nevilerini öğreten ilim. * Para bozma.
-sarf u nahîv : Dilbilgisi. Gramer.
+sarf u nahîv : Dilbilgisi. Gramer.
 sarf-i mehâret: Maharet sarfetme.
 sarf-i nazar: Bir şeyden vazgeçme, cayma. * Nazar-ı itibare almama.
 sarf-i zîhn: Akıl sarfetme, akıl harcama.
@@ -914,27 +914,27 @@ satt: Cemaat, topluluk. * Cesediyle tokuşmak. * Kovmak, def'etmek. * Zor bir i�
 satur: (C.: Sevâtir) Satır, büyük bıçak.
 satur: Satır.
 satv: Yürürken sıçramak.
-satvet : Ezici kuvvet. Hışım ve şiddetle kavrayıp almak. Birisinin üzerine şiddetle sıçramak ve hamle etmek. * Zorluluk.
+satvet : Ezici kuvvet. Hışım ve şiddetle kavrayıp almak. Birisinin üzerine şiddetle sıçramak ve hamle etmek. * Zorluluk.
 saud: înişli ve yokuşlu yer.
 saur: Ocak. Fırın.
 saut: Enfiye gibi burna çekilen ilâçlar.
 sa'v: Duymak. îşitmek. * Zayıf adam. * Serçeden küçük bir kuş.
 sav: Vatan. * Niyyet.
-sav' : Perâkende etmek, dağıtmak, parça parça yapmak.
-savab : Doğruluk. Yanlış olmayan. Doğru dürüst.
+sav' : Perâkende etmek, dağıtmak, parça parça yapmak.
+savab : Doğruluk. Yanlış olmayan. Doğru dürüst.
 savab-endîş: Düşünce ve görüşü doğru olan.
 savab-nüma: Doğruyu gösteren.
 savabdîde: Doğru ve haklı görülmüş. Beğenilmiş.
-savafik : Havadis. * Yeni meydana gelen şeyler.
-savaîk : Saikalar, yıldırımlar.
-savaîk-î rahmet : Rahmet yağmur ve yıldırımları.
+savafik : Havadis. * Yeni meydana gelen şeyler.
+savaîk : Saikalar, yıldırımlar.
+savaîk-î rahmet : Rahmet yağmur ve yıldırımları.
 savalîc: Cirit oynanan eğri sopalar.
 savarim: (Sârım. C.) Keskin kılıçlar.
 savarîf: (Sârife. C.) Değişmeler. Değişiklikler.
 savarîf-î dehr: Dünya değişiklikleri.
-sa'vat : (Sa've. C.) Kuyruk sallıyan kuşlar.
-savat : (Aslı: Sevâd'dır) Gümüş üstüne kurşunla yapılan kara kalem nakışlar. * Derede hayvanlara su içirilen yer.
-savb : Taraf, cihet, yön. * Dökülmek, nüzul etmek. * Savab. Doğruluk, dürüstlük.
+sa'vat : (Sa've. C.) Kuyruk sallıyan kuşlar.
+savat : (Aslı: Sevâd'dır) Gümüş üstüne kurşunla yapılan kara kalem nakışlar. * Derede hayvanlara su içirilen yer.
+savb : Taraf, cihet, yön. * Dökülmek, nüzul etmek. * Savab. Doğruluk, dürüstlük.
 savb-i âlî: Yüksek taraf.
 savb-i hak: Hak ciheti.
 sa've: (C.: Sa'vât) Kuyruk sallıyan kuş.
@@ -945,17 +945,17 @@ savî: Kuru, yâbis.
 savl: Saldırma, atılma. Saldırış, atılış.
 savlec: Misk. * Gümüş.
 savlecan: (C.: Savâlic) Cirit oynanılan eğri sopa.
-savlet : Saldırma. Ani ve şiddetli atılış.
-savm : Oruç. îkinci fecirden başlıyarak güneşin batmasına kadar yemekten, içmekten ve cinsi mukarenetten nefsi men'etmek suretiyle yapılan ibâdet.
-savm-i davudî : Bir gün oruç tutup bir gün iftar etmek.
-savm-i dehr : Aralıksız, bir sene mütemadiyen nehyedilen bayram günlerinde dahi iftar edilmeksizin oruç tutmağa denir. Bu nevi oruç bayram günleri tutulmazsa câizdir.
-savm-i vîsal : îki gün iftar etmeden oruç tutmak. (Bu, zaruret olmadan mekruhtur)
-savmaa : (Savmea) (C.: Savâmi') îbadet yeri, hususan Yahudilerin ibadet ettikleri yer. * Hücre.
+savlet : Saldırma. Ani ve şiddetli atılış.
+savm : Oruç. îkinci fecirden başlıyarak güneşin batmasına kadar yemekten, içmekten ve cinsi mukarenetten nefsi men'etmek suretiyle yapılan ibâdet.
+savm-i davudî : Bir gün oruç tutup bir gün iftar etmek.
+savm-i dehr : Aralıksız, bir sene mütemadiyen nehyedilen bayram günlerinde dahi iftar edilmeksizin oruç tutmağa denir. Bu nevi oruç bayram günleri tutulmazsa câizdir.
+savm-i vîsal : îki gün iftar etmeden oruç tutmak. (Bu, zaruret olmadan mekruhtur)
+savmaa : (Savmea) (C.: Savâmi') îbadet yeri, hususan Yahudilerin ibadet ettikleri yer. * Hücre.
 savn: Koruma, muhafaza, sıyanet.
 savr: (C.: Savâri) Hamle yapmak. * Parçalamak, pâre pâre etmek. * Bir yerde toplanmış küçük hurma ağaçları.
 savre: Uyuza benzer bir hastalık.
-savt : Ses. Bağırmak.(şeriatça bazı savtlar helâl, bazıları da haram kılınmıştır. Evet ulvi hüzünleri, Rabbani aşkları iras eden sesler helâldir. Yetimâne hüzünleri, nefsani şehevâtı tahrik eden sesler, haramdır. şeriatın tayin etmediği kısım ise, senin ruhuna, vicdanına yaptığı te'sire göre hüküm alır! î.î.)
-savt : (C.: Siyât-Esvât) Kamçı, kırbaç. * Bir şeyi diğerine karıştırmak.
+savt : Ses. Bağırmak.(şeriatça bazı savtlar helâl, bazıları da haram kılınmıştır. Evet ulvi hüzünleri, Rabbani aşkları iras eden sesler helâldir. Yetimâne hüzünleri, nefsani şehevâtı tahrik eden sesler, haramdır. şeriatın tayin etmediği kısım ise, senin ruhuna, vicdanına yaptığı te'sire göre hüküm alır! î.î.)
+savt : (C.: Siyât-Esvât) Kamçı, kırbaç. * Bir şeyi diğerine karıştırmak.
 savt-i azab: Daima elem verici azab.
 savt-i bülend: Yüksek ses.
 savt-i hazîn: Hüzünlü ses.
@@ -995,7 +995,7 @@ saye-güster: Gölge eden. * Koruyan, muhafaza ve himaye eden.
 saye-hah: Koruma ve himaye isteyen.
 saye-î medîd: Uzun gölge.
 saye-nîşîn: Gölgede oturan. * Bir şeyin gölgesine sığınan. Korunan, himaye gören.
-saye-puş : Ağaçlık, gölgelik.
+saye-puş : Ağaçlık, gölgelik.
 sayed: Başını yukarı kaldırıp kibirlenmek ve sağına soluna iltifat etmemek.
 sayehan: çağırmak.
 sayf: Yaz, yaz mevsimi.
@@ -1024,7 +1024,7 @@ saylem: Zorluk, meşakkat.
 sayref: (C.: Seyârif) Sarraf. * îşini, çıkarını, hesabını bilir, kurnaz kimse.
 sayrefî: (C.: Sayârife) Sarraf.
 sayrem: Bir lokma yemek.
-sayruret : (Sayr. dan) Bir hâlden diğer hâle intikal etmek. Bir şeyin bir şeye dönmesi. * Olmak, edilmek. * Vücud, kevn.
+sayruret : (Sayr. dan) Bir hâlden diğer hâle intikal etmek. Bir şeyin bir şeye dönmesi. * Olmak, edilmek. * Vücud, kevn.
 saysa: Ham hurma çekirdeği. * îçi boş olan hanzal tanesi.
 sayyad: Avcı, avcılık yapan.
 sayyad-i bî-însaf : însafsız avcı.
@@ -1032,8 +1032,8 @@ sayyag: (Sıyâgat. dan) Kuyumcu.
 sayyere: (Sayruretin fiili) Oldu, olur (meâlinde).
 sayyîb: Yağmur veren bulut.
 sayyîhanî: Medine hurmalarından bir cins.
-sayyur : Bir işin âkibeti, sonu, neticesi, serencâmı. * Akıl, fikir.
-saz: (Sâhten: Yapmak mastarından emir köküdür) Eden, yapan, uyduran, düzen mânalarına gelir ve birleşik kelimeler yapılır. Meselâ: Evham-saz $: Evham veren.
+sayyur : Bir işin âkibeti, sonu, neticesi, serencâmı. * Akıl, fikir.
+saz: (Sâhten: Yapmak mastarından emir köküdür) Eden, yapan, uyduran, düzen mânalarına gelir ve birleşik kelimeler yapılır. Meselâ: Evham-saz: Evham veren.
 saz: Kamış. * Bir çalgı âleti. * Takım, silâh, edevat. * Ustalık. * At takımı. * Düzen, tertip, sıra. * öğrenme. * Kuvvet, kudret. * Menfaat. * Benzer, misil, eş. * Hile.
 sazec: (C.: Sevâzic) Sâde, basit.
 sazende: (C.: Sâzendegân) çalgıcı. * Düzenleyici, yapıcı.
@@ -1058,7 +1058,7 @@ seb': (Seb'a) Yedi.(7)
 seb': îçmek için şarap satın almak. * Yakmak. * Bir kimseyi değnek veya kamçı ile dövmek.
 seb': Yırtmak. * Parçalamak. * Kahretmek. * Sökmek.
 seb'-ül mesanî: îki defa nazil olan ve yedi âyetten ibaret bulunan Fâtiha Suresi. * Mükerrer okunup tekrarlanan.
-seb'a semavat: Yedi kat gökler.(üçüncü Mes'ele: kelimesi hakkındadır.Ey arkadaş! Semavatın dokuz tabakadan ibaret olduğu, eski hikmetin hurafelerinden biridir. Onların o hurafe-vâri fikirleri, efkâr-ı âmmeyi istilâ etmişti. Hattâ bazı müfessirler, bazı âyetlerin zâhirini onların mezheblerine meylettirmişlerdir. Hikmet-i cedide ise, feza denilen şu boşlukta yalnız yıldızların muallâk bir vaziyette durmakta olduklarına kaildir. Bunların mezhebinden semavatın inkârı çıkıyor. Ve bu iki hikmetin birisi ifrata varmışsa da, ötekisi tefritte kalmıştır. şeriat ise, Cenab-ı Hakk'ın yedi tabakadan ibaret semavatı halketmiş olduğuna hâkimdir ve yıldızların da balık gibi o semalar denizlerinde yüzmekte olduklarına kaildir. Hadis ise, semanın $ den ibaret bulunduğunu emrediyor. şu hak olan mezhebin, "Altı Mukaddeme" ile tahkikatını yapacağız.Birinci mukaddeme: şu geniş boşluğun Esir ile dolu olduğu, fennen ve hikmeten sâbittir.îkinci Mukaddeme: Ecram-ı ulviyenin kanunlarını rabteden ve ziya ve hararetin emsalini neşr ve nakleden fezayı doldurmuş bir madde mevcuddur.üçüncü Mukaddeme: Madde-i Esiriyenin, yine Esir olarak kalmak şartiyle, sâir maddeler gibi muhtelif teşekkülâtı ve ayrı ayrı nevi'leri vardır. Buhar ile su ve buzun teşekkülâtları gibi.Dördüncü Mukaddeme: Ecram-ı ulviyeye dikkat edilirse, tabakaları arasında muhalefet görünür. Evet, yeni teşekküle ve in'ikada başlamış milyarlarca yıldızlardan ibaret Kehkeşan ile anılan tabaka-i Esiriye, sabit yıldızların tabakasına muhaliftir. Bu da, manzume-i şemsiyenin tabakasına ve hâkeza yedi tabakaya kadar birbirine muhalif tabakalar vardır.Beşinci Mukaddeme: Araştırmalar neticesinde sâbit olmuştur ki: Bir maddede teşkil, tanzim, tesviyeler vâki olursa, birbirine muhalif tabakalar husule gelir. Bir mâdenden kül, kömür, elmas meydana gelir; ateşden alev, duman husule gelir. Müvellidülmâ' ile Müvellidülhumuzanın imtizacından su, buz, buhar tevellüd eder.Altıncı Mukaddeme: şu müteaddid emarelerden anlaşıldı ki; semavat müteaddittir; şeriat sahibi de, yedidir demiştir; öyle ise yedidir. Maahaza yedi, yetmiş, yediyüz sayıları arab üslublarında kesret için kullanılır.Arkadaş! Pek geniş bulunan Kur'an-ı Kerimin hitablarına, mânalarına, işaretlerine dikkat edilmekle bir âmiden tut bir veliye kadar bütün tabakat-ı nâsa ve umum efkâr-ı âmmeye olan müraatları, okşamaları fevkalâde hayrete, taaccübe mucibdir.Meselâ: $ kelimesinden bazı insanlar havâ-i nesimiyyenin tabakalarını fehmetmiştir; öbür bazı da, arzımız ile arkadaşları olan hayattar küreleri ihata eden nesimi küreleri fehmetmiştir; bir kısım da seyyarât-ı seb'ayı fehmetmiştir; bir kısmı da, manzume-i şemsiye içinde Esirin yedi tabakasını fehmetmiştir; bir kısım da, şu bildiğimiz manzume-i şemsiye ile beraber altı tane daha manzume-i şemsiyeyi fehmetmiştir; bir kısım da Esirin teşekkülâtı yedi tabakaya inkısam ettiğini fehmetmiştir.Hülâsa: Herbir kısım insanlar, istidatlarına göre feyz-i Kur'an'dan hisselerini almışlardır. Evet Kur'an-ı Kerim, bütün şu mefhumlara şâmildir diyebiliriz. î.î.)
+seb'a semavat: Yedi kat gökler.(üçüncü Mes'ele: kelimesi hakkındadır.Ey arkadaş! Semavatın dokuz tabakadan ibaret olduğu, eski hikmetin hurafelerinden biridir. Onların o hurafe-vâri fikirleri, efkâr-ı âmmeyi istilâ etmişti. Hattâ bazı müfessirler, bazı âyetlerin zâhirini onların mezheblerine meylettirmişlerdir. Hikmet-i cedide ise, feza denilen şu boşlukta yalnız yıldızların muallâk bir vaziyette durmakta olduklarına kaildir. Bunların mezhebinden semavatın inkârı çıkıyor. Ve bu iki hikmetin birisi ifrata varmışsa da, ötekisi tefritte kalmıştır. şeriat ise, Cenab-ı Hakk'ın yedi tabakadan ibaret semavatı halketmiş olduğuna hâkimdir ve yıldızların da balık gibi o semalar denizlerinde yüzmekte olduklarına kaildir. Hadis ise, semanın den ibaret bulunduğunu emrediyor. şu hak olan mezhebin, "Altı Mukaddeme" ile tahkikatını yapacağız.Birinci mukaddeme: şu geniş boşluğun Esir ile dolu olduğu, fennen ve hikmeten sâbittir.îkinci Mukaddeme: Ecram-ı ulviyenin kanunlarını rabteden ve ziya ve hararetin emsalini neşr ve nakleden fezayı doldurmuş bir madde mevcuddur.üçüncü Mukaddeme: Madde-i Esiriyenin, yine Esir olarak kalmak şartiyle, sâir maddeler gibi muhtelif teşekkülâtı ve ayrı ayrı nevi'leri vardır. Buhar ile su ve buzun teşekkülâtları gibi.Dördüncü Mukaddeme: Ecram-ı ulviyeye dikkat edilirse, tabakaları arasında muhalefet görünür. Evet, yeni teşekküle ve in'ikada başlamış milyarlarca yıldızlardan ibaret Kehkeşan ile anılan tabaka-i Esiriye, sabit yıldızların tabakasına muhaliftir. Bu da, manzume-i şemsiyenin tabakasına ve hâkeza yedi tabakaya kadar birbirine muhalif tabakalar vardır.Beşinci Mukaddeme: Araştırmalar neticesinde sâbit olmuştur ki: Bir maddede teşkil, tanzim, tesviyeler vâki olursa, birbirine muhalif tabakalar husule gelir. Bir mâdenden kül, kömür, elmas meydana gelir; ateşden alev, duman husule gelir. Müvellidülmâ' ile Müvellidülhumuzanın imtizacından su, buz, buhar tevellüd eder.Altıncı Mukaddeme: şu müteaddid emarelerden anlaşıldı ki; semavat müteaddittir; şeriat sahibi de, yedidir demiştir; öyle ise yedidir. Maahaza yedi, yetmiş, yediyüz sayıları arab üslublarında kesret için kullanılır.Arkadaş! Pek geniş bulunan Kur'an-ı Kerimin hitablarına, mânalarına, işaretlerine dikkat edilmekle bir âmiden tut bir veliye kadar bütün tabakat-ı nâsa ve umum efkâr-ı âmmeye olan müraatları, okşamaları fevkalâde hayrete, taaccübe mucibdir.Meselâ: kelimesinden bazı insanlar havâ-i nesimiyyenin tabakalarını fehmetmiştir; öbür bazı da, arzımız ile arkadaşları olan hayattar küreleri ihata eden nesimi küreleri fehmetmiştir; bir kısım da seyyarât-ı seb'ayı fehmetmiştir; bir kısmı da, manzume-i şemsiye içinde Esirin yedi tabakasını fehmetmiştir; bir kısım da, şu bildiğimiz manzume-i şemsiye ile beraber altı tane daha manzume-i şemsiyeyi fehmetmiştir; bir kısım da Esirin teşekkülâtı yedi tabakaya inkısam ettiğini fehmetmiştir.Hülâsa: Herbir kısım insanlar, istidatlarına göre feyz-i Kur'an'dan hisselerini almışlardır. Evet Kur'an-ı Kerim, bütün şu mefhumlara şâmildir diyebiliriz. î.î.)
 seb'a-î seyyare: Yedi seyyar yıldız.
 sebahat: (Bak: Sibâhat)
 sebaîk: (Sebika. C.) Eritilip kalıplara dökülmüş mâdenler. Külçeler.
@@ -1122,8 +1122,8 @@ sebîr: Suret. * Renk. * Asıl. * Heyet.
 sebît: Aklın sabit olması, aklın durması.
 sebk: îleri geçme, ilerleme. öne göçme. * Vâki olma. * Koşuda kazanan hayvan.
 sebk: Bir şeyi eritme. Kalıba dökme. * Edb: îbarenin tarz ve terkibi.
-sebk-î mefsul : Edb: Ayrı ayrı, kesik kesik yazma tarzı.
-sebk-î mevsul : Edb: Cümleleri bağlayarak birleştirme tarzı.
+sebk-î mefsul : Edb: Ayrı ayrı, kesik kesik yazma tarzı.
+sebk-î mevsul : Edb: Cümleleri bağlayarak birleştirme tarzı.
 sebk-î mürekkeb: Edb: Hem kısa, hem uzun ifâde tarzı.
 sebkat: Geçmek, ilerlemek.
 sebla': Uzun kirpikli göz.
@@ -1165,7 +1165,7 @@ se'bül: (C.: Sevâbil) Aş havucu. * Pirinç, buğday, nohut, mercimek.
 seby: Harpte esir alınma. * Uzaklaştırma. * Bir yerden başka bir yere sürüp giderme.
 sebz: Yeşil, yeşil renkli.
 sebz-fâm: Yeşil renkli.
-sebzevat : Yeşil bitkiler, yeşil nebatlar.
+sebzevat : Yeşil bitkiler, yeşil nebatlar.
 sebzezar: çayırlık, çimenlik, yeşillik. * Bostan, sebze tarlası.
 sebzfam: Yeşil renkli.
 sebzîn: .f Rengi yeşil. Yeşil renkli.
@@ -1176,7 +1176,7 @@ seca': Yarasa.
 secaât: Kuşların ötüşleri, sec'aları. * Nesir halindeki yazının kafiyeleri.
 secah: Letafet, güzellik. Rıfk. Adl. * Yumuşak yer.
 secahat: Mülâyemet, rıfk. Cemalin tenasüp içindeki kemali.
-secavend: Kur'an-ı Kerim'de doğru okunması için yapılan işaretler.Kur'an-ı Azimüşşan'ı okurken durularak nefes alınacak yerler, âyet sonları ile secavend mahalleridir. Secavend denilen huruf-u rumuziye ise şunları ifade ederler: $ Durmanın lüzumunu gösterir. Bu lüzum şer'i bir lüzum olmayıp, ıstılahi bir lüzumdur. Meselâ: $ Tilâvet eden $ da durur. Sonra $ den devam eder.
+secavend: Kur'an-ı Kerim'de doğru okunması için yapılan işaretler.Kur'an-ı Azimüşşan'ı okurken durularak nefes alınacak yerler, âyet sonları ile secavend mahalleridir. Secavend denilen huruf-u rumuziye ise şunları ifade ederler: Durmanın lüzumunu gösterir. Bu lüzum şer'i bir lüzum olmayıp, ıstılahi bir lüzumdur. Meselâ: Tilâvet eden da durur. Sonra den devam eder.
 secaya: (Seciye. C.) Karakterler, huylar, seciyeler, ahlâk ve tabiatlar.
 secaya-yi sâmîye: Yüksek ve kıymetli seciyeler.
 secc: Gayet ince olan nesne. * Duvar sıvamak. * Hoş kokulu nesne ezmek.
@@ -1413,7 +1413,7 @@ sehv-î sarîh: Pek açık yanlış.
 sehv-î tertîb: Tertib yanlışı, dizme yanlışı.
 sehva': Geceden bir saat.
 sehve: Ev önünde yapılan sofa. * Gevşek yürüyüşlü deve.
-sehven : Yanlışlıkla, yanılmak suretiyle.
+sehven : Yanlışlıkla, yanılmak suretiyle.
 sehvîyat: (Sehv. C.) Yanlışlar, yanlışlıklar, sehivler.
 sek': Gitmek.
 seka': Kulağı olmayan dişi hayvan.
@@ -1781,7 +1781,7 @@ ser-î muy: Pek az şey. * Kıl ucu.
 ser-kâtîb: Başkâtip.
 ser-kerde: Bir güruhun, bir takımın başı, reisi. * şaki, haydut.
 sera: Yer, toprak. Arz. * Malı çok olmak. Zengin olmak.
-sera: "şarkı söyleyen" mânasına gelir ve birleşik kelimeler yapılır. Meselâ: Nağme-serâ $: şarkı söyleyen, nağme söyleyen.
+sera: "şarkı söyleyen" mânasına gelir ve birleşik kelimeler yapılır. Meselâ: Nağme-serâ: şarkı söyleyen, nağme söyleyen.
 sera': Yay yapımında kullanılan bir ağaç cinsi.
 sera-perde: Saray perdesi. Eskiden harem dairesinin önüne çekilen büyük perde. * Padişah çadırı, otağ.
 serab: şaşkın hâle gelme. çorak yerlerde, çölde sıcak ve ışığın te'siriyle ileride, yakında yahut ufukta su veya yeşillik var gibi görünme hâdisesi.(Ey serab-ı gururu, şarab-ı tahur zanneden Said-i hodfuruş! Hikmet, hayr-ı kesir olduğunu işittin. Fakat yanlış yola gitmiştin. şu kitab-ı kâinatın hikmetini maânisinde aramadın. Gittin nukuşunda taharri ettin. R.N.)
@@ -1891,7 +1891,7 @@ serî-ül hareke: Hızlı giden.
 serî-ül întîkal: çabuk anlayan, çok zeki.
 serî-üs seyr: çok sür'atle akan veya giden.
 serî-üt teessür: çabuk müteessir olan.
-serî-üz zeval : Devamsız, çabuk giden. * çabuk ölen. * Dünyanın hali.
+serî-üz zeval : Devamsız, çabuk giden. * çabuk ölen. * Dünyanın hali.
 serî'(a): çabuk, hızlı. * Az vakitte çok iş yapan.
 serîan: çabuk, tez elden, acele.
 serîd: Yağla ıslanmış ekmek. (Terid derler.)
@@ -1931,7 +1931,7 @@ sermedîyet: Daimlik, süreklilik. Sonsuzluk, ebedilik. * Rabbanilik ve uluhiyye
 sermele: Yemeği sakalına döküp ellerini bulaştıra bulaştıra yemek.
 sermenzîl: Durak yeri.
 sermest: Başı dönmüş, kendinden geçmiş.
-sermest-î vahşet : Vahşilik. îslâmiyet ve insaniyet dışı zevkle kendinden geçme hali.
+sermest-î vahşet : Vahşilik. îslâmiyet ve insaniyet dışı zevkle kendinden geçme hali.
 sermestî: Sarhoşluk.
 sermeşk: Talebenin öğrenmesi için yazılan örnek yazı.
 sermeta: Yaş balçık.
@@ -1941,7 +1941,7 @@ sernîgûn: Baş aşağı olmuş. * Tersine dönmüş. * Bahtsız.
 sernüvîşt: Yazı başlığı. * Başa yazılan, alın yazısı. Kader, mukadderat.
 serpaş: Gürz. çomak. * Eskiden muhârebelerde giyilen demir başlık.
 serpençe: Güçlü kuvvetli kimse.
-serpuş : Başa giyilen başı örten külâh, takke, sarık.
+serpuş : Başa giyilen başı örten külâh, takke, sarık.
 serpuşe: Başörtüsü.
 serr: çocuğun göbeğini kesmek. * Göbekte ağrı olmak. * şâdlık, neşeli ve sevinçli olma.
 serra: Kolaylık, rahatlık, genişlik. * Sevinçli oluş. * Bolluk.
@@ -1954,7 +1954,7 @@ serserîyâne: Serserice.
 serşar: Ağzına kadar dolu. Dökülecek derecede dolu. * îleri giden, sınırı aşan.
 serşîkeste: Ucu kırılmış olan. Başı kırık.
 sert: Aşağı getirmek. * Yutmak.
-sert: $ çiriş mâaunu.
+sert: çiriş mâaunu.
 sertab: înatçı, muannid.
 sertac: Baş tacı olan. çok sevilen. Hürmet edilen. En ileri.
 sertak: Evin üstünde bulunan etrafı açık oda veya daire.
@@ -1986,7 +1986,7 @@ serye (seryâ): Yaş yer.
 serzakîr: Başta gelen zâkir, zikredenlerin başı. (Hazret-i Muhammed Aleyhissalâtü Vesselâm'dan kinâye olur.)
 serzede: Baş göstermiş, uç vermiş, çıkmış.
 serzemîn: Başını yere koyarak.
-serzenîş : Takaza, tekdir. Başa kakma, çıkışma, azarlama.
+serzenîş : Takaza, tekdir. Başa kakma, çıkışma, azarlama.
 se'se': Defetmek, kovmak.
 se'see: Suya kandırmak.
 se'sem: Kara abnus ağacı.
@@ -2081,7 +2081,7 @@ sevîyyet: Eşitlik, müsavilik, denklik.
 sevk: önüne katıp sürmek, ileri sürmek. Yollamak, göndermek. * Neticeye bağlamak.
 sevk: Misvak yapmak.
 sevk-î tabîî: Hayvan veya insanların düşünmeksizin Cenab-ı Hakk'ın sevki ile olan hikmete uygun hareketi. Sevk-i kaderi, ilham veya sevk-i îlâhi demek daha doğrudur.
-sevk-ül ceyş : Askeri birliklerin lüzumlu yere sevkini ve geri çekilme işini idare etme.
+sevk-ül ceyş : Askeri birliklerin lüzumlu yere sevkini ve geri çekilme işini idare etme.
 sevkîyat: Asker gönderme ve eşyasını te'min ve sevketme işleri.
 sevl: Karnı göbeğinden aşağıya sarkmak.
 sevl: Bal arısı.
@@ -2192,7 +2192,7 @@ siddîka: Doğruluk ve samimiyette çok sâdık olan kadın. * Allah yolunda ço
 siddîkîn: Sıddık olanlar, Hazret-i Ebubekir (R.A.) gibi olanlar. Hazret-i Ebubekir (R.A.) gibi olanlar ve Onun izini takib edenler. Allah yolunun sadakatte en ileri olanları.
 siddîkîyet: Sadâkat ve doğrulukta en ileri oluş. çok sâdık olma hâli. Velilik mertebesinin nihâyeti. Peygamberlik mertebesinin bidâyeti olan makam. * Aşere-i Mübeşşere'nin birincisi ve ilk halife olan Hz. Ebubekir'in (R.A.) nâmı ve sıfatıdır. * çok doğru olup, hiç yalan söylememek.
 sidk: Doğru söz. Hakikata muvâfık olan. Bir şeyin her hususu tam ve kâmil olması. * Ahdinde sâbit olmak. * Peygamberlere mahsus en mühim beş hasletten birisi. * Kalb temizliği.(îslâmiyetin esası sıdktır. îmanın hassası sıdktır. Bütün kemâlâta isal edici sıdktır. Ahlâk-ı âliyenin hayatı sıdktır. Terakkiyatın mihveri sıdktır. âlem-i îslâmın nizamı sıdktır. Nev-i beşeri kâbe-yi kemâlâta isal eden sıdktır. Ashab-ı Kiramı bütün insanlara tefevvuk ettiren sıdktır. Muhammed-i Hâşimi Aleyhissalâtü Vesselâm'ı meratib-i beşeriyenin en yükseğine çıkaran sıdktır. î.î.)
-sidk u selâmet : Doğruluk ve selâmetlik için oluş.
+sidk u selâmet : Doğruluk ve selâmetlik için oluş.
 sidk-i cenan: Kalblerin sâdık oluşu, sadakatlı.
 sidk-i derun: Kalb temizliği.
 sifat: Bir kimse veya şeyin hal ve vasfı, keyfiyeti. * Suret, çehre, yüz. Nişan, alâmet. * Bir şeyin keyfiyetini izah için kullanılan kelime.
@@ -2207,7 +2207,7 @@ sifât-i îlâhîye: Allah'a aid sıfatlar. Kendisini ve mânasının zıddını
 sifât-i îşarîye: îşaret sıfatları.
 sifât-i selbîye: Cenab-ı Hakk'ın vahdaniyet, kıdem, beka, kıyam-ı binefsihi, muhalefetün-lilhavâdis gibi sıfatlarıdır. Mânalarında nefiy olduğu için "Selbi" denir. Meselâ: Vahdaniyet, çokluğun; kıdem, fâniliğin nefyi olduğu gibi. (Bak: Sıfât-ı zâtiye)
 sifat-i semâîye: Gr: Kelimeye ait, kaideye, gramere uygun olmaksızın işitilmekle öğrenilen sıfat.
-sifât-i sübutîye : Cenab-ı Hakk'ın sıfatları: Hayat, îlim, Sem', Basar, îrade, Kudret, Kelâm, Tekvin sıfatları. Bunlara "Sıfât-ı semaniye" de denir.
+sifât-i sübutîye : Cenab-ı Hakk'ın sıfatları: Hayat, îlim, Sem', Basar, îrade, Kudret, Kelâm, Tekvin sıfatları. Bunlara "Sıfât-ı semaniye" de denir.
 sifât-i zâtîye: (Sıfât-ı lâzime - Sıfât-ı vâcibe) Allah'ın zatından ayrılması mümkün olmayan ve zatına lâzım ve vâcib olan sıfatlar. * Tecvidde: Harflerin zâtından ayrılması mümkün olmayan sıfatlarıdır. (Bak: Sıfât-ı ayniye)
 siffîn: Hazret-i Ali (R.A.) ile Hazret-i Muaviye (R.A.) arasında vuku bulan muharebelere meydan olmakla şöhret bulmuştur. Sıffin muharebesinde Hazret-i Ali'nin maiyyetinde 120.000 Hazret-i Muaviye'nin maiyyetinde 90.000 kişi vardı. Hazret-i ömer'in (R.A.) oğlu Hz. Abdullah da şehid olanların arasında idi. Sıffin vak'ası 110 gün sürmüş ve doksan muharebe olmuştur.(Hazret-i îmam-ı Ali'nin Vak'a-i Sıffin'de, Hazret-i Muaviye'nin taraftarlariyle muharebesi ise, hilafet ve saltanatın muharebesidir. Yâni: Hazret-i îmam-ı Ali ahkâm-ı dini ve hakaik-ı îslâmiyeyi ve âhireti esas tutup, saltanatın bir kısım kanunlarını ve siyasetin merhametsiz mukteziyatlarını onlara feda ediyordu. Hazret-i Muaviye ve taraftarları ise; hayat-ı içtimaiye-i îslâmiyeyi, saltanat siyasetleriyle takviye etmek için azimeti bırakıp, ruhsatı iltizam ettiler, siyaset âleminde kendilerini mecbur zannedip ruhsatı tercih ettiler, hatâya düştüler. M.)
 sifir: Hiç. Olmayan bir şeyin ismi. * Hiç bir sayı olmamak. * Müsbetle menfi ortası, eksi ile artının arası. * Fiz: Suyun donma derecesi.
@@ -2281,9 +2281,9 @@ siraf (saruf): Hayvanın kızmakla erkeğini araması.
 siram: Hurma ve yemiş toplayacak vakit. * Toplanmış hurma ve yemiş.
 sirar: Devenin sütü çok olsun ve yavrusu emmesin diye emziğinin dibine bağladıkları ip.
 sirat: Etrafı hudutlu ve işlek cadde. Geniş yol.
-sirat köprüsü : Cennet'e gidebilmek için herkesin üzerinden geçmeğe mecbur olduğu ve Cehennem üzerine kurulmuş olan köprü.(î'lem Eyyühel Aziz! înkılâblar neticesinde, her iki taraf arasında geniş geniş dereler husule geliyor. O dereler üstünde her iki âlemle münasebettar köprüler lâzımdır ki, her iki âlem arasında gidiş geliş olsun. Lâkin o köprülerin inkılâbat cinslerine göre şekilleri, mâhiyyetleri mütebayin; isimleri mütenevvi olur. Meselâ uyku âlemi, yakaza ile âlem-i misal arasında bir köprüdür. Berzah, dünya ile âhiret arasında ayrı bir köprüdür. Ve misal, âlem-i cismani ile âlem-i ruhani arasında bir köprüdür. Bahar, kış ile yaz arasında ayrı bir nevi köprüdür. Kıyamette ise, inkılâb bir değildir. Pek çok ve büyük inkılâblar olacağından, köprüsü de pek garib, acib olması lâzım gelir. M.N.)
+sirat köprüsü : Cennet'e gidebilmek için herkesin üzerinden geçmeğe mecbur olduğu ve Cehennem üzerine kurulmuş olan köprü.(î'lem Eyyühel Aziz! înkılâblar neticesinde, her iki taraf arasında geniş geniş dereler husule geliyor. O dereler üstünde her iki âlemle münasebettar köprüler lâzımdır ki, her iki âlem arasında gidiş geliş olsun. Lâkin o köprülerin inkılâbat cinslerine göre şekilleri, mâhiyyetleri mütebayin; isimleri mütenevvi olur. Meselâ uyku âlemi, yakaza ile âlem-i misal arasında bir köprüdür. Berzah, dünya ile âhiret arasında ayrı bir köprüdür. Ve misal, âlem-i cismani ile âlem-i ruhani arasında bir köprüdür. Bahar, kış ile yaz arasında ayrı bir nevi köprüdür. Kıyamette ise, inkılâb bir değildir. Pek çok ve büyük inkılâblar olacağından, köprüsü de pek garib, acib olması lâzım gelir. M.N.)
 sirat-i müstakîm: En doğru yol, îslâmiyet yolu. Hak yolu. Allah'ın râzı olduğu en doğru yol. Peygamberlerin, evliya ve sâlihlerin, sıddıkinlerin gittikleri meslek.(Sırat-ı müstakim, şecâat, iffet, hikmetin mezcinden ve hülâsasından hasıl olan adl ve adâlete işârettir. şöyle ki: Tegayyür, inkılâb ve felâketlere ma'ruz ve muhtaç şu insan bedeninde iskân edilen ruhun yaşayabilmesi için üç kuvvet ihdâs edilmiştir. Bu kuvvetlerin birincisi: Menfaatleri cezb ve celb için kuvve-i şeheviye-i behimiye. îkincisi: Zararlı şeyleri def' için kuvve-i sebuiyye-i gadabiyye. üçüncüsü: Nef' ve zararı, iyi ve kötüyü birbirinden temyiz için kuvve-i akliye-i melekiyedir.Lâkin insandaki bu kuvvetlere şeriatça bir had ve bir nihayet tayin edilmiş ise de, fıtraten tayin edilmemiş olduğundan bu kuvvetlerin her birisi, tefrit, vasat, ifrat nâmiyle üç mertebeye ayrılırlar. Meselâ: Kuvve-i şeheviyenin tefrit mertebesi, humuddur ki, ne helâle ve ne de harama şehveti, iştihası yoktur. îfrat mertebesi, fücurdur ki; nâmusları ve ırzları pâyimal etmek iştihasında olur. Vasat mertebesi ise iffettir ki, helâline şehveti var, harama yoktur.îhtar: Kuvve-i şeheviyenin; yemek, içmek, uyumak ve konuşmak gibi füruatında da bu üç mertebe mevcuttur.Ve keza kuvve-i gadabiyyenin tefrit mertebesi, cebanettir ki, korkulmayan şeylerden bile korkar. îfrat mertebesi, tehevvürdür ki, ne maddi ve ne manevi hiç bir şeyden korkmaz. Bütün istibdatlar, tahakkümler, zulümler bu mertebenin mahsulüdür. Vasat mertebesi ise şecaattır ki, hukuk-u diniye ve dünyeviyesi için canını feda eder, meşru olmayan şeylere karışmaz.Ve keza kuvve-i akliyenin tefrit mertebesi, gabavettir ki, hiç bir şeyden haberi olmaz. îfrat mertebesi, cerbezedir ki, hakkı bâtıl, bâtılı hak suretinde gösterecek kadar aldatıcı bir zekâya mâlik olur. Vasat mertebesi ise; hikmettir ki, hakkı hak bilir, imtisal eder; bâtılı bâtıl bilir, ictinab eder...Hülâsa: şu dokuz mertebenin altısı zulümdür, üçü adl ve adalettir. Sırat-ı müstakimden murad, şu üç mertebedir. î.î.)
-siravarî : Sıralı halde, sıra gibi.
+siravarî : Sıralı halde, sıra gibi.
 sirdaş: (Bak: Sırrdaş)
 sirf(e): Sadece, yalnızca. * Sâfi ve hâlis şey. Karışık olmayan.
 sirhak: çağırmak.
@@ -2571,8 +2571,8 @@ sît: çatırtı, patırtı, gürültü. * ün, şöhret, nam.
 sîta': Deve boynunda uzunluğuna olan alâmet. * Ev direği.
 sîtad: Alma, alış.
 sîtam: Kılıcın ağızı.
-sîtan: (-istan) Mekân adı yapmağa yarayan ek. Meselâ: Gül-sitan $: (Gül-istan) Gül bahçesi, güllük.
-sîtan: Alan, alıcı. Can-sitan $: Can alan.
+sîtan: (-istan) Mekân adı yapmağa yarayan ek. Meselâ: Gül-sitan: (Gül-istan) Gül bahçesi, güllük.
+sîtan: Alan, alıcı. Can-sitan: Can alan.
 sîtare: (Setr. den) (C.: Setâir) örtünülecek, perdelenecek şey.
 sîtare: Yıldız, kevkeb.
 sîtare-gân: Yıldızlar.
@@ -2635,7 +2635,7 @@ sîyat: (Savt. C.) Kırbaçlar, kamçılar.
 sîye: Koyun yatağı.
 sîyer: (Siret. C.) Tarzlar, gidişler, yollar.
 sîyer-î enbîya: Peygamberlerin (Aleyhimüsselâm) hayatlarından ve onların ahlâkından bahseden kitap.
-sîyer-î nebî: Mevzuu Hazret-i Peygamber'in (A.S.M.) hayatı, ahlâkı ve yaşayışı olan, O'nun gaye ve cihanı irşad eden mesleğinden bahseden kitap.(Resul-i Ekrem Aleyhissalâtü Vesselâm'ın ahvâl ve evsâfı, Siyer ve Tarih suretiyle beyan edilmiş. Fakat o evsaf ve ahvâl-i galibi, beşeriyetine bakar. Halbuki o Zât-ı Mübarek'in şahs-ı manevisi ve mahiyet-i kudsiyesi o derece yüksek ve nuranidir ki; Siyer ve Tarih'te beyan olunan evsaf, o bâlâ kamete uygun gelmiyor, o yüksek kıymete muvâfık düşmüyor. çünki: $ sırrınca: Hergün, hattâ şimdi de, bütün ümmetinin ibadetleri kadar bir azim ibadet sahife-i kemalâtına ilâve oluyor. Nihayetsiz rahmet-i îlâhiyeye, nihayetsiz bir surette, nihayetsiz bir istidat ile mazhar olduğu gibi, her gün hadsiz ümmetinin hadsiz duasına mazhar oluyor. Ve şu kâinatın neticesi ve en mükemmel meyvesi ve Hâlik-ı Kâinat'ın tercümanı ve sevgilisi olan o Zât-ı Mübarek'in tamam-ı mahiyeti ve hakikat-ı kemalâtı, Siyer ve Tarih'e geçen beşeri ahval ve etvâra sığışmaz. Meselâ: Hazret-i Cebrâil ve Mikâil, iki muhafız yâver hükmünde Gazve-i Bedir'de yanında bulunan bir Zât-ı Mübarek; çarşı içinde, bedevi bir arabla at mübâyaasında münâzaa etmek, bir tek şâhid olan Huzeyfe'yi şahid göstermekle görünen etvârı içinde sığışmaz.îşte yanlış gitmemek için; her vakit mahiyet-i beşeriyeti itibariyle işitilen evsaf-ı âdiye içinde başını kaldırıp, hakiki mahiyetine ve mertebe-i Risalette durmuş nurani şahsiyet-i maneviyesine bakmak lâzımdır. Yoksa, ya hürmetsizlik eder veya şüpheye düşer. M.)
+sîyer-î nebî: Mevzuu Hazret-i Peygamber'in (A.S.M.) hayatı, ahlâkı ve yaşayışı olan, O'nun gaye ve cihanı irşad eden mesleğinden bahseden kitap.(Resul-i Ekrem Aleyhissalâtü Vesselâm'ın ahvâl ve evsâfı, Siyer ve Tarih suretiyle beyan edilmiş. Fakat o evsaf ve ahvâl-i galibi, beşeriyetine bakar. Halbuki o Zât-ı Mübarek'in şahs-ı manevisi ve mahiyet-i kudsiyesi o derece yüksek ve nuranidir ki; Siyer ve Tarih'te beyan olunan evsaf, o bâlâ kamete uygun gelmiyor, o yüksek kıymete muvâfık düşmüyor. çünki: sırrınca: Hergün, hattâ şimdi de, bütün ümmetinin ibadetleri kadar bir azim ibadet sahife-i kemalâtına ilâve oluyor. Nihayetsiz rahmet-i îlâhiyeye, nihayetsiz bir surette, nihayetsiz bir istidat ile mazhar olduğu gibi, her gün hadsiz ümmetinin hadsiz duasına mazhar oluyor. Ve şu kâinatın neticesi ve en mükemmel meyvesi ve Hâlik-ı Kâinat'ın tercümanı ve sevgilisi olan o Zât-ı Mübarek'in tamam-ı mahiyeti ve hakikat-ı kemalâtı, Siyer ve Tarih'e geçen beşeri ahval ve etvâra sığışmaz. Meselâ: Hazret-i Cebrâil ve Mikâil, iki muhafız yâver hükmünde Gazve-i Bedir'de yanında bulunan bir Zât-ı Mübarek; çarşı içinde, bedevi bir arabla at mübâyaasında münâzaa etmek, bir tek şâhid olan Huzeyfe'yi şahid göstermekle görünen etvârı içinde sığışmaz.îşte yanlış gitmemek için; her vakit mahiyet-i beşeriyeti itibariyle işitilen evsaf-ı âdiye içinde başını kaldırıp, hakiki mahiyetine ve mertebe-i Risalette durmuş nurani şahsiyet-i maneviyesine bakmak lâzımdır. Yoksa, ya hürmetsizlik eder veya şüpheye düşer. M.)
 sîyer-î senîyye: Yüksek ahlâk ve yüksek vasıflar. Hazret-i Peygamberin (A.S.M.) yüksek ahlâk ve vasıflarına dair yazılan kitab.
 sîyera': îbrişimle karışık alaca bez.
 sîyonîst: (Kudüs'ün eski adı olan Sion. dan) Filistin'de bağımsız bir Yahudi devleti kurmak isteyen. Yahudi fikrinin taraftarı. Bir şeyi Yahudilerin gaye ve menfaatına göre değerlendiren. Yahudilik. * Yahudi dinine giren.
@@ -2646,10 +2646,10 @@ sîyye: Yay başı.
 skolastîk: Lât. Kurun-u vustâda (Orta çağlarda) Hristiyan âleminde, papazların dini görüşüne ve onların baskısı altındaki dini fikirlerine göre yapılan tedrisat usulü.
 slogan: ing. Kısa ve te'sirli propaganda sözü.
 sofestaî: (Sevfestâi) Kâinatın yaratıcısını, Cenab-ı Hakkı kabul etmemek için herşeyi inkâr eden. Müsbet veya menfi hiç bir hükme varmayan, daima şüphe içinde kalmayı esas alan felsefi bir doktrinin (Septisizm) mensubu. Septik. Alemde hakikat namına hiç bir şey tanımayan ve hakikatı araştırmaktan sarf-ı nazar ederek zevk ü safa, şiir ve edebiyatla eğlenen safsatacılar. (Bak: Sofizm)(..O Vahid-i Ehad'i kabul etmeyen ya nihayetsiz ilâhları kabul edecek veyahut ahmak sofestâi gibi hem kendini, hem kâinatın vücudunu inkâr edecek. M.)
-sofî : Ehl-i tasavvuf. Riyazet ve nefisle mücahede ile hakikate ermeğe çalışan. Tarikata mensub, mânevi kemâlât için çalışan. * Yanıltıcı, safsatacı. (Bak: îşrakiyyun)
-sofîzm : Fr. Fls: Sofestaiye. Safsatacılık. Alemde hakikat olarak hiç bir şey tanımayan ve hakikatı araştırmaktan sarf-ı nazar ederek zevk ü safâ ve şiir gibi şeylerle eğlenmeği tercih eden bâtıl bir meslek. înâdiye, indiye ve Lâedriye "Septizm" adlarıyla üç kısma ayrılırlar. (Mesail-i îlm-i Kelâm'dan)
+sofî : Ehl-i tasavvuf. Riyazet ve nefisle mücahede ile hakikate ermeğe çalışan. Tarikata mensub, mânevi kemâlât için çalışan. * Yanıltıcı, safsatacı. (Bak: îşrakiyyun)
+sofîzm : Fr. Fls: Sofestaiye. Safsatacılık. Alemde hakikat olarak hiç bir şey tanımayan ve hakikatı araştırmaktan sarf-ı nazar ederek zevk ü safâ ve şiir gibi şeylerle eğlenmeği tercih eden bâtıl bir meslek. înâdiye, indiye ve Lâedriye "Septizm" adlarıyla üç kısma ayrılırlar. (Mesail-i îlm-i Kelâm'dan)
 sohbet: Konuşma, sevdiği kimselerle yapılan toplantı. * Birlikte oturup tatlı tatlı hakikat üzerine konuşmak.(Sohbet-i Nebeviye öyle bir iksirdir ki; bir dakikada ona mazhar bir zât, senelerle seyr ü süluka mukabil hakikatın envarına mazhar olur. çünkü sohbette insibağ ve in'ikâs vardır. Malumdur ki; in'ikâs ve tebaiyyetle o nur-u âzam-ı Nübüvvetle beraber en azim mertebeye çıkabilir.Nasılki, bir sultanın hizmetkârı ve onun tebaiyyeti ile, öyle bir mevkiye çıkar ki, bir şah çıkamaz. îşte şu sırdandır ki, en büyük veliler sahabe derecesine çıkamıyorlar. Hattâ Celâleddin-i Süyuti gibi, uyanık iken, çok def'a sohbet-i nebeviyeye mazhar olan veliler, Resul-i Ekrem (A.S.M.) ile yakazaten görüşseler ve şu âlemde sohbetine müşerref olsalar, yine sahabeye yetişemiyorlar. çünki: Sahabelerin sohbeti, Nübüvvet-i Ahmediye (A.S.M.) nuriyle, yâni Nebi olarak onunla sohbet ediyorlar. Evliyâlar ise vefat-ı Nebeviden sonra Resul-i Ekrem Aleyhissalâtü Vesselâm'ı görmeleri, velâyet-i Ahmediye (A.S.M.) nuriyle sohbettir. Demek Resul-i Ekrem Aleyhissalâtü Vesselâm'ın, onların nazarlarına temessül ve tezahür etmesi, velâyet-i Ahmediye (A.S.M.) cihetindedir; Nübüvvet itibariyle değil. Mâdem öyledir; nübüvvet derecesi, velâyet derecesinden ne kadar yüksek ise, o iki sohbet de o derece tefavüt etmek lâzım gelir.Sohbet-i Nebeviye ne derece bir iksir-i nurâni olduğu bununla anlaşılır ki: Bir bedevi adam; kızını sağ olarak defnedecek bir kasavet-i vahşiyânede bulunduğu halde gelip, bir saat sohbet-i Nebeviyeye müşerref olur, daha karıncaya ayağını basamaz derecede bir şefkat-i rahimaneyi kesbederdi. Hem câhil, vahşi bir adam, bir gün sohbet-i Nebeviyeye mazhar olur; sonra çin ve Hind gibi memleketlere giderdi. Mütemeddin kavimlere muallim-i hakaik ve rehber-i kemâlât olurdu. S.)
-sohbet-î îhvan : Din kardeşleri ile faydalı hakikatlar üzerine sohbet etmek.Resül-i Ekrem Aleyhissalâtü Vesselâm buyurmuştur ki: üç şey müstesna, dünyada rahat yoktur:1- Tilâvet-i Kur'an2- Münacat-ı Rahman3- Sohbet-i îhvan.
+sohbet-î îhvan : Din kardeşleri ile faydalı hakikatlar üzerine sohbet etmek.Resül-i Ekrem Aleyhissalâtü Vesselâm buyurmuştur ki: üç şey müstesna, dünyada rahat yoktur:1- Tilâvet-i Kur'an2- Münacat-ı Rahman3- Sohbet-i îhvan.
 sokrat: Eski bir Yunan Feylesofu. (M.ö. 470-400) Vahdaniyete ve ruhun bakiliğine inanmış ve bu fikrini yaymağa çalışmış. "Dünyada yalnız bir şey öğrenebildim, o da hiç bir şey bilmediğimdir." sözü meşhurdur. Devrinin inanışına zıd fikirlerinden dolayı mahkemece kendisine idam kararı verilmiş, baldıran otunun zehirini içirmek suretiyle idam edilmiş. Sonra Eflâtun, Sokrat'ın fikirlerini müdafaa etmiştir.
 solcu: (Bak: Ashab-ı şimal) 
 sorguç: Başa takılan tuğ. * Bazı kuşların tepelerinde bulunan tüyden süs.
@@ -2672,7 +2672,7 @@ su-î hazm: Sindirim bozukluğu.
 su-î hulk: Kötü ahlâk. Dine, ahlâka yakışmayan fena ahlâklılık.
 su-î îhtîyar: Kötü arzu, fena istek.
 su-î îstîmâl: Kötüye kullanma. Eldeki nimeti veya fırsatı boşuna yahut kendi menfaatine kullanma.
-su-î kasd : Bir kimsenin aleyhinde tertib alma. * Adam öldürmeğe tertib alma. * Kötü kasd.
+su-î kasd : Bir kimsenin aleyhinde tertib alma. * Adam öldürmeğe tertib alma. * Kötü kasd.
 su-î mîzâc: Sıhhat bozukluğu, huy fenalığı.
 su-î nîyet: Kötü ve bozuk niyet.
 su-î tedbîr: Yanlış tedbir. Kötü yol. Tam düşünüşle, akıllıca hareket etmeyiş.
@@ -2727,7 +2727,7 @@ sudkan: (Sadik. C.) Hakiki ve doğru dostlar. Sadikler.
 sudmend: Kazançlı, faydalı, kârlı.
 sudre: Acem gömleği.
 sudud: Men'etmek, engel olmak.
-sudur : Olma, meydana gelme. Sâdır olma. * (Sadr. C.) Göğüsler, sadırlar.
+sudur : Olma, meydana gelme. Sâdır olma. * (Sadr. C.) Göğüsler, sadırlar.
 sueda: (Said. C.) Saidler. Allah'ın (C.C.) rızâsına erenler. Mes'ud olanlar.
 suf: (C.: Evsâf) Yün dokuma. Yünden yapılmış dokuma. * Yün, yapağı, ibrişim.
 sufar: Ok gezi. * îğne deliği.
@@ -2742,7 +2742,7 @@ sufr: (Sıfr): Bakır. Tunç.
 sufret: Sarı renk, sarılık. * Beniz solukluğu.
 sufrît: (C.: Safârit) Fakir.
 sufruf: üzüm çöpü. * Hurma çöpü.
-sufuf : (Saf. C.) Saflar. Sıralar.
+sufuf : (Saf. C.) Saflar. Sıralar.
 sufun: (Süfun) (Sefine. C.) Sefineler. Gemiler.
 sufvan: Atın, üç ayak üzerine durup dördüncünün tırnağını yere dikip durması.
 sugra: (Suğra) Daha küçük, pek küçük. * Man: Hadd-i asgarın bulunduğu cümle. Birinci kaziyye. Küçük önerme. (Bak: Hadd-i asgar)
@@ -2796,7 +2796,7 @@ sukub: (Sukbe. C.) Delikler.
 sukub: (Sakb ve Sukb. C.) Delmeler veya delinmeler. * Bir tarafdan diğer tarafa kadar açık olan delikler.
 sukuf: (Sakf. C.) Tavanlar, ev örtüleri. * Uzun ve sarkık şeyler. * Semavat.
 sukuf-u büyut: Evlerin damları.
-sukuk : şeriat mahkemesince verilen ilâmlar ve onda geçen tabirler.
+sukuk : şeriat mahkemesince verilen ilâmlar ve onda geçen tabirler.
 sukut: Düşme. Yukardan aşağıya birden iniverme. * Değerini kaybetme. Bozulma. * Devrilme. * Mahvolma. * Ahlâk bakımından alçalma. * Büyük bir vazifeden ayrılma. * Sarkma. * çocuğun eksik veya ölü olarak doğması.
 sukut-i hakk: Hakkın sukutu. Hakkın kaybolması.
 sukut-i musammem: Düşmesi kararlaştırılmış. îktidardan düşürmek için hakkında karar alınmış.
@@ -2811,11 +2811,11 @@ sulbî: Birinin sulbünden gelme. Kendi evlâdı. Kendi oğlu.
 sulbîye: Nesebi hâlis olan.
 sulbîyet: Katılık, sertlik. Taş gibi olmak. * Cisimlerin katı hâli. * Mc: Duygusuzluk.
 suleha: (Sâlih. C.) Salihler. Salâhiyetli, günah işlemeyen iyi insanlar. îlim ve amelde, ibâdet, taat ve takvâda terakki ve teâli eden büyük zâtlar.
-sulfato : (Sulfata) Fr. Kinin. Sıtma hapı.
+sulfato : (Sulfata) Fr. Kinin. Sıtma hapı.
 sulh: Barış. Uyuşma. * Muharebeyi terk için anlaşma. * Rahatlık.
 sulh-âmîz: Ara bulucu, barıştırıcı.
 sulh-nâme: Sulh, barış kâğıdı.
-sulh-perver : Sulhçu. Dâimâ sulh ve sükun isteyen. Harp ve çarpışmak istemeyen. Barışsever.
+sulh-perver : Sulhçu. Dâimâ sulh ve sükun isteyen. Harp ve çarpışmak istemeyen. Barışsever.
 sulhen : Sulh tarzında, barış yoluyla. Anlaşmak suretiyle.
 sulîyy: Ateşin yanması.
 sulla': (C.: Sıllâ) Enli yassı taş. * Ot bitmeyen mevzi.
@@ -2858,10 +2858,10 @@ sun'î: însan yapısı, uydurma, takma, sahte, yaradılıştan olmayan.
 sunuat: Yapılanlar. San'atlı yapılan şeyler.
 sunuf: (Sınıf. C.) Sınıflar. * Dereceler, mertebeler. * Nikablar, yaşmaklar. * Soylar, neviler.
 sunuf-î âlîye: Yüksek sınıflar.
-suples : Fr. Yumuşaklık, esneklik.
+suples : Fr. Yumuşaklık, esneklik.
 su'r: (C.: Es'âr) Yiyecek, içecek artığı.
 sur: Bir şehri kuşatan yüksekçe kale duvarı. Yüksek duvar. Kale. Hisar.
-sur : (Suret. C.) Kıyamet günü îsrafil Aleyhisselâm'ın çalacağı boru. Buna Sur-u îsrafil de denir. * Boynuzdan yapılan düdük.
+sur : (Suret. C.) Kıyamet günü îsrafil Aleyhisselâm'ın çalacağı boru. Buna Sur-u îsrafil de denir. * Boynuzdan yapılan düdük.
 sur: şenlik. Düğün. Ziyafet.
 sur: Keş parçası.
 sur-na(y): Zurna.
@@ -2876,21 +2876,21 @@ suram: Zillet ve hastalık. * Emzikten son çıkan süt.
 sure: Kur'an-ı Kerim'in 114 bölümünden her biri. * Derece. * Duracak yer. Menzilet. * şeref ve şan. * Güzel inşa edilmiş bina. Sur. * Refi'. * Alâmet, nişan.
 sured: (C.: Surdân) Göçgen adı verilen küçük kuş. * Davar arkasında yanırdan olan beyazlık.
 surencan: şekil ve kabuğu kestaneye benzeyen bir ot kökü.
-suret : (C.: Sur - Suver) Biçim, görünüş. * Kılık. Tarz. * Yol. Gidiş. Hal. * Tasvir. Dıştan görünen şekil. * çare.
+suret : (C.: Sur - Suver) Biçim, görünüş. * Kılık. Tarz. * Yol. Gidiş. Hal. * Tasvir. Dıştan görünen şekil. * çare.
 suret-î suud: Yükselme tarzı.
 suret-î tesvîye: Hal çaresi.
-suret-î zaîfe-î vâhîye : Hakikatsız, saçma sapan zayıf suret ve vesvese.
+suret-î zaîfe-î vâhîye : Hakikatsız, saçma sapan zayıf suret ve vesvese.
 suret-perestlîk: Bir şeyin dış görünüşüne ve tertibine önem verip, ruhuna ve mânasına kıymet vermemek. * Resimlere meftuniyet. (Bak: Sanem-perest)(Sanem-perestliği şiddetle Kur'an men'ettiği gibi, sanem-perestliğin bir nevi taklidi olan suretperestliği de men'eder. Medeniyyet ise, suretleri kendi mahasininden sayıp Kur'ana muâraza etmek istemiş. Halbuki: Gölgeli gölgesiz suretler, ya bir zulm-ü mütehaccir veya bir riya-yı mütecessid veya bir heves-i mütecessimdir ki, beşeri zulme ve riyaya ve hevâya, hevesi kamçılayıp teşvik eder... S.)
 suret-ül asr: Kur'an-ı Kerim'in yüzüçüncü suresi.
 suret-ül înfîtar: Kur'an-ı Kerim'de seksenikinci Sure olup Mekkidir.
 suretâ: Görünüşte. Zâhiren.
 suretbend: Tasvir yapan. Resimci.
-sureten : Suret itibariyle, suret olarak, görünüşte. Sanki.
+sureten : Suret itibariyle, suret olarak, görünüşte. Sanki.
 suretger: Suret yapan, resim çizen, ressam.
-suretperest : Görünüşe, surete çok kıymet veren. Esasa kıymet vermeyen. * Resimleri çok seven ve meftun olan. (Bak: Sanem-perest)
+suretperest : Görünüşe, surete çok kıymet veren. Esasa kıymet vermeyen. * Resimleri çok seven ve meftun olan. (Bak: Sanem-perest)
 suretpezîr: Meydana çıkan, hâsıl olan, şekillenen.
 suretyâb: şekil bulan, suretlenen, meydana gelen.
-surî : Surete ait, görünüşe ait ve müteallik. Hakiki, ciddi ve samimi olmayan. Zâhiri.
+surî : Surete ait, görünüşe ait ve müteallik. Hakiki, ciddi ve samimi olmayan. Zâhiri.
 surna-pa: Zürafa.
 surrad: Yağmuru olmayan ince bulut.
 surre: (C.: Surer) Para kesesi, para çıkını. * Hac zamanında îslâm Devletinin pâdişahı tarafından fakir ve muhtaçlara dağıtılması için Mekke ve Medineye her yıl gönderilen para ve sâir şeyler.
@@ -2900,7 +2900,7 @@ suruf: (Sarf. C.) Dilbilgisi kitapları, gramerler.
 suruh: (Sarh. C.) Köşkler, yüksek binalar.
 su'rur: Ağaç sakızı parçası. 
 sus: Huy, tabiat, tıynet. * Buğday ve arpa biti. Hububata düşen kurt. Güve. * Miyan kökü.
-sus : Yemeği yalnız başına yiyen kötü insan.
+sus : Yemeği yalnız başına yiyen kötü insan.
 susen: Susam.
 susmar: Kertenkele denen küçük bir hayvan. Keler.
 sut: (C.: Suvâ-Esvâ) Yolda ve sahrada işaret için dikilen taş.
@@ -2909,8 +2909,8 @@ sutur: (Satır. C.) Satırlar, yazı dizileri.
 sutur-u hâdîsat: Hâdiselerin satırları. Mânidar hâdiseler.
 sutur-u kâînat: âlemdeki mânalar, kâinat satırları.
 sutur-ül gayb: Bizce bilinmeyen işler ve hâdiseler, mânalar.
-suubet : Zorluk, güçlük.
-suud : Yükselmek. Yukarı çıkmak. Derece artmak.
+suubet : Zorluk, güçlük.
+suud : Yükselmek. Yukarı çıkmak. Derece artmak.
 suud: Mübarek. * Mübarek sayılan yıldızlar.
 suude: îyi addetmek. Mübarek saymak.
 suur: (Sivâr. C.) Bilezikler.
@@ -2919,13 +2919,13 @@ suva': Sa' denilen ve ahkâm-ı îslâmiyede muteber olan ölçek. * Su içmek i
 suvab: (C.: Su'bân) Bit sirkesi.
 suvan (sivân): (C.: Esvine) Kaftan ve giyecek eşya koyup saklanılan yer veya kap.
 suvar: (Bak: Süvar)
-suver : Boynuz. * (Suret. C.) Suretler.
+suver : Boynuz. * (Suret. C.) Suretler.
 suveyda: (Bak: Süveyda)
 suvvam: (Sâim. C.) Oruç tutanlar.
 su(y): Cihet, yön, taraf. Semt. Yan.
 suy: Cihet, yön, taraf.
-suy : Kurumak.
-suyuf : (Sayf. C.) Yaz mevsimleri.
+suy : Kurumak.
+suyuf : (Sayf. C.) Yaz mevsimleri.
 suz: (Suhten: Yanmak mastarından) "Yakan, yakıcı, yanmak, tutuşmak" mânâlarına gelerek mürekkeb kelimeler yapar.
 suz: Yanma, tutuşma. Ateş. Sıcaklık.
 suz-î cîğer: Ciğerin yanması. Ciğer yanıklığı.
@@ -2957,8 +2957,8 @@ sübhakeş: Tesbih çeken.
 sübhan: Allah (C.C.)
 sübhanallah: Cenab-ı Hakk'ın mahlukatı ve eserleri karşısında duyulan hayret ve taaccübü ifade etmek için söylenir. Cenab-ı Hakkın zâtında, sıfâtında ve ef'alinde bütün kusurlardan münezzehiyetini ifade eder.(Sübhanallah ve Elhamdülillah cümleleri Cenab-ı Hakk'ı Celal ve Cemal sıfatlarıyla zımnen tavsif ediyorlar. Celal sıfatını tazammun eden Sübhanallah, abdin ve mahlukun Allah'dan baid olduklarına nazırdır.Cemal sıfatını içine alan Elhamdülillah, Cenab-ı Hakk'ın rahmetiyle abde ve mahlukata karib olduğuna işarettir. Meselâ: Biri kurb, diğeri bu'd olmak üzere bize nâzır şemsin iki ciheti vardır. Kurb cihetiyle hararet ve ziyayı veriyor. Bu'd cihetiyle, insanların mazarratlarından tâhir ve sâfi kalıyor. Bu itibarla insan, şemse karşı yalnız kabil olabilir, fâil ve müessir olamaz.Kezâlik, bilâteşbih, Cenab-ı Hak rahmetiyle bize karib olduğu cihetle Ona hamdediyoruz. Biz Ondan uzak olduğumuz cihetle Onu tesbih ediyoruz. Binâenaleyh, rahmetiyle kurbüne bakarken hamdet. Ondan baid olduğuna bakarken tesbih et. Fakat her iki makamı karıştırma. Ve her iki nazarı birleştirme ki, hak ve istikamet mültebis olmasın. Lâkin iltibas ve mezc olmadığı takdirde her iki makamı ve her iki nazarı hem tebdil, hem cem' edebilirsin. Evet, Sübhanallâhi ve bihamdihi her iki makamı cem'eden bir cümledir. M.N.)(Cenab-ı Hakkı şerikten, kusurdan, noksâniyetten, zulümden, acizden, merhametsizlikten, ihtiyaçtan ve aldatmaktan ve kemal ve cemal ve celaline muhalif olan bütün kusurattan takdis ve tenzih etmek mânası ile saadet-i ebediyeyi ve celal ve cemal ve kemal ve saltanatının haşmetine medar olan dar-ı âhireti ve ondaki cenneti ihtar edip delâlet ve işaret eder. ş.) (Bak: Bakiyat-ı sâlihat)
 sübhanî (sübhanîye): Allah (C.C.) ile alâkalı. îlâhi. Allah'a mahsus, Onun eserlerine âit ve müteallik. Allah'ın Sübhan sıfatına âid.
-sübjektîf ©: Fr. Bilen akıl ile alâkalı. * Eşyanın hakikatına değil de ferdin düşünce ve duygularına dayanan. şahsi görüşe göre olan. îndi, nefsi olan.
-sübjektîvîzm ©: Fr. Fls: Akıldan başka realite kabul etmeyen, yanlış bir nazariye.
+sübjektîf : Fr. Bilen akıl ile alâkalı. * Eşyanın hakikatına değil de ferdin düşünce ve duygularına dayanan. şahsi görüşe göre olan. îndi, nefsi olan.
+sübjektîvîzm : Fr. Fls: Akıldan başka realite kabul etmeyen, yanlış bir nazariye.
 sübrut: (C.: Sebâriyet) Az. * Otsuz ve susuz yer. * Fakir adam.
 sübt: Ayıp.
 sübt: Hatmi gibi bir otun adı.
@@ -3011,7 +3011,7 @@ süful: Alçaklık. * Alçaklığa meyil ve teveccüh etmek. Alçaklığa yönel
 süfül: (C.: Esfâl) Her şeyin köpüğü ve tortusu. * örtmek. * Yemek.
 süfün: (Bak: Sufun)
 süfüvv: Yürümeye ve uçmaya başlamak.
-süfyan: âhir zamanda geleceği ve ümmetin karanlık günler yaşamasına vesile olacağı sahih hadislerle bildirilen dehşetli dinsiz ve münâfık bir şahıs. (Bak: Deccal)(Rivâyetler, deccalın dehşetli fitnesi, îslâmlarda olacağını gösterir ki, bütün ümmet istiâze etmiş. $ Bunun bir te'vil şudur ki: îslâmların deccalı ayrıdır. Hattâ bir kısım ehl-i tahkik, îmam-ı Ali'nin (R.A.) dediği gibi, demişler ki: Onların deccalı Süfyan'dır, îslâmlar içinde çıkacak aldatmakla iş görecek. Kâfirlerin büyük deccalı ayrıdır. Yoksa, büyük deccalın cebr ve ceberut-u mutlakına karşı itaat etmeyen şehid olur ve istemeyerek itaat eden kâfir olmaz. Belki günahkâr da olmaz. ş.)
+süfyan: âhir zamanda geleceği ve ümmetin karanlık günler yaşamasına vesile olacağı sahih hadislerle bildirilen dehşetli dinsiz ve münâfık bir şahıs. (Bak: Deccal)(Rivâyetler, deccalın dehşetli fitnesi, îslâmlarda olacağını gösterir ki, bütün ümmet istiâze etmiş. Bunun bir te'vil şudur ki: îslâmların deccalı ayrıdır. Hattâ bir kısım ehl-i tahkik, îmam-ı Ali'nin (R.A.) dediği gibi, demişler ki: Onların deccalı Süfyan'dır, îslâmlar içinde çıkacak aldatmakla iş görecek. Kâfirlerin büyük deccalı ayrıdır. Yoksa, büyük deccalın cebr ve ceberut-u mutlakına karşı itaat etmeyen şehid olur ve istemeyerek itaat eden kâfir olmaz. Belki günahkâr da olmaz. ş.)
 süfyan îbn-î uyeyne: (Bak: îbn-i Uyeyne)
 süfyan-i sevrî: (Hi: 91-161) Büyük âlim ve müçtehidlerdendir. Kûfe'de doğmuştur.
 süfyanî: Süfyan'dan olan, Süfyan'a mensub, Süfyan'a müteallik. Zübdet-ül Buhari Tercemesine göre, Süfyani: Müslümanlara kötülük eden, sefil, kötü, alçak olan kimse demektir.
@@ -3102,7 +3102,7 @@ sülasî mücerred: Gr: üç harfli asli kelime kökü.
 sülehfat: (C.: Selâhıf) Kaplumbağa.
 sülek: (C.: Sülekân) Keklik kuşunun erkeği. (Müe: Süleke)
 sülek: Cemaat, topluluk.
-süleyman (a.s.): Beni îsrail Peygamberlerindendir. Davud (A.S.) ın oğludur. Babasının vasiyyeti üzerine Beyt-ül Makdisi yedi senede inşa ettirdi. Kudüste büyük bir hükümet sarayı yaptırdı. şark ve garb melikleri kendisine itaate geldiler. Kırk sene hem peygamberlik, hem padişahlık yaptı. Beni îsrailden Yahuda ve Bünyamin oğulları kendi hâkimiyeti altındaydılar. Diğer on kabile diğer îsrail Devletini teşkil ettiler. Yahuda Devleti Süleyman (A.S.) oğulları elinde ve merkezi Kudüs idi. (Bak: Belkıs, Davud)(Hazret-i Süleyman Aleyhisselâm, cin ve şeytanları ve ervah-ı habiseyi teshir edip, şerlerini men' ve umûr-u nâfiada istihdam etmeyi ifade eden şu âyetler: $ ilâ âhir... $ ilâ âhir... âyetiyle diyor ki: Yerin, insandan sonra, zişuur olarak en mühim sekenesi olan cin, insana hizmetkâr olabilir. Onlara temas edilebilir. şeytanlar da düşmanlığı bırakmaya mecbur olup, ister istemez hizmet edebilirler ki Cenab-ı Hakk'ın evamirine musahhar olan bir abdine, onları musahhar etmiştir. Cenab-ı Hak mânen şu âyetin lisan-ı remziyle der ki: "Ey insan! Bana itaat eden bir abdime cin ve şeytanları ve şerirlerini itaat ettiriyorum. Sen de benim emrine musahhar olsan, çok mevcudat, hattâ cin ve şeytan dahi, sana musahhar olabilirler."îşte beşerin, san'at ve fennin imtizacından süzülen, maddi ve manevi fevkalâde hassasiyetinden tezahür eden ispirtizma gibi celb-i ervah ve cinlerle muhabereyi şu âyet, en nihayet hududunu çiziyor ve en faideli suretlerini tâyin ediyor ve ona yolu dahi açıyor. Fakat şimdiki gibi; bazan kendine emvat nâmını veren cinlere ve şeytanlara ve ervâh-ı habiseye musahhar ve maskara olup oyuncak olmak değil, belki tılsımat-ı Kur'aniye ile onları teshir etmektir, şerlerinden kurtulmaktır. S.)
+süleyman (a.s.): Beni îsrail Peygamberlerindendir. Davud (A.S.) ın oğludur. Babasının vasiyyeti üzerine Beyt-ül Makdisi yedi senede inşa ettirdi. Kudüste büyük bir hükümet sarayı yaptırdı. şark ve garb melikleri kendisine itaate geldiler. Kırk sene hem peygamberlik, hem padişahlık yaptı. Beni îsrailden Yahuda ve Bünyamin oğulları kendi hâkimiyeti altındaydılar. Diğer on kabile diğer îsrail Devletini teşkil ettiler. Yahuda Devleti Süleyman (A.S.) oğulları elinde ve merkezi Kudüs idi. (Bak: Belkıs, Davud)(Hazret-i Süleyman Aleyhisselâm, cin ve şeytanları ve ervah-ı habiseyi teshir edip, şerlerini men' ve umûr-u nâfiada istihdam etmeyi ifade eden şu âyetler: ilâ âhir... ilâ âhir... âyetiyle diyor ki: Yerin, insandan sonra, zişuur olarak en mühim sekenesi olan cin, insana hizmetkâr olabilir. Onlara temas edilebilir. şeytanlar da düşmanlığı bırakmaya mecbur olup, ister istemez hizmet edebilirler ki Cenab-ı Hakk'ın evamirine musahhar olan bir abdine, onları musahhar etmiştir. Cenab-ı Hak mânen şu âyetin lisan-ı remziyle der ki: "Ey insan! Bana itaat eden bir abdime cin ve şeytanları ve şerirlerini itaat ettiriyorum. Sen de benim emrine musahhar olsan, çok mevcudat, hattâ cin ve şeytan dahi, sana musahhar olabilirler."îşte beşerin, san'at ve fennin imtizacından süzülen, maddi ve manevi fevkalâde hassasiyetinden tezahür eden ispirtizma gibi celb-i ervah ve cinlerle muhabereyi şu âyet, en nihayet hududunu çiziyor ve en faideli suretlerini tâyin ediyor ve ona yolu dahi açıyor. Fakat şimdiki gibi; bazan kendine emvat nâmını veren cinlere ve şeytanlara ve ervâh-ı habiseye musahhar ve maskara olup oyuncak olmak değil, belki tılsımat-ı Kur'aniye ile onları teshir etmektir, şerlerinden kurtulmaktır. S.)
 süleyman çelebî: îlk mevlid yazan ve bunda en çok muvaffak olan ehl-i velâyet bir zât olup, hicri 780'de Bursa'da vefat etmiştir. "Vesilet-ün Necât", meşhur mevlid kitabının esas adıdır.
 sülfe: Kişinin aceleyle hazırladığı yemek.
 süllaf: (Selef. C.) Selefler. önce gelip geçmiş olanlar.
@@ -3138,7 +3138,7 @@ sümpare: Zımpara.
 sümr: Mal.
 sümre(t): Esmerlik, karayağızlık.
 sümu: Yücelik, yükseklik.
-sümud : Taganni eylemek. * Eğlenmek. * Kibirlenip somurtmak. * Kafa tutmak. * Sersem olmak.
+sümud : Taganni eylemek. * Eğlenmek. * Kibirlenip somurtmak. * Kafa tutmak. * Sersem olmak.
 sümuh: Atın yorulduğunu bilmeden yürümesi.
 sümuhat: El açıklığı, cömertlik.
 sümuk: Yüce olmak, yükselmek. * Uzamak.
@@ -3164,7 +3164,7 @@ sündüsî: Sündüsten yapılmış.
 sünen: Sünnetler. * Ehl-i hadis ıstılahında: Ahkâm hadislerine Sünen tâbir edilir. (Bak: Kütüb-ü sitte, Sünnet)
 sünen-î ebu dâvud: (Bak: Kütüb-ü sitte-i hadisiyye)
 sünepe: Miskin, mıymıntı. üstü başı kirli, pis.
-sünnet: Kanun, yol, âdet. * Siret-i hasene. * Ist: Peygamber Aleyhissalâtü Vesselâm'ın sözü, emri, hal ve takriri. Müslümanların ittibâında ve dinlemesinde maddi ve manevi pek çok fazilet bulunan, tatbikinde mühim sevablar, terkinde mühim zararlar bulunan îslâmi emirler. Sünnet'e Farz-ı Nebevi de denir.( $ âyetinde i'cazlı bir icaz vardır. çünkü: çok cümleler, bu üç cümlenin içinde dercedilmiştir. şöyle ki: şu âyet diyor ki: "Allah'a (C.C.) imanınız varsa, elbette Allah'ı seveceksiniz. Mâdem Allah'ı seversiniz, Allah'ın sevdiği tarzı yapacaksınız. Ve o sevdiği tarz ise, Allah'ın sevdiği zata benzemelisiniz. Ona benzemek ise, Ona ittiba etmektir. Ne vakit Ona ittiba etseniz, Allah da sizi sevecek. Zâten siz Allahı seversiniz, tâ ki Allah da sizi sevsin."îşte bütün bu cümleler, şu âyetin yalnız mücmel ve kısa bir meâlidir. Demek oluyor ki: însan için en mühim âli maksat, Cenâb-ı Hakkın muhabbetine mazhar olmasıdır. Bu âyetin nassıyla gösteriyor ki; o matlab-ı âlânın yolu, Habibullah'a ittibadır ve Sünnet-i Seniyyesine iktidadır...L.)(Resül-i Ekrem'in (A.S.M.) Sünnet-i Seniyyesinin menbaı üçtür: Akvali, ef'ali, ahvâlidir. Bu üç kısım dahi üç kısımdır: Ferâiz, nevâfil, âdât-ı hasenesidir. Farz ve vâcib kısmında ittibaa mecburiyet var; terkinde, azab ve ikab vardır. Herkes ona ittibaa mükelleftir. Nevafil kısmında, emr-i istihbabi ile yine ehl-i iman mükelleftir. Fakat, terkinde azab ve ikab yoktur. Fiilinde ve ittibaında azim sevablar var; ve tağyir ve tebdili, bid'a ve dalâlettir ve büyük hatâdır. âdât-ı seniyyesi ve harekât-ı müstahsenesi ise, hikmeten, maslahaten, hayat-ı şahsiye ve nev'iyye ve içtimaiyye itibariyle onu taklid ve ittiba etmek, gayet müstahsendir. çünkü: Herbir hareket-i âdiyesinde, çok menfaat-ı hayatiye bulunduğu gibi, mutâbaat etmekle o âdâb ve âdetler, ibadet hükmüne geçer. Evet mâdem dost ve düşmanın ittifakıyle Zât-ı Ahmediye (A.S.M.) mehâsin-i ahlâkın en yüksek mertebelerine mazhardır. Ve mâdem bil-ittifak nev-i beşer içinde en meşhur ve mümtaz bir şahsiyettir. Ve mâdem binler mu'cizâtın delâletiyle ve teşkil ettiği âlem-i îslâmiyetin ve kemalâtının şehâdetiyle ve mübelliği ve tercüman olduğu Kur'ân-ı Hakimin hakaikının tasdikıyla, en mükemmel bir insan-ı kâmil ve bir mürşid-i ekmeldir. Ve mâdem semere-i ittibaiyle milyonlar ehl-i kemâl, meratib-i kemalâtta terakki edip saâdet-i dâreyne vasıl olmuşlardır. Elbette o zâtın sünneti, harekâtı, iktida edilecek en güzel nümunelerdir ve tâkib edilecek en sağlam rehberlerdir. Ve düstur ittihaz edilecek en muhkem kanunlardır. Bahtiyar odur ki: Bu ittiba-ı sünnette hissesi ziyâde ola. Sünnete ittiba etmiyen, tembellik eder ise, hasâret-i azime; ehemmiyetsiz görür ise, cinâyet-i azime; tekzibini işmam eden tenkid ise, dalâlet-i azimedir. L.)
+sünnet: Kanun, yol, âdet. * Siret-i hasene. * Ist: Peygamber Aleyhissalâtü Vesselâm'ın sözü, emri, hal ve takriri. Müslümanların ittibâında ve dinlemesinde maddi ve manevi pek çok fazilet bulunan, tatbikinde mühim sevablar, terkinde mühim zararlar bulunan îslâmi emirler. Sünnet'e Farz-ı Nebevi de denir.( âyetinde i'cazlı bir icaz vardır. çünkü: çok cümleler, bu üç cümlenin içinde dercedilmiştir. şöyle ki: şu âyet diyor ki: "Allah'a (C.C.) imanınız varsa, elbette Allah'ı seveceksiniz. Mâdem Allah'ı seversiniz, Allah'ın sevdiği tarzı yapacaksınız. Ve o sevdiği tarz ise, Allah'ın sevdiği zata benzemelisiniz. Ona benzemek ise, Ona ittiba etmektir. Ne vakit Ona ittiba etseniz, Allah da sizi sevecek. Zâten siz Allahı seversiniz, tâ ki Allah da sizi sevsin."îşte bütün bu cümleler, şu âyetin yalnız mücmel ve kısa bir meâlidir. Demek oluyor ki: însan için en mühim âli maksat, Cenâb-ı Hakkın muhabbetine mazhar olmasıdır. Bu âyetin nassıyla gösteriyor ki; o matlab-ı âlânın yolu, Habibullah'a ittibadır ve Sünnet-i Seniyyesine iktidadır...L.)(Resül-i Ekrem'in (A.S.M.) Sünnet-i Seniyyesinin menbaı üçtür: Akvali, ef'ali, ahvâlidir. Bu üç kısım dahi üç kısımdır: Ferâiz, nevâfil, âdât-ı hasenesidir. Farz ve vâcib kısmında ittibaa mecburiyet var; terkinde, azab ve ikab vardır. Herkes ona ittibaa mükelleftir. Nevafil kısmında, emr-i istihbabi ile yine ehl-i iman mükelleftir. Fakat, terkinde azab ve ikab yoktur. Fiilinde ve ittibaında azim sevablar var; ve tağyir ve tebdili, bid'a ve dalâlettir ve büyük hatâdır. âdât-ı seniyyesi ve harekât-ı müstahsenesi ise, hikmeten, maslahaten, hayat-ı şahsiye ve nev'iyye ve içtimaiyye itibariyle onu taklid ve ittiba etmek, gayet müstahsendir. çünkü: Herbir hareket-i âdiyesinde, çok menfaat-ı hayatiye bulunduğu gibi, mutâbaat etmekle o âdâb ve âdetler, ibadet hükmüne geçer. Evet mâdem dost ve düşmanın ittifakıyle Zât-ı Ahmediye (A.S.M.) mehâsin-i ahlâkın en yüksek mertebelerine mazhardır. Ve mâdem bil-ittifak nev-i beşer içinde en meşhur ve mümtaz bir şahsiyettir. Ve mâdem binler mu'cizâtın delâletiyle ve teşkil ettiği âlem-i îslâmiyetin ve kemalâtının şehâdetiyle ve mübelliği ve tercüman olduğu Kur'ân-ı Hakimin hakaikının tasdikıyla, en mükemmel bir insan-ı kâmil ve bir mürşid-i ekmeldir. Ve mâdem semere-i ittibaiyle milyonlar ehl-i kemâl, meratib-i kemalâtta terakki edip saâdet-i dâreyne vasıl olmuşlardır. Elbette o zâtın sünneti, harekâtı, iktida edilecek en güzel nümunelerdir ve tâkib edilecek en sağlam rehberlerdir. Ve düstur ittihaz edilecek en muhkem kanunlardır. Bahtiyar odur ki: Bu ittiba-ı sünnette hissesi ziyâde ola. Sünnete ittiba etmiyen, tembellik eder ise, hasâret-i azime; ehemmiyetsiz görür ise, cinâyet-i azime; tekzibini işmam eden tenkid ise, dalâlet-i azimedir. L.)
 sünnet: Göbekle kasık arası. * Atın bileğinin ardındaki uzunca kıllar.
 sünnet-î gayr-i müekkede: Peygamber'in (A.S.M.) ibadet maksadıyla ara-sıra yapmış olduğu ameldir.
 sünnet-î müekkede: Peygamberin (A.S.M.) devam edip pek az terk buyurmuş olduğu sünnettir.
@@ -3267,7 +3267,7 @@ süvba': Gittikten sonra yine dönmek.
 süver: (Sure. C.) Sureler.
 süveyda: Siyahlık.
 süveyda-ül kalb: (Sevâd-ül kalb, Sevdâ-ül kalb) Kalbin ortasında varlığı kabul edilen siyah nokta. Kalbdeki gizli günah. Buna Habbet-ül kalb, Esved-ül kalb de denir. Kalbdeki basiret mahalli diye bilinir. Eskiden bir kısım muhakkikler, kalbin mezkur mahalline; Mahall-i ulum-u diniyye demişler. Ekseriyyetle mahall-i idrak ve basiret olarak kabul edilir. Bir kısım âlimler de "Kalbin dahili olan akıldan ibarettir" demişler. (Kamus)Kalbdeki bu mezkûr nokta: Kâfirler ve Allaha isyan edenler için şekavet ve günah, mü'minler için ise: Basiret ve idrak mahalli olarak bilinir.
-süveyş : Akdeniz'le Kızıl Deniz'i birbirine bağlayan büyük kanal.
+süveyş : Akdeniz'le Kızıl Deniz'i birbirine bağlayan büyük kanal.
 süvre: (C.: Sivere-Sire) Dişi sığır.
 süvüm: üçüncü.
 süyu': Suyun akması.

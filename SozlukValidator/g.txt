@@ -226,7 +226,7 @@ gamze-î cellâd: Cana kıyan yan bakış.
 gamze-î dîl-duz: Gönül delen süzgün bakış.
 gamze-î fettân: Câzibedar ve süzgün bakış.
 gamze-î hunhar: Kan içen yan bakış.
-gân: Cemi' yapmak için, sonu "e" sesi ile biten kelimenin sonuna gelir bir "ek" tir. Meselâ: Bendegân $: Hizmetçiler, bendeler.
+gân: Cemi' yapmak için, sonu "e" sesi ile biten kelimenin sonuna gelir bir "ek" tir. Meselâ: Bendegân: Hizmetçiler, bendeler.
 gana: Kifayet, kâfi gelme. * Menfaat, fayda.
 ganaîm: (Ganimet. C.) Harpte ele geçen mallar. Ganimetler.
 ganaîm-î bahrîye: Harbte ele geçirilen düşman gemileriyle, bunlara ait her türlü levâzım ve eşyâlar.
@@ -404,7 +404,7 @@ gâv-i deştî: Yaban sığırı.
 gava: Yoldan çıkmış. Yolunu şaşırmış. Azgın.
 gavadî: Sabah bulutu.
 gavafîl: (Gafile. C.) Gafiller, gaflette bulunanlar.
-gavaîl: (Gaile. C.) Musibetler, belâlar. * Dertler, sıkıntılar, kederler, hüzünler. * Felâketler, âfetler.GAVALî $ (Galiye. C.) Güzel kokular.
+gavaîl: (Gaile. C.) Musibetler, belâlar. * Dertler, sıkıntılar, kederler, hüzünler. * Felâketler, âfetler.GAVALî (Galiye. C.) Güzel kokular.
 gavamiz: (Gamız. C.) Anlaşılması zor hakikatler. înce ve derin mes'eleler.
 gavanî: (Ganiye. C) Zenginler. * Kadın şarkıcılar.
 gavaş: (Gaşiye. C.) örtücü, örten.
@@ -475,7 +475,7 @@ gayr-endîş: Başkalarını düşünen, şefkatli ve cömert kimse.
 gayr-i kabîl: Mümkün ve kabil değil, imkânsız. Mümkün olmayan, olamaz.
 gayr-i ma'kul: Akıl işi olmayan, aklın kabul etmediği.
 gayr-i mahdud: Hudutsuz, uçsuz bucaksız, sonsuz.
-gayr-i mahsur : Hasrolunmamış. Sınırsız.
+gayr-i mahsur : Hasrolunmamış. Sınırsız.
 gayr-i me'luf: Alışılmamış, ülfet edilmemiş.
 gayr-i me'mul: Umulmadık. Beklenmedik. Birdenbire.
 gayr-i mebzul: çok kullanılmayan. Az bulunan şey.
@@ -634,10 +634,10 @@ gendümnüma: Yüze gülüp aldatan. Hilekâr.
 gensoru: (Bak: îstizah)
 ger: Uyuz hastalığı.
 ger: Türkçedeki "eğer" kelimesinin kısaltılmış şekli. Eğer, şayet mânasındadır.
-ger: îsimlerin sonlarına eklenir ve yapıcılık bildirir bir edattır. Meselâ: Ahen-ger $: Demirci. Zer-ger $: Kuyumcu.
+ger: îsimlerin sonlarına eklenir ve yapıcılık bildirir bir edattır. Meselâ: Ahen-ger: Demirci. Zer-ger: Kuyumcu.
 gerçî: öyle ise de, her ne kadar.
 gerd: Baht, talih. Fayda. * Toz, toprak. * Hüzün, keder, gam, tasa.
-gerd: Kelimelere eklenir ve "Dönen, dolaşan" anlamlarını verir. Meselâ: Tiz-gerd $: çabuk dönen.
+gerd: Kelimelere eklenir ve "Dönen, dolaşan" anlamlarını verir. Meselâ: Tiz-gerd: çabuk dönen.
 gerd-âlûd: Toz toprak içinde.
 gerd-âlûde: Toza toprağa bulaşmış, tozlu topraklı. * Mc: Maddiyatı olan kimse, paralı, zengin.
 gerdâ-gîrd: Fırdolayı. 
@@ -677,7 +677,7 @@ gestî: çirkinlik.
 geş: Edâ ve naz yaparak yürüme. * Lâtif, hoş, güzel.
 geşt: Seyretme, dolaşma, gezme, tenezzüh. * Geçme.
 geşt ü güzâr: Gezip tozma, gezme.
-geşte: "Gezmiş, dolaşmış, dönmüş" anlamlarına gelerek birleşik kelimeler yapılır. Meselâ: Ber-geşte $: Altüst olmuş. Ser-geşte $: Başı dönmüş.
+geşte: "Gezmiş, dolaşmış, dönmüş" anlamlarına gelerek birleşik kelimeler yapılır. Meselâ: Ber-geşte: Altüst olmuş. Ser-geşte: Başı dönmüş.
 gev: (C.: Gevân) Yiğit, bahadır, kahraman.
 gev-çah: Dibi görünebilen pek derin olmayan alçak kuyu.
 gevah: (Bak: Güvah)
@@ -733,7 +733,7 @@ gilbit: Taşsız yer.
 gildirgiç: Mücellit ıstılahlarındandır. Kitapların kenarlarını kesmeğe mahsus, rende biçiminde bir âlettir.
 gilk: Acip ve garip. * Zahmet, meşakkat, güçlük.
 gill: Düşmanlık, garaz ve adavet, gizli kin ve haset.
-gill u giş : Aklın muhtelif fikirler üzerinde kararsızlığı. * Gönül darlığı. * Kin ve hile. Hıyanet ve adavet.
+gill u giş : Aklın muhtelif fikirler üzerinde kararsızlığı. * Gönül darlığı. * Kin ve hile. Hıyanet ve adavet.
 gillîm: Cimâı şiddetle arzu eden.
 gilman: (Gulâm. C.) Bıyığı yeni bitmiş gençler. * Cennet'te hizmet gören delikanlılar. * Köleler, esirler.
 gilman ü cevarî: Köleler ve cariyeler.
@@ -785,7 +785,7 @@ giyar: Keçe. * Ehl-i zimmetin nişanı.
 giyas: Medetkâr. Yardımcı. Nusrete yetişen. * Meded. Yardım.
 giyas-üd dîn: Dinin intişar etmesine yardımı dokunan kimse.
 giyasa: Suya dalmak.
-giybet: Arkadan çekiştirmek. Hazır olmayan birisinin aleyhine konuşmak. Birisinin gıyabında hoşuna gitmeyen bir şeyi söylemek. (Gıybet odur ki: Gıybet edilen adam hazır olsa idi ve işitse idi, kerâhet edip darılacaktı. Eğer doğru dese; zâten gıybettir. Eğer yalan dese; hem gıybet, hem iftiradır. îki katlı çirkin bir günahtır. M.)(Gıybet, mahsus birkaç maddede câiz olabilir:Birisi: şekva suretinde bir vazifedar adama der, tâ yardım edip o münkeri, o kabahati ondan izale etsin ve hakkını ondan alsın.Birisi de: Bir adam onunla teşrik-i mesâi etmek ister. Senin ile meşveret eder. Sen de sırf maslahat için garazsız olarak, meşveretin hakkını edâ etmek için desen: "Onun ile teşrik-i mesâi etme. çünki zarar göreceksin."Birisi de: Maksadı, tahkir ve teşhir değil, belki maksadı, târif ve tanıttırmak için dese" "O topal ve serseri adam filân yere gitti."Birisi de: O gıybet edilen adam fâsık-ı mütecahirdir. Yâni fenalıktan sıkılmıyor, belki işlediği seyyiatla iftihar ediyor; zulmü ile telezzüz ediyor; sıkılmıyarak âşikâre bir surette işliyor.îşte bu mahsus maddelerde garazsız ve sırf hak ve maslahat için gıybet câiz olabilir. Yoksa gıybet, nasıl ateş odunu yer bitirir; gıybet dahi a'mâl-i sâlihayı yer bitirir.Eğer gıybet etti veyahut istiyerek dinledi; o vakit $ demeli, sonra gıybet edilen adam ne vakit rast gelse: "Beni helâl et." demeli... M.)
+giybet: Arkadan çekiştirmek. Hazır olmayan birisinin aleyhine konuşmak. Birisinin gıyabında hoşuna gitmeyen bir şeyi söylemek. (Gıybet odur ki: Gıybet edilen adam hazır olsa idi ve işitse idi, kerâhet edip darılacaktı. Eğer doğru dese; zâten gıybettir. Eğer yalan dese; hem gıybet, hem iftiradır. îki katlı çirkin bir günahtır. M.)(Gıybet, mahsus birkaç maddede câiz olabilir:Birisi: şekva suretinde bir vazifedar adama der, tâ yardım edip o münkeri, o kabahati ondan izale etsin ve hakkını ondan alsın.Birisi de: Bir adam onunla teşrik-i mesâi etmek ister. Senin ile meşveret eder. Sen de sırf maslahat için garazsız olarak, meşveretin hakkını edâ etmek için desen: "Onun ile teşrik-i mesâi etme. çünki zarar göreceksin."Birisi de: Maksadı, tahkir ve teşhir değil, belki maksadı, târif ve tanıttırmak için dese" "O topal ve serseri adam filân yere gitti."Birisi de: O gıybet edilen adam fâsık-ı mütecahirdir. Yâni fenalıktan sıkılmıyor, belki işlediği seyyiatla iftihar ediyor; zulmü ile telezzüz ediyor; sıkılmıyarak âşikâre bir surette işliyor.îşte bu mahsus maddelerde garazsız ve sırf hak ve maslahat için gıybet câiz olabilir. Yoksa gıybet, nasıl ateş odunu yer bitirir; gıybet dahi a'mâl-i sâlihayı yer bitirir.Eğer gıybet etti veyahut istiyerek dinledi; o vakit demeli, sonra gıybet edilen adam ne vakit rast gelse: "Beni helâl et." demeli... M.)
 giyer: Halden hale dönmek.
 giza: Gıda, besin. (Bak: Gıda)
 gîl: (C: Guyul) Meşelik ve çalılık yer. * Arslan yatağı. Arslanların bulunduğu yer.
@@ -1044,9 +1044,9 @@ guş: Kulak. * Mc: îşitmek.
 guş-asb: Rüya. * îhtilam. Uyurken cenabet olmak.
 guş-dar: "Kulak tutan." Sözü tam mânasıyla dinleyen, kulak veren.
 guş-hurde: Kulağı bükülmüş, terbiye edilmiş.
-guş-î can : Can kulağı.
+guş-î can : Can kulağı.
 guş-î huş: Akıl kulağı. Can kulağı.
-guş-î kabul-î can : Candan kabul ile dinlemek.
+guş-î kabul-î can : Candan kabul ile dinlemek.
 guş-var: Küpe, kadınların kulaklarına taktıkları mücevher.
 guş-zed: Kulağa çarpan, işitilen.
 guşab: Pekmez.
@@ -1057,7 +1057,7 @@ guşe-gîr: Bir köşeye çekilen.
 guşe-î dehan: Ağzın iki tarafı.
 guşe-î uzlet: Tenha ve ıssız köşe.
 guşe-nîşîn: Köşeye çekilen, münzevi, insanlardan uzaklaşan.
-guşetmek : îşitmek. Dinlemek, kulak vermek, mesmu' olmak.
+guşetmek : îşitmek. Dinlemek, kulak vermek, mesmu' olmak.
 guşîş: çabalama, uğraşma, çalışma.
 guşmal: Yola getirme, te'dib etme, kulak bükme, ihtar etme.
 guşt: Et, lahm.
@@ -1072,7 +1072,7 @@ guvat: (Gavi. C.) Azgınlar, sapkınlar.
 guvl: (C: Agvâl-Gaylân) Cinden bir tâife.
 guvr: Bir ölçek. (12 senc miktarıdır: Senc: 24 batmandır.)
 guvta: şam diyarında suyu çok olan ağaçlık bir yer.GUY: Söyleyen, konuşan, söyleyici. * Kelâm, söz. Acemlere mahsus bir cins oyun topu. * Baykuş.
-gu(y): "Diyen, söyleyen" mânâlarına gelir ve birleşik kelimeler yapılır. Meselâ: Rast-gu $: Doğru söyleyen. Suhan-gu $: Söz söyleyen, konuşan.
+gu(y): "Diyen, söyleyen" mânâlarına gelir ve birleşik kelimeler yapılır. Meselâ: Rast-gu: Doğru söyleyen. Suhan-gu: Söz söyleyen, konuşan.
 guyî: Söyleyiş, söyleme.
 guyub: (Gayb. C.) Hazırda olmayanlar. Kayıplar.
 guyum: (Gaym. C.) Bulutlar.
@@ -1089,12 +1089,12 @@ guzuza: Taze olmak.
 guzz: Oğuz Türkleri.
 gücük: Kuvvetsiz, zayıf, gevşek.
 güdahte: Erimiş.
-güdaz: Mahveden, yakan, eriten mânâlarına gelir ve birleşik kelimeler yapılır. Meselâ: Takat-güdaz $: Takati mahveden.
+güdaz: Mahveden, yakan, eriten mânâlarına gelir ve birleşik kelimeler yapılır. Meselâ: Takat-güdaz: Takati mahveden.
 güdazende: Eriten, eritici.
 güdazîş: Yakılma, yanma.
 güft: Dedi, söyledi. * Söz, kelâm.
 güft ü gu: Dedi kodu. Kil ü kal.
-güft ü şenîd : îşitilen şeyler, duyulan şeyler.
+güft ü şenîd : îşitilen şeyler, duyulan şeyler.
 güftar: Sözler, lâkırdılar.
 güfte: Her hangi bir makama göre bestelenen manzume. * Farsça "söylemek" demek olan "güften" mastarından gelen bu tabirin mânası, söylenmiş söz demektir.
 güher-füruş: Mücevher satan.
@@ -1214,13 +1214,13 @@ gürs: Kir, leke, pas. Açlık, sefâlet. * Zülf, kâhkül.
 güruh: Bölük. Cemaat. Takım. Kısım. * Fevc.
 güruh-î eşkîya: Eşkiya takımı, haydut güruhu.
 gürz: Silâhın icadından evvel kullanılan bir harp âleti. Gürz, yekpare veya yalnız baş tarafı demir ve bakırdan, sapı ise ağaç ve demirden olan bir nevi topuzdur. Gürzün Türkçesi "bozdoğan" dır. Bozdoğan bir cins yırtıcı kuştur. Gürz, bozdoğanın kafasına benzediği için bu adla anılmıştır. Gürzün baş kısmı çivili veya düz olurdu. Altı yüzlü olanlara "şeşper" denilirdi.
-güsar: Yiyen, yiyici. îçen, içici manalarına birleşik kelimeler yapılır. Meselâ: Gam-güsar $: Dert ortağı, arkadaş.
+güsar: Yiyen, yiyici. îçen, içici manalarına birleşik kelimeler yapılır. Meselâ: Gam-güsar: Dert ortağı, arkadaş.
 güsîste: Kopmuş, kırılmış. * Sökülmüş, çözülmüş, gevşemiş.
 güsîste-mehar: (Güsisteinan) Yuları kopmuş. * Mc: Kayıtsız, mes'uliyetsiz, başıboş.
 güsn(e): Açlık, sefalet.
 güstah: Arsız, edepsiz, küstah, saygısız.
 güsterde: Döşenmiş, yayılmış.
-güşa: Açıcı, açan mânâsına gelir ve birleşik kelimeler yapılır. Meselâ: Dil-güşa $: Gönüle ferahlık veren. Gönül açan.
+güşa: Açıcı, açan mânâsına gelir ve birleşik kelimeler yapılır. Meselâ: Dil-güşa: Gönüle ferahlık veren. Gönül açan.
 güşad: Açılış, açılma, açma. * Bir cins ok atma şekli.
 güşad-i dîl: Gönül açılması. Gönlün refaha kavuşması.
 güşade: Ferah, şen, Açılmış, açık.
@@ -1252,7 +1252,7 @@ güyem: Söylerim (mânâsına fiil).
 güyende: Söyleyici. Söyleyen. Kail olan.
 güz: Sonbahar.
 güzaf: Boş, bihude. Lüzumsuz.
-güzar: Geçiş, geçme. * Beceren, halleden, yapan. * Geçiren, geçirici mânâlarına gelir ve birleşik kelimeler yapılır. Meselâ: Dem-güzar $: Zaman geçiren, vakit öldüren.
+güzar: Geçiş, geçme. * Beceren, halleden, yapan. * Geçiren, geçirici mânâlarına gelir ve birleşik kelimeler yapılır. Meselâ: Dem-güzar: Zaman geçiren, vakit öldüren.
 güzar-i bâ-şîtab: Hızla geçiş.
 güzare: Rüyâ tâbir etme, düş yorma.
 güzarende: Geçen, geçici. Geçiren, geçirici.
@@ -1264,9 +1264,9 @@ güzeran: Geçen, geçici. * Geçme. Geçiş.
 güzergâh: Geçit yeri. Geçilecek yer.
 güzername: Geçiş tezkeresi.
 güzeşt: Geçme, geçiş. Geçen. 
-güzeşte : Geçen. Geçmiş. Geçmiş olan.
+güzeşte : Geçen. Geçmiş. Geçmiş olan.
 güzeşte-gân: (Güzeşte. C.) önden gelmiş olanlar, geçmişler.
-güzîde : (Güzin) Seçilmiş. întihab edilmiş. Beğenilmiş.
+güzîde : (Güzin) Seçilmiş. întihab edilmiş. Beğenilmiş.
 güzîde-gân: (Güzide. C.) Seçkinler, beğenilmişler, seçilmiş olanlar.
 güzîde-suhen: Beğenilmiş söz söyleyen, seçkin sözler konuşan.
 güzîden: Seçmek. întihab etmek. 

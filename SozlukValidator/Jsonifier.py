@@ -20,6 +20,7 @@ def symbol(x):
         '¯': '',
         '(': '',
         ')': '',
+        ',': ''
     }.get(x, x)
 
 
@@ -30,7 +31,7 @@ def search_word(word):
     for ch in word:
         sym = symbol(ch)
         if not ('a' <= sym <= 'z' or sym in ' .'):
-            print(word)
+            print('Symbol {0} is not in dictionary, word: {1}'.format(sym, word))
         result += sym
     return result
 
@@ -46,14 +47,14 @@ def jsonify():
         f.close()
 
         filename = letter + '.json'
-        f = codecs.open(filename, 'w', 'utf-8-sig')
+        f = codecs.open(filename, 'w', 'utf-8')
 
         for line in lines:
             # print(line)
             index = line.index(':')
             word = line[0:index].strip()
             definition = line[index + 1:].strip()
-            search = search_word(word)
+            search = search_word(word).strip()
             result = {'word': word, 'definition': definition, 'search': search}
             f.write(json.dumps(result, ensure_ascii=False))
             f.write('\n')

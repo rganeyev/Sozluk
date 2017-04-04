@@ -101,10 +101,10 @@ taazzumât: (Taazzum. C.) Kibirlenmeler. * Kemikleşmeler.
 taazzüb: Evlenmeyip bekâr kalmak.
 taazzür: özür bildirmek. * Güçleşmek Güç olmak.
 taazzür: Tâzim etmek. Hürmet etmek.
-taazzüz : Aziz saymak. Tenezzül etmeme. * çekinme.
+taazzüz : Aziz saymak. Tenezzül etmeme. * çekinme.
 ta'b: Latife etmek, şaka yapmak.
 tab: Parıltı. Parlayıcı. * Güç. Kuvvet. Takat. * Hararet.
-tab: "Parıldayan, parlayan, parlatan, aydınlatan" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: âlem-tab $: Dünyayı aydınlatan, âlemi ışıklandıran.
+tab: "Parıldayan, parlayan, parlatan, aydınlatan" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: âlem-tab: Dünyayı aydınlatan, âlemi ışıklandıran.
 tab': Tabiat. Karakter. * Damga basmak. Mühür basmak. Kitab basmak. Mühür.
 tab'a: Bir kere basılma.
 taba': Bulaşmak. * Kir. * Demirin paslanması.
@@ -696,7 +696,7 @@ tahrîm suresî: Kur'an-ı Kerim'in 66. Suresidir. "Lime tüharrimu" da denir. M
 tahrîm tekbîrî: îftitah tekbiri de denir. (Bak: îftitah tekbiri)
 tahrîme: Namaza başlanırken söylenen tekbir. * Hacıların ihrama bürünmeleri.
 tahrîmen: Haram olarak. Harama yakın olarak.
-tahrîmen mekruh : (Vâcibin zıddı) Harama yakın iş olup, zanni delil ile olan nehiydir.
+tahrîmen mekruh : (Vâcibin zıddı) Harama yakın iş olup, zanni delil ile olan nehiydir.
 tahrîmî: (Tahrimiyye) Haramla ilgili, harama ait.
 tahrîr: Yazmak. Yazılmak. Kaydetmek. * Hürriyete kavuşturmak.
 tahrîr-î rakabe: Köle veya cariye azad etme.
@@ -1364,12 +1364,12 @@ tasavîr: (Tasvir. C.) Tasvirler, resimler.
 tasavül: Karşılıklı hamle etmek.
 tasavün: Hıfzetmek, korumak.
 tasavvu': Ayrılmak, perâkende olmak.
-tasavvuf : Kalbi dünyanın fâni işlerinden ayırıp Allah (C.C.) sevgisi ile bağlamak. Tarikat ehli olmak. (Bak: Tarikat)(îmam-ı Gazali, îmam-ı Rabbani gibi muhakkıkin-i ehl-i tarikat derler ki: "Birtek Sünnet-i Seniyyeye ittiba' noktasında hâsıl olan makbuliyet, yüz âdâb ve nevâfil-i hususiyeden gelemez! Bir farz, bin sünnete müreccah olduğu gibi; bir Sünnet-i Seniyye dahi, bin âdâb-ı tasavvufa müreccahtır!" demişler. M.)
+tasavvuf : Kalbi dünyanın fâni işlerinden ayırıp Allah (C.C.) sevgisi ile bağlamak. Tarikat ehli olmak. (Bak: Tarikat)(îmam-ı Gazali, îmam-ı Rabbani gibi muhakkıkin-i ehl-i tarikat derler ki: "Birtek Sünnet-i Seniyyeye ittiba' noktasında hâsıl olan makbuliyet, yüz âdâb ve nevâfil-i hususiyeden gelemez! Bir farz, bin sünnete müreccah olduğu gibi; bir Sünnet-i Seniyye dahi, bin âdâb-ı tasavvufa müreccahtır!" demişler. M.)
 tasavvufî: Tasavvufla alâkalı. Tasavvufa ait.
 tasavvuh: Yaş otun üstü sıcaktan kurumak.
-tasavvur : Bir şeyi zihinde şekillendirmek. Tasarlamak. * Düşünce, tasarı. Arzu. (Bak: Dimağ)
+tasavvur : Bir şeyi zihinde şekillendirmek. Tasarlamak. * Düşünce, tasarı. Arzu. (Bak: Dimağ)
 tasavvur-u şahsî: şahsi düşünce. şahsa ait tasavvur. (Bak: Himmet)
-tasavvurat : (Tasavvur. C.) Tasavvurlar.
+tasavvurat : (Tasavvur. C.) Tasavvurlar.
 tasavvurî: Tasavvurla alâkalı. Tasavvura ait.
 tasavvün: Kendini sakınmak.
 tasaykul: Pürüzsüzlük.
@@ -1445,14 +1445,14 @@ tassuc: (C: Tasâsic) Cânip. Nâhiye. îki tane.
 tast: (C.: Tısâs-Tısât) Büyük tas.
 tastîm: Tamamlamak. Tekmil etmek. * Muhkem etmek, sağlamlaştırmak.
 tastîr: (Satr. dan) Yazı yazma. Satırlar meydana getirme.
-tasvîb : Münasib görmek. Uygun ve doğru bulmak. * Aşağı indirmek.
+tasvîb : Münasib görmek. Uygun ve doğru bulmak. * Aşağı indirmek.
 tasvîbât: (Tasvib. C.) Tasvib edilip uygun görülen şeyler.
 tasvîben: Doğru bularak, tasvib ederek, münâsib görerek.
 tasvîbkerde: Doğru bulunmuş, tasvib edilmiş, münasib görülmüş.
 tasvîg: (C.: Tasvigat) (Siga. dan) Kalıp şekline koymak. Eritip kalıba dökme. * Batırmak. * Kuyumculuk yapmak.
-tasvîr : Hiss ve mahsusata münhasır olan ifâde. * Bir şeyi söz veya yazı ile anlatmak. Resim yapmak. * Bir şeye şekil ve suret vermek. Resim. * Edb: Görebildiğimiz ve hissedebildiğimiz şeyleri bize gösterebilecek veya hariçte vücudu olmayan fakat hissedilen şeyleri duyurabilecek meleke.
-tasvîrat : (Tasvir. C.) Tasvirler.
-tasvîrî : Tasvire dair, tasvirle ilgili.
+tasvîr : Hiss ve mahsusata münhasır olan ifâde. * Bir şeyi söz veya yazı ile anlatmak. Resim yapmak. * Bir şeye şekil ve suret vermek. Resim. * Edb: Görebildiğimiz ve hissedebildiğimiz şeyleri bize gösterebilecek veya hariçte vücudu olmayan fakat hissedilen şeyleri duyurabilecek meleke.
+tasvîrat : (Tasvir. C.) Tasvirler.
+tasvîrî : Tasvire dair, tasvirle ilgili.
 tasvît: (Savt. dan) Seslendirme, seslenme, ses çıkarma.
 tasy: Sütü ve suyu çok içmekten dolayı vücudun ağırlaşması. * Süst olmak, zayıflamak.
 tasyîr: Bir surete koyma. Bir şekle vardırma.
@@ -1548,7 +1548,7 @@ tavaîf: (Taife. C.) Gruplar. Milletler, kavimler. Bölükler.
 tavaîf-î mülûk: Abbasi Devletinin parçalanması ile meydana gelen küçük devletler.
 tavalî': (Tâli'. C.) Kısmetler, bahtlar, tâlihler.
 tavamîr: Tomarlar.
-tav'an : îsteyerek. Zorlanmadan. Kendi isteğiyle.
+tav'an : îsteyerek. Zorlanmadan. Kendi isteğiyle.
 tav'an ev kerhen: îster istemez. îsteyerek olsun yahut istemiyerek olsun.
 tavarik: (Târika. C.) Gece gelen belâlar.
 tavasîm: (Tavâsin): Kur'an-ı Kerim'den tâ-sin, tâ-sin-mim sureleri.
@@ -1604,7 +1604,7 @@ tavr-i bâtil: Bâtıl, kötü hal ve vaziyetler.
 tavrî: Vahşi adam veya kuş. * Ehad, vâhid, bir.
 tavs: örtmek.
 tavsîb: Tenbellik ve süstlük.
-tavsîf : Vasıflarını söylemek. Bir şeyin iç yüzünü, ne ve nasıl bir şey olduğunu anlatmak. Vasıflandırmak. * Bilgi, ilim.
+tavsîf : Vasıflarını söylemek. Bir şeyin iç yüzünü, ne ve nasıl bir şey olduğunu anlatmak. Vasıflandırmak. * Bilgi, ilim.
 tavsîf-î bî-l-fezaîl: Faziletlerini zikrederek tavsif etmek.
 tavsîfât: (Tavsif. C.) Tavsifler. Vasıflandırmalar.
 tavsîl: (Vasl. dan.) Ulaştırma, vardırma.
@@ -1680,7 +1680,7 @@ tazammud: Yaranın merhemli bezle sarılması.
 tazammun: îhtiva etmek. îçine almak. îçinde başka şeyleri havi olmak. Muhit olmak. * Tazmini kabul etmek. Kefil olmak. * Man: Lâfzın, mevzuu olduğu mânanın cüz'üne delâlet etmesi.
 tazannün: (Zann. dan) Sanma, zan ile iş görme, delilsiz hükmetme.
 tazarru': Bir şeye gizlice yaklaşmak. * Kendi kusurlarını bilip kibirden vaz geçip tevâzu ile yalvarmak.
-tazarru'en ve hufyeten : Gizlenip saklanarak.
+tazarru'en ve hufyeten : Gizlenip saklanarak.
 tazarruf: Zarafet. * Zariflik taslama. încelik göstermek. Külfetle zarif olmak.
 tazarru'kârane: Tazarru ederek. Tazarru etmek suretiyle.
 tazarrur: (Zarar. dan) Zarar ve ziyâna uğrama.
@@ -1715,7 +1715,7 @@ ta'zîyane: Ta'ziye eder surette. Ta'ziye ederek.
 tazîyane: Sebeb. Vasıta. * Kırbaç, kamçı.
 tazîyane-î ta'zîb: Azab vermek, azablandırmak kamçısı.
 ta'zîye: Yeni ölen birisinin yakınlarının acısını paylaşır söz söylemek, teselli etmek. Baş sağlığı dilemek. "Allah sabr-ı cemil ihsan etsin" diye söylemek.
-ta'zîz : Bir adamı aziz kılmak. Hürmet ve muhabbetle sevmek.
+ta'zîz : Bir adamı aziz kılmak. Hürmet ve muhabbetle sevmek.
 tazlîl: (Zıll. den) Gölgelendirme veya gölgelendirilme.
 tazlîm: Zâlim olmak.
 tazmîd: Merhemli bezi yaraya sarıp bağlama.
@@ -1727,7 +1727,7 @@ tazyî': (C.: Tazyiât) (Ziyâ. dan) Kaybına sebeb olma, bırakıp kaybetme. Bo
 tazyî-î evkat: Boş yere vakit geçirme. Zaman harcama. Vakit kaybetme.
 tazyîk: Daraltmak, sıkıştırmak. * îcbar etmek. * Sıkıntı ve ızdırab vermek. * Zorlama, baskı. * Fiz: Bir kuvvet harcayarak yapılan basma veya itme işi. Basınç. Katı cisimler, üzerine konuldukları satıhlara; sıvılar, içinde bulundukları kabın hem dibine ve hem de yanlarına; gazlar ise, içinde kapalı oldukları kabın her tarafına basınç yaparlar.
 tazyîkat: (Tazyik. C.) Tazyikler. Sıkıştırmalar. Baskılar. Zorlamalar. * Basınçlar.
-te: Dek, kadar, değin. Meselâ: Ser-te-ser $: Baştan başa.
+te: Dek, kadar, değin. Meselâ: Ser-te-ser: Baştan başa.
 tea: Duâ.
 teab: (Bak: Taab)
 teabbüd: (Bak: Taabbüd)
@@ -2029,7 +2029,7 @@ tecbîye: Rüku eder gibi eğilip durmak.
 tecdî': Bir kimseye iyileşmesin diye beddua etme. * Vücudun bir tarafını kesme. * çocuğu zararlı şeylerle besleyip gelişmesini önleme.
 tecdîd: Yenileme. Yenilenme. Tazelenme.
 tecdîd-î bîat: Biatını, bağlılığını, itimadını tekrarlamak, yenilemek.
-tecdîd-î îman: îman esaslarını kalben tasdik ettiğini, dil ile de tekrar edip yenilemek.( $ ın hikmetini soruyorsunuz. Onun hikmeti, çok Sözlerde zikredilmiştir. Bir sırr-ı hikmeti şudur ki: însanın hem şahsı, hem âlemi her zaman teceddüt ettikleri, için, her zaman tecdid-i imana muhtaçtır. Zira insanın herbir ferdinin mânen çok efradı var. ömrünün seneleri adedince, belki günleri adedince, belki saatleri adedince birer ferd-i âher sayılır. çünkü: Zaman altına girdiği için o ferd-i vâhid bir model hükmüne geçer, her gün bir ferd-i âher şeklini giyer.Hem insanda bu taaddüt ve teceddüt olduğu gibi, tavattun ettiği âlem dahi seyyardır. O gider, başkası yerine gelir, daima tenevvü' ediyor; her gün başka bir âlem kapısını açıyor. îmân ise; hem o şahıstaki her ferdin nur-u hayatıdır, hem girdiği âlemin ziyâsıdır."Lâilahe illallah" ise, o nuru açar bir anahtardır.Hem insanda mâdem nefs, hevâ ve vehim ve şeytan hükmediyorlar, çok vakit imânını rencide etmek için gafletinden istifade ederek çok hileleri ederler, şüphe ve vesveselerle imân nurunu kaparlar. Hem, zâhir-i şeriata muhalif düşen ve hattâ bâzı imamlar nazarında küfür derecesinde te'sir eden kelimat ve harekât eksik olmuyor. Onun için her vakit, her saat, her gün tecdid-i imâna bir ihtiyaç vardır. M.)
+tecdîd-î îman: îman esaslarını kalben tasdik ettiğini, dil ile de tekrar edip yenilemek.( ın hikmetini soruyorsunuz. Onun hikmeti, çok Sözlerde zikredilmiştir. Bir sırr-ı hikmeti şudur ki: însanın hem şahsı, hem âlemi her zaman teceddüt ettikleri, için, her zaman tecdid-i imana muhtaçtır. Zira insanın herbir ferdinin mânen çok efradı var. ömrünün seneleri adedince, belki günleri adedince, belki saatleri adedince birer ferd-i âher sayılır. çünkü: Zaman altına girdiği için o ferd-i vâhid bir model hükmüne geçer, her gün bir ferd-i âher şeklini giyer.Hem insanda bu taaddüt ve teceddüt olduğu gibi, tavattun ettiği âlem dahi seyyardır. O gider, başkası yerine gelir, daima tenevvü' ediyor; her gün başka bir âlem kapısını açıyor. îmân ise; hem o şahıstaki her ferdin nur-u hayatıdır, hem girdiği âlemin ziyâsıdır."Lâilahe illallah" ise, o nuru açar bir anahtardır.Hem insanda mâdem nefs, hevâ ve vehim ve şeytan hükmediyorlar, çok vakit imânını rencide etmek için gafletinden istifade ederek çok hileleri ederler, şüphe ve vesveselerle imân nurunu kaparlar. Hem, zâhir-i şeriata muhalif düşen ve hattâ bâzı imamlar nazarında küfür derecesinde te'sir eden kelimat ve harekât eksik olmuyor. Onun için her vakit, her saat, her gün tecdid-i imâna bir ihtiyaç vardır. M.)
 tecdîd-î nîkâh: Nikâh tazeleme. Nikâh yenileme.
 tecdîdât: Yenilemeler, tazelemeler.
 tecdîden: Yenileterek. Yenileyerek.
@@ -2689,7 +2689,7 @@ tehvîm: (C.: Tehvimât) Hafif uyku.
 tehvîn: (Hevn. den) Kolaylaştırma. * Ucuzlatma. Ucuzlatılma. * Alçaltma. Alçaltılma. * Cevr ve hakaret eylemek. Saymamak. Hakir görmek.
 tehvîr: Suyu veya diğer sıvıları döktürmek.
 tehvîs: Yedirmek, yemek yedirmek.
-tehvîş : Karma karışık etme. * Bir yere toplama.
+tehvîş : Karma karışık etme. * Bir yere toplama.
 tehvîye: (Hevâ. dan) Havalandırma.
 tehyî': (Tehyie - Tehiyye) (C.: Tehiyyât) Hazırlama, hazırlanma.
 tehyîb: (C.: Tehyibât) Heybetli gösterme, heybetli gösterilme.
@@ -2867,7 +2867,7 @@ teknîye: (Künye. den) Künyeleme, künye koyma.
 teknolojî: Fr. Teknik bilgiler. Matematik, Kimya ve Fizik ilminden elde edilen bilgiler.
 tekrar: (Kerr. den) Bir şeyi iki veya daha fazla yapma. * Bir daha, yine, yeniden.
 tekrarat: Tekrarlamalar. Aynı şeyi bir kaç defa yapma.
-tekrarat-i kur'anîye: Kur'anda birbirinin aynı olan veya birbirine benzer âyetlerin tekrar edilmiş olması. (Bak: Kur'an, Mumya)(Tekrarat-ı Kur'aniyedeki i'cazın bir lem'asını beyan zımnında "Altı Nokta"dan ibarettir.Birinci Nokta: Kur'an bir zikir kitabı, bir duâ kitabı, bir davet kitabı olduğuna nazaran surelerinde vukua gelen tekrar, belâgatça ayn-ı isabet ve ayn-ı hikmettir. çünkü zikir ve duâdan maksad sevaptır ve merhamet-i îlâhiyeyi celbetmektir. Malumdur ki: Bu gibi hususlarda fazlasıyla tekrar lâzımdır ki, o nisbette sevap kazanılsın ve merhamet celbedilsin. Hem de zikrin tekrarı kalbi tenvir eder. Duanın tekrarı bir takrirdir. Davet dahi, tekrarı nisbetinde te'siri, te'kidi vardır.îkinci Nokta: Kur'an bütün beşerin tabakatına hitap ve deva olduğu için zeki, gabi, takiyy, şaki, zâhid, gayr-ı zâhid bütün insan tabakaları şu hitab-ı îlâhiyeye mazhar ve bu eczahane-i Rahmaniyyeden ilâç almaya hakları vardır. Halbuki Kur'anı tamamen ve dâima okumak herkese müyesser değildir. Bunun için, lüzumlu olan maksadlar, hüccetler, bilhassa uzun surelerde tekrar edilmiştir ki, herbir sure hemen hemen bir küçük Kur'an hükmünde olsun ki herkes suhuletle istediği vakit istediği sureyi okumakla tam Kur'anın sevabını kazanabilsin. Evet $ olan âyet-i kerime bu hakikati isbat ediyor.üçüncü Nokta: Cismani ihtiyaçlar, vakitlerin ihtilâflariyle tebeddül eder. Noksan ve fazlalaşır. Meselâ: Havaya olan ihtiyaç her anda var. Suya olan ihtiyaç, midenin harareti zamanlarında olur. Gıdaya olan hâcet her günde olur. Ziyaya olan ihtiyaç alelekser haftada bir defa lâzımdır. Ve hâkeza..Kezâlik manevi ihtiyaçlar da vakitleri muhtelif ve mütefavittir. Her anda "Allah" kelimesine ihtiyaç vardır. Her vakit "Besmele"ye, her saatta "Lâ îlâhe îllallah"a ihtiyaç vardır. Ve hâkeza...Binaenaleyh âyetlerin, kelimelerin tekrarı, ihtiyaçların tekrarından ileri geliyor. Ve keza o gibi hükümlere olan ihtiyacın şiddetine işârettir.Dördüncü Nokta: Bilirsiniz ki: Kur'an bu metin din-i azimin esâsâtını ve îslâmiyetin erkânını te'sis ettiği gibi içtimaat-ı beşeriyyeyi tebdil eden bir kitaptır. Malumdur ki; müessis olan zat, vaz'ettiği esasları güzelce yerleştirmek için tekrarlara çok ihtiyacı olur. Evet tekrar edilen şey sâbit kalır, takarrür eder, unutulmaz. Ve keza, Kur'ân beşerin muhtelif tabakalarından kali veya hâli yapılan suallere lâzım olan cevapları veren umumi bir mürşid-i mucibdir. Malum ya, sual tekerrür ederse cevap da tekerrür eder.Beşinci Nokta: Bilirsiniz ki; Kur'an pek büyük mes'elelerden bahseder. Ve kalbleri iman ve tasdike davet eder. Ve çok ince hakikatlerden bahis açar. Akılları marifete, dikkate tahrik eder. Binaenaleyh o mesailin, o ince hakaikin kalblerde, efkârda tesbit ve takriri için suver-i muhtelifede türlü türlü üslublarla tekrara ihtiyaç vardır.Altıncı Nokta: Bilirsiniz ki, her âyet için bir zâhir var, bir bâtın var; bir had var, bir muttala' var. Ve herbir kıssa için çok vecihler, hükümler, faideler, maksadlar vardır. Binaenaleyh muayyen bir âyet, her yerde, öbür münasib bir vecih için, bir faide için zikredilebilir. Bu itibarla, zâhiren tekrar görünse bile hakikatta tekrar değildir. M.N.)
+tekrarat-i kur'anîye: Kur'anda birbirinin aynı olan veya birbirine benzer âyetlerin tekrar edilmiş olması. (Bak: Kur'an, Mumya)(Tekrarat-ı Kur'aniyedeki i'cazın bir lem'asını beyan zımnında "Altı Nokta"dan ibarettir.Birinci Nokta: Kur'an bir zikir kitabı, bir duâ kitabı, bir davet kitabı olduğuna nazaran surelerinde vukua gelen tekrar, belâgatça ayn-ı isabet ve ayn-ı hikmettir. çünkü zikir ve duâdan maksad sevaptır ve merhamet-i îlâhiyeyi celbetmektir. Malumdur ki: Bu gibi hususlarda fazlasıyla tekrar lâzımdır ki, o nisbette sevap kazanılsın ve merhamet celbedilsin. Hem de zikrin tekrarı kalbi tenvir eder. Duanın tekrarı bir takrirdir. Davet dahi, tekrarı nisbetinde te'siri, te'kidi vardır.îkinci Nokta: Kur'an bütün beşerin tabakatına hitap ve deva olduğu için zeki, gabi, takiyy, şaki, zâhid, gayr-ı zâhid bütün insan tabakaları şu hitab-ı îlâhiyeye mazhar ve bu eczahane-i Rahmaniyyeden ilâç almaya hakları vardır. Halbuki Kur'anı tamamen ve dâima okumak herkese müyesser değildir. Bunun için, lüzumlu olan maksadlar, hüccetler, bilhassa uzun surelerde tekrar edilmiştir ki, herbir sure hemen hemen bir küçük Kur'an hükmünde olsun ki herkes suhuletle istediği vakit istediği sureyi okumakla tam Kur'anın sevabını kazanabilsin. Evet olan âyet-i kerime bu hakikati isbat ediyor.üçüncü Nokta: Cismani ihtiyaçlar, vakitlerin ihtilâflariyle tebeddül eder. Noksan ve fazlalaşır. Meselâ: Havaya olan ihtiyaç her anda var. Suya olan ihtiyaç, midenin harareti zamanlarında olur. Gıdaya olan hâcet her günde olur. Ziyaya olan ihtiyaç alelekser haftada bir defa lâzımdır. Ve hâkeza..Kezâlik manevi ihtiyaçlar da vakitleri muhtelif ve mütefavittir. Her anda "Allah" kelimesine ihtiyaç vardır. Her vakit "Besmele"ye, her saatta "Lâ îlâhe îllallah"a ihtiyaç vardır. Ve hâkeza...Binaenaleyh âyetlerin, kelimelerin tekrarı, ihtiyaçların tekrarından ileri geliyor. Ve keza o gibi hükümlere olan ihtiyacın şiddetine işârettir.Dördüncü Nokta: Bilirsiniz ki: Kur'an bu metin din-i azimin esâsâtını ve îslâmiyetin erkânını te'sis ettiği gibi içtimaat-ı beşeriyyeyi tebdil eden bir kitaptır. Malumdur ki; müessis olan zat, vaz'ettiği esasları güzelce yerleştirmek için tekrarlara çok ihtiyacı olur. Evet tekrar edilen şey sâbit kalır, takarrür eder, unutulmaz. Ve keza, Kur'ân beşerin muhtelif tabakalarından kali veya hâli yapılan suallere lâzım olan cevapları veren umumi bir mürşid-i mucibdir. Malum ya, sual tekerrür ederse cevap da tekerrür eder.Beşinci Nokta: Bilirsiniz ki; Kur'an pek büyük mes'elelerden bahseder. Ve kalbleri iman ve tasdike davet eder. Ve çok ince hakikatlerden bahis açar. Akılları marifete, dikkate tahrik eder. Binaenaleyh o mesailin, o ince hakaikin kalblerde, efkârda tesbit ve takriri için suver-i muhtelifede türlü türlü üslublarla tekrara ihtiyaç vardır.Altıncı Nokta: Bilirsiniz ki, her âyet için bir zâhir var, bir bâtın var; bir had var, bir muttala' var. Ve herbir kıssa için çok vecihler, hükümler, faideler, maksadlar vardır. Binaenaleyh muayyen bir âyet, her yerde, öbür münasib bir vecih için, bir faide için zikredilebilir. Bu itibarla, zâhiren tekrar görünse bile hakikatta tekrar değildir. M.N.)
 tekraren: Defalarca, tekrarlanarak.
 tekrîh: Nefret ettirmek. çirkin göstermek.
 tekrîm: Hürmet ve tazim göstermek ve görmek. Saygı göstermek, lütuf ve kerem icrasında bulunmak.
@@ -3034,7 +3034,7 @@ telhîye: Gâfil olmak, gaflette bulunmak. * Meşgul olmak.
 te'lîb: Kandırmak.
 tel'îb: Oynatma, raksettirme.
 telîd: (Telide) (Veled. den) Yabancı memlekette doğduğu halde küçük yaşta îslâm diyârına getirilerek orada büyütülmüş ve oranın tâbiiyetini kabul etmiş olan kişi.
-te'lîf: Barıştırmak. Husumeti defetmek. ülfet ve imtizac ettirmek. * çeşitli şeyleri birleştirip karıştırmak. * Eser yazmak. * Noksan bir adedi bine çıkarmak.(Kâinatın te'lifinde öyle bir i'caz var ki; bütün esbab-ı tabiiyye, farz-ı muhal olarak muktedir birer fâil-i muhtar olsalar, yine kemal-i acz ile i'caza karşı secde ederek $ diyeceklerdir. M.)
+te'lîf: Barıştırmak. Husumeti defetmek. ülfet ve imtizac ettirmek. * çeşitli şeyleri birleştirip karıştırmak. * Eser yazmak. * Noksan bir adedi bine çıkarmak.(Kâinatın te'lifinde öyle bir i'caz var ki; bütün esbab-ı tabiiyye, farz-ı muhal olarak muktedir birer fâil-i muhtar olsalar, yine kemal-i acz ile i'caza karşı secde ederek diyeceklerdir. M.)
 te'lîf-î beyn: Ara bulma, barıştırma, uzlaştırma.
 te'lîfât: Yazılmış eserler, kitaplar.
 te'lîl: Tez etmek, çabuklaştırmak.
@@ -3238,7 +3238,7 @@ temyî': (Mey'. den) Sıvılaştırma. Sıvı hale getirme.
 temyîl: îki şey arasında mütereddit olmak, karar verememek.
 temyîs: Yumuşak yapmak, yumuşatmak.
 temyîz: Bir şeyi diğerinden seçip tarif etmek, ayırmak. Seçmek. îyiyi kötüden ayırmak. * Yargıtay. * Gr: Belirsiz olan kelime ve sayıları belirli hale koymak. Meselâ: "îşrune dirhemen" (yirmi dirhem) ve "Retle zeyten" (Bir retl zeytin yağı) tâbirlerinde "dirhemen" ve "zeyten" gibi.
-temyîzen : Temyiz suretiyle. Temyiz yoluyla. Seçerek.
+temyîzen : Temyiz suretiyle. Temyiz yoluyla. Seçerek.
 temzîc: Karıştırmak. Katmak. Mezcetmek. * Bir kimseye bir şey vermek.
 temzîg: Ayırmak. * Dağıtmak.
 temzîk: (C.: Temzikat) Yırtma, paralama, perakende etmek.
@@ -3516,8 +3516,8 @@ tenvîye: Niyet etmek.
 tenyîr: Beze ve kumaşa işaret koymak.
 tenzede: Sessiz, sâkin, susmuş.
 tenzîh: Suç ve noksanlıktan uzak saymak. Cenab-ı Hakk'ı (C.C.) her çeşit kusur, noksan, şerik gibi hallerden uzak bilip söylemek. * Kabahati yok olduğu anlaşılmak ve onu ifade etmek.
-tenzîhen : Tenzih ederek. Tenzih etmekle.
-tenzîhen mekruh : Nehyine dair şer'i bir delil olmamakla beraber işlenmesi kerih görülen iş. (Helâle yakın iş)
+tenzîhen : Tenzih ederek. Tenzih etmekle.
+tenzîhen mekruh : Nehyine dair şer'i bir delil olmamakla beraber işlenmesi kerih görülen iş. (Helâle yakın iş)
 tenzîk: (At) ayaklarını yukarı kaldırmak.
 tenzîl: Bir şeyin bir miktarını çıkarmak. * îndirmek, indirilmek, indirilen. Aşağı indirmek. * Kur'an-ı Kerim'in vahiy vasıtası ile Peygamberimize (A.S.M.) indirilmesi. Tedricen indirme. (Birden indirmeye inzal, parça parça indirmeye de tenzil denir.)
 tenzîlât: (Tenzil. C.) Fiat indirme. îskonto.
@@ -3526,7 +3526,7 @@ tenzîye: Sıçramak. * üstüne binmek.
 teokrasî: (Fr: Theocratie) Din hükümlerine göre idare edilen ve dini esaslara bağlı olan idare şekli. Allah namına papazlar idaresi.(Bu kelime, îslâm memleketlerinde: şeriat hükümleriyle devleti idare etmek mânasında kullanılır. Avrupa memleketlerinde ise, "Allah nâmına papazlar idaresi" mânasına gelir. Hatta 1304'de basılan Kamus-u Fransavi'de: "Kanun-u îlâhi ile ve sıfat-ı ruhaniyetle icra olunan hükümet" şeklindeki ifadesiyle, bu iki mânaya işaret edilmiştir. Fakat îslâm ve îsevi milletlerinde teokrasinin ifade ettiği mânada ilmi ve ehemmiyetli bir fark vardır. şöyle ki:Hristiyanlıkta velediyet akidesi ekseriyetçe kabul edildiğinden papaz, Allah'ın mutlak vekili ve îlâhi kudsiyete sahip addedilmiştir. Buna göre papaz; murakabe edilmez ve kimseye karşı da mes'ul değildir.îslâmiyette ise: îdareci, şer'i kanunlara karşı mes'ul olduğu gibi; halkın idareciye itaat etmesi de, idarecinin Allah'ın kanunlarına bağlılığı nisbetindedir.Bütün milletlerde kelimenin ifade ettiği müşterek mâna ise; şahıslar tarafından îlâhi ve dini hâkimiyeti icra etmektir.)
 teokrat: Fr. Dini, îlâhi. Teokrasi taraftarı olan.
 teokratîk: Fr. Teokrasi sistemi. (Bak: Teokrasi)
-teolojî ©: Fr. Fls: Cenab-ı Hakk'ın varlığı, birliği, sıfat ve isimleri ve hususiyetleri hakkındaki ilim. îlâhiyat.
+teolojî : Fr. Fls: Cenab-ı Hakk'ın varlığı, birliği, sıfat ve isimleri ve hususiyetleri hakkındaki ilim. îlâhiyat.
 tepîde: Rahatsız, sıkıntıda.
 ter: Rutubetli, ıslak, yaş. * Taze.
 ter ü taze: çok körpe, çok taze. Pek lâtif.
@@ -3561,7 +3561,7 @@ terakkî: îlerleme. Yukarı çıkma, yükselme. * Artma, çoğalma. * Bilgi ve 
 terakkîcu: Terakki isteyen, terakki taraftarı.
 terakkîperver: Terakkiyi seven. îlerlemeyi seven.
 terakkîşîken: Terakkiyi kıran, ilerlemeyi önleyen, terakkinin aleyhinde bulunan.
-terakkîyât: (Terakki. C.) Terakkiler. Yükselişler. îlerlemeler.( $ Hazret-i âdem Aleyhisselâm'ın dâva-yı hilâfet-i kübrâda mu'cize-i kübrâsı, talim-i esmâdır" diyor. îşte sair enbiyanın mu'cizeleri, birer hususi hârika-i beşeriyeye remzettiği gibi, bütün enbiyanın pederi ve divan-ı nübüvvetin fatihası olan Hazret-i âdem Aleyhisselâm'ın mu'cizesi umum kemâlât ve terakkiyat-ı beşeriyenin nihayetlerine ve en ileri hedeflerine sarahate yakın işaret ediyor. Cenab-ı Hak (Celle Celâlühü), mânen şu âyetin lisan-ı işaretiyle diyor ki: "Ey beni-âdem! Sizin pederinize, melâikelere karşı hilâfet dâvasında rüçhaniyetine hüccet olarak, bütün esmâyı tâlim ettiğimden, siz dahi, mâdem O'nun evlâdı ve vâris-i istidadısınız. Bütün esmayı taallüm edip, mertebe-i emânet-i kübrâda, bütün mahlukata karşı, rüçhaniyetinize liyâkatınızı göstermek gerektir. Zira kâinat içinde, bütün mahlukat üstünde en yüksek makamata gitmek ve zemin, gibi büyük mahlukatlar size musahhar olmak gibi mertebe-i âliyeye size yol açıktır. Haydi ileri atılınız ve birer ismine yapışınız, çıkınız!... Fakat sizin pederiniz, bir def'a şeytana aldandı, cennet gibi bir makamdan ruy-i zemine muvakkaten sukut etti. Sakın siz de terakkiyatınızda şeytana uyup Hikmet-i îlâhiyyenin semâvâtından, tabiat dalâletine sukuta vasıta yapmayınız. Vakit bevakit başınızı kaldırıp Esmâ-i Hüsnâma dikkat ederek, o semâvâta uruc etmek için fünunuzu ve terakkiyatınızı merdiven yapınız. Tâ fünun ve kemâlâtınızın menbâları ve hakikatları olan Esmâ-i Rabbâniyyeme çıkasınız ve o esmânın dürbünüyle, kalbinizle Rabbinize bakasınız...Bir nükte-i mühimme ve bir sırr-ı ehemm şu âyet-i acibe, insanın câmiiyet-i istidadı cihetiyle mazhar olduğu bütün kemâlât-ı ilmiye ve terakkiyat-ı fenniye ve havârık-ı sun'iyeyi "Tâlim-i Esmâ" unvaniyle ifade ve tabir etmekte şöyle lâtif bir remz-i ulvi var ki: Herbir kemâlin, herbir ilmin, herbir terakkiyatın, herbir fennin bir hakikat-ı âliyesi var ki; o hakikat, bir ism-i îlâhiye dayanıyor. Pek çok perdeleri ve mütenevvi tecelliyatı ve muhtelif daireleri bulunan o isme dayanmakla o fen, o kemalât, o san'at; kemâlini bulur, hakikat olur. Yoksa yarım yamalak bir surette nâkıs bir gölgedir...Meselâ: Hendese bir fendir. Onun hakikatı ve nokta-i müntehâsı, Cenab-ı Hakk'ın "îsm-i Adl ve Mukaddir" ine yetişip, hendese âyinesinde o ismin Hakimane cilvelerini haşmetiyle müşahede etmektir.Meselâ: Tıbb bir fendir, hem bir san'attır. Onun da nihayeti ve hakikatı; Hakim-i Mutlak'ın "şâfi" ismine dayanıp, eczahane-i kübrası olan ruy-i zeminde Rahimane cilvelerini, edviyelerde görmekle, tıbb kemâlâtını bulur, hakikat olur.Mesela: Hakikat-ı mevcudattan bahseden Hikmetü'l-Eşyâ, Cenab-ı Hakk'ın (Celle Celâluhu) îsm-i Hakim'inin tecelliyat-ı kübrasını, müdebbirane, mürebbiyane eşyada, menfaatlarında ve maslahatlarında görmekle ve o isme yetişmekle ve ona dayanmakla şu hikmet hikmet olabilir. Yoksa, ya hurafâta inkılâb eder ve malâyaniyat olur veya felsefe-i tabiiye misillü dalâlete yol açar.îşte sana üç misal!... Sâir kemalât ve fünunu bu üç misale kıyas et. îşte Kur'an-ı Hakim şu âyette beşeri şimdiki terakkiyatında pek çok geri kaldığı en yüksek noktalara, en ileri hududa, en nihayet mertebelere, arkasına dest-i teşviki vurup, parmağıyla o mertebeleri göstererek: "Haydi arş ileri" diyor. S.) (Bak: Medeniyet)
+terakkîyât: (Terakki. C.) Terakkiler. Yükselişler. îlerlemeler.( Hazret-i âdem Aleyhisselâm'ın dâva-yı hilâfet-i kübrâda mu'cize-i kübrâsı, talim-i esmâdır" diyor. îşte sair enbiyanın mu'cizeleri, birer hususi hârika-i beşeriyeye remzettiği gibi, bütün enbiyanın pederi ve divan-ı nübüvvetin fatihası olan Hazret-i âdem Aleyhisselâm'ın mu'cizesi umum kemâlât ve terakkiyat-ı beşeriyenin nihayetlerine ve en ileri hedeflerine sarahate yakın işaret ediyor. Cenab-ı Hak (Celle Celâlühü), mânen şu âyetin lisan-ı işaretiyle diyor ki: "Ey beni-âdem! Sizin pederinize, melâikelere karşı hilâfet dâvasında rüçhaniyetine hüccet olarak, bütün esmâyı tâlim ettiğimden, siz dahi, mâdem O'nun evlâdı ve vâris-i istidadısınız. Bütün esmayı taallüm edip, mertebe-i emânet-i kübrâda, bütün mahlukata karşı, rüçhaniyetinize liyâkatınızı göstermek gerektir. Zira kâinat içinde, bütün mahlukat üstünde en yüksek makamata gitmek ve zemin, gibi büyük mahlukatlar size musahhar olmak gibi mertebe-i âliyeye size yol açıktır. Haydi ileri atılınız ve birer ismine yapışınız, çıkınız!... Fakat sizin pederiniz, bir def'a şeytana aldandı, cennet gibi bir makamdan ruy-i zemine muvakkaten sukut etti. Sakın siz de terakkiyatınızda şeytana uyup Hikmet-i îlâhiyyenin semâvâtından, tabiat dalâletine sukuta vasıta yapmayınız. Vakit bevakit başınızı kaldırıp Esmâ-i Hüsnâma dikkat ederek, o semâvâta uruc etmek için fünunuzu ve terakkiyatınızı merdiven yapınız. Tâ fünun ve kemâlâtınızın menbâları ve hakikatları olan Esmâ-i Rabbâniyyeme çıkasınız ve o esmânın dürbünüyle, kalbinizle Rabbinize bakasınız...Bir nükte-i mühimme ve bir sırr-ı ehemm şu âyet-i acibe, insanın câmiiyet-i istidadı cihetiyle mazhar olduğu bütün kemâlât-ı ilmiye ve terakkiyat-ı fenniye ve havârık-ı sun'iyeyi "Tâlim-i Esmâ" unvaniyle ifade ve tabir etmekte şöyle lâtif bir remz-i ulvi var ki: Herbir kemâlin, herbir ilmin, herbir terakkiyatın, herbir fennin bir hakikat-ı âliyesi var ki; o hakikat, bir ism-i îlâhiye dayanıyor. Pek çok perdeleri ve mütenevvi tecelliyatı ve muhtelif daireleri bulunan o isme dayanmakla o fen, o kemalât, o san'at; kemâlini bulur, hakikat olur. Yoksa yarım yamalak bir surette nâkıs bir gölgedir...Meselâ: Hendese bir fendir. Onun hakikatı ve nokta-i müntehâsı, Cenab-ı Hakk'ın "îsm-i Adl ve Mukaddir" ine yetişip, hendese âyinesinde o ismin Hakimane cilvelerini haşmetiyle müşahede etmektir.Meselâ: Tıbb bir fendir, hem bir san'attır. Onun da nihayeti ve hakikatı; Hakim-i Mutlak'ın "şâfi" ismine dayanıp, eczahane-i kübrası olan ruy-i zeminde Rahimane cilvelerini, edviyelerde görmekle, tıbb kemâlâtını bulur, hakikat olur.Mesela: Hakikat-ı mevcudattan bahseden Hikmetü'l-Eşyâ, Cenab-ı Hakk'ın (Celle Celâluhu) îsm-i Hakim'inin tecelliyat-ı kübrasını, müdebbirane, mürebbiyane eşyada, menfaatlarında ve maslahatlarında görmekle ve o isme yetişmekle ve ona dayanmakla şu hikmet hikmet olabilir. Yoksa, ya hurafâta inkılâb eder ve malâyaniyat olur veya felsefe-i tabiiye misillü dalâlete yol açar.îşte sana üç misal!... Sâir kemalât ve fünunu bu üç misale kıyas et. îşte Kur'an-ı Hakim şu âyette beşeri şimdiki terakkiyatında pek çok geri kaldığı en yüksek noktalara, en ileri hududa, en nihayet mertebelere, arkasına dest-i teşviki vurup, parmağıyla o mertebeleri göstererek: "Haydi arş ileri" diyor. S.) (Bak: Medeniyet)
 terakku': Sıkıntı ve emek ile kazanma.
 terakkub: Bekleme, gözetleme, yol gözleme. * ümit etme. * Muntazır olma.
 terakkubât: (Terakkub. C.) Gözetlemeler, beklemeler.
@@ -3609,7 +3609,7 @@ terbîyet: "Terbiye" kelimesinin Arabi okunuşudur.
 terbîyevî: Terbiyeli. Terbiye ile alâkalı.
 terbub: îşe vurulmamış davar.
 terceman: (Tercüman) Terceme eden. Bir dilden başka bir dile çeviren. * Birisinin veya bir şeyin maksadını anlatmaya, bir şeyi tasvir ve ifadeye vasıta olan.
-terceme: (Tercüme) Bir sözü bir dilden başka dile çevirmek. Bir lügatı, diğer bilinen lügata çevirerek anlatmak.("Elhamdülillah" bir Cümle-i Kur'aniyyedir. Bunun en kısa mânası, ilm-i Nahiv ve Beyan kaidelerinin iktiza ettiği şudur: $Yâni: "Ne kadar hamd ve medh varsa, kimden gelse, kime karşı da olsa, ezelden ebede kadar hasdır ve lâyıktır O zât-ı Vâcib-ül-Vücuda ki, ALLAH denilir. " îşte, "Ne kadar hamd varsa", "El-i istigrak" tan çıkıyor. "Her kimden gelse" kaydı ise, "Hamd" masdar olup, fâili terkedildiğinden, böyle makamda umumiyeti ifade eder. Hem mef'ulün terkinde, yine makam-ı hitabide külliyet ve umumiyeti ifade ettiği için, "Her kime karşı olsa" kaydını ifade ediyor. "Ezelden ebede kadar" kaydı ise; fi'li cümlesinden ismi cümlesine intikal kaidesi, sebat ve devama delâlet ettiği için, o mânayı ifade ediyor. "Has ve müstehak" mânasını "Lillâh" daki "Lâm-ı cer" ifade ediyor. çünkü: o "Lâm", ihtisas ve istihkak içindir. "Zat-ı Vacib-ül Vücud" kaydı ise; vücub-u vücud, Uluhiyetin lâzım-ı zarurisi ve Zat-ı Zülcelâle karşı bir ünvan-ı mülâhaza olduğundan, "Lafzullah" sair esmâ ve sıfâta câmiiyeti ve ism-i Azam olduğu itibariyle, delâlet-i iltizamiye ile delâlet ettiği gibi; Vâcib-ül Vücud ünvanına dahi, o delâlet-i iltizamiye ile delâlet ediyor.îşte, "Elhamdülillah" cümlesinin en kısa ve Ulemâ-yı Arabiyyece müttefekun-aleyh bir mânâ-yı zâhirisi şöyle olursa, başka bir lisana o icaz ve kuvvetle nasıl tercüme edilebilir? M.)(Ehl-i ilhada kapılan ulemâ-üs-su', milleti aldatmak için diyorlar ki: îmam-ı A'zam, sâir imamlara muhalif olarak demiş ki: "îhtiyaç olsa, diyar-ı baidede, Arabi hiç bilmeyenlere, ihtiyaç derecesine göre; Fâtiha yerine Fârisi tercümesi cevazı var. "öyle ise, biz de muhtacız, Türkçe okuyabiliriz?.."Elcevab: îmam-ı A'zam'ın bu fetvasına karşı, başta a'zami imamların en mühimleri ve sair oniki eimme-i müçtehidin, o fetvanın aksine fetva veriyorlar. âlem-i îslâm'ın cadde-i kübrâsı, o umum eimmenin caddesidir; mu'zam-ı ümmet, cadde-i kübrâda gidebilir. Başka hususi ve dar caddeye sevkedenler, idlâl ediyorlar. îmam-ı A'zam'ın fetvası, beş cihette hususidir:Birincisi: Merkez-i îslâmiyetten uzak diyar-ı âherde bulunanlara aittir.îkincisi: îhtiyac-ı hakikiye binaendir.üçüncüsü: Bir rivayette, lisan-ı ehl-i Cennet'ten sayılan Fârisi lisaniyle tercümeye mahsustur.Dördüncüsü: Fâtiha'ya mahsus olarak cevaz verilmiş, tâ Fâtiha'yı bilmeyen namazı terketmesin.Beşincisi: Kuvvet-i imandan gelen bir hamiyet-i îslâmiye ile, maâni-i mukaddesenin, avâmın tefehhümüne medâr olmak için cevaz gösterilmiş. Halbuki, za'f-ı imandan gelen ve menfi fikr-i milliyetten çıkan ve lisan-i Arabiye karşı nefret ve zaaf-ı imândan tevellüd eden meyl-i tahrip sâikasıyla tercüme edip Arabi aslını terketmek, dini terk ettirmektir! M.)(Terceme: Bir kelâmın mânasını diğer bir lisanda dengi bir tâbir ile aynen ifade etmektir. Terceme aslın mânasına tamamen mutabık olmak için sarahatte delâlette, icmalde tafsilde, umumda hususda, ıtlakta takyidde, kuvvette isabette, hüsn-i edada, üslub-u beyanda, hâsılı ilimde, san'atta asıldaki ifadeye müsavi olmak iktiza eder. Yoksa tam bir terceme değil, eksik bir anlatış olmuş olur. Halbuki muhtelif lisanlar beyninde hutut-i müştereke ne kadar çok olursa olsun, herbirini diğerinden ayıran birçok hususiyetler de vardır.Onun için lisani hususiyeti olmayıp sırf akl u mantıka hitab eden kuru ve fenni eserlerin kabiliyet-i ilmiyesi terakki etmiş olan lisanlara hakkıyla tercemesi kabil olduğunda söz yoksa da hem akla, hem kalbe yahut yalnız zevk ü hissiyata hitab eden ve lisan nokta-i nazarından edebi kıymeti ve zevk-i san'atı haiz bulunan canlı ve bedii eserlerin tercemelerinde muvaffakiyet görüldüğü nadirdir. (Elmalılı Tefsiri)
+terceme: (Tercüme) Bir sözü bir dilden başka dile çevirmek. Bir lügatı, diğer bilinen lügata çevirerek anlatmak.("Elhamdülillah" bir Cümle-i Kur'aniyyedir. Bunun en kısa mânası, ilm-i Nahiv ve Beyan kaidelerinin iktiza ettiği şudur:Yâni: "Ne kadar hamd ve medh varsa, kimden gelse, kime karşı da olsa, ezelden ebede kadar hasdır ve lâyıktır O zât-ı Vâcib-ül-Vücuda ki, ALLAH denilir. " îşte, "Ne kadar hamd varsa", "El-i istigrak" tan çıkıyor. "Her kimden gelse" kaydı ise, "Hamd" masdar olup, fâili terkedildiğinden, böyle makamda umumiyeti ifade eder. Hem mef'ulün terkinde, yine makam-ı hitabide külliyet ve umumiyeti ifade ettiği için, "Her kime karşı olsa" kaydını ifade ediyor. "Ezelden ebede kadar" kaydı ise; fi'li cümlesinden ismi cümlesine intikal kaidesi, sebat ve devama delâlet ettiği için, o mânayı ifade ediyor. "Has ve müstehak" mânasını "Lillâh" daki "Lâm-ı cer" ifade ediyor. çünkü: o "Lâm", ihtisas ve istihkak içindir. "Zat-ı Vacib-ül Vücud" kaydı ise; vücub-u vücud, Uluhiyetin lâzım-ı zarurisi ve Zat-ı Zülcelâle karşı bir ünvan-ı mülâhaza olduğundan, "Lafzullah" sair esmâ ve sıfâta câmiiyeti ve ism-i Azam olduğu itibariyle, delâlet-i iltizamiye ile delâlet ettiği gibi; Vâcib-ül Vücud ünvanına dahi, o delâlet-i iltizamiye ile delâlet ediyor.îşte, "Elhamdülillah" cümlesinin en kısa ve Ulemâ-yı Arabiyyece müttefekun-aleyh bir mânâ-yı zâhirisi şöyle olursa, başka bir lisana o icaz ve kuvvetle nasıl tercüme edilebilir? M.)(Ehl-i ilhada kapılan ulemâ-üs-su', milleti aldatmak için diyorlar ki: îmam-ı A'zam, sâir imamlara muhalif olarak demiş ki: "îhtiyaç olsa, diyar-ı baidede, Arabi hiç bilmeyenlere, ihtiyaç derecesine göre; Fâtiha yerine Fârisi tercümesi cevazı var. "öyle ise, biz de muhtacız, Türkçe okuyabiliriz?.."Elcevab: îmam-ı A'zam'ın bu fetvasına karşı, başta a'zami imamların en mühimleri ve sair oniki eimme-i müçtehidin, o fetvanın aksine fetva veriyorlar. âlem-i îslâm'ın cadde-i kübrâsı, o umum eimmenin caddesidir; mu'zam-ı ümmet, cadde-i kübrâda gidebilir. Başka hususi ve dar caddeye sevkedenler, idlâl ediyorlar. îmam-ı A'zam'ın fetvası, beş cihette hususidir:Birincisi: Merkez-i îslâmiyetten uzak diyar-ı âherde bulunanlara aittir.îkincisi: îhtiyac-ı hakikiye binaendir.üçüncüsü: Bir rivayette, lisan-ı ehl-i Cennet'ten sayılan Fârisi lisaniyle tercümeye mahsustur.Dördüncüsü: Fâtiha'ya mahsus olarak cevaz verilmiş, tâ Fâtiha'yı bilmeyen namazı terketmesin.Beşincisi: Kuvvet-i imandan gelen bir hamiyet-i îslâmiye ile, maâni-i mukaddesenin, avâmın tefehhümüne medâr olmak için cevaz gösterilmiş. Halbuki, za'f-ı imandan gelen ve menfi fikr-i milliyetten çıkan ve lisan-i Arabiye karşı nefret ve zaaf-ı imândan tevellüd eden meyl-i tahrip sâikasıyla tercüme edip Arabi aslını terketmek, dini terk ettirmektir! M.)(Terceme: Bir kelâmın mânasını diğer bir lisanda dengi bir tâbir ile aynen ifade etmektir. Terceme aslın mânasına tamamen mutabık olmak için sarahatte delâlette, icmalde tafsilde, umumda hususda, ıtlakta takyidde, kuvvette isabette, hüsn-i edada, üslub-u beyanda, hâsılı ilimde, san'atta asıldaki ifadeye müsavi olmak iktiza eder. Yoksa tam bir terceme değil, eksik bir anlatış olmuş olur. Halbuki muhtelif lisanlar beyninde hutut-i müştereke ne kadar çok olursa olsun, herbirini diğerinden ayıran birçok hususiyetler de vardır.Onun için lisani hususiyeti olmayıp sırf akl u mantıka hitab eden kuru ve fenni eserlerin kabiliyet-i ilmiyesi terakki etmiş olan lisanlara hakkıyla tercemesi kabil olduğunda söz yoksa da hem akla, hem kalbe yahut yalnız zevk ü hissiyata hitab eden ve lisan nokta-i nazarından edebi kıymeti ve zevk-i san'atı haiz bulunan canlı ve bedii eserlerin tercemelerinde muvaffakiyet görüldüğü nadirdir. (Elmalılı Tefsiri)
 terceme-î hâl: Hal ve hayatını anlatma. Biyografi.
 tercî': (Rücu'. dan) Geri döndürme, geri çevirme. * Sesini yükseltmek.
 tercî'-î bend: Gazel şeklinde aynı vezinde yazılı manzumelerin "vâsıta" denilen bir beyti ile birbirine bağlanmış şekli. Vâsıta beyti tekerrür ederse terci-i bend; tebeddül ederse (değişirse) terkib-i bend olur. Bendlerin her birisine, terci-i bendlerde "terci'hâne"; terkib-i bendlerde "terkibhâne" denir. (Edb. L.)
@@ -3852,7 +3852,7 @@ tesaüb: Esneme. * Gaflette bulunma. Boş bulunma.
 tesaül: Birbirine sual etme, soru sormak.
 tesavî: îki şeyin birbirine denk olması. Birbirine müsavi ve misil olmak. îki taraf da aynı ve bir derecede bulunmak (Tesâvi-i tarafeyn de denir.)
 tesavî-î kuvâ: Kuvvetlerin müsaviliği, eşitliği.
-tesavîr : (Tasvir. C.) Tasvirler.
+tesavîr : (Tasvir. C.) Tasvirler.
 tesavüb: Esnemek. * Gafil olmak, gaflette bulunmak.
 tesavüb: Sövmek, sövüşmek.
 tesavük: Yürek zayıflığından eğilip sendelemek.
@@ -4129,7 +4129,7 @@ teşekkî: (C.: Teşekkiyât) şekvada bulunma. Kötü ahvalini ihbar ile şikâ
 teşekkük: şek ve şüphe etme.
 teşekkül: şekillenme. şekil alma. * Meydana gelme.
 teşekkülât: (Teşekkül. C.) Teşekküller. şekillenmeler. * Kuruluşlar.
-teşekkülât-i arzîye: Dünyanın ilk yaratılışı.( $Ey Arkadaş! Bu âyet, arzın semadan evvel yaratılmış olduğuna delâlet eder ve $ $ âyeti de semavatın arzdan evvel halkedildiğine dâlldir. Ve $ âyeti ise ikisinin bir maddeden beraber halkedilmiş ve sonra birbirinden ayırd edilmiş olduklarını gösteriyor. şeriatın nakliyatına nazaran, Cenab-ı Hak bir cevhereyi, bir maddeyi yaratmıştır, sonra o maddeye tecelli etmekle bir kısmını buhar, bir kısmını da mâyi kılmıştır; sonra mâyi kısmı da, tecellisiyle tekâsüf edip köpük kesilmiştir; sonra arz veya yedi küre-i arziyeyi o köpükten halketmiştir. Bu itibarla, herbir arz için hava-i nesimiden bir sema hasıl olmuştur; sonra o madde-i buhariyeyi bastetmekle yedi kat semavatı tesviye edip yıldızları içine zer'etmiştir; ve o yıldızlar tohumuna müştemil olan semavat, in'ikad etmiş, vücuda gelmiştir.Hikmet-i cedidenin nazariyatı ise şu merkezdedir ki: Görmekte olduğumuz manzume-i şemsiye ile tâbir edilen güneşle ona bağlı yıldızlar cemaati, basit bir cevhere imiş; sonra bir nevi' buhara inkılâb etmiştir; sonra o buhardan, mâyi-i nâri hasıl olmuştur; sonra o mâyi-i nâri, bürudet ile tasallüb etmiş, yani katılaşmış; sonra şiddet-i hareketiyle bazı büyük parçalarını fırlatmıştır, o parçalar tekâsüf ederek seyyarat olmuşlardır; şu arz da onlardan biridir. Bu izahata tevfikan, şu iki meslek arasında mutabakat hasıl olabilir. şöyle ki:"îkisi de birbirine bitişikti, sonra ayrı ettik." mânasında olan $ nın ifadesine nazaran, manzume-i şemsiye ile arz, dest-i kudretin madde-i Esiriyeden yoğurmuş olduğu bir hamur şeklinde imiş. Madde-i Esiriye, mevcudata nazaran akıcı bir su gibi mevcudatın aralarına nüfuz etmiş bir maddedir. $ âyeti, şu madde-i Esiriyeye işarettir ki: Cenab-ı Hakk'ın Arş'ı, su hükmünde olan şu Esir maddesi üzerinde imiş. Esir maddesi yaratıldıktan sonra, Sâniin ilk icadlarının tecellisine merkez olmuştur. Yani Esiri halkettikten sonra, cevâhir-i ferd'e kalbetmiştir. Sonra bir kısmını kesif kılmıştır ve bu kesif kısımdan, meskûn olmak üzere yedi küre yaratmıştır. Arz, bunlardandır. îşte arzın, hepsinden evvel tekâsüf ve tasallüb etmekle acele kabuk bağlıyarak uzun zamanlardan beri menşe-i hayat olması itibariyle hilkat-i teşekkülü semavattan evveldir. Fakat arzın bastedilmesiyle nev'-i beşerin taayyüşüne elverişli bir vaziyete geldiği semavatın tesviye ve tanziminden sonra olduğu cihetle, hilkatı, semavattan sonra başlarsa da, bidayette, mebde'de ikisi beraber imişler. Binâen alâhâzâ, o üç âyetin aralarında bulunan zahiri muhalefet, bu üç cihetle mutabakata inkılâb eder. î.î.)
+teşekkülât-i arzîye: Dünyanın ilk yaratılışı.(Ey Arkadaş! Bu âyet, arzın semadan evvel yaratılmış olduğuna delâlet eder ve âyeti de semavatın arzdan evvel halkedildiğine dâlldir. Ve âyeti ise ikisinin bir maddeden beraber halkedilmiş ve sonra birbirinden ayırd edilmiş olduklarını gösteriyor. şeriatın nakliyatına nazaran, Cenab-ı Hak bir cevhereyi, bir maddeyi yaratmıştır, sonra o maddeye tecelli etmekle bir kısmını buhar, bir kısmını da mâyi kılmıştır; sonra mâyi kısmı da, tecellisiyle tekâsüf edip köpük kesilmiştir; sonra arz veya yedi küre-i arziyeyi o köpükten halketmiştir. Bu itibarla, herbir arz için hava-i nesimiden bir sema hasıl olmuştur; sonra o madde-i buhariyeyi bastetmekle yedi kat semavatı tesviye edip yıldızları içine zer'etmiştir; ve o yıldızlar tohumuna müştemil olan semavat, in'ikad etmiş, vücuda gelmiştir.Hikmet-i cedidenin nazariyatı ise şu merkezdedir ki: Görmekte olduğumuz manzume-i şemsiye ile tâbir edilen güneşle ona bağlı yıldızlar cemaati, basit bir cevhere imiş; sonra bir nevi' buhara inkılâb etmiştir; sonra o buhardan, mâyi-i nâri hasıl olmuştur; sonra o mâyi-i nâri, bürudet ile tasallüb etmiş, yani katılaşmış; sonra şiddet-i hareketiyle bazı büyük parçalarını fırlatmıştır, o parçalar tekâsüf ederek seyyarat olmuşlardır; şu arz da onlardan biridir. Bu izahata tevfikan, şu iki meslek arasında mutabakat hasıl olabilir. şöyle ki:"îkisi de birbirine bitişikti, sonra ayrı ettik." mânasında olan nın ifadesine nazaran, manzume-i şemsiye ile arz, dest-i kudretin madde-i Esiriyeden yoğurmuş olduğu bir hamur şeklinde imiş. Madde-i Esiriye, mevcudata nazaran akıcı bir su gibi mevcudatın aralarına nüfuz etmiş bir maddedir. âyeti, şu madde-i Esiriyeye işarettir ki: Cenab-ı Hakk'ın Arş'ı, su hükmünde olan şu Esir maddesi üzerinde imiş. Esir maddesi yaratıldıktan sonra, Sâniin ilk icadlarının tecellisine merkez olmuştur. Yani Esiri halkettikten sonra, cevâhir-i ferd'e kalbetmiştir. Sonra bir kısmını kesif kılmıştır ve bu kesif kısımdan, meskûn olmak üzere yedi küre yaratmıştır. Arz, bunlardandır. îşte arzın, hepsinden evvel tekâsüf ve tasallüb etmekle acele kabuk bağlıyarak uzun zamanlardan beri menşe-i hayat olması itibariyle hilkat-i teşekkülü semavattan evveldir. Fakat arzın bastedilmesiyle nev'-i beşerin taayyüşüne elverişli bir vaziyete geldiği semavatın tesviye ve tanziminden sonra olduğu cihetle, hilkatı, semavattan sonra başlarsa da, bidayette, mebde'de ikisi beraber imişler. Binâen alâhâzâ, o üç âyetin aralarında bulunan zahiri muhalefet, bu üç cihetle mutabakata inkılâb eder. î.î.)
 teşekkür: Yapılan iyilikten memnun kalındığını bildirmek için söylenen şükür ifadesi. * şükür etmek. * Birisine karşı "Sağ ol, var ol, ömrüne bereket" gibi söylenen minnet sözleri.
 teşekkürât: (Teşekkür. C.) Teşekkürler.
 teşelşül: (C.: Teşelşülât) Suyun yüksek bir yerden aşağı şarıltı ile dökülmesi, çağlayan oluşturması. * Soğuk su banyosu yapma, duş yapma.
@@ -4152,7 +4152,7 @@ teşe'ub: Budaklanmak. * Perâkende olmak, dağılmak, saçılmak.
 teşe'üm: Kötüye yorma. Uğursuz sayma. Bu anlayış dinimizde men edilmiştir. * Sola dönme. * Sola yatma.
 teşevvuk: şevklenme, istek gösterme, arzu etme, sevinme.
 teşevvüh: çirkinlik.
-teşevvüş : Karma karışık olma. * Bulanıklık, karışıklık.
+teşevvüş : Karma karışık olma. * Bulanıklık, karışıklık.
 teşeytun: Yaramazlık etmek.
 teşeyyu': şiilik taslamak. şii olma. (Bak: şia) * Vedalaşmak. * Ardınca ve peşinden gitmek.
 teşeyyuh: şeyh olduğunu iddia etmek. şeyhlik taslama. * îhtiyarlama, yaşlanma.
@@ -4212,7 +4212,7 @@ teşrîh: Bir kitap veya ibareyi anlaşılır şekilde açıklamak, tafsilât ve
 teşrîhat: Açıklamak, tafsilât vermek, inceden inceye araştırmak.
 teşrîhat-i hîkemîye: Hikmet ve felsefe nazarıyla yapılan araştırma, açıklama.
 teşrîî: (Teşriiye) şeriatla, kanun ile, kanun yapma ile alâkalı, şeriata müteallik, kanuna dair.
-teşrîî masunîyyet : (Masuniyyet-i teşriiye) Milletvekillerinin Meclis'te izhar ettikleri fikir ve verdikleri reylerden, mes'uliyete tâbi olmamaları.
+teşrîî masunîyyet : (Masuniyyet-i teşriiye) Milletvekillerinin Meclis'te izhar ettikleri fikir ve verdikleri reylerden, mes'uliyete tâbi olmamaları.
 teşrîk: Güneşlendirme. Güneşte kurutma. * Eti parçalayıp güneşte kurutma. * Doğu tarafına gitme.
 teşrîk: Ortak etme. îştirak ettirme.
 teşrîk tekbîrlerî: Zilhiccenin dokuzuncu günü, yani Kurban Bayramının arefe günü, sabah namazından başlayarak, bayramın dördüncü günü ikindi namazına kadar olan, her farz namazın selâmından sonraki alınan tekbirler.
@@ -4233,8 +4233,8 @@ teşvîk: şevklendirme. şevke getirme. Kışkırtma. Kaldırma. Cesaret verme.
 teşvîk: Diken bitmek. * Ağacın dikenli olması.
 teşvîkat: (Teşvik. C.) îsteklendirmeler, şevke getirmeler. Kışkırtmalar.
 teşvîr: îçinde bulunma. îçine alma, içine alıp gizleme. * Satılık olan hayvanı pazara çıkarıp gösterme.
-teşvîş : Karıştırma. Karma karışık etme. Bulandırma.
-teşvîşîyyet : Karışıklık, bozukluk.
+teşvîş : Karıştırma. Karma karışık etme. Bulandırma.
+teşvîşîyyet : Karışıklık, bozukluk.
 teşvît: Tüyü ve kılı gitsin diye ateşe tutmak.
 teşvîye: Kebap yapmak. Kebap vermek.
 teşyî': Uğurlamak. Gideni selâmetlemek. Yolcu etmek. * Cesaretlendirmek.
@@ -4308,7 +4308,7 @@ tevagguz: çok sıcak olmak.
 tevahhî: Daha çabuk, acele, sür'atli.
 tevahhî: Talep etmek, istemek.
 tevahhud: Vahid, tek olmak.
-tevahhuş : Korkmak. ürkmek. Kaçmak. * Hâli, tenhâ ve ıssız olmak.
+tevahhuş : Korkmak. ürkmek. Kaçmak. * Hâli, tenhâ ve ıssız olmak.
 tevahuk: Cemaat olup gitmek. Topluluk hâlinde gitmek.
 tevaîf: (Bak: Tavaif)
 tevak: îstekli kimse.
@@ -4336,9 +4336,9 @@ tevarüd: Vârid olma, gelme. Yetişme, vâsıl olma. * Arka arkaya gelmek. * Ed
 tevarüs: Mirasa konmak, birisine diğerinden irsen geçmek. Miras yemek.
 tevarüsât: (Tevarüs. C.) Tevarüsler, mirasa konmalar. * îrsen geçmeler, irsi olarak geçmeler.
 tevasî: (Vasiyet. den) Vasiyetleşme. Birbirine tavsiye etme.
-tevassul : Ulaşma, kavuşma, bitişme. * Nikâh yolu ile hısımlık, münasebet peydâ etme.
+tevassul : Ulaşma, kavuşma, bitişme. * Nikâh yolu ile hısımlık, münasebet peydâ etme.
 tevasuk: (Vusuk. dan) Birbiriyle andlaşma. Birbirine güvenip itimad ederek andlaşma.
-tevasül : Birbirine ulaşma.
+tevasül : Birbirine ulaşma.
 tevatür: Kuvvetli haber. * Müteaddid şeyler birbiri ardınca zâhir olmak. * Bir hususun söylenmesi hemen herkesin ağzında olup, gezmek. şâyia. * Fık: îçinde yalan ihtimali olmayan ve bir cemâate dayanan kuvvetli haber, ferdi olmayıp cemaate ait olan sağlam haber.(Mâlumdur ki; üç dört muhtelif yoldan gelenler, aynı bir hâdiseyi söyleseler, yakini ifâde eden tevâtür derecesinde o hadisenin kat'i vukuuna delâlet eder.îşte, meşrebce ve meslekce ve isti'dâdca ve asırca gayet muhtelif ayrı ayrı bütün muhakkikinin muhtelif tabakatından ve evliyânın muhtelif turuklarından ve asfiyanın muhtelif mesleklerinden ve hükema-i hakikiyenin muhtelif mezheblerinden olan bütün ehl-i keşif ve zevk ve şuhud ile ittifak etmişler ki: kâinat mezâhirinde ve mevcudat âyinelerinde görülen mehâsin ve kemâlât, bir tek Zât-ı Vâcib-ül Vücud'un tecelliyat-ı kemalidir ve cilve-i cemal-i esmasıdır. S.)(...Sahabeler, Kur'anın ve âyetlerin hıfzından sonra en ziyade, Resul-ü Ekrem'in (A.S.M.) ef'al ve akvalinin muhafazasında, bâhusus ahkâma ve mu'cizata dair ahvâline bütün kuvvetleriyle çalıştıklarını ve sıhhatlerine pek çok dikkat ettiklerini, tarih ve siyer şehadet ediyor. Resul-ü Ekrem'e (A.S.M.) ait en küçük bir hareketi, bir sireti, bir hali ihmal etmemişler. Ve etmediklerini ve kaydettiklerini, kütüb-ü ehadisiyye şehâdet ediyor. Hem asr-ı saâdette, mu'cizatı ve medar-ı ahkâm ehadisi, kitabetle çoklar kaydedip yazdılar. Hususan Abadile-i Seb'a kitabetle kaydettiler. Hususan Tercüman-ül Kur'an olan Abdullah îbn-i Abbas ve Abdullah îbn-i Amr îbn-i As, bahusus otuz kırk sene sonra, Tabiinin binler muhakkikleri, ehadisi ve mu'cizatı yazı ile kaydettiler. Daha ondan sonra, başta dört imam-ı müçtehid ve binler muhakkik muhaddisler naklettiler, yazı ile muhafaza ettiler. Daha hicretten ikiyüz sene sonra başta Buhari, Müslim, Kütüb-ü Sitte-i Makbule, vazife-i hıfzı omuzlarına aldılar. îbn-i Cevzi gibi şiddetli binler münekkidler çıkıp; bazı mülhidlerin veya fikirsiz veya hıfızsız veya nâdanların karıştırdıkları mevzu ehadisi tefrik ettiler, gösterdiler. Sonra ehl-i keşfin tasdikiyle; yetmiş defa Resul-ü Ekrem'in (A.S.M.) temessül edip, yakaza halinde Onun sohbetiyle müşerref olan Celâleddin-i Süyuti gibi allâmeler ve muhakkikler, ehadis-i sahihanın elmaslarını, sair sözlerden ve mevzuattan tefrik ettiler. îşte bahsedeceğimiz hâdiseler, mu'cizeler; böyle elden ele (kuvvetli, emin, müteaddit ve çok, belki hadsiz ellerden) sağlam olarak bize gelmiş.îşte buna binaen; "Bu zamana kadar uzun mesafeden gelen, şu zamandan tâ o zamana kadar bu hâdiseleri nasıl bileceğiz ki, karışmamış ve sâfidir?" hatıra gelmemelidir. M.)(Naklolunan haberler eğer tevatür suretinde olsa, kat'idir. Tevatür iki kısımdır. Biri: "Sarih Tevatür" biri: "Manevi Tevatür" dür. Manevi tevatür de iki kısımdır. Biri: "Sükûti" dir. Yâni, sükût ile kabul gösterilmiş. Meselâ: Bir cemaat içinde bir adam, o cemaatin nazarı altında bir hâdiseyi haber verse, cemaat onu tekzib etmezse, sükût ile mukabele etse, kabul etmiş gibi olur. Hususan haber verdiği hâdisede cemaat onunla alâkadar olsa, hem tenkide müheyya ve hatâyı kabul etmez ve yalanı çok çirkin görür bir cemaat olsa, elbette onun sukûtu o hâdisenin vukuuna kuvvetli delâlet eder. îkinci kısım tevatür-ü manevi şudur ki: Bir hâdisenin vukuuna, meselâ "Bir kıyye taam, ikiyüz adamı tok etmiş." denilse; fakat onu haber verenler, ayrı ayrı surette haber veriyor... biri bir çeşit, biri başka bir surette, diğeri başka bir şekilde beyaân eder.. fakat umumen, aynı hâdisenin vukuuna müttefiktirler. îşte, mutlak hâdisenin vukuu; mütevatir-i bilmânadır, kat'idir. îhtilâf-ı suret ise, zarar vermez. M.)
 tevatürât: (Tevatür. C.) Tevatürler, ağızdan ağıza dolaşıp yayılan haberler.
 tevatüren: Ağızdan ağıza yayılarak. Tevatür suretiyle.
@@ -4354,9 +4354,9 @@ tevazzu': Konulma, konulmuş. Bir şeyin bir yere konuşu.
 tevazzuh: (Bak: Tavazzuh)
 tevbe: (Tövbe) Yaptığı fenalığa pişman olmak. Allah'dan afv dilemek. Bir daha işlememeye azmetmek. Estağfirullah deyip, pişmanlık duymak. (Bak: Afv)
 tevbe suresî: Kur'an-ı Kerim'in 9. suresidir. Berae Suresi de denir. Medenidir.
-tevbe-î nasuh : Sâdık tevbe. Nasuh tevbesi. Rücu' ettiği günaha bir daha dönmemek veya tevbe eylediği günahı bir daha yapmamak için kasd ve niyet etmek ve bunda tam kararlı olmak.
+tevbe-î nasuh : Sâdık tevbe. Nasuh tevbesi. Rücu' ettiği günaha bir daha dönmemek veya tevbe eylediği günahı bir daha yapmamak için kasd ve niyet etmek ve bunda tam kararlı olmak.
 tevbekâr: Tevbeli, yaptığına pişman olmuş olan.
-tevbeşîken : Tevbesini bozan.
+tevbeşîken : Tevbesini bozan.
 tevbîh: Azarlama. Levm etme.
 tevbîhat: (Tevbih. C.) Azarlamalar, tekdirler.
 tevbîhat-i şedîde: şiddetli tekdir ve azarlamalar.
@@ -4416,7 +4416,7 @@ teverrüs: (Veraset. den) Mirasçı olma. Vâris olma.
 tevessu': (Bak: Tevessü')
 tevessuh: (Vesah. dan) Paslanma, kirlenme.
 tevessuk: (Vüsuk. dan) înanıp güvenerek ve itimad ederek dayanma.
-tevessul : (Bak: Tevassul)
+tevessul : (Bak: Tevassul)
 tevessü': (C.: Tevessüât) Genişleme, yayılma. Vüs'at bulma. * Zahmetsiz herkese yer bulunma.
 tevessüât: (Tevessü'. C.) Genişlemeler.
 tevessüb: (Vesb. den) Atlama, sıçrama.
@@ -4425,10 +4425,10 @@ tevessüen: Genişleme suretiyle. Tevessü ederek.
 tevessül: Allah'ın dergâhına yaklaştıracak amel işlemek. * Sarılmak. * Baş vurmak. * înanmak. * Sebeb tutmak. * Hırsızlık.
 tevessülen: Başvurarak, girişerek. Sebep tutarak.
 tevessüm: Bir şeyin işaretlerine bakarak iyice anlamak.
-teveşşî : Saç ve sakalı kır olmak, alacalanmak.
+teveşşî : Saç ve sakalı kır olmak, alacalanmak.
 teveşşuh: (C.: Teveşşuhât) Süslenme, takıp takıştırma. * Kadın gerdanlığını takma.
 tevettür: Gerginleşme, gerilme.
-tevettür-ü a'sab : Sinirlerin gerilmesi, sinirlenme. (Bak: Tevtir)
+tevettür-ü a'sab : Sinirlerin gerilmesi, sinirlenme. (Bak: Tevtir)
 tevettür-ü habl: îpin gerilmesi.
 teve'ur: Bir şeyin güçlenerek halli ve yenilmesi müşkil olması. * Bir hususta çetin zorlukla karşılaşmak. * Konuşanın çapraşık söylemesinden ve anlaşılmadığından dolayı, dinleyenin hayrette kalması.
 teveyyül: (C.: Teveyyülât) Vâveylâ etme. çığlık koparma.
@@ -4448,13 +4448,13 @@ tevgîr: (Mübalağa ile) Sıcaklatmak.
 tevhîd: Birleme. Bir Allah'tan başka îlâh olmadığına inanma. Lâ ilahe illallah sözünü tekrarlama. Her yerde ve her şeyde Allah'tan başkasının te'sir hâkimiyeti olmadığını anlamak, bilmek ve bilerek yaşamak. * Edb: Allah'ın varlığına ve birliğine dair yazılan manzume.însanlar, Allah'ın birliğine inananlar ve birliğine inanmayanlar olarak ikiye ayrılır. Allah'a inanmayanlar sözü, aslında Allah'ın birliğine ve sıfatlarına inanmayanlar sözünün kısaltılmış şeklidir. çünkü insanı ve kâinatı kim yaratmıştır? Sorusuna inananlar da inanmıyanlar da cevap vermektedir. înanmayanların verdikleri cevaplardan "kendi kendine olmuştur" sözü hem mantıksızlık, hem de varlığı bir ilâh gibi tasavvur ettiklerinden kâinatta mevcut varlıklar kadar ilâh edinmiş olurlar. "Muhtelif sebepler ve şartların bir araya gelmesiyle yaratılmıştır" diyenler, sebepleri ilâh olarak kabul etmiş ve kendisine kâinattaki sebeplerin sayısı kadar ilâhlar edinmiş olur. "Tabiat yaratmıştır" diyenlere gelince: Tabiattaki varlıklar atomlardan meydana geldiğinden hem atomu bir ilâh yerine koymuş olur ve atomlar sayısınca ilâh edinmiş olur. Demek ki Allah'ın birliğine inanmayan inkârcılar, kendi düşüncelerinin ürünü olan ilâhlara tapan putperestlerden başka birşey değildir.(Kur'an-ı Mu'ciz-ül Beyan, tevhid ve ferdiyeti pek çok tekrar ile, kuvvetli bir hararetle, yüksek bir halâvetle ders verdiği gibi, bütün enbiyâ ve asfiyâ ve evliyâ en büyük zevklerini ve saadetlerini kelime-i tevhid olan Lâ ilahe illallah'da buluyorlar. L.)(Arkadaş! Tevhid iki çeşit olur: Birisi âmiyâne tevhiddir ki, -Allah'ın şeriki yok ve bu kâinat Onun mülküdür - der. Bu kısım tevhid sahiplerinin fikirce gaflet ve dalâlete düşmeleri korkusu vardır. îkincisi hakiki tevhiddir ki, -Allah birdir, mülk onundur, vücud onundur. Her şey Onundur der. Lâyetezelzel bir itikada sahiptirler. Bu kısım tevhid sahipleri her şeyin üstünde Cenab-ı Hakk'ın sikkesini görür ve her şeyin cephesinde bulunan mührünü, damgasını okur. Ve bu sâyede huzuri bir tevhid melekesi mâliki olurlar ki, dalâlet ve evhamın taarruzundan kurtulurlar. M.N.)(Tevhid, yalnız tasavvurdan ibaret bir marifet değildir. Belki îlm-i Mantık'ta, tasavvura mukabil ve marifet-i tasavvuriyeden çok kıymettar ve bürhanın neticesi olan ve ilim denilen tasdiktir. Ve tevhid-i hakiki öyle bir hüküm ve tasdik ve iz'an ve kabuldür ki; her bir şeyle Rabbini bulabilir ve her şeyde Hâlıkına giden bir yolu görür ve hiç bir şey huzuruna mâni olmaz. ş.)
 tevhîd suresî: Kur'an-ı Kerim'in 112. Suresidir. îhlâs Suresi gibi çok isimleri de vardır. (Bak: îhlâs Suresi)
 tevhîd-î kible: Sadece bir yere müteveccih olmak. Bir kıbleden başka kıble kabul etmemek. * Mc: Sadece bir üstad kabul etmek.
-tevhîd-î şuhud : Her nereye bakılırsa Allah'ın birliğini anlamak, hissetmek. * Görüş birliği.
-tevhîden : Birleştirerek, tevhid olarak.
+tevhîd-î şuhud : Her nereye bakılırsa Allah'ın birliğini anlamak, hissetmek. * Görüş birliği.
+tevhîden : Birleştirerek, tevhid olarak.
 tevhîf: Sopa ile vurmak.
 tevhîm: (C.: Tevhimât) (Vehm. den) Vehme düşürme. Vehimlendirme.
 tevhîm: Bir nesneye gönül vermek. * Hâmile olmak ricâsını etmek.
 tevhîn: (Vehn. den) Zayıf kılmak, zâfiyete duçâr eylemek veya edilmek. * Zayıfa nisbet etmek veya edilmek.
-tevhîş : ürkütme, kaçırma, korkutma.
+tevhîş : ürkütme, kaçırma, korkutma.
 tevhîşât: (Tevhiş. C.) ürküp kaçmasına sebep olmalar, ürkütmeler.
 tevhîye: Acele etmek.
 te'vîb: Tesbih etmek. * Sabahtan akşama kadar seyretmek.
@@ -4605,7 +4605,7 @@ tezelluk: Kayma, sürçme.
 tezelluk: Dayanmak.
 tezellül: Zillete katlanmak. Aşağılanmak. Alçalmak. Hor ve hakir olmak. Kendini alçak tutmak.
 tezellülât: (Tezellül. C.) Alçalmalar, küçülmeler, zillete katlanmalar.
-tezelzül : Sarsıntı. * Sarsılma, deprenme.
+tezelzül : Sarsıntı. * Sarsılma, deprenme.
 tezelzülî: Sarsıntı ile alâkalı. Sarsıntı nev'inhden.
 tezemmül: Bürünmek. Sarılmak. örtünmek. (Bak: Müzzemmil)
 tezemmüm: Kişi kendi üzerine hak lâzım kılmak. * Ahd ü eman etmek. * Arlanmak. Utanıp çekinmek.
@@ -4622,7 +4622,7 @@ tezerruk: Ayrılmak, dağılmak.
 tezevvuk: (C.: Tezevvukat) (Zevk. den) Tad alma, zevk alma. Tatma.
 tezevvüc: (C.: Tezevvücât) (Zevc. den) Evlenme, kadın eş alma, zevce edinme.
 tezevvücât: (Tezevvüc. C.) Evlenmeler, zevce edinmeler.
-tezevvüd : Azıklanma. Yanına yiyecek alma.
+tezevvüd : Azıklanma. Yanına yiyecek alma.
 tezeyyug: Haktan ayrılmak. * Kadının süslenip dışarı çıkması.
 tezeyyüb: Ağzının köpüğü kenarına yığılmak. * Yaş üzümün kuruması.
 tezeyyüd: Ziyadeleşme, çoğalma, artma. * Tekellüfle sözü uzatma.
@@ -4668,7 +4668,7 @@ tezrîf: çoğaltmak.
 tezrîye: Savurmak. * Koyunun yününü kırkıp arkasında bir miktarını bırakmak. * Zelil etmek, kepâze yapmak.
 tezvî': Korkutmak.
 tezvîb: (C.: Tezvibât) Eritme, eritilme.
-tezvîc : Nikâhla bir kadını aldırmak. Birbirine eş yapmak. Evlendirmek.
+tezvîc : Nikâhla bir kadını aldırmak. Birbirine eş yapmak. Evlendirmek.
 tezvîd: Yol azığı hazırlama.
 tezvîd: Sürmek. * Reddetmek.
 tezvîk: (Zevk. den) Tattırma, zevk aldırma.
@@ -4684,7 +4684,7 @@ tezyîl: Ayırmak.
 tezyîn: Süslemek. Bezemek. Donatmak.
 tezyînât: Süsler. Ziynetler.
 tezyînât-i lafzîyye: (Muhassınat-ı lafziyye de denir. îlm-i Bediin iki bölümünden ikinci bölümüdür. ) Kelâmın lafzında olan ve göze hitab eden edebi san'atlar. Cinas, seci' gibi.
-ti: Arabçada "" harfi. (Tâ) da denir.
+ti: Arabçada harfi. (Tâ) da denir.
 tib: (Bak: Tıbb)
 tib': Gölge.
 tib': (C.: Atbâ) Nehir.
@@ -4692,7 +4692,7 @@ tiba': Tabiat. Yaradılış. * Tabiatlar. Yaradılışlar.
 tibaa(t): Kitap ve saire basma işi. * Kılıç yapma san'atı.
 tibak: Uyma, uygunluk. * Tabakalar. Katlar. * Birbirine uygun olan şey. * Bir şeyi diğerine uydurup müsavi ve münasib kılmak.
 tibale: Deve boynuna asılan büyük çan. * Davulculuk.
-tibb: Tabiblik, doktorluk. * Her şeyi gereği gibi bilmek. * Rıfk. Suhulet. * îrade. * Hastayı ilâçlarla tedaviye çalışmak. * şan. * şehvet.( $Kur'an, Hazret-i îsa Aleyhisselâm'ın nasıl ahlâk-ı ulviyesine ittibaa beşeri sarihan teşvik eder. öyle de, şu elindeki san'at-ı âliyeye ve tıbb-ı Rabbaniye, remzen tergib ediyor. îşte şu âyet işaret ediyor ki: "En müzmin dertlere dahi derman bulunabilir. öyle ise ey insan ve ey musibetzede beni-Adem! Me'yus olmayınız. Her dert, -ne olursa olsun- dermanı mümkündür. Arayınız, bulunuz. Hattâ ölüme de muvakkat bir hayat rengi vermek mümkündür. " Cenab-ı Hak, şu âyetin lisan-ı işaretiyle mânen diyor ki: "Ey insan! Benim için dünyayı terk eden bir abdime iki hediye verdim. Biri, mânevi dertlerin dermanı; biri de, maddi dertlerin ilâcı. îşte ölmüş kalbler nur-u hidayetle diriliyor. ölmüş gibi hastalar dahi, O'nun nefesiyle ve ilâciyle şifa buluyor. Sen de benim eczahâne-i hikmetimde her derdine deva bulabilirsin. çalış, bul! Elbette ararsan bulursun." îşte beşerin tıp cihetindeki şimdiki terakkiyatından çok ilerideki hududunu, şu âyet çiziyor ve ona işaret ediyor ve teşvik yapıyor. S.)
+tibb: Tabiblik, doktorluk. * Her şeyi gereği gibi bilmek. * Rıfk. Suhulet. * îrade. * Hastayı ilâçlarla tedaviye çalışmak. * şan. * şehvet.(Kur'an, Hazret-i îsa Aleyhisselâm'ın nasıl ahlâk-ı ulviyesine ittibaa beşeri sarihan teşvik eder. öyle de, şu elindeki san'at-ı âliyeye ve tıbb-ı Rabbaniye, remzen tergib ediyor. îşte şu âyet işaret ediyor ki: "En müzmin dertlere dahi derman bulunabilir. öyle ise ey insan ve ey musibetzede beni-Adem! Me'yus olmayınız. Her dert, -ne olursa olsun- dermanı mümkündür. Arayınız, bulunuz. Hattâ ölüme de muvakkat bir hayat rengi vermek mümkündür. " Cenab-ı Hak, şu âyetin lisan-ı işaretiyle mânen diyor ki: "Ey insan! Benim için dünyayı terk eden bir abdime iki hediye verdim. Biri, mânevi dertlerin dermanı; biri de, maddi dertlerin ilâcı. îşte ölmüş kalbler nur-u hidayetle diriliyor. ölmüş gibi hastalar dahi, O'nun nefesiyle ve ilâciyle şifa buluyor. Sen de benim eczahâne-i hikmetimde her derdine deva bulabilirsin. çalış, bul! Elbette ararsan bulursun." îşte beşerin tıp cihetindeki şimdiki terakkiyatından çok ilerideki hududunu, şu âyet çiziyor ve ona işaret ediyor ve teşvik yapıyor. S.)
 tibbe: (C.: Tıbeb) Bir parça uzun bez.
 tibben: Tıp cihetiyle. Doktorlukça.
 tibbî: Hekimliğe ait. Doktorlukla alâkalı. * Hekimce.
@@ -4749,7 +4749,7 @@ tirad: Kısa mızrak.
 tiraf: Gönden veya sahtiyandan yapılan ev. * Cild.
 tirak: Gitmek.
 tiraz: Elbiselere nakışla yapılan süs. * Sırma ve ipekle işleme. * Zinet, süs. * üslup, tarz, tutulan yol. * Döviz.
-tiraz: " Süsleyen, donatan" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: şükufe-tıraz $: çiçek süsleyen.
+tiraz: " Süsleyen, donatan" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: şükufe-tıraz: çiçek süsleyen.
 tirazende: Süsleyen, donatan, süsleyici.
 tirbal: (C.: Tarâbil) Büyük taş.
 tirf: Atın iyisi.
@@ -4762,7 +4762,7 @@ tirs: (C.: Etrâs) Kâğıt, sahife.
 tisyar: Arslan. * Sivri sinek.
 tişe: Ufak çocuk.
 tival: Uzun olanlar.
-tival-i mufassal : Kur'an-ı Kerim'de 49'uncudan 85'inciye kadar olan sureler.
+tival-i mufassal : Kur'an-ı Kerim'de 49'uncudan 85'inciye kadar olan sureler.
 tiybe: Helâl. * Güzel, temiz.
 tiyere: şom ve yaramaz görmek.
 tiyn: çamur. Balçık.
@@ -4882,13 +4882,13 @@ tîzna: Kılıç, bıçak gibi şeylerin keskin olan ağız tarafı.
 tokat: Kale içi, siper, ahır, ağıl. El içi gibi yer. * Dere arası olan hayvan mer'ası. * El içiyle vurulan sille.
 tolga: Başlık, miğfer nevilerinden birinin adıdır.
 tonaj: Bir vasıtanın iç hacmine göre taşıma kapasitesi.
-topuz : t. Ucu top şeklinde sopadan ibâret eski silâh. * Top şeklinde toplanmış saç. * Kısa ve tıknaz kimse.
+topuz : t. Ucu top şeklinde sopadan ibâret eski silâh. * Top şeklinde toplanmış saç. * Kısa ve tıknaz kimse.
 töhem: (Töhmet. C.) Suçlar, töhmetler, kabahatler.
 töhmet: Birisine isnad edilen, fakat kat'iyyetle işleyip işlemediği belirsiz olan suç, kabahat. * îtham altında olma.
 töhmetlendîrmek: Suç isnad etmek.
 tövbe: (Bak: Tevbe)
-traj ©: Fr. Basılan gazete veya mecmuanın baskı sayısı.
-trajedî ©: yun. Fâcia. Mevzuunu efsanelerden veya tarihi hâdiselerden alan, seyirciler üzerinde merhamet veya dehşet hissi uyandıran sahne eseri.
+traj : Fr. Basılan gazete veya mecmuanın baskı sayısı.
+trajedî : yun. Fâcia. Mevzuunu efsanelerden veya tarihi hâdiselerden alan, seyirciler üzerinde merhamet veya dehşet hissi uyandıran sahne eseri.
 tu: Sen.
 tu-ra: Seni, sana, senin.
 tuam: (Tu'me. C.) Azıklar, yiyecek şeyler. * çeşniler, tadlar.
@@ -4961,7 +4961,7 @@ tula: Boynun ön tarafı.
 tula: çok uzun. Pek uzun.
 tulan: (Tul. den) Uzunluğuna, boyuna.
 tulatile: (Talâtıla) (C.: Talâtıl) Hayvanları içeri koymak. Bel ağrısı. * Zahmet.
-tulen : Uzunlukça. Uzunluk cihetinden. Boyca.
+tulen : Uzunlukça. Uzunluk cihetinden. Boyca.
 tulga: Kusmak.
 tulha: Boz renk.
 tulhe: Azıcık su. * Azıcık ot. * îyi nesne.
@@ -5001,7 +5001,7 @@ tura: (Aslı: Tuğra) t. Topuz gibi yapılmış mendil, kuşak gibi oyun âleti.
 turab: Toprak, toz.
 turame: Dişte olan kamaşma.
 turan: Eski îranlılar tarafından Türkistan ve Tataristan taraflarına verilen isimdir. Turan, eskidenberi Türklerin oturduğu yerlere denirdi. "Türk" ile "Tur" kelimeleri arasındaki benzerlik de bu iki ismin bir asıldan ibaret olduğunu gösteriyor.
-turbuş : Takke, külah. Başa giyilen örtü. Fes.
+turbuş : Takke, külah. Başa giyilen örtü. Fes.
 turfanda: Mevsiminden önce yetiştirilen meyve veya sebze.
 turfe: (C.: Etrâf) Nâziklik, yumuşaklık. * Nimet. * Güzel yemek. * Zarif, iyi nesne. * üst dudağın ortasında fazlalık olarak yumru et olması. (O kişiye "etref" derler.
 turfe: Görülmemiş, tuhaf, yeni şey. şaşılacak şey.
@@ -5027,7 +5027,7 @@ turuş: Ekşi.
 tus: Tabiat. * Asıl.
 tusen: Serkeş ve sert at.
 tusu': Dokuz bölükte bir bölük.
-tuşe : Azık. ölmeyecek kadar yenecek şey.
+tuşe : Azık. ölmeyecek kadar yenecek şey.
 tuşe-î râh: Yol azığı, yol yiyeceği.
 tut: Dut.
 tutanak: (Bak: Zabıt)
@@ -5090,7 +5090,7 @@ türas: Miras mal.
 türban: (Türâb. C.) Topraklar.
 türbe: Mezar üzerine yapılan yapı. Mezar. ölmüş büyük zâta mahsus mezar.
 türbedâr: Türbe muhafız ve hizmetkârı.
-türk: Türkler, Asya'nın en büyük ve en meşhur milleti olup, Turan milletlerindendir. Türkler en evvel Sibirya ile çin arasında olan Altın Dağı taraflarında yaşamışlar ve oradan defalarca güney ve batıya doğru yayılarak çin'de ve Türkistan memleketlerinde fetihler yapmışlardır.Türkler eskiden beri iki şubeye ayrılmış olup; Türkistan'ın doğu tarafında bulunanlar; Uygur; batı tarafındakiler de: Türk ve Türkmen isimleriyle bilinirlerdi.Peygamberimizin (A.S.M.) hicretinden 350 sene sonra Tağ Han neslinden olduğu rivayet edilen Türkmen Hükümdarlarından Salur Han, îslâm dinini kabul ederek Kara Han ismini almış ve kavminin de ekserisine îslâm dinini kabul ettirmişti. O sıralarda Türk ve Türkmen kavimleri îslâm hilâfet merkezi olan Bağdat'a gidip gelmeğe başlamışlardı. Fıtri cesaret ve kahramanlıkları hasebiyle Abbasi Halifeleri, bunları askerlik hizmetlerine almışlardı. Bu sebeple Türkler, Azerbeycan ve Erzurum taraflarına dolmuşlardı. Türkler, zamanla kumandanlık ve ümeralığa geçmişler, hükümet işlerini de ellerini almışlardı. Bu cihetle bütün îslâm memleketlerinde Türkler büyük bir nüfuz ve iktidara sahip olmuşlardı.Türkler, müslümanlığı kabul ettikten sonra lisanlarını Arap hattıyla yazmağa başlamışlardı. şark Türkçesinde, yani Uygur lisanında hayli edebiyat vücuda gelmiş, bir takım şair ve edipler yetişmişti. îran'da kurulan Türk Devletleri Farisiyi resmi ve edebi lisan olarak kabul ettikleri halde; Anadolu'da kurulan Selçuklular devrinde resmi lisan Türkçe kabul edilmişti. Daha sonraları Osmanlı Devletinin kuruluşundan sonra bu lisan günden güne kesb-i Türki etmeğe başlamış, hatta Sultan Mehmed Han, Sultan Selim ve Süleyman devirlerinde mükemmel bir Osmanlı Edebiyatı meydana gelmiş ve birçok edip ve şairler yetişmişti.(Cây-ı dikkat bir hal: Türk milleti anâsır-ı îslâmiye içinde en kesretli olduğu halde, dünyanın her tarafında olan Türkler ise Müslümandır. Sâir unsurlar gibi müslim ve gayr-ı müslim olarak iki kısma inkısam etmemiştir. Nerede Türk tâifesi varsa, Müslümandır. Müslümanlıktan çıkan veya Müslüman olmıyan Türkler, Türklükten dahi çıkmışlardır (Macarlar gibi.) Halbuki küçük unsurlarda dahi, hem müslim ve hem de gayr-ı müslim var.Ey Türk Kardeş! Bilhassa sen dikkat et! Senin milliyetin îslâmiyetle imtizaç etmiş, ondan kabil-i tefrik değil. Tefrik etsen, mahvsın! Bütün senin mâzideki mefâhirin îslâmiyet defterine geçmiş. Bu mefâhir; zemin yüzünde hiçbir kuvvetle silinmediği hâlde, sen şeytanların vesveseleriyle, desiseleriyle o mefâhiri kalbinden silme!... R.N.)(îşte ey Ehl-i Kur'ân olan şu vatanın evlâdları; Altıyüz sene değil, belki, Abbasiler zamanından beri bin senedir, Kur'ân-ı Hakim'in bayraktarı olarak, bütün cihana karşı meydan okuyup, Kur'ânı ilân etmişsiniz. Milliyetinizi, Kur'âna ve îslâmiyet'e kal'a yaptınız. Bütün dünyayı susturdunuz, müdhiş tehacümâtı def'ettiniz. Tâ $âyetine güzel bir mâsadak oldunuz. şimdi Avrupa'nın ve frenk-meşreb münâfıkların desiselerine uyup, şu âyetin evvelindeki hitaba mâsadak olmaktan çekinmelisiniz ve korkmalısınız!..M.)(...Evvelâ Araplar, kavimden kavime bu hizmeti yapmışlar, daha sonra Emeviye'nin son zamanlarında olduğu gibi bu hizmeti, Arap'tan Acem'e doğru geçmiş; hadis-i şerifin de delâlet ettiği üzere Fars milleti manen ve maddeten îslâmiyete pek büyük hizmetler yapmış, sonra bunlar da aynı hale gelmiş; bu defa da Allah Türkleri göndermiş. Arapların, Farslıların, kıymetini bilemeyip zâyi' ettikleri îslâm devletini ele alarak îstanbul'a ve oradan dünyanın her tarafına yaymışlar. Demek ki onlar da bu nimetin kıymetini bilmez, küfr ü küfrâna giderlerse mevkilerini, Allah'ın göndereceği diğer bir kavme terketmeğe mecbur olacaklardır. Ve kim bilir vâsi ve alim olan Allah Teâla, kıyamete kadar daha ne kavimler gönderecektir. Binaenaleyh, ey mü'minler! Dininizin kıymetini biliniz, hiç bir kavme inhisar kabul etmeyen bu vâsi' feyz-i hakkı, bu fazl-ı îlâhiyi, bu yüksek hürriyeti bırakıp da başkalarının muvalâtı arkasına düşmeyiniz. E.T.)
+türk: Türkler, Asya'nın en büyük ve en meşhur milleti olup, Turan milletlerindendir. Türkler en evvel Sibirya ile çin arasında olan Altın Dağı taraflarında yaşamışlar ve oradan defalarca güney ve batıya doğru yayılarak çin'de ve Türkistan memleketlerinde fetihler yapmışlardır.Türkler eskiden beri iki şubeye ayrılmış olup; Türkistan'ın doğu tarafında bulunanlar; Uygur; batı tarafındakiler de: Türk ve Türkmen isimleriyle bilinirlerdi.Peygamberimizin (A.S.M.) hicretinden 350 sene sonra Tağ Han neslinden olduğu rivayet edilen Türkmen Hükümdarlarından Salur Han, îslâm dinini kabul ederek Kara Han ismini almış ve kavminin de ekserisine îslâm dinini kabul ettirmişti. O sıralarda Türk ve Türkmen kavimleri îslâm hilâfet merkezi olan Bağdat'a gidip gelmeğe başlamışlardı. Fıtri cesaret ve kahramanlıkları hasebiyle Abbasi Halifeleri, bunları askerlik hizmetlerine almışlardı. Bu sebeple Türkler, Azerbeycan ve Erzurum taraflarına dolmuşlardı. Türkler, zamanla kumandanlık ve ümeralığa geçmişler, hükümet işlerini de ellerini almışlardı. Bu cihetle bütün îslâm memleketlerinde Türkler büyük bir nüfuz ve iktidara sahip olmuşlardı.Türkler, müslümanlığı kabul ettikten sonra lisanlarını Arap hattıyla yazmağa başlamışlardı. şark Türkçesinde, yani Uygur lisanında hayli edebiyat vücuda gelmiş, bir takım şair ve edipler yetişmişti. îran'da kurulan Türk Devletleri Farisiyi resmi ve edebi lisan olarak kabul ettikleri halde; Anadolu'da kurulan Selçuklular devrinde resmi lisan Türkçe kabul edilmişti. Daha sonraları Osmanlı Devletinin kuruluşundan sonra bu lisan günden güne kesb-i Türki etmeğe başlamış, hatta Sultan Mehmed Han, Sultan Selim ve Süleyman devirlerinde mükemmel bir Osmanlı Edebiyatı meydana gelmiş ve birçok edip ve şairler yetişmişti.(Cây-ı dikkat bir hal: Türk milleti anâsır-ı îslâmiye içinde en kesretli olduğu halde, dünyanın her tarafında olan Türkler ise Müslümandır. Sâir unsurlar gibi müslim ve gayr-ı müslim olarak iki kısma inkısam etmemiştir. Nerede Türk tâifesi varsa, Müslümandır. Müslümanlıktan çıkan veya Müslüman olmıyan Türkler, Türklükten dahi çıkmışlardır (Macarlar gibi.) Halbuki küçük unsurlarda dahi, hem müslim ve hem de gayr-ı müslim var.Ey Türk Kardeş! Bilhassa sen dikkat et! Senin milliyetin îslâmiyetle imtizaç etmiş, ondan kabil-i tefrik değil. Tefrik etsen, mahvsın! Bütün senin mâzideki mefâhirin îslâmiyet defterine geçmiş. Bu mefâhir; zemin yüzünde hiçbir kuvvetle silinmediği hâlde, sen şeytanların vesveseleriyle, desiseleriyle o mefâhiri kalbinden silme!... R.N.)(îşte ey Ehl-i Kur'ân olan şu vatanın evlâdları; Altıyüz sene değil, belki, Abbasiler zamanından beri bin senedir, Kur'ân-ı Hakim'in bayraktarı olarak, bütün cihana karşı meydan okuyup, Kur'ânı ilân etmişsiniz. Milliyetinizi, Kur'âna ve îslâmiyet'e kal'a yaptınız. Bütün dünyayı susturdunuz, müdhiş tehacümâtı def'ettiniz. Tââyetine güzel bir mâsadak oldunuz. şimdi Avrupa'nın ve frenk-meşreb münâfıkların desiselerine uyup, şu âyetin evvelindeki hitaba mâsadak olmaktan çekinmelisiniz ve korkmalısınız!..M.)(...Evvelâ Araplar, kavimden kavime bu hizmeti yapmışlar, daha sonra Emeviye'nin son zamanlarında olduğu gibi bu hizmeti, Arap'tan Acem'e doğru geçmiş; hadis-i şerifin de delâlet ettiği üzere Fars milleti manen ve maddeten îslâmiyete pek büyük hizmetler yapmış, sonra bunlar da aynı hale gelmiş; bu defa da Allah Türkleri göndermiş. Arapların, Farslıların, kıymetini bilemeyip zâyi' ettikleri îslâm devletini ele alarak îstanbul'a ve oradan dünyanın her tarafına yaymışlar. Demek ki onlar da bu nimetin kıymetini bilmez, küfr ü küfrâna giderlerse mevkilerini, Allah'ın göndereceği diğer bir kavme terketmeğe mecbur olacaklardır. Ve kim bilir vâsi ve alim olan Allah Teâla, kıyamete kadar daha ne kavimler gönderecektir. Binaenaleyh, ey mü'minler! Dininizin kıymetini biliniz, hiç bir kavme inhisar kabul etmeyen bu vâsi' feyz-i hakkı, bu fazl-ı îlâhiyi, bu yüksek hürriyeti bırakıp da başkalarının muvalâtı arkasına düşmeyiniz. E.T.)
 türkân: (Türk. C.) Türkler.
 türkcuş: Yarı pişmiş et.
 türkîstan: Türklerin anayurdu olan ve Hive, Fergana, Taşkent, Buhara, Semerkant ve Kırgız şehirlerini içine alan büyük bölge.Doğu Türkistan bugün çin'de, Güney Türkistan ise Afganistan'da, büyük parçası olan Batı Türkistan ise Rusya'da kalmaktadır.

@@ -1,4 +1,4 @@
-îa': $ Bir nesneyi kab içine koyup saklamak.
+îa': Bir nesneyi kab içine koyup saklamak.
 îa': Koyun sürmek, koyun gütmek.
 îab: Kökünden koparmak.
 îad: Korkutmak, tehdit etmek. Vaidde bulunmak.
@@ -151,7 +151,7 @@
 îbrâ-î îstîfa: Bir kimsenin, başka birisindeki hakkını aldığına dair ikrar etmesi.
 îbrad: Güçsüzleştirme, âciz bırakma. * Soğutma.
 îbrahîm: îbrahim kelimesi, îbranicede baba anlamına gelen "eb"; ve cumhur demek olan "reham" kelimelerinden meydana gelmiştir. "Ebu-l cumhur" ise; cumhurun babası demektir. Bu ismi meydana getiren kelimelerin ikisinin de hareke veya telaffuzlarını az bir değişiklik yapmakla yine bu mânalar Arapçada vardır. Bu da îbranilerle Arapların yakınlıklarına delildir.
-îbrahîm (a.s.): Halilullah ve Halil-ür Rahman da denir. Peygamberlerden îshak ve îsmâil'in (A.S.) babasıdır. Yirmi sahifelik kitap kendisine nâzil olmuştur. Süryanice konuşurdu. Peygamberimizin de (A.S.V.) ceddi idi. Urfa'da doğduğu da rivayet edilir. Zamanın kralı Nemrud tarafından ateşe atılmak istendi, mu'cize olarak ateş onu yakmadı. En şiddetli zamanda dahi Allah'tan başka kimsenin dostluğunu kabul etmediğinden, sadece ondan meded beklediğinden kendisine Halilullah denilmiştir. Sonra Mısır'a ve Kenan iline gitti. Oğlu îsmail (A.S.) ile birlikte Kâbe-i Muazzama'yı yeniden inşa' ettiler. Kudüs'te medfun'dur.( $ Ayet-i Kerimesinin delâletine göre, Hazret-i îbrahim ateşe atıldığı zaman, ateşin harareti burudete inkılâb etmesi, beşerin keşfettiği yakıcı olmayan mertebe-i nâriyeye örnek ve me'hazdır. î.î.)(Hazret-i îbrahim Aleyhisselâm'ın Nemrud'a karşı imate ve ihyâda Güneş'in tulu' ve gurubuna intikali, cüz'i imate ve ihyadan külli imate ve ihyâya intikaldir ve bir terakkidir. O delilin en parlak ve en geniş dairesini göstermektir. Yoksa bir kısım ehl-i tefsirin dedikleri gibi, hafi delili bırakıp, zâhir delile çıkmak değildir. M.)
+îbrahîm (a.s.): Halilullah ve Halil-ür Rahman da denir. Peygamberlerden îshak ve îsmâil'in (A.S.) babasıdır. Yirmi sahifelik kitap kendisine nâzil olmuştur. Süryanice konuşurdu. Peygamberimizin de (A.S.V.) ceddi idi. Urfa'da doğduğu da rivayet edilir. Zamanın kralı Nemrud tarafından ateşe atılmak istendi, mu'cize olarak ateş onu yakmadı. En şiddetli zamanda dahi Allah'tan başka kimsenin dostluğunu kabul etmediğinden, sadece ondan meded beklediğinden kendisine Halilullah denilmiştir. Sonra Mısır'a ve Kenan iline gitti. Oğlu îsmail (A.S.) ile birlikte Kâbe-i Muazzama'yı yeniden inşa' ettiler. Kudüs'te medfun'dur.( Ayet-i Kerimesinin delâletine göre, Hazret-i îbrahim ateşe atıldığı zaman, ateşin harareti burudete inkılâb etmesi, beşerin keşfettiği yakıcı olmayan mertebe-i nâriyeye örnek ve me'hazdır. î.î.)(Hazret-i îbrahim Aleyhisselâm'ın Nemrud'a karşı imate ve ihyâda Güneş'in tulu' ve gurubuna intikali, cüz'i imate ve ihyadan külli imate ve ihyâya intikaldir ve bir terakkidir. O delilin en parlak ve en geniş dairesini göstermektir. Yoksa bir kısım ehl-i tefsirin dedikleri gibi, hafi delili bırakıp, zâhir delile çıkmak değildir. M.)
 îbrahîm bîn edhem: Babası Belh şehrinin Pâdişahı idi. Hicri 2. asırda yetişmiş büyük bir veliyullahtır. Bir çok kerametleri görülmüş, Allah rızası yolunda dünya saltanatını terk ederek fakirliği kabul etmiş ve bütün ömrünü ibadet ve taat ile geçirmiştir. Kerametleri dillere destandır.
 îbrahîm desukî: Büyük âlim ve mutasavvıflardan olup büyük makam sâhibi bir zâtdır. Pek meşhur ve çok güzel sözleri ve mev'izaları vardır. 676 tarihinde 43 yaşında şam'da vefat etmiştir. (K.S.)
 îbrahîm hakki: (K.S.): Hi: 12. asırda yaşamış büyük âlim ve mutasavvıftır. Hasankale'li olup en son Tillo'da yaşamıştır. Marifetname isimli meşhur eseri vardır.
@@ -305,9 +305,9 @@
 îcaz: (îycâz) Edb: Az söyle çok şey anlatmak. Sözü muhtasar söylemek. çok mânaya gelen kısa cümlenin hâli. Mâruf ve müteârif olan cümleden kısa bir cümle ile maksadı ifâde san'atı.Böyle sözlere mucez, veciz veya vecize denilir.
 îcaz: Kadın eşarbı. Baş örtü.
 îcaz-i bîttakdîr: Maksadı az sözle ifade etmekle beraber fazla olan etraflı mânaların zuhurudur.
-îcaz-i hasr : Lafzan hiçbir hazf olmadığı halde, ibârenin mânaca zengin olmasıdır.
+îcaz-i hasr : Lafzan hiçbir hazf olmadığı halde, ibârenin mânaca zengin olmasıdır.
 îcaz-i hazf: Mânâya halel gelmemek şartı ile ve lâfzi veya akli karine delâleti ile cümleyi tamamlayanlardan birinin hazfıdır.
-îcaz-i makbul : Tazammun ve hazf ile olan icaz.
+îcaz-i makbul : Tazammun ve hazf ile olan icaz.
 îcaz-i muhîll: Sözün istenilen mânayı ifadeye kifayet etmemesi yüzünden mânanın bozulması halidir.
 îcazet: îzin. Müsaade. şehadetname. Diploma. "Olur" demek. Destur vermek. îlmi ehliyet. Reva görmek.
 îcazet vermek: Medrese usulüne göre okuttuğu dersi bitiren talebeye hocası tarafından izin verilmesi. Bu tasdikan verilen mühürlü kâğıda "icazetname", icazet vermiş olan müderrise de "muciz" denilirdi.
@@ -532,7 +532,7 @@
 îdfa': Soğuktan sakınıp giyinmek. * Isıtmak.
 îdfan: Gömme. Defnetme.
 îdgâh: (îdgeh) Bayram yeri.
-îdgam: Gizlemek. * Bir şeyi bir yere koymak. * Tecvidde: Aynı cinsten olan harfleri birbirine katarak iki def'a okumak. şeddeli okumak veya yazılmak.(Genizden gelen sese gunne dendiği gibi, harfleri şiddetli okumağa idgam deniyor. Konuşurken küçük dil genize çekilerek çıkan ses gunnedir. Gunnenin, bazı kimselerce harf sayılması mecazdır. çünkü idgâm ikiye ayrılır.Gunnesiz idgam ki; tenvin veya sâkin nun, lâm ve râ harflerine idgam olunursa gunnesiz okunur. ( $ Mirrabbi $Milledünhü gibi)Gunneli idgam: Tenvin veya sakin nun (Ya, mim, nun, vav) harflerinden birine idgam olunursa gunne ile okunur. (Vav ile yâ) ya idgam edilirse gunne yarım olur.)
+îdgam: Gizlemek. * Bir şeyi bir yere koymak. * Tecvidde: Aynı cinsten olan harfleri birbirine katarak iki def'a okumak. şeddeli okumak veya yazılmak.(Genizden gelen sese gunne dendiği gibi, harfleri şiddetli okumağa idgam deniyor. Konuşurken küçük dil genize çekilerek çıkan ses gunnedir. Gunnenin, bazı kimselerce harf sayılması mecazdır. çünkü idgâm ikiye ayrılır.Gunnesiz idgam ki; tenvin veya sâkin nun, lâm ve râ harflerine idgam olunursa gunnesiz okunur. ( MirrabbiMilledünhü gibi)Gunneli idgam: Tenvin veya sakin nun (Ya, mim, nun, vav) harflerinden birine idgam olunursa gunne ile okunur. (Vav ile yâ) ya idgam edilirse gunne yarım olur.)
 îdhac: Silah takınmak.
 îdhad: îptal etmek, hükümsüz bırakmak.
 îdhal: Dâhil etmek. îçine almak. Sokmak.
@@ -901,7 +901,7 @@
 îhlal: (Halel. den) Sakatlamak. Bozmak. Halel vermek. * Birini ihtiyaç içinde bırakmak. * Düşmanın haklarına vefa etmeyip gadretmek.
 îhlas: Müşteriyi aldatmak. Müflis olmak.
 îhlas: (Hulus. dan) Kalbini safi etmek. îçten, samimi, riyasız sevgi. îçten gelen sevgi ile doğruluk ve bağlılık. * Sırf Allah emretmiş olduğu için ibadet etmek. Yapılan ibadet ve işlerde hiçbir karşılık ve menfaati, hakiki ve esas gaye etmeyerek yalnız ve yalnız Allah rızasını esas maksat ve gaye edinmek. însanlara riyakârlıktan, gösterişten uzak olmak.(Bu dünyada, hususan uhrevi hizmetlerde, en mühim bir esas, en büyük bir kuvvet, en makbul bir şefaatçi, en metin bir nokta-i istinad, en kısa bir tarik-i hakikat, en makbul bir duâ-yı manevi, en kerametli bir vesile-i makasıd, en yüksek bir haslet, en sâfi bir ubudiyet ihlastır....Cenab-ı Hakk'ın rızası ihlas ile kazanılır. Kesret-i etba' ile ve fazla muvaffakiyet ile değildir. çünkü onlar vazife-i îlâhiyyeye ait olduğu için istenilmez; belki bazan verilir. Evet, bazan bir tek kelime sebeb-i necat ve medar-ı rıza olur. Kemmiyetin ehemmiyeti o kadar medar-ı nazar olmamalı. çünkü, bazan bir tek adamın irşadı, bin adamın irşadı kadar rıza-yı îlâhiye medar olur. Hem, ihlas ve hakperestlik ise, müslümanların nereden ve kimden olursa olsun, istifadelerine taraftar olmaktır. Yoksa benden ders alıp sevap kazandırsınlar düşüncesi, nefsin ve enaniyetin bir hilesidir. L.)(Cay-ı ibret bir hâdise: Bir vakit îmam-ı Ali Radıyallahü Anh, bir kâfiri yere atmış. Kılıncını çekip keseceği zaman, o kâfir O'na tükürmüş. O kâfiri bırakmış, kesmemiş. O kâfir, O'na demiş ki: "Neden beni kesmedin?" Dedi: "Seni Allah için kesecektim. Fakat bana tükürdün; hiddete geldim. Nefsimin hissesi karıştığı için ihlasım zedelendi. Onun için seni kesmedim." O kâfir, O'na dedi: "Beni çabuk kesmen için seni hiddete getirmekti. Mâdem dininiz bu derece sâfi ve hâlistir; o din haktır." dedi. M.)
-îhlas suresî: Kur'an-ı Kerim'de şirkin ve küfrün envâını reddedip, tevhidi ilân eden $ diye başlayan 112. Sure.Bu sureye: Esas, Tevhid, Tefrid, Tecrid, Necat, Velâyet, Marifet, Samed, Muavvize, Mazhar, Berâe, Nur, îman suresi de denilmektedir. Maâni, Müzekkire gibi isimleri de vardır. (E.T.)
+îhlas suresî: Kur'an-ı Kerim'de şirkin ve küfrün envâını reddedip, tevhidi ilân eden diye başlayan 112. Sure.Bu sureye: Esas, Tevhid, Tefrid, Tecrid, Necat, Velâyet, Marifet, Samed, Muavvize, Mazhar, Berâe, Nur, îman suresi de denilmektedir. Maâni, Müzekkire gibi isimleri de vardır. (E.T.)
 îhlas-mend: îhlaslı, ihlas sahibi, temiz kalbli.
 îhlas-mendane: Temiz yürekli kimseye yakışır şekilde, ihlaslı kişiye uygun tarzda.
 îhlas-mendî: îhlaslılık, temiz kalblilik.
@@ -1010,7 +1010,7 @@
 îhtîlac: Seğirtme. * çarpıntı, çarpma. * Etler gevşeyip büzülme. * Havale nöbeti.
 îhtîlacat: (îhtilâc. C.) îhtilaclar, çarpıntılar, seğirtmeler.
 îhtîlacat-i asabîye: Asabi çarpıntılar.
-îhtîlaf: (Hulf. den) Anlaşmazlık, uyuşmazlık, karışıklık, ikilik. * Birisinin halifesi olmak.(Eğer denilse: Hadiste $ denilmiş. îhtilaf ise, tarafgirliği iktiza ediyor. Hem tarafgirlik marazı; mazlum avâmı, zâlim havassın şerrinden kurtarıyor. çünki: Bir kasabanın ve bir köyün havassı ittifak etseler, mazlum avâmı ezerler. Tarafgirlik olsa, mazlum bir tarafa iltica eder, kendisini kurtarır. Hem, tesadüm-ü efkârdan ve tehâlüf-ü ukulden hakikat tamamiyle tezahür eder?Elcevab: Birinci suale deriz ki: Hadisteki ihtilaf ise, müsbet ihtilaftır. Yâni: Herbiri kendi mesleğinin tamir ve revacına sa'yeder. Başkasının tahrip ve ibtaline değil, belki tekmil ve ıslahına çalışır. Amma menfi ihtilaf ise ki; garazkârane, adavetkârane birbirinin tahribine çalışmaktır. Hadisin nazarında merduttur. çünki birbiriyle boğuşanlar, müsbet hareket edemezler...îkinci suale deriz ki: Tarafgirlik eğer Hak namına olsa, haklılara melce' olabilir. Fakat şimdiki gibi garazkârâne, nefis hesabına olan tarafgirlik, haksızlara melce'dir ki; onlara nokta-i istinad teşkil eder. çünki garazkârane tarafgirlik eden bir adama şeytan gelse, onun fikrine yardım edip taraftarlık gösterse, o adam o şeytana rahmet okuyacak. Eğer mukabil tarafa melek gibi bir adam gelse, ona hâşâ lânet okuyacak derecede bir haksızlık gösterecek.üçüncü suale deriz ki: Hak namına, hakikat hesabına olan tesadüm-ü efkâr ise; meksatta ve esasta ittifak ile beraber, vesailde ihtilaf eder. Hakikatın her köşesini izhar edip, hakka ve hakikata hizmet eder. Fakat, tarafgirane ve garazkârane firavunlaşmış nefs-i emmare hesabına hodfuruşluk, şöhretperverane bir tarzdaki tesadüm-ü efkârdan bârika-i hakikat değil, belki fitne ateşleri çıkıyor. çünki maksatta ittifak lâzım gelirken, öylelerin efkârının Küre-i Arz'da dahi nokta-i telâkisi bulunmaz. Hak namına olmadığı için, nihayetsiz müfritane gider. Kabil-i iltiyam olmayan inşikaklara sebebiyet verir. Hâl-i âlem buna şahittir... M.)
+îhtîlaf: (Hulf. den) Anlaşmazlık, uyuşmazlık, karışıklık, ikilik. * Birisinin halifesi olmak.(Eğer denilse: Hadiste denilmiş. îhtilaf ise, tarafgirliği iktiza ediyor. Hem tarafgirlik marazı; mazlum avâmı, zâlim havassın şerrinden kurtarıyor. çünki: Bir kasabanın ve bir köyün havassı ittifak etseler, mazlum avâmı ezerler. Tarafgirlik olsa, mazlum bir tarafa iltica eder, kendisini kurtarır. Hem, tesadüm-ü efkârdan ve tehâlüf-ü ukulden hakikat tamamiyle tezahür eder?Elcevab: Birinci suale deriz ki: Hadisteki ihtilaf ise, müsbet ihtilaftır. Yâni: Herbiri kendi mesleğinin tamir ve revacına sa'yeder. Başkasının tahrip ve ibtaline değil, belki tekmil ve ıslahına çalışır. Amma menfi ihtilaf ise ki; garazkârane, adavetkârane birbirinin tahribine çalışmaktır. Hadisin nazarında merduttur. çünki birbiriyle boğuşanlar, müsbet hareket edemezler...îkinci suale deriz ki: Tarafgirlik eğer Hak namına olsa, haklılara melce' olabilir. Fakat şimdiki gibi garazkârâne, nefis hesabına olan tarafgirlik, haksızlara melce'dir ki; onlara nokta-i istinad teşkil eder. çünki garazkârane tarafgirlik eden bir adama şeytan gelse, onun fikrine yardım edip taraftarlık gösterse, o adam o şeytana rahmet okuyacak. Eğer mukabil tarafa melek gibi bir adam gelse, ona hâşâ lânet okuyacak derecede bir haksızlık gösterecek.üçüncü suale deriz ki: Hak namına, hakikat hesabına olan tesadüm-ü efkâr ise; meksatta ve esasta ittifak ile beraber, vesailde ihtilaf eder. Hakikatın her köşesini izhar edip, hakka ve hakikata hizmet eder. Fakat, tarafgirane ve garazkârane firavunlaşmış nefs-i emmare hesabına hodfuruşluk, şöhretperverane bir tarzdaki tesadüm-ü efkârdan bârika-i hakikat değil, belki fitne ateşleri çıkıyor. çünki maksatta ittifak lâzım gelirken, öylelerin efkârının Küre-i Arz'da dahi nokta-i telâkisi bulunmaz. Hak namına olmadığı için, nihayetsiz müfritane gider. Kabil-i iltiyam olmayan inşikaklara sebebiyet verir. Hâl-i âlem buna şahittir... M.)
 îhtîlaf-dar: Huk: Mirasçı ile miras bırakanın ayrı ayrı memleketler halkından olması.
 îhtîlaf-i dâr: Huk: Mirası bırakan ile vâristen her birinin başka başka ülkeler ahâlisinden olması.
 îhtîlaf-i dîn: Biri müslim, diğeri gayr-ı müslim olmak gibi ayrı dinde bulunmak. Din ayrılığı miras almağa mânidir. Binaenaleyh gayr-i müslim, müslimin; müslim de gayr-i müslimin mirasına nâil olamaz. Fakat müslim olmayan milletler arasında din ayrılığı miras almağa mani değildir.
@@ -1124,7 +1124,7 @@
 îhtîzar: (îhtidar) Huzura çıkmak. Hâzır olmak. * Can çekişmek. Hastanın ölüme hazır olması.
 îhtîzar: Hazer etmek. Korunmak. Sakınmak.
 îhtîzaz: Haz duymak. Ferahlamak.
-îhtîzaz : Hafif titremek. Deprenmek. * şevk ile meyil ve hareket. Harekete geçme. * Sallanma, sıçrayıp oynama.
+îhtîzaz : Hafif titremek. Deprenmek. * şevk ile meyil ve hareket. Harekete geçme. * Sallanma, sıçrayıp oynama.
 îhtîzaz: Alçalma, tezellül.
 îhtîzazî: îhtizaza ait. Titremekle alâkalı.
 îhvan: ( kelimesinin cem'i) Kardeşler. Eş, dost. * Sâdık arkadaşlar. * Aynı mezheb veya tarikata mensub olanlar.
@@ -1157,7 +1157,7 @@
 î'kad: Düğümlemek. Bağlamak. Bend etmek.
 îk'ad: Bir hükümdarın tahta oturtulması. Oturtmak.
 îkad: Ateş yakma, tutuşturma.
-îkad «: Kuvvetlendirme, sağlam kılma.
+îkad : Kuvvetlendirme, sağlam kılma.
 îkad-i kanadîl: Kandillerin yakılması.
 îkae: Kusturma, istifra ettirme. Kusturulma.
 îkaf: (Vakf. dan) Vakfetme, malını vakıf şekline koyma. * Bir işten vaz geçme, durdurma.
@@ -1384,7 +1384,7 @@
 îlel-î müstevlîye: Tıb: Salgın hastalıklar.
 îlel-î müteselsîle: Zincir gibi birbirine bağlı olup devam eden sebepler, illetler.
 îlel-î sârîye: Tıb: Bulaşıcı hastalıklar. Sâri illetler.
-î'lem: ( $ masdarından emirdir.) "Bil!" mânasına gelir.
+î'lem: ( masdarından emirdir.) "Bil!" mânasına gelir.
 îleyh: Ona. (Erkek olan tek kimse için)
 îleyha: Ona. (Kadın olan tek kimse için)
 îleyhîm: Onlara. (Erkek olan çok kişi için söylenir.)
@@ -1432,7 +1432,7 @@
 îllîyet: Sebeb ile alâkalı. Esas sebeble alâkadarlık. Sebeb arayış.
 îllîyye: (Ulliyye) En şerefli, yüksek.
 îllîyyun: (îlliyyin) (Aliyyu. C.) Cennetin en yüksek tabakası. Ahirete giden tam kâmil mü'minlerin yeri. Hafaza meleklerinin divanları ismidir ki, salihlerin amelleri oraya yükseltilir. Ahirette yüksek dereceye, dergâh-ı rızâya en yakın olan derecedir.
-îllîzyon : Lât. Cisimleri yanlış idrak etme. Meselâ su borusunu yılan gibi görme.
+îllîzyon : Lât. Cisimleri yanlış idrak etme. Meselâ su borusunu yılan gibi görme.
 îlm: (îlim) Okumakla veya görmek ve dinlemekle veya ihsan-ı Hak'la elde edilen malumat. Bilmek. îdrak etmek.(îlim, hakikatı bilmekten ibarettir. îlim, marifetten daha umumidir. Marifet, tefekkürle bilmek mânasına olmakla beraber, Cenab-ı Hakk'a nisbeti câiz olmaz. Gerek huzuri olsun (ilm-i îlâhi gibi) ve gerek husuli olsun (ilm-i ibad gibi) ve vech-i dikkat üzere bilmeye de denir. şuur, fıtnat gibi. îlmin zıddı "cehil"dir. Marifetin zıddı ise "inkâr"dır.) * îlm-i Kelâm'da: îlim; bilmek, idrak etmek sıfatıdır. Cenab-ı Hak ilim sıfatı ile de muttasıftır. O'nun ilmi, mahlukatın ilmi gibi basit ve mahdut olmayıp, bütün kâinatı muhittir. Hiç bir şey onun ilminden gizlenemez ve haricinde kalamaz. Allah'ın ilmi mutlaktır. Allah, Alim-i Mutlak'tır.îlim mâluma tâbidir. Yani: îlim sıfatı varlıkları icad etmez ve hâdiseleri meydana getirmez. Belki, varlıkları ve hâdiseleri bilmekle ilim olur.Cenab-ı Hak ilmi ile, olmuş ve olacak herşeyi ezeli ve ebedi olarak bilir. Böylece o eşya, ilm-i îlâhide bilinmesiyle vücud-u ilmiye mazhardır. Fakat maddi vücutlarının icadı, kudret-i îlâhiyeye istinad eder. Yani mahlukatın maddi vücudunu ilim icad etmez, kudret icad eder. Bu itibarla malumun yani mahlukun icadı, ilme değil, kudrete tâbidir. (Bak: îrfan, Ulum)
 îlm-î âdâb: Yemek, içmek, yatıp kalkmak, giyinmek, sefer gibi hâllere dair hadisler için, ilm-i hadis istılâhında kullanılan tâbirdir.
 îlm-î ahbâr: (Bak: îlm-i hadis)
@@ -1461,7 +1461,7 @@
 îlm-î ruh: Ruh ilmi. Psikoloji.
 îlm-î tabakat-ül arz: Arzın tabakalarından bahseden ilim. Jeoloji.
 îlm-î tevhîd: Allah'ın varlığı ve birliğini isbat ve izah etme ilmi. * Akaide müteallik hadis-i şeriflere ehl-i hadis ıstılahında îlm-i Tevhid tabir edilir.
-îlm-î usul : Delillerden hüküm nasıl çıkarıldığını öğreten ilim. (Usul-ü fıkıh, Usul-ü şeri'at veya hikmet-i teşriiye de denir.)
+îlm-î usul : Delillerden hüküm nasıl çıkarıldığını öğreten ilim. (Usul-ü fıkıh, Usul-ü şeri'at veya hikmet-i teşriiye de denir.)
 îlm-î usul-üd dîn: (Bak: îlm-i Kelâm)
 îlma: çalma, hırsızlama, sirkat.
 îlma': Parlatma. * îşaret etme.
@@ -1571,7 +1571,7 @@
 îmam-i alî riza: (Hi: 153 de Medine-i Münevvere'de doğmuştur.) Eimme-i îsnâ Aşer'in yedincisidir. îmam-ı Musa Kâzım'ın oğludur. Tus; yani Meşhed'de medfun olup kabri ziyaretgâhtır. (R.A.)
 îmam-i beyhakî: (Bak: Beyhaki)
 îmam-i buharî: (Bak: Buhari.)
-îmam-i busîrî : (Mi: 1213-1295) îmam-ı Muhammed bin Said "Busayri" diye bilinir. Kaside-i Bür'e ve Hemziyesi ile meşhur üstün bir îslâm şâiridir.
+îmam-i busîrî : (Mi: 1213-1295) îmam-ı Muhammed bin Said "Busayri" diye bilinir. Kaside-i Bür'e ve Hemziyesi ile meşhur üstün bir îslâm şâiridir.
 îmam-i ca'fer-î sâdik: (Hi: 83-148) Hazret-i Ali'nin (R.A.) torununun torunudur. Medine-i Münevvere'de yaşamıştır. Annesi, Hazret-i Ebu Bekir'in soyundandır. Mânevi nüfuzu çok ileri idi, dine büyük hizmetleri görüldü. Demiştir ki: "Kim nefsi için nefsi ile mücâhede ederse, keramete kavuşur, kim de Allah için nefsi ile mücâhede ederse, Allah'a kavuşur." Eimme-i îsnâ Aşerin altıncısıdır. (K.S.)
 îmam-i ebu yusuf: (Hi: 113-182) îmam-ı A'zam'ın fıkha dair eserlerini te'lif etmiştir. Fıkıh sahasının büyük imamlarındandır. Dedesi Sahabe-i Kiramdan Sa'd'dır. (R.A.) îmam-ı Muhammed'le ikisine Fıkıh kitablarında "îmameyn" denir. (K.S.)
 îmam-i gazalî: Ahirete irtihâli Hi: 505 dir. "Hüccet-ül îslâm îmam-ı Muhammed Gazali" diye anılır. O zamanın felsefesinin bâtıl akidelerini red ve cerh ederek Kur'anın eşsizliğini ve hakkaniyet ve mu'cizeliğini isbat etmiş pek çok eserler vermiştir. (K.S.)
@@ -1661,7 +1661,7 @@
 îmtîha': Bileme veya bilenilme, yahut da bilenme.
 îmtîha-yî seyf: Kılıcın bilenmesi, keskinleştirilmesi.
 îmtîhak: Bozulma.
-îmtîhan: Deneme, Tecrübe etmek. * Bir şeyin hakikatına ıttılâ peyda etmek için çok dikkatle düşünmek. * Salâhiyet veya salâhiyetsizliğini anlamak için yapılan teftiş ve tecrübe.(Hakim-i Ezeli, inâyet-i sermediye ve hikmet-i ezeliyenin iktizası ile, şu dünyayı, tecrübeye mahal ve imtihana meydan ve esmâ-i hüsnâsına âyine ve kalem-i kader ve kudretine sahife olmak için yaratmış ve tecrübe ve imtihan ise neşv ü nemâya sebeptir. O neşv ü nemâ ise, istidatların inkişafına sebeptir. O inkişaf ise, kabiliyetlerin tezahürüne sebeptir. O kabiliyetlerin tezahürü ise, hakaik-ı nisbiyenin zuhuruna sebebtir. Hakaik-ı nisbiyenin zuhuru ise, Sâni-i Zülcelâlin esmâ-i hüsnâsının nukuş-u tecelliyatını göstermesine ve kâinatı mektubat-ı Samedaniyye suretine çevirmesine sebeptir. îşte bu sırr-ı imtihan ve sırr-ı teklif iledir ki; ervâh-ı âliyenin elmas gibi cevherleri ervâh-ı sâfilenin kömür gibi maddelerinden tasaffi eder, ayrılır.îşte, bu mezkur sırlar gibi daha bilmediğimiz çok ince, âli hikmetler için, âlemi bu surette irade ettiğinden şu âlemin tegayyür ve tahavvülünü dahi o hikmetler için irade etti. Tahavvül ve tegayyür için zıtları birbirine hikmetle karıştırdı ve karşı karşıya getirdi. Zararları menfaatlara mezcederek, şerleri hayırlara idhal ederek, çirkinlikleri güzelliklere cem'ederek, hamur gibi yoğurarak şu kâinatı tebeddül ve tagayyür kanununa ve tahavvül ve tekâmül düsturuna tâbi kıldı. Vaktaki meclis-i imtihan kapandı. Tecrübe vakti bitti. Esmâ-i Hüsnâ hükmünü icra etti. Kalem-i kader, mektubatını tamamiyle yazdı. Kudret, nukuş-u san'atını tekmil etti. Mevcudat, vezaifini ifa etti. Mahlukat, hizmetlerini bitirdi. Herşey, mânasını ifade etti. Dünya, âhiret fidanlarını yetiştirdi. Zemin, Sâni-i Kadir'in bütün mu'cizat-ı kudretini, umum havârık-ı san'atını teşhir edip gösterdi. şu âlem-i fena, sermedi manzaraları teşkil eden levhaları zaman şeridine taktı. O Sâni-i Zülcelâl'in hikmet-i sermediyyesi ve inayet-i ezeliyyesi; o imtihan neticelerini, o tecrübenin neticelerini, o Esmâ-i Hüsna'nın tecellilerinin hakikatlarını, o kalem-i kader mektubatının hakaikını, o nümune-misal nukuş-u san'atının asıllarını, o vezaif-i mevcudatın faidelerini, gayelerini, o hidemat-ı mahlukatın ücretlerini ve o kelimat-ı kitab-ı kâinatın ifade ettikleri mânaların hakikatlarını ve istidat çekirdeklerinin sünbüllenmesini ve bir mahkeme-i kübra açmasını ve dünyadan alınmış misali manzaraların göstermesini ve esbab-ı zâhiriyyenin perdesinin yırtmasını ve herşey doğrudan doğruya Hâlik-ı Zülcelâline teslim etmesi gibi hakikatları iktiza etti ve o mezkur hakikatları iktiza ettiği için, kâinatı dağdağa-i tagayyür ve fenadan, tahavvül ve zevalden kurtarmak ve ebedileştirmek için o zıtların tasfiyesini istedi ve tagayyürün esbabını ve ihtilâfatın maddelerini tefrik etmek istedi. Elbette kıyameti koparacak ve o neticeler için tasfiye edecek. îşte şu tasfiyenin neticesinde cehennem, ebedi ve dehşetli bir suret alıp, taifeleri $ tehdidine mazhar olacak. Cennet; ebedi, haşmetli bir suret giyerek ehli ve ashabı $ hitabına mazhar olacak. S.)
+îmtîhan: Deneme, Tecrübe etmek. * Bir şeyin hakikatına ıttılâ peyda etmek için çok dikkatle düşünmek. * Salâhiyet veya salâhiyetsizliğini anlamak için yapılan teftiş ve tecrübe.(Hakim-i Ezeli, inâyet-i sermediye ve hikmet-i ezeliyenin iktizası ile, şu dünyayı, tecrübeye mahal ve imtihana meydan ve esmâ-i hüsnâsına âyine ve kalem-i kader ve kudretine sahife olmak için yaratmış ve tecrübe ve imtihan ise neşv ü nemâya sebeptir. O neşv ü nemâ ise, istidatların inkişafına sebeptir. O inkişaf ise, kabiliyetlerin tezahürüne sebeptir. O kabiliyetlerin tezahürü ise, hakaik-ı nisbiyenin zuhuruna sebebtir. Hakaik-ı nisbiyenin zuhuru ise, Sâni-i Zülcelâlin esmâ-i hüsnâsının nukuş-u tecelliyatını göstermesine ve kâinatı mektubat-ı Samedaniyye suretine çevirmesine sebeptir. îşte bu sırr-ı imtihan ve sırr-ı teklif iledir ki; ervâh-ı âliyenin elmas gibi cevherleri ervâh-ı sâfilenin kömür gibi maddelerinden tasaffi eder, ayrılır.îşte, bu mezkur sırlar gibi daha bilmediğimiz çok ince, âli hikmetler için, âlemi bu surette irade ettiğinden şu âlemin tegayyür ve tahavvülünü dahi o hikmetler için irade etti. Tahavvül ve tegayyür için zıtları birbirine hikmetle karıştırdı ve karşı karşıya getirdi. Zararları menfaatlara mezcederek, şerleri hayırlara idhal ederek, çirkinlikleri güzelliklere cem'ederek, hamur gibi yoğurarak şu kâinatı tebeddül ve tagayyür kanununa ve tahavvül ve tekâmül düsturuna tâbi kıldı. Vaktaki meclis-i imtihan kapandı. Tecrübe vakti bitti. Esmâ-i Hüsnâ hükmünü icra etti. Kalem-i kader, mektubatını tamamiyle yazdı. Kudret, nukuş-u san'atını tekmil etti. Mevcudat, vezaifini ifa etti. Mahlukat, hizmetlerini bitirdi. Herşey, mânasını ifade etti. Dünya, âhiret fidanlarını yetiştirdi. Zemin, Sâni-i Kadir'in bütün mu'cizat-ı kudretini, umum havârık-ı san'atını teşhir edip gösterdi. şu âlem-i fena, sermedi manzaraları teşkil eden levhaları zaman şeridine taktı. O Sâni-i Zülcelâl'in hikmet-i sermediyyesi ve inayet-i ezeliyyesi; o imtihan neticelerini, o tecrübenin neticelerini, o Esmâ-i Hüsna'nın tecellilerinin hakikatlarını, o kalem-i kader mektubatının hakaikını, o nümune-misal nukuş-u san'atının asıllarını, o vezaif-i mevcudatın faidelerini, gayelerini, o hidemat-ı mahlukatın ücretlerini ve o kelimat-ı kitab-ı kâinatın ifade ettikleri mânaların hakikatlarını ve istidat çekirdeklerinin sünbüllenmesini ve bir mahkeme-i kübra açmasını ve dünyadan alınmış misali manzaraların göstermesini ve esbab-ı zâhiriyyenin perdesinin yırtmasını ve herşey doğrudan doğruya Hâlik-ı Zülcelâline teslim etmesi gibi hakikatları iktiza etti ve o mezkur hakikatları iktiza ettiği için, kâinatı dağdağa-i tagayyür ve fenadan, tahavvül ve zevalden kurtarmak ve ebedileştirmek için o zıtların tasfiyesini istedi ve tagayyürün esbabını ve ihtilâfatın maddelerini tefrik etmek istedi. Elbette kıyameti koparacak ve o neticeler için tasfiye edecek. îşte şu tasfiyenin neticesinde cehennem, ebedi ve dehşetli bir suret alıp, taifeleri tehdidine mazhar olacak. Cennet; ebedi, haşmetli bir suret giyerek ehli ve ashabı hitabına mazhar olacak. S.)
 îmtîhan: Hor ve zelil kılmak.
 îmtîhaz: Hâlis, katıksız ve saf olma. Durulanma.
 îmtîkâr: (Mekr. den) Oyuna kanma, aldanma.
@@ -1969,7 +1969,7 @@
 înma': (Nemâ. dan) Arttırma, nemâlandırma.
 înme: t. Nüzul, tenezzül. * Nüzul, felç, sekte.
 înnâ: (înne ile Na zamirinin birleşmesi ile meydana gelmiştir) şüphesiz biz (meâlindedir.)
-înne: Gr: Tahkik edatıdır. Kat'iyyet ifade eder. $ gibi bazı harf ve fiiller vardır ki, başına geldikleri isim cümlesinin kimi mübtedasına, kimi haberine te'sir ederek onların adını ve i'rabını değiştirirler. Bunun için bunlara "neshedenler, başka hâle getirip değiştirenler" mânâsına "nevâsih" denir. şu altı edat (harf), başına geldikleri isim cümlesinin mübtedasını merfu' iken mensub kılarlar. Sıra ile bu harflere "inne ve ehavâtihâ" (inne ve kardeşleri) ismi verilir ve şunlardır: $
+înne: Gr: Tahkik edatıdır. Kat'iyyet ifade eder. gibi bazı harf ve fiiller vardır ki, başına geldikleri isim cümlesinin kimi mübtedasına, kimi haberine te'sir ederek onların adını ve i'rabını değiştirirler. Bunun için bunlara "neshedenler, başka hâle getirip değiştirenler" mânâsına "nevâsih" denir. şu altı edat (harf), başına geldikleri isim cümlesinin mübtedasını merfu' iken mensub kılarlar. Sıra ile bu harflere "inne ve ehavâtihâ" (inne ve kardeşleri) ismi verilir ve şunlardır:
 înne-mâ: Ancak edatı ile, beyan olunan şey hakkındaki hükmü, maadâsından nefy etmek için kullanılır.
 înnî: şüphesizlik ve kat'iyyet ifade eden "inne" ile mütekellim zamirinin birleşmesidir. Türkçede karşılığını "muhakkak ben" diye söyleyebiliriz.
 înnî: Tecrübe ile edinilen, olaylardan çıkarılan netice.
@@ -2046,7 +2046,7 @@
 înşak: Koklatma. Buruna kokulu bir şey çektirme. * Tuzağa veya ağa iliştirme.
 înşar: ölüyü diriltme. (Bu fiil, Allah'a mahsus olmak kaydiyle: înşar-ı emvat denir.)
 înşat: Ferahlandırma. Neş'elendirme. Sürurlandırma.
-înşaz : Yükseltme.
+înşaz : Yükseltme.
 înşîab: şubelendirme. Ayırma. şubelere ayrılma. * Bölük bölük olma. * Dalbudak verme.
 înşîal: Alevlenme, şulelenme.
 înşîbab: Gençleşme, delikanlı olma.
@@ -2056,7 +2056,7 @@
 înşîkak: îkiye ayrılma. çatlama. Yarılma.
 înşîkak suresî: Kur'an-ı Kerim'in 84. Suresi olup înşakkat suresi de denir. Mekki'dir.
 înşîkak-i asâ : Değneğin kırılması. * Mc: îhtilaf, karışıklık, ikilik. Birliğin bozulması.
-înşîkak-i kamer: Ay'ın parçalanması. Peygamberimiz Hazret-i Muhammed Aleyhissalâtü vesselâmın mu'cizesi eseri olarak gökte ay'ın en parlak olduğu bir zamanda ikiye ayrılması. (...Hem Resul-i Ekrem'in (A.S.M.) mütevatir ve kat'i bir mu'cize-i kübrası "şakk-ı Kamer" dir. Evet, şu "înşikak-ı Kamer" çok tariklerle mütevatir bir surette, îbn-i Mes'ud, îbn-i Abbas, îbn-i ömer, îmâm-ı Ali, Enes, Huzeyfe gibi pek çok eâzım-ı sahâbeden müteaddid tariklerle haber verilmekle beraber, Nass-ı Kur'an ile $ âyeti, o mu'cize-i kübrâyı âleme ilân etmiştir. O zamanın inatçı Kureyş müşrikleri, şu âyetin verdiği habere karşı inkâr ile mukabele etmemişler, belki yalnız "sihirdir" demişler. Demek kâfirlerce dahi Kamerin inşikakı kat'idir. M.)
+înşîkak-i kamer: Ay'ın parçalanması. Peygamberimiz Hazret-i Muhammed Aleyhissalâtü vesselâmın mu'cizesi eseri olarak gökte ay'ın en parlak olduğu bir zamanda ikiye ayrılması. (...Hem Resul-i Ekrem'in (A.S.M.) mütevatir ve kat'i bir mu'cize-i kübrası "şakk-ı Kamer" dir. Evet, şu "înşikak-ı Kamer" çok tariklerle mütevatir bir surette, îbn-i Mes'ud, îbn-i Abbas, îbn-i ömer, îmâm-ı Ali, Enes, Huzeyfe gibi pek çok eâzım-ı sahâbeden müteaddid tariklerle haber verilmekle beraber, Nass-ı Kur'an ile âyeti, o mu'cize-i kübrâyı âleme ilân etmiştir. O zamanın inatçı Kureyş müşrikleri, şu âyetin verdiği habere karşı inkâr ile mukabele etmemişler, belki yalnız "sihirdir" demişler. Demek kâfirlerce dahi Kamerin inşikakı kat'idir. M.)
 înşîlal: şiddetle dökülerek akma. * (Su) uçurumdan dökülerek şelâle meydana getirme.
 înşîmar: Sallana sallana yürüme.
 înşînac: Buruşma. Derinin buruşması.
@@ -2176,11 +2176,11 @@
 înzîcar: çekilmek, vazgeçmek.
 înzîmam: Bağlanma. * Yular ile bağlanma.
 înzîmam: (Bak: înzımam)
-înzîva : Feragat edip bir tarafa çekilmek. Bir işe karışmamak. Dünya işlerini bırakmak. Süfli ve hevesi işleri bırakıp ilm-i Kur'an ve imanla, ibadet ve taatla, Kur'ân ve imana hizmetle vakit geçirmek.
+înzîva : Feragat edip bir tarafa çekilmek. Bir işe karışmamak. Dünya işlerini bırakmak. Süfli ve hevesi işleri bırakıp ilm-i Kur'an ve imanla, ibadet ve taatla, Kur'ân ve imana hizmetle vakit geçirmek.
 înzîva-gerde: înzivaya çekilen.
 îp parasi: Mc: Belâyı savmak için verilen şey.
 îplîkhane: Eskiden suç işlemiş kimselerin hapsedilip çalıştırıldıkları yere verilen addır. * Gemilere lüzumlu halatlarla yelken bezini yapan eski bir deniz müessesenin adı idi.
-îpnotîzma : (Fr: Hypnotisme) Telkin ile kabiliyetli bir kimsenin üzerinde, söz ve bakış ile elde edilen bir çeşit uyku hâli. * Uyuşukluk. îradesizlik hâli ve bu hâle ait vaziyetler.
+îpnotîzma : (Fr: Hypnotisme) Telkin ile kabiliyetli bir kimsenin üzerinde, söz ve bakış ile elde edilen bir çeşit uyku hâli. * Uyuşukluk. îradesizlik hâli ve bu hâle ait vaziyetler.
 îpotek: Fr. Bir borcun ödeneceği zamana kadar borçlunun alacaklıya vermiş olduğu değerli şey. Rehin.
 îptîda: (Bak: îbtida) 
 îpucu: Mc: Emare, işaret, alâmet, delil, vesika.
@@ -2341,7 +2341,7 @@
 îrtîbas: Perişan ve zor durumda kalma. * Pek karışık ve sıkışık olma.
 îrtîbat: Bağlanmak, raptedilmek. Muhabbet, dostluk ve alâkadarlık. * Düşmana karşı cenk için hudutta at sahibi olmak.
 îrtîca: Ummak, ümidetmek, rica etmek.
-îrtîca: Geri dönmek. Ric'at etmek. Eski hayat tarzına dönmek.(îşte Kur'an'ın bu gibi kudsi kanun-u esasisine irtica namını veren bedbahtlar, vahşet ve bedeviliğin dehşetli bir kanun-u esasisi olarak kabul ettikleri şimdiki öylelerinin siyasetinin bir nokta-i istinadı şudur ki: "Cemaatin selâmeti için fert feda edilir. Vatanın selâmeti için eşhasın hukuku nazara alınmaz. Devletin siyasetinin selâmeti için cüz'i zulümler nazara alınmaz" diye bir tek câni yüzünden bir köyü mahvetmekle bin mâsumun hakkını nazara almaz. Bir tek câninin yüzünden bin adamın kılınçdan geçmesini caiz görür. Bir adamın yaralanması ile binler mâsumu sıkıntıya verdirir. Ve ikiyüz adamı kurşuna dizilmesini o bahane ile nazara almaz. Birinci Harb-i Umumi'de üç bin adamın câniyane siyaset hatalariyle otuz milyon biçâre nev'-i beşer aynı harpde mahvedildiği gibi, binler misaller var. îşte bu vahşiyâne irticaın bu dehşetli zulümlerine karşı gelen Kur'an şakirdlerinin Kur'anın yüzer kanun-u esasisinden $ âyetinin ders verdiği kanun-u esasisi ile adâlet-i hakikiyeyi ve ittihadı ve uhuvveti te'min etmeğe çalışan ehl-i iman fedakârlarına "mürteci" namını verip onları müttehem etmek, mel'un Yezid'in zulmünü, adalet-i ömeriyeye tercih etmek misillü en vahşi ve zâlimane bir engizisyon kanununu, beşerin en yüksek terakkiyatına ve adaletine medar olan Kur'an'ın mezkûr kanun-u esasisine tercih etmek hükmündedir. Emirdağ L.) (Bak: Medeniyet, Mürteci')
+îrtîca: Geri dönmek. Ric'at etmek. Eski hayat tarzına dönmek.(îşte Kur'an'ın bu gibi kudsi kanun-u esasisine irtica namını veren bedbahtlar, vahşet ve bedeviliğin dehşetli bir kanun-u esasisi olarak kabul ettikleri şimdiki öylelerinin siyasetinin bir nokta-i istinadı şudur ki: "Cemaatin selâmeti için fert feda edilir. Vatanın selâmeti için eşhasın hukuku nazara alınmaz. Devletin siyasetinin selâmeti için cüz'i zulümler nazara alınmaz" diye bir tek câni yüzünden bir köyü mahvetmekle bin mâsumun hakkını nazara almaz. Bir tek câninin yüzünden bin adamın kılınçdan geçmesini caiz görür. Bir adamın yaralanması ile binler mâsumu sıkıntıya verdirir. Ve ikiyüz adamı kurşuna dizilmesini o bahane ile nazara almaz. Birinci Harb-i Umumi'de üç bin adamın câniyane siyaset hatalariyle otuz milyon biçâre nev'-i beşer aynı harpde mahvedildiği gibi, binler misaller var. îşte bu vahşiyâne irticaın bu dehşetli zulümlerine karşı gelen Kur'an şakirdlerinin Kur'anın yüzer kanun-u esasisinden âyetinin ders verdiği kanun-u esasisi ile adâlet-i hakikiyeyi ve ittihadı ve uhuvveti te'min etmeğe çalışan ehl-i iman fedakârlarına "mürteci" namını verip onları müttehem etmek, mel'un Yezid'in zulmünü, adalet-i ömeriyeye tercih etmek misillü en vahşi ve zâlimane bir engizisyon kanununu, beşerin en yüksek terakkiyatına ve adaletine medar olan Kur'an'ın mezkûr kanun-u esasisine tercih etmek hükmündedir. Emirdağ L.) (Bak: Medeniyet, Mürteci')
 îrtîcac: çalkanmak. Heyecana gelme. * Sarsıntı. Muztaribane hareket etmek.
 îrtîcac-i deryâ: Denizin kabarması, dalgalanması.
 îrtîcaf: (Recfe. den) Sarsma, sarsıntı, çalkalama. Tahrik.
@@ -2445,7 +2445,7 @@
 î'sar: îkindi zamanında bulunmak. * Kızın gelinlik çağına gelmesi. * Kasırga.
 îs'ar: Narh koyma, fiat veya pahâ biçme.
 îs'ar: çocuğun diş çıkarması.
-îsar: Kendisi muhtaç olduğu halde başkasına nimet vermek, cömertlik, ikrâm. * îhtiyar etmek. * Yumuşatmak. * Dökmek, serpmek. Saçmak.(...Sahabelerin, sena-i Kur'aniyeye mazhar olan "îsar hasletini" kendine rehber etmek, yâni hediye ve sadakanın kabulünde başkasını kendine tercih etmek; ve hizmet-i diniyenin mukabilinde gelen menfaat-ı maddiyeyi istemeden ve kalben taleb etmeden, sırf bir ihsan-ı îlâhi bilerek, nâsdan minnet almıyarak ve hizmet-i diniyenin mukabilinde de almamaktır.(çünki hizmet-i diniyenin mukabilinde dünyada bir şey istenilmemeli ki ihlâs kaçmasın. çendan hakları var ki, ümmet onların maişetlerini temin etsin. Hem zekâta da müstehaktırlar. Fakat bu istenilmez; belki verilir. Verildiği vakitte, hizmetimin ücretidir denilmez. Mümkün olduğu kadar kanaatkârane başka ehil ve daha müstehak olanların nefsini kendi nefsine tercih etmek $ sırrına mazhariyetle, bu müdhiş tehlikeden kurtulup ihlâsı kazanabilir... L.)
+îsar: Kendisi muhtaç olduğu halde başkasına nimet vermek, cömertlik, ikrâm. * îhtiyar etmek. * Yumuşatmak. * Dökmek, serpmek. Saçmak.(...Sahabelerin, sena-i Kur'aniyeye mazhar olan "îsar hasletini" kendine rehber etmek, yâni hediye ve sadakanın kabulünde başkasını kendine tercih etmek; ve hizmet-i diniyenin mukabilinde gelen menfaat-ı maddiyeyi istemeden ve kalben taleb etmeden, sırf bir ihsan-ı îlâhi bilerek, nâsdan minnet almıyarak ve hizmet-i diniyenin mukabilinde de almamaktır.(çünki hizmet-i diniyenin mukabilinde dünyada bir şey istenilmemeli ki ihlâs kaçmasın. çendan hakları var ki, ümmet onların maişetlerini temin etsin. Hem zekâta da müstehaktırlar. Fakat bu istenilmez; belki verilir. Verildiği vakitte, hizmetimin ücretidir denilmez. Mümkün olduğu kadar kanaatkârane başka ehil ve daha müstehak olanların nefsini kendi nefsine tercih etmek sırrına mazhariyetle, bu müdhiş tehlikeden kurtulup ihlâsı kazanabilir... L.)
 îsar: Sargı, bağ. * Esirlik, kölelik.
 îsar: Keçinin memesine takılan torba, kese.
 îsar: Zengin, maldâr olmak; gani olmak.
@@ -2462,7 +2462,7 @@
 îsbat-i hüner: Maharet ve hüner gösterme.
 îsbat-i vücud: Hazır bulunma. Varlığını gösterme.
 îsbatîyecîlîk: (Fr: Pozitivizm) Fls: Bu felsefe nazariyesine göre, isbat yolu ile yakin, şüphesiz bilginin elde edilebilmesi, tecrübelerle müşahadelerle ve vakıalara istinaden mümkün olacağı iddia edilir. îsbat şeklini ve sahasını daraltıp sadece maddiyata münhasır kılan bu anlayış yalnız maddiyata ait mes'eleler için doğrudur.(Bir şeyden uzak olan bir kimse yakın olan adam kadar o şeyi göremez. Ne kadar zeki olursa olsun, o şeyin ahvali hakkında ihtilâfları olduğu zaman yakın olanın sözü muteberdir. Binaenaleyh Avrupa feylesofları maddiyatta şiddet-i tevaggulden dolayı imân, îslâm ve Kur'ân'ın hakaikından pek uzak mesafelerde kalmışlardır. Onların en büyüğü yakından hakaik-ı îslâmiyeye vukufu olan âmi bir adam gibi de değildir. Ben böyle gördüm, nefs-ül emir de benim gördüğümü tasdik eder. Binaenaleyh şimşek, buhar gibi fenni meseleleri keşfeden feylesoflar Hakk'ın esrarını Kur'ân nurlarını da keşfedebilir diyemezsin. Zira, onun aklı gözündedir. Göz, kalb ve ruhun gördüklerini göremez. çünkü kalblerinde can kalmamıştır. Gaflet o kalbleri tabiat bataklığında çürütmüştür. M.N.) (Bak: Rasyonalizm)
-îsbî': (C.: Esâbi) Parmak. * ölçü parmağı, arşının yirmidörtte biri. (Türkçede: $ telaffuz edilir.)
+îsbî': (C.: Esâbi) Parmak. * ölçü parmağı, arşının yirmidörtte biri. (Türkçede: telaffuz edilir.)
 îsevî: Hz. îsa'nın (A.S.) dininden olan. Nasrani. Hristiyan.
 îsevîyyet: Hristiyanlık.
 îsfar: Sabah namazının ortalık aydınlanırken kılınışı.
@@ -2550,7 +2550,7 @@
 îsmetmeâb: îsmetlü. Günahsız. Haramdan ve nâmusa dokunur hâllerden çekinen.
 îsmetpenah: îsmetlü, ismetmeâb.
 îsmî: (îsmiyye) îsme mensub, isimle alâkalı. îsmen olup aslen olmayan, varlığı isimden ibâret olan. îsim cinsinden. * Arabçadan iki isimden, yani; müsned ile müsned-i ileyhten mürekkep cümle.
-îsmî ve sifatî : îsme ve sıfata ait.
+îsmî ve sifatî : îsme ve sıfata ait.
 îsmîd: Sürme taşı. * Cenab-ı Peygamber'in kullandığı ve tavsiye ettiği bir cins kırmızı sürme.
 îsmîrar: (Semrâ. dan) Esmerleşme, kara olma, kararma.
 îsmîyyet: îsim olma hâli, isimlilik.
@@ -2741,7 +2741,7 @@
 îstîfzal: Artırma, çoğaltma, ziyadeleştirme.
 îstîgase: Medet isteyiş. Yardım istemek.
 îstîgbar: (Gubar. dan) Tozlaşma.
-îstîğfar: (Gufran. dan) Afv dilemek. Cenab-ı Hak'tan kusurlarının affedilmesini, günahlarının bağışlanmasını dilemek. Tevbe etmek. Yalvarmak. " Estağfirullâh" demek.(Cehennem azabını intaç eden büyük bir günahı işleyen bir adam, Cehennem'in tehdidatını işittikçe istiğfar ile ona karşı siper almazsa bütün ruhiyle Cehennem'in ademini arzu ettiğinden küçük bir emare ve bir şüphe Cehennem'in inkârına cesaret veriyor. L.)(şeytanın mühim bir desisesi: însana kusurunu itiraf ettirmemektir. Tâ ki, istiğfar ve istiaze yolunu kapasın. Hem nefs-i insaniyenin enaniyetini tahrik edip, tâ ki, nefis kendini avukat gibi müdafaa etsin; âdeta taksiratdan takdis etsin. Evet şeytanı dinleyen bir nefis, kusurunu görmek istemez; görse de, yüz te'vil ile te'vil ettirir. $ sırriyle: Nefsine nazar-ı rıza ile baktığı için ayıbını görmez. Ayıbını görmediği için itiraf etmez, istiğfar etmez, istiaze etmez; şeytana maskara olur. Hazret-i Yusuf Aleyhisselâm gibi bir Peygamber-i Alişan, $ dediği halde, nasıl nefse itimad edilebilir. Nefsini ittiham eden, kusurunu görür. Kusurunu itiraf eden, istiğfar eder. îstiğfar eden, istiaze eder. îstiaze eden, şeytanın şerrinden kurtulur. Kusurunu görmemek, o kusurdan daha büyük bir kusurdur. Ve kusurunu itiraf etmemek, büyük bir noksanlıktır. Ve kusurunu görse, o kusur kusurluktan çıkar; itiraf etse, afva müstahak olur. L.)
+îstîğfar: (Gufran. dan) Afv dilemek. Cenab-ı Hak'tan kusurlarının affedilmesini, günahlarının bağışlanmasını dilemek. Tevbe etmek. Yalvarmak. " Estağfirullâh" demek.(Cehennem azabını intaç eden büyük bir günahı işleyen bir adam, Cehennem'in tehdidatını işittikçe istiğfar ile ona karşı siper almazsa bütün ruhiyle Cehennem'in ademini arzu ettiğinden küçük bir emare ve bir şüphe Cehennem'in inkârına cesaret veriyor. L.)(şeytanın mühim bir desisesi: însana kusurunu itiraf ettirmemektir. Tâ ki, istiğfar ve istiaze yolunu kapasın. Hem nefs-i insaniyenin enaniyetini tahrik edip, tâ ki, nefis kendini avukat gibi müdafaa etsin; âdeta taksiratdan takdis etsin. Evet şeytanı dinleyen bir nefis, kusurunu görmek istemez; görse de, yüz te'vil ile te'vil ettirir. sırriyle: Nefsine nazar-ı rıza ile baktığı için ayıbını görmez. Ayıbını görmediği için itiraf etmez, istiğfar etmez, istiaze etmez; şeytana maskara olur. Hazret-i Yusuf Aleyhisselâm gibi bir Peygamber-i Alişan, dediği halde, nasıl nefse itimad edilebilir. Nefsini ittiham eden, kusurunu görür. Kusurunu itiraf eden, istiğfar eder. îstiğfar eden, istiaze eder. îstiaze eden, şeytanın şerrinden kurtulur. Kusurunu görmemek, o kusurdan daha büyük bir kusurdur. Ve kusurunu itiraf etmemek, büyük bir noksanlıktır. Ve kusurunu görse, o kusur kusurluktan çıkar; itiraf etse, afva müstahak olur. L.)
 îstîglab: Kemâle erme, olgunlaşma, gelişme.
 îstîglak: Sözde durma. Kesin olarak pazarlık etme.
 îstîglal: (Galle. den) Kirası veya mahsulü borca mukabil verilmek üzere bir mülkün rehine verilmesi.
@@ -2986,7 +2986,7 @@
 îstîrak-i sem': Haber çalmak, kulak hırsızlığı.
 îstîrbah: (Rıbh. den) Fâize para yatırma, fazla faizle verme.
 îstîrca: (Recâ. dan) Yalvarma, dileme, rica etme.
-îstîrca': Geri dönmek. Dönmeği arzulamak. * îlm-i Hâlde: Bir cenaze gördüğü zaman: $ diye söylemek.
+îstîrca': Geri dönmek. Dönmeği arzulamak. * îlm-i Hâlde: Bir cenaze gördüğü zaman: diye söylemek.
 îstîrda': çocuk emzirtme.
 îstîrdad: Geri almak. Geri almayı istemek.
 îstîrdaf: Beraber olmayı istemek, beraber gitmeği arzu etmek.
@@ -3040,7 +3040,7 @@
 îstîslal: çekip çıkarma, sıyırma.
 îstîslam: Uyma, tabi olma. * Müslümanlığı kabul etme. îslâm olma. * Yolun ortasından gitme.
 îstîsmar: Menfaatine âlet etmek. îşletmek. * Kıymetlendirmek. Sömürmek.
-îstîsna: Ayırmak. Kaide dışı bırakmak. Müstesna kılmak. * Arapçada istisnâ kelimeleri şunlardır: $
+îstîsna: Ayırmak. Kaide dışı bırakmak. Müstesna kılmak. * Arapçada istisnâ kelimeleri şunlardır:
 îstîsnaat: (îstisna. C.) îstisnalar, müstesna kılmalar, ayırmalar.
 îstîsnaî: îstisnaya âit. Ayırmayla alâkalı.
 îstîsnan: îhtiyarlama, yaşı ilerleme, yaşlılanma.
@@ -3126,7 +3126,7 @@
 îsvîdad-i cîld: Cildin kararması, esmerleşmesi.
 îsyan: îtaatsizlik. Emre karşı gelmek. Ayaklanmak.
 îş: Yaşayış. Yaşamak. Zevk u safa sürmek. * Hayata medar olan ve geçinilen şeyler. * Ekmek. Gıda.
-îş u nûş : Yiyip içme. Sefahet. îşret ve eğlence.
+îş u nûş : Yiyip içme. Sefahet. îşret ve eğlence.
 î'şa': Akşam yemeği verme.
 îş'a': Güneş, ışığını dağıtma. şuâlanma.
 îşa: (Ağaç) çiçek açma.
@@ -3176,7 +3176,7 @@
 îşhaz: Keskinleştirme, bileme.
 îşhaz-i seyf: Kılınç bileme.
 îşka': şaki ve bedbaht eylemek.
-îşka' «: şikâyet ettirme. * întikam alma, öç alma. * Darıltma, gücendirme.
+îşka' : şikâyet ettirme. * întikam alma, öç alma. * Darıltma, gücendirme.
 îşkâl: Güçleştirme, müşkilleştirme. * Zorlaştırma. * şüpheli ve karışık olma. 
 îşkampavîya: îtl. Harp gemilerinden asker naklinde kullanılan en büyük filika. îşkampaviya'lar sandal büyüklüğünde, yalnız ondan daha geniş ve yüksekti. Karaya asker sevkiyatında, gemiye erzak ve levâzım alınmasında kullanıldığı gibi eskiden donanmaya su alınacağı zaman su ile doldurulur, diğer bir filika yedeğinde geminin bordasına götürülerek geminin tulumbasıyla içindeki su nakledilirdi. (O.T.D.S.)
 îşkâr: Av. * Avlama.
@@ -3189,7 +3189,7 @@
 îşlek: t. çok işler, fazlaca işlenen. * Tecrübeli, idmanlı, alışık.
 îşmam: Hafif olarak duyurmak, koklatmak. Hissettirmek. * Kibirden dolayı başı dik yürümek. * Tecvidde: Bir harfe zamme veya kesre vermek ve bunu hafifçe hissettirmek. Harfin sesini genizden hissettirmek, biraz duyurmak, harfi çıtlatmak.
 îşmar: Göz kırpma, işaret.
-îşmî'zaz : Can sıkma, üzülme, yüzünü ekşitme. * Titreyip ürperme.
+îşmî'zaz : Can sıkma, üzülme, yüzünü ekşitme. * Titreyip ürperme.
 îşnuşe: Aksırık.
 îşpîhte: Su sızıntısı. * Yayılmış, saçılmış.
 îşporta: (Arnavutça) Seyyar satıcı tezgahı. * Yayvan yemiş sepeti.
@@ -3358,7 +3358,7 @@
 î'tîzam: (îtizam) Büyüklük kazanmak. Azametlenmek. Büyüklenmek.
 î'tîzam: Azim ve kasdeylemek. Gitmek üzere olmak. Fütursuz ve kasd üzere olmak.
 î'tîzar: Kusurunu bilerek özür dilemek. Kusurunu beyan edip ve anlayıp af dilemek. (Takdire şayan güzel bir haslettir.)
-î'tîzaz : Kendini aziz, izzetli saymak.
+î'tîzaz : Kendini aziz, izzetli saymak.
 îtkâ': Koltuk altına yastık veya dayak koyma. Dayanacak bir şey kullanma. * Yaslanma.
 îtkan: Pürüzsüz yapmak veya yapılmak. Sağlamlaştırmak. Hakikata yakından vakıf olmak, delileriyle bilmek, inanmak. Bilerek emin olmak. Muhkem kılmak, muhkem yapmak. Sâbit kılmak.
 îtkan-i muhkem: Bütün açıklığıyla bilerek sağlam yapmak.(...Ve şu kâinatta bir itkan-ı muhkem, bir insicam-ı ahkem görünüyor. Mâdem şu biçare, perişan küremiz, sergerdan zeminimiz bu kadar hadd ü hesaba gelmez zevil-hayat ile, zevil-ervah ile ve zevil-idrak ile dolmuştur. Elbette sâdık bir hads ile ve kat'i bir yakin ile hükmolunur ki: şu kusûr-u semaviye ve şu bürûc-u sâmiyenin dahi kendilerine münasib zihayat, zişuur sekeneleri vardır. S.)
@@ -3447,7 +3447,7 @@
 îyaz: (Bak: Iyâz)
 îyd: (Bak: îd)
 îyn: (Bak: în)
-îz (îzîn) ù: "Hem, vakt, yevm, hin" gibi kelimelerden sonra ek olarak kullanılır. Meselâ: Hineizin: O vakit ki. Yevmeizin: O gün ki, kelimelerinde olduğu gibi. * Mâzi fiillerinden evvel "iz" gelirse: îzküntü muallimen: Muallim olduğum zaman mânasına geliyor. (iz) Yazılmasa mânası, muallim idim olur.
+îz (îzîn): "Hem, vakt, yevm, hin" gibi kelimelerden sonra ek olarak kullanılır. Meselâ: Hineizin: O vakit ki. Yevmeizin: O gün ki, kelimelerinde olduğu gibi. * Mâzi fiillerinden evvel "iz" gelirse: îzküntü muallimen: Muallim olduğum zaman mânasına geliyor. (iz) Yazılmasa mânası, muallim idim olur.
 îza: Arabça kelimelerin başında kullanılırsa; birdenbire, bir de bakılır ki, gibi mânalara gelir. îsim cümlesinin evvelinde bulunur.
 îza: încitmek, eziyet etmek. încitilmek. (îza-i mü'min haramdır)
 îza': Hiza, sıra. * Bolluk ve refah sebebi.
@@ -3467,7 +3467,7 @@
 îzafat: (îzâfet. C.) îzafetler, isim takıları, isim tamlamaları. * Gr: Zincirleme isim tamlaması.
 îzafe(t): Bir şeyi bir kimseye veya bir şeye nisbet etmek, yakın etmek. îsnâd etmek. Katmak, katıştırmak. * Bir şey üzerine meylettirmek, havale olmak, bağlanmak. * Mal etmek. * Gr: îki isimden meydana gelen bağlılık tamlaması.
 îzafet-î maklub: Ters çevrilmiş terkib. Muzaf-un ileyh ile muzafın yer değiştirmesi olup, böylece birleşik isim ve sıfatlar yapılır. Bu terkibler semâidir; işitilmekle öğrenilir, bir kaideye bağlı değildir. Her terkib bu şekle sokulmaz. Meselâ: Tâb-ı meh: Meh-tâb: Ay ışığı. çeşm-i âhu: Ahu-çeşm: Ceylân gözlü. Nazar-ı haram: Haram-ı nazar... gibi.)
-îzafet-î maktu': Kesik tamlama. Terkib-i izafet-i maktu'da denir. Esre'yi kaldırmağa da fekk-i izafet denir. Yani izafetin kaldırılması demektir. Meselâ: Câme-hâb $: Yatak. Câme-i hâb $: Uyku elbisesi. Ser-rişte $: îp ucu, vesile, tutamak. Ser-i rişte $: îpin ucu.
+îzafet-î maktu': Kesik tamlama. Terkib-i izafet-i maktu'da denir. Esre'yi kaldırmağa da fekk-i izafet denir. Yani izafetin kaldırılması demektir. Meselâ: Câme-hâb: Yatak. Câme-i hâb: Uyku elbisesi. Ser-rişte: îp ucu, vesile, tutamak. Ser-i rişte: îpin ucu.
 îzafeten: îsnad etmek suretiyle, isnad ederek, ona bağlıyarak.
 îzafî: îzafetle alâkalı, izafete dâir. Ona bağlamak suretiyle. Alâkalı göstererek.
 îzafîyye: Münasebet. Bağlı oluş. Alâkalılık.
@@ -3494,7 +3494,7 @@
 îzar: Suyun dibi.
 îzare: Ziyaret ettirme.
 îzare: Bir kimseyi kuşkulandırıp vesveseye düşürme.
-î'zaz : Hürmet etmek. Ağırlamak. îkram etmek. Aziz kılmak. Galip gelmek.
+î'zaz : Hürmet etmek. Ağırlamak. îkram etmek. Aziz kılmak. Galip gelmek.
 î'zazen: îkram ederek, ağırlayarak.
 îzbad: Köpüklenme. * (Ağaç) çiçek açma.
 îzbar: Yazma. Yazma ile bildirme.

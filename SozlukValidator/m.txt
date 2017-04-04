@@ -19,7 +19,7 @@ ma-fî-l bal: Gönülde olan maksad ve meram. (Mâ-fi-z zamir de denilir.)
 ma-fî-l yed: Fık: Bir terekenin taksimi yapılmadan varislerden biri veya birkaçı ölürse, bunların terekelerinden varislerine düşen kendi mikdarları.
 ma-fî-l-bab: Kapı içinde. Bir kitabın içindeki bölümde (babda) olan şey.
 ma-fî-z zamîr: Kalbde ve gönülde olan.
-ma-hala: (Bir istisnâ edatıdır) Mâadâ mânasına gelir, kendinden sonraki kelimeyi nasb eder. $ (Allah'tan başka herşey fânidir) cümlesinde olduğu gibi.
+ma-hala: (Bir istisnâ edatıdır) Mâadâ mânasına gelir, kendinden sonraki kelimeyi nasb eder. (Allah'tan başka herşey fânidir) cümlesinde olduğu gibi.
 ma-halakallah: Allah'ın (C.C.) yarattığı ve halkettiği her şey. * Kalabalık, izdiham.
 ma-hîye: O şey ki.
 mâ-î cârî: Akarsu. (çay ve ırmak suları gibi.)
@@ -27,19 +27,19 @@ mâ-î îstîfhamîyye: Sual için kullanılan kelimenin başında gelir. (Mâh�
 mâ-î lezîz: Lezzetli ve tatlı su.
 mâ-î magsul: (Mâ-i müsta'mel) Kullanılmış su.
 mâ-î masdarîye: Başında bulunduğu cümleyi masdar mânasına ve hükmüne sokar.
-mâ-î mevsufe: şey mânasında nekre olup bir sıfattan evvel kullanılır. $ (Nazartu ilâ mâ mu'cebin leke: Sana hoş gelen şeye baktım) cümlesindeki gibi...Bazan da sıfatsız olur. $(Ni'me-mâ: Ne güzeldir) $ (Meselen-mâ: Bir misâl olarak) kelimelerinde gördüğümüz gibi.
-mâ-î mevsule : Buna ism-i mevsul de denir. Kendinden sonra gelecek küçük cümleyi daha önce geçen cümleye bağlar. $ (Ketebtu mâ kultü: Söylediğimi yazdım, ne söyledimse yazdım) cümlesinde olduğu gibi.
+mâ-î mevsufe: şey mânasında nekre olup bir sıfattan evvel kullanılır. (Nazartu ilâ mâ mu'cebin leke: Sana hoş gelen şeye baktım) cümlesindeki gibi...Bazan da sıfatsız olur.(Ni'me-mâ: Ne güzeldir) (Meselen-mâ: Bir misâl olarak) kelimelerinde gördüğümüz gibi.
+mâ-î mevsule : Buna ism-i mevsul de denir. Kendinden sonra gelecek küçük cümleyi daha önce geçen cümleye bağlar. (Ketebtu mâ kultü: Söylediğimi yazdım, ne söyledimse yazdım) cümlesinde olduğu gibi.
 mâ-î mukattar: înbikten geçirilmiş (damıtılmış), saf su.
 mâ-î mukayyed: Herhangi bir maddenin karışması ile yaratılmış oldukları hâlden çıkmış ve hususi bir ad almış sulardır. (Gül, çiçek, üzüm, asma, et suları gibi.)
 mâ-î mutlak: Yaratıldığı vasıf üzere duran su. (Yağmur, kar, deniz, göl, ırmak, pınar, kuyu sularıdır).
 mâ-î mükedder: Bulanık su.
 mâ-î münhemîr: Akıp giden su.
 mâ-î müstamel: Temiz olduğu halde temizleyici olmayan, kullanılmış olan sulardır.
-mâ-î nâfîyye: $(Ben kâmil değilim) misâlinde olduğu gibi mânayı nefyeder.
+mâ-î nâfîyye:(Ben kâmil değilim) misâlinde olduğu gibi mânayı nefyeder.
 mâ-î râkîd: Durgun su.
-mâ-î şartîye: îki muzariyi cezmeder, şart ve cezâ mânasını ifade eder. $(Ne yazarsan, yazarım) misalinde olduğu gibi.
+mâ-î şartîye: îki muzariyi cezmeder, şart ve cezâ mânasını ifade eder.(Ne yazarsan, yazarım) misalinde olduğu gibi.
 ma-î tesnîm: Cennet ırmaklarından biri.
-mâ-î zâîde: Bazı edat ve fiillerin sonuna fazladan olarak gelir. $ kelimelerinde olduğu gibi.
+mâ-î zâîde: Bazı edat ve fiillerin sonuna fazladan olarak gelir. kelimelerinde olduğu gibi.
 mâ-î zerrîn: Altun suyu.
 ma-kabl: öndeki. üstteki. Geçmişteki.
 ma-ul hayat: Mc: Haysiyyet. şeref, yüz suyu. * Hayat suyu. (Bak: Ab-ı hayat.)
@@ -170,7 +170,7 @@ madarîb: (Madrab. C.) Darbedilecek, dövülecek yerler.
 madca': Yatılan yer. * Kabir. Mezar.
 madde: Zahir duygularla hissedilen, ruhâni olmayıp, ağırlığı olan, cismâni bulunan. * Asıl, esas, cevher, mâye. * Bend, fıkra, kısım. * îlm-i Kelâmda: His âzâmız üzerine bir takım muayyen ihtisâsât husule getiren veya getirebilen, her şey. * Tıb: çıbanın içinde hasıl olan yara.
 madde-î acînîye: Hamur gibi yoğurulmuş cisim.
-madde-î musavvîre : Tıb: Kanın küreciklerinden başka gıda maddesinden olup, azot ve sair maddeleri içine alan sulu cisim. Canlı hücrelerin vücudunu teşkil eden ve içinde çoğunun çekirdek bulunan albüminli madde. Protoplazma.
+madde-î musavvîre : Tıb: Kanın küreciklerinden başka gıda maddesinden olup, azot ve sair maddeleri içine alan sulu cisim. Canlı hücrelerin vücudunu teşkil eden ve içinde çoğunun çekirdek bulunan albüminli madde. Protoplazma.
 madde-î ulyâ: Kıymetli cevher maddesi, yüksek madde. çok kıymetli şey.
 maddeten: Cismen. Madde ve cisim olarak. * îş olarak, iş ile. * Gözle görülür ve elle tutulur şekilde.
 maddî: (Maddiye) Cismâni. Madde ile alâkalı olan. Maddeye ait. * Paraca ve malca. * Paraya ve mala fazlaca ehemmiyet veren. * Dokunma, koklama, görme, işitme, tatma ile hissedilip duyulan şeyler.
@@ -311,9 +311,9 @@ magşîyane: Bayılmış gibi, baygıncasına.
 magşîyy: Aklı gitmiş hayran kimse.
 magşîyyen: Bayılmış olarak, baygın bir halde.
 magşîyyün aleyh: Bayılmış, baygın.
-magşuş : Katışık. Karışık. Saf olmayan.
+magşuş : Katışık. Karışık. Saf olmayan.
 magşuşe: Gümüş ve bakır karışığı akçe.
-magşuşîyyet : Halis ve saf olmayış. Karışıklık.
+magşuşîyyet : Halis ve saf olmayış. Karışıklık.
 magt: çekmek.
 magtus: Su, gaz veya hava gibi şeylerin içine batırılmış.
 magtuş: Karanlık yer.
@@ -598,18 +598,18 @@ mahsubât: (Mahsub. C.) Hesab edilmiş olanlar. Hesaba dahil edilmişler.
 mahsuben: Hesaplanarak. Hesaplı olarak. Hesabına kaydedilerek.
 mahsubîyet: Mahsubluk, mensubluk.
 mahsud: Kendine hased edilen. Kıskanılan kimse.
-mahsud : Biçilmiş ekin. * Ekini biçilmiş tarla.
+mahsud : Biçilmiş ekin. * Ekini biçilmiş tarla.
 mahsuf: Husufa uğramış. Gölgelenmiş. Perdelenmiş.
-mahsul : Husul bulan. Hâsıl olan. * Elde edilen şeyler. * Toprak ve hayvanlardan elde edilen şey.
-mahsulât : (Mahsul. C.) Mahsuller. Hâsılat. Tarladan, bahçeden veya hayvanlardan elde edilen gıda maddeleri.
+mahsul : Husul bulan. Hâsıl olan. * Elde edilen şeyler. * Toprak ve hayvanlardan elde edilen şey.
+mahsulât : (Mahsul. C.) Mahsuller. Hâsılat. Tarladan, bahçeden veya hayvanlardan elde edilen gıda maddeleri.
 mahsulât-i arzîye: Toprak mahsulleri.
 mahsulât-i sinâîye: Endüstri mahsulleri.
 mahsuldar: Verimli, bereketli. Mahsul veren.
-mahsun : îstihkâmlı. Kuvvetlendirilmiş. Sarp, sağlam ve metin kılınmış.
+mahsun : îstihkâmlı. Kuvvetlendirilmiş. Sarp, sağlam ve metin kılınmış.
 mahsur: Fersiz göz. Yorulmuş, uzun uzadıya bakmaktan donuklaşmış ve göremez olmuş göz.
 mahsur: Etrafı çevrilmiş. Muhasara altına alınmış. Hasrolunmuş. Hududlanmış. Kuşatılmış.
 mahsus: Duyulmuş. Hissedilmiş. Derk olunmuş. Duyulan. * Aşikâr, belli, zâhir, meydanda.
-mahsus : Ayrılmış, tâyin edilmiş. * Herkese âit olmayıp bazılara âit olmuş olan. Yalnız birine âid olan. Hususileşmiş. Müstakil. * Bile bile, istiyerek. * Yalandan, şakadan, lâtife olarak.
+mahsus : Ayrılmış, tâyin edilmiş. * Herkese âit olmayıp bazılara âit olmuş olan. Yalnız birine âid olan. Hususileşmiş. Müstakil. * Bile bile, istiyerek. * Yalandan, şakadan, lâtife olarak.
 mahsusa: Mahsus, hususi.
 mahsusat: Gözle görülen, hisle anlaşılan şeyler. (Ma'kulât'ın zıddı)
 mahsusen: Ayrıca, bile bile, mahsus olarak.
@@ -620,8 +620,8 @@ mahşer-î acâîb: Herkesi hayrete sevkeden toplanma. Veya toplanma yeri. * Hay
 mahşub: Kesilmeye elverişli olmadan kesilen ağaç.
 mahşud: Toplanmış. Yığılmış.
 mahşur: Toplanmış.
-mahşuş : Kuru ot.
-mahşuş : (Haşşe. den) îçine girilmiş. * Buğzedilmiş. * Gizlice bir şey verilmiş. * Karalanmış.
+mahşuş : Kuru ot.
+mahşuş : (Haşşe. den) îçine girilmiş. * Buğzedilmiş. * Gizlice bir şey verilmiş. * Karalanmış.
 mahşüv: Fazla. * îçi doldurulmuş.
 maht: şiddetli.
 maht: çıkarmak. * çekmek.
@@ -677,8 +677,8 @@ mahzuf: Silinmiş. * Yerinden düşürülmüş. Kaldırılmış. Hazfolunmuş. *
 mahzul: Hakir. Kıymetsiz. Perişan. Hor. Rüsvay.
 mahzulen: Hakir, kepaze, rezil ve rüsvay olarak.
 mahzum: Burnunun halkasıyla tutulan sığır ve deve. * Her delinmiş nesne.
-mahzun : Hazinede saklanan şey.
-mahzun : Tasalı. Kederli. Hüzünlü. Gamlı.
+mahzun : Hazinede saklanan şey.
+mahzun : Tasalı. Kederli. Hüzünlü. Gamlı.
 mahzunane: Kederlice, düşünceli, üzgünce.
 mahzunîyet: Mahzunluk. Kederli ve kaygılı oluş. üzüntülü olma.
 mahzur: Hazer edilecek şey. özür. Korkulacak şey. Müsaade olmayan. Mâni. çekinilecek şey.
@@ -740,7 +740,7 @@ makam-i cîfrî: Cifir hesabına göre olan netice, sayı değeri.
 makam-i hîtabî: Zanni delil ile iktifa edilen makam.
 makam-i hîzmet: Hizmet makamı. îş görme yeri.
 makam-i îbrahîm: (Bak: Kâbe)
-makam-i mahmud: (şefaat-ı Uzmâ) En yüksek şefaat makamı. Peygamberimizin (A.S.M.) kavuşacağı, Allah tarafından vaad edilen makam. $ Cenab-ı Hak va'dettiği halde, her ezan ve kametten sonra edilen mervi duada $ deniliyor; bütün ümmet o va'di ifa etmek için dua ederler. Bunun sırr-ı hikmeti nedir?Bu kadar tekrar ile kat'i verilecek olan bir şeyin vermesini istemesinin sırr-ı hikmeti şudur: îstenilen şey, meselâ Makam-ı Mahmud bir uçtur. Pek büyük ve binler Makam-ı Mahmud gibi mühim hakikatları ihtiva eden bir hakikat-ı âzamın bir dalıdır. Ve hilkat-ı kâinatın en büyük neticesinin bir meyvesidir. Ve ucu ve dalı ve o meyveyi duâ ile istemek ise; dolayısiyle o hakikat-ı umumiye-i uzmanın tahakkukunu ve vücud bulmasını ve o şecere-i hilkatın en büyük dalı olan âlem-i bâkinin gelmesini ve tahakkukunu ve kâinatın en büyük neticesi olan haşir ve kıyametin tahakkukunu ve dâr-ı saadetin açılmasını istemektir. Ve o istemekle, dâr-ı saadetin ve Cennet'in en mühim bir sebeb-i vücudu olan ubudiyet-i beşeriyeye ve daavât-ı insaniyyeye kendisi dahi iştirak etmektir. Ve bu kadar hadsiz derecede azim bir maksad için, bu hadsiz duâlar dahi azdır. Hem Hazret-i Muhammed Aleyhissalâtü Vesselâm'a Makam-ı Mahmud verilmesi, umum ümmete şefaat-ı kübrasına işarettir. Hem o, bütün ümmetinin saadetiyle alâkadardır. Onun için hadsiz salâvat ve rahmet duâlarını bütün ümmetten istemesi ayn-i hikmettir. ş.)
+makam-i mahmud: (şefaat-ı Uzmâ) En yüksek şefaat makamı. Peygamberimizin (A.S.M.) kavuşacağı, Allah tarafından vaad edilen makam. Cenab-ı Hak va'dettiği halde, her ezan ve kametten sonra edilen mervi duada deniliyor; bütün ümmet o va'di ifa etmek için dua ederler. Bunun sırr-ı hikmeti nedir?Bu kadar tekrar ile kat'i verilecek olan bir şeyin vermesini istemesinin sırr-ı hikmeti şudur: îstenilen şey, meselâ Makam-ı Mahmud bir uçtur. Pek büyük ve binler Makam-ı Mahmud gibi mühim hakikatları ihtiva eden bir hakikat-ı âzamın bir dalıdır. Ve hilkat-ı kâinatın en büyük neticesinin bir meyvesidir. Ve ucu ve dalı ve o meyveyi duâ ile istemek ise; dolayısiyle o hakikat-ı umumiye-i uzmanın tahakkukunu ve vücud bulmasını ve o şecere-i hilkatın en büyük dalı olan âlem-i bâkinin gelmesini ve tahakkukunu ve kâinatın en büyük neticesi olan haşir ve kıyametin tahakkukunu ve dâr-ı saadetin açılmasını istemektir. Ve o istemekle, dâr-ı saadetin ve Cennet'in en mühim bir sebeb-i vücudu olan ubudiyet-i beşeriyeye ve daavât-ı insaniyyeye kendisi dahi iştirak etmektir. Ve bu kadar hadsiz derecede azim bir maksad için, bu hadsiz duâlar dahi azdır. Hem Hazret-i Muhammed Aleyhissalâtü Vesselâm'a Makam-ı Mahmud verilmesi, umum ümmete şefaat-ı kübrasına işarettir. Hem o, bütün ümmetinin saadetiyle alâkadardır. Onun için hadsiz salâvat ve rahmet duâlarını bütün ümmetten istemesi ayn-i hikmettir. ş.)
 makamat: (Makam ve makame. C.) Makamlar, mertebeler. * Cemaatler, cemiyetler, kalabalıklar, topluluklar.
 makamat-i âlîye: Yüksek şerefli mevkiler, makamlar. Yüce makamlar.
 makame: (C: Makamât) Meclis. * Topluluk, cemaat, cemiyet, kalabalık. * Nutuk tarzında söylenen sözler.
@@ -771,7 +771,7 @@ makbiz: Kılıcın ve yayın kabzası.
 makbuh: Beğenilmeyen. çirkin ve kabih görülen.
 makbuha: Kabih olan ve hoşa gitmeyip beğenilmeyen hâl veya iş.
 makbul: (Makbule) Kabul olunan. Beğenilen. Sevablı.
-makbul «: Ayağı bağlı olan.
+makbul : Ayağı bağlı olan.
 makbul-üş şahâde: şahâdeti kabul edilen. şahidliği kabul edilmiş olan.
 makbulîyet: Beğenilmişlik, makbullük.
 makbur: (Kabr. den) Gömülmüş, defnedilmiş, kabre konulmuş.
@@ -846,12 +846,12 @@ maksara: (C: Mekâsır-Mekâsir) Köşk, kasr.
 maksebe: Sazlık, kamışlık.
 maksee: Hıyar tarlası.
 maksîm: (C.: Makasim) Taksim edilecek, dağıtılacak yer. * Suyun kollara ayrılma yeri. Masluk, savak.
-maksud : Kasdedilmiş. Kasdedilen. * îstenilen şey. îstek. Arzu. Gâye.
+maksud : Kasdedilmiş. Kasdedilen. * îstenilen şey. îstek. Arzu. Gâye.
 maksum: Taksim edilmiş, ayrılmış, bölünmüş. * Kısmet, nasib.
 maksur: Zoraki, cebren. Elinde ve ihtiyarında olmadan.
-maksur : (Kasr. dan) Kasrolunmuş, kısaltılmış, kasılmış, alıkonulmuş. * Mahbus. * Kasrolunmuş nesne. * Gelinin üzerine tutulan duvak. * Gr: Bir kısım arapça kelimelerin sonunda yâ şeklinde yazılan, fakat elif gibi okunan harf. (: Dâ'vâ) kelimesinde olduğu gibi. Buna, "Elif-i maksura" denir.
+maksur : (Kasr. dan) Kasrolunmuş, kısaltılmış, kasılmış, alıkonulmuş. * Mahbus. * Kasrolunmuş nesne. * Gelinin üzerine tutulan duvak. * Gr: Bir kısım arapça kelimelerin sonunda yâ şeklinde yazılan, fakat elif gibi okunan harf. (: Dâ'vâ) kelimesinde olduğu gibi. Buna, "Elif-i maksura" denir.
 maksure: (C.: Makasir) Câmilerde etrafı parmaklıkla çevrilmiş biraz yüksekçe yer.
-maksus : Kesilmiş, kırpılmış.
+maksus : Kesilmiş, kırpılmış.
 maksuv (maksiyy): Kulağının ucu kesilmiş deve veya koyun.
 maksüe: Hıyar tarlası.
 makşur: Soyulmuş, kabuğu çıkarılmış.
@@ -881,8 +881,8 @@ makule: Takım, çeşit. Kategori.
 ma'kulîyet: Akla uygunluk, mantıki oluş. * Menkul olmayış.
 ma'kum: Kapalı.
 ma'kus(e): Tersine dönmüş, aksetmiş, başaşağı çevrilmiş, zıddı. * Uğursuz.
-ma'kusen : Ters olarak, aksine, zıddına olarak.
-ma'kusen mütenasîb : Mat: Tersine olan müvâzene. Yâni, birbirine nisbet edilen iki şeyden, biri çoğaldığı oranda diğerinin eksilmesi veya birinin azaldığı nisbetinde diğerinin çoğalması. Ters orantılı.
+ma'kusen : Ters olarak, aksine, zıddına olarak.
+ma'kusen mütenasîb : Mat: Tersine olan müvâzene. Yâni, birbirine nisbet edilen iki şeyden, biri çoğaldığı oranda diğerinin eksilmesi veya birinin azaldığı nisbetinde diğerinin çoğalması. Ters orantılı.
 ma'kusîyet: Terslik, zıdlık, aksilik.
 makv: Cilâ yapmak. * Yıkamak. * Saklamak.
 makya: Kusmak. * Kusma yeri.
@@ -953,7 +953,7 @@ ma'lum: Resul-i Ekrem'in (A.S.M.) bir nâmıdır. Onun geleceği, melekler, resu
 ma'lumat: Bilinen şeyler, bilinenler. Bir iş veya mevzu hakkındaki bilgiler.
 ma'lumat-i cüz'îye: Az ve hafif bilgi. Cüz'i mâlumât.
 ma'lumat-i zarurîye: Lüzumlu ve zaruri mâlumat.
-ma'lumatfüruş : Mâlumat ve bilgi satan. Bilgiçlik taslıyan.
+ma'lumatfüruş : Mâlumat ve bilgi satan. Bilgiçlik taslıyan.
 ma'lumîyet: Ma'lumluk. Bilinme, belli olma. * Bilinen ve belli olan şeyin hâl ve sıfâtı.
 ma'ma': Kimseye birşey vermeyen kadın.
 ma'maa: (C: Meâmi) Acele etmek. * Ateşten çıkan ses. * Bahâdırların cenk içindeki haykırmaları.
@@ -1005,11 +1005,11 @@ manken: Fr. Elbiseleri prova veya teşhir etmek için terzilerin ve hazır elbis
 mansab: (Mınsab) Rütbe. (Bak: Mansıb)
 mansib: (Nasb. dan) Devlet hizmeti. * Memuriyet. * Bünyad. Merci'.
 mansibdâr: Mansıbda bulunan.
-mansub : Nasbolunmuş, me'muriyete konulmuş. * Konulmuş, dikilmiş. * Gr: Sonu fetha (üstün) kılınmış kelime. Meftuh olan.
+mansub : Nasbolunmuş, me'muriyete konulmuş. * Konulmuş, dikilmiş. * Gr: Sonu fetha (üstün) kılınmış kelime. Meftuh olan.
 mansubîn: (Mansub. C.) Memuriyette bulunanlar. Hizmette olanlar.
-mansur : Yardım edilen, yardım görmüş. * Gâlib, muzaffer. (Bak: Mensur)
+mansur : Yardım edilen, yardım görmüş. * Gâlib, muzaffer. (Bak: Mensur)
 mansurîyyet: Allah'ın (C.C.) yardımıyla muvaffak ve muzaffer olma, başarma.
-mansus : Nass ile sâbit kılınmış. âyetle tesbit edilmiş. îzhar ve beyan edilmiş. * Kur'anda açıkça anlatılmış.
+mansus : Nass ile sâbit kılınmış. âyetle tesbit edilmiş. îzhar ve beyan edilmiş. * Kur'anda açıkça anlatılmış.
 manşet: Fr. Bir gazetede ilk sayfanın en üst kısmındaki büyük puntolu başlık. * Bir gömleğin kol kısmına geçirilen ve elbisenin kolundan dışarı çıkan kumaş parçası.
 mantik: (întak. dan) Konuşturan, söyleten. * Doğru muhakeme ve doğru düşünceyi öğreten ilim. Akıl kaidesi. * Akıl, nutuk, söz.
 mantikan: Mantığa göre. Mantıkça.
@@ -1032,7 +1032,7 @@ manzud: Sık yetişmiş ağaç. * üstüste istif edilmiş.
 manzum: ölçülü, mizanlı, tertibli. * Vezni ve kafiyesi olan söz. Edebi ölçüsü olan sözler. (Kaside ve şiirler gibi). * Dizilmiş, sıralanmış, düzenlenmiş.
 manzumat: Manzumeler.
 manzume: Tertibli, ölçülü yazı, şiir. Vezinli ve kafiyeli olan söz. * Sıra, dizi. Sistem.
-manzume-î şemsîye : Güneş sistemi, güneş ve etrafında dönen seyyâreler topluluğu.(şu kâinatın lâmbası olan güneş, kâinat Sânii'nin vücuduna ve vahdâniyyetine güneş gibi parlak ve nurani bir penceredir. Evet, manzume-i şemsiye denilen küremizle beraber oniki seyyare: Cirmleri, küçüklük - büyüklük itibariyle pekçok muhtelif ve mevkileri, uzaklık - yakınlık noktasında pek çok mütefâvit ve sür'at-i hareketleri, çok mütenevvi' olduğu halde kemal-i intizam ve hikmet ile ve kemal-i mizan ile ve bir saniye kadar şaşırmıyarak hareketleri ve deveranları ve güneş ile, câzibe kanunu tâbir edilen bir kanun-u îlâhi ile bağlanmaları, yâni onlar imamlarına iktidaları, büyük bir mikyasta bir azamet-i kudret-i îlâhiyyeyi ve Vahdâniyyet-i Rabbâniyyeyi gösterir. çünki: O câmid cirmleri, o şuursuz büyük kütleleri, nihayet derecede intizam ve mizan-ı hikmet içinde muhtelif şekillerde ve muhtelif mesafelerde ve muhtelif hareketlerde döndürmek, istihdam etmek, ne derece bir kudreti ve bir hikmeti isbat ettiğini kıyas et. Bu büyük ve ağır işe zerre miktar tesadüf karışsa, öyle bir patlayış verecek ki, kâinatı dağıtacak. çünki: Bir dakika, tesadüf birisini tevkif etse, mihverinden çıkmasına sebebiyet verir, başkaları ile müsademe etmesine yol açar. Küre-i arzdan bin def'a büyük cirmlerle müsademenin ne derece dehşetli olduğunu kıyas edebilirsin.Manzume-i şemsiyenin, yâni şemsin me'mumları ve meyveleri olan oniki seyyarenin acâibini ilm-i muhit-i îlâhiye havale edip, yalnız gözümüzün önünde seyyaremiz bulunan arza bakıyoruz. Görüyoruz ki: Bu seyyaremiz bir azamet-i şevket-i Rububiyyeti ve haşmet-i saltanat-ı Uluhiyyeti ve kemâl-i rahmeti ve hikmeti gösterir bir surette Güneşin etrafında, emr-i Rabbâni ile - üçüncü Mektupta beyan edildiği gibi - pek büyük bir hizmet için bir uzun seyr ve seyahat, ona ettiriliyor. Bir sefine-i Rabbâniye olarak acâib-i masnuât-ı îlâhiye ile doldurulmuş ve zişuur ibâdullaha seyrangâh gibi bir mesken-i seyyar vaziyeti verilmiş. Ve evkat ve hesabı bildirecek saat akrebi gibi, Kamer dahi dakik hesaplarla azim hikmetlerle ona takılmış ve o Kamere başka menzillerde ayrı seyr ve seyahat verilmiş. îşte bu mübarek seyyaremizin şu halleri, küre-i arz kuvvetinde bir şehadetle, bir Kadir-i Mutlak'ın vücub-u vücudunu ve vahdetini isbat eder. Mâdem şu seyyaremiz böyledir. Manzume-i şemsiyeyi ona kıyas edebilirsin. Hem şemse, kendi mihveri üstünde cazibe denilen mânevi ipleri yumak yaptırmak için dolap ve çıkrık hükmünde olan güneşi, bir Kadir-i Zülcelâl'in emriyle döndürüp, o seyyaratı o mânevi iplerle bağlayıp tanzim etmek ve güneşi bütün seyyaratı ile saniyede beş saatlik bir mesafeyi kestirecek kadar bir sür'atle, bir tahmine göre "Herkül Burcu" tarafına veya şems-üş-şümus cânibine sevk etmek, elbette ezel ve ebed Sultanı olan Zât-ı Zülcelâl'in kudretiyle ve emriyledir. Güya haşmet-i Rububiyyetini göstermek için, bu emirber neferleri hükmünde olan manzume-i şemsiye ordusu ile bir manevra yaptırır. S.)
+manzume-î şemsîye : Güneş sistemi, güneş ve etrafında dönen seyyâreler topluluğu.(şu kâinatın lâmbası olan güneş, kâinat Sânii'nin vücuduna ve vahdâniyyetine güneş gibi parlak ve nurani bir penceredir. Evet, manzume-i şemsiye denilen küremizle beraber oniki seyyare: Cirmleri, küçüklük - büyüklük itibariyle pekçok muhtelif ve mevkileri, uzaklık - yakınlık noktasında pek çok mütefâvit ve sür'at-i hareketleri, çok mütenevvi' olduğu halde kemal-i intizam ve hikmet ile ve kemal-i mizan ile ve bir saniye kadar şaşırmıyarak hareketleri ve deveranları ve güneş ile, câzibe kanunu tâbir edilen bir kanun-u îlâhi ile bağlanmaları, yâni onlar imamlarına iktidaları, büyük bir mikyasta bir azamet-i kudret-i îlâhiyyeyi ve Vahdâniyyet-i Rabbâniyyeyi gösterir. çünki: O câmid cirmleri, o şuursuz büyük kütleleri, nihayet derecede intizam ve mizan-ı hikmet içinde muhtelif şekillerde ve muhtelif mesafelerde ve muhtelif hareketlerde döndürmek, istihdam etmek, ne derece bir kudreti ve bir hikmeti isbat ettiğini kıyas et. Bu büyük ve ağır işe zerre miktar tesadüf karışsa, öyle bir patlayış verecek ki, kâinatı dağıtacak. çünki: Bir dakika, tesadüf birisini tevkif etse, mihverinden çıkmasına sebebiyet verir, başkaları ile müsademe etmesine yol açar. Küre-i arzdan bin def'a büyük cirmlerle müsademenin ne derece dehşetli olduğunu kıyas edebilirsin.Manzume-i şemsiyenin, yâni şemsin me'mumları ve meyveleri olan oniki seyyarenin acâibini ilm-i muhit-i îlâhiye havale edip, yalnız gözümüzün önünde seyyaremiz bulunan arza bakıyoruz. Görüyoruz ki: Bu seyyaremiz bir azamet-i şevket-i Rububiyyeti ve haşmet-i saltanat-ı Uluhiyyeti ve kemâl-i rahmeti ve hikmeti gösterir bir surette Güneşin etrafında, emr-i Rabbâni ile - üçüncü Mektupta beyan edildiği gibi - pek büyük bir hizmet için bir uzun seyr ve seyahat, ona ettiriliyor. Bir sefine-i Rabbâniye olarak acâib-i masnuât-ı îlâhiye ile doldurulmuş ve zişuur ibâdullaha seyrangâh gibi bir mesken-i seyyar vaziyeti verilmiş. Ve evkat ve hesabı bildirecek saat akrebi gibi, Kamer dahi dakik hesaplarla azim hikmetlerle ona takılmış ve o Kamere başka menzillerde ayrı seyr ve seyahat verilmiş. îşte bu mübarek seyyaremizin şu halleri, küre-i arz kuvvetinde bir şehadetle, bir Kadir-i Mutlak'ın vücub-u vücudunu ve vahdetini isbat eder. Mâdem şu seyyaremiz böyledir. Manzume-i şemsiyeyi ona kıyas edebilirsin. Hem şemse, kendi mihveri üstünde cazibe denilen mânevi ipleri yumak yaptırmak için dolap ve çıkrık hükmünde olan güneşi, bir Kadir-i Zülcelâl'in emriyle döndürüp, o seyyaratı o mânevi iplerle bağlayıp tanzim etmek ve güneşi bütün seyyaratı ile saniyede beş saatlik bir mesafeyi kestirecek kadar bir sür'atle, bir tahmine göre "Herkül Burcu" tarafına veya şems-üş-şümus cânibine sevk etmek, elbette ezel ve ebed Sultanı olan Zât-ı Zülcelâl'in kudretiyle ve emriyledir. Güya haşmet-i Rububiyyetini göstermek için, bu emirber neferleri hükmünde olan manzume-i şemsiye ordusu ile bir manevra yaptırır. S.)
 manzur: Görülen, bakılan, nazar edilen. * Beğenilen.
 manzure: Belâ, musibet, felâket, âfet. * Noksan ve kusuru olan, ayıplanacak kadın.
 mar: Yılan.
@@ -1068,7 +1068,7 @@ ma'rîfe: Gr: Arabçada mübhem olmayan " " harf-i ta'rifi ile bildirilen kelime
 ma'rîfet: Bilme, bir şeyi cüz'i vecihle bilmek. * Hüner. üstadlık. San'at. * Tuhaflık, garib hareket. * Vasıta, tavassut. * îlim ve fenlerle tahsil olunan mâlumat. îrfan kazanmak. (Bak: îrfân)
 ma'rîfet mertebelerî: (Bak: Yakin)
 ma'rîfetperver: Hünerli, marifetli.
-ma'rîfetullah: Masnuat-ı îlâhiyeyi ve Kur'âni hakikatleri tefekkür ve tahsil ile veya lütf-i îlâhi ile kalbi inkişâf ve basirete sâhib olmak. Esmâ-i îlâhiyyeyi tanımak. îlâhi hakikatlara vukufiyet. Her işte Allah rızâsına en uygun hareket tarzını bilip amel etmek. (Ma'rifetin zıddı; inkârdır. îlmin zıddı ise; cehildir.) (Bak: Vicdan-îrfân)(Muhyiddin-i Arabi, Fahreddin-i Râzi'ye mektubunda demiş: "Allah'ı bilmek, varlığını bilmenin gayrıdır." Bu ne demektir? Maksad nedir soruyor?Usul-üd-din imamları ve ulema-i ilm-i Kelâmın akaide dair ve vücud-u Vâcib-ül-Vücud ve Tevhid-i îlâhiye dair beyanatları, Muhyiddin-i Arabi'nin nazarında kâfi gelmediği için, îlm-i Kelâm'ın imamlarından Fahreddin-i Râzi'ye öyle demiş.Evet, îlm-i Kelâm vasıtasiyle kazanılan Mârifet-i îlâhiye, mârifet-i kâmile ve huzur-u tam vermiyor. Kur'an-ı Mu'ciz-il Beyan'ın tarzında olduğu vakit, hem mârifet-i tâmmeyi verir; hem huzur-u etemmi kazandırır ki, inşâallah, Risale-i Nur'un bütün eczaları, o Kur'an-ı Mu'ciz-ül Beyan'ın cadde-i nurânisinde birer elektrik lâmbası hizmetini görüyorlar.Hem, Muhyiddin-i Arabi'nin nazarına, Fahreddin-i Râzi'nin îlm-i Kelâm vâsıtasiyle aldığı mârifetullah ne kadar noksan görülüyor; öyle de; tasavvuf mesleğiyle alınan mârifet dahi, Kur'an-ı Hakim'den doğrudan doğruya veraset-i Nübüvvet sırriyle alınan mârifete nisbeten o kadar noksandır. çünki: Muhyiddin-i Arabi mesleği, huzur-u dâimiyi kazanmak için $ deyip, kâinatın vücudunu inkâr edecek bir tarza kadar gelmiş. Ve sâirleri ise, yine huzur-u dâimiyi kazanmak için $ deyip, kâinatı nisyan-ı mutlak altına almak gibi, acib bir tarza girmişler. Kur'an-ı Hakim'den alınan mârifet ise, huzur-u dâimiyi vermekle beraber, ne kâinatı mahkum-u adem eder, ne de nisyan-ı mutlakta hapseder. Belki, başıbozukluktan çıkarıp, Cenâb-ı Hak nâmına istihdam eder. Herşey mir'at-ı mârifet olur. Sa'di-i şirazi'nin dediği gibi: $ Herşeyde Cenâb-ı Hakk'ın mârifetine bir pencere açar.Bâzı Sözlerde ulema-i îlm-i Kelâm'ın mesleğiyle, Kur'andan alınan minhâc-ı hakikinin farkları hakkında şöyle bir temsil söylemişiz ki; meselâ: Bir su getirmek için, bâzıları küngân (su borusu) ile uzak yerden, dağlar altında kazar, su getirir. Bir kısım da, her yerde kuyu kazar, su çıkarır. Birinci kısım çok zahmetlidir; tıkanır, kesilir. Fakat her yerde kuyuları kazıp su çıkarmağa ehil olanlar, zahmetsiz herbir yerde suyu buldukları gibi, aynen öyle de: Ulema-i îlm-i Kelâm, esbabı, nihayet-i âlemde teselsül ve devrin muhâliyeti ile kesip, sonra Vâcib-ül Vücud'un vücudunu onunla isbat ediyorlar. Uzun bir yolda gidiliyor. Amma Kur'an-ı Hakim'in minhâc-ı hakikisi ise, her yerde suyu buluyor, çıkarıyor. Her bir âyeti, birer Asâ-yı Musâ gibi nereye vursa âb-ı hayat fışkırtıyor. $ düsturunu, herşeye okutturuyor.Hem imân yalnız ilim ile değil, imânda çok letâifin hisseleri var. Nasılki: Bir yemek mideye girse, o yemek muhtelif âsâba, muhtelif bir surette inkısam edip tevzi olunuyor. îlim ile gelen mesâil-i imâniye dahi, akıl midesine girdikten sonra derecata göre ruh, kalb, sır, nefis ve hâkezâ.. letâif, kendine göre birer hisse alır, masseder. Eğer onların hissesi olmazsa, noksandır. îşte Muhyiddin-i Arabi, Fahreddin-i Râziye bu noktayı ihtar ediyor. M.)
+ma'rîfetullah: Masnuat-ı îlâhiyeyi ve Kur'âni hakikatleri tefekkür ve tahsil ile veya lütf-i îlâhi ile kalbi inkişâf ve basirete sâhib olmak. Esmâ-i îlâhiyyeyi tanımak. îlâhi hakikatlara vukufiyet. Her işte Allah rızâsına en uygun hareket tarzını bilip amel etmek. (Ma'rifetin zıddı; inkârdır. îlmin zıddı ise; cehildir.) (Bak: Vicdan-îrfân)(Muhyiddin-i Arabi, Fahreddin-i Râzi'ye mektubunda demiş: "Allah'ı bilmek, varlığını bilmenin gayrıdır." Bu ne demektir? Maksad nedir soruyor?Usul-üd-din imamları ve ulema-i ilm-i Kelâmın akaide dair ve vücud-u Vâcib-ül-Vücud ve Tevhid-i îlâhiye dair beyanatları, Muhyiddin-i Arabi'nin nazarında kâfi gelmediği için, îlm-i Kelâm'ın imamlarından Fahreddin-i Râzi'ye öyle demiş.Evet, îlm-i Kelâm vasıtasiyle kazanılan Mârifet-i îlâhiye, mârifet-i kâmile ve huzur-u tam vermiyor. Kur'an-ı Mu'ciz-il Beyan'ın tarzında olduğu vakit, hem mârifet-i tâmmeyi verir; hem huzur-u etemmi kazandırır ki, inşâallah, Risale-i Nur'un bütün eczaları, o Kur'an-ı Mu'ciz-ül Beyan'ın cadde-i nurânisinde birer elektrik lâmbası hizmetini görüyorlar.Hem, Muhyiddin-i Arabi'nin nazarına, Fahreddin-i Râzi'nin îlm-i Kelâm vâsıtasiyle aldığı mârifetullah ne kadar noksan görülüyor; öyle de; tasavvuf mesleğiyle alınan mârifet dahi, Kur'an-ı Hakim'den doğrudan doğruya veraset-i Nübüvvet sırriyle alınan mârifete nisbeten o kadar noksandır. çünki: Muhyiddin-i Arabi mesleği, huzur-u dâimiyi kazanmak için deyip, kâinatın vücudunu inkâr edecek bir tarza kadar gelmiş. Ve sâirleri ise, yine huzur-u dâimiyi kazanmak için deyip, kâinatı nisyan-ı mutlak altına almak gibi, acib bir tarza girmişler. Kur'an-ı Hakim'den alınan mârifet ise, huzur-u dâimiyi vermekle beraber, ne kâinatı mahkum-u adem eder, ne de nisyan-ı mutlakta hapseder. Belki, başıbozukluktan çıkarıp, Cenâb-ı Hak nâmına istihdam eder. Herşey mir'at-ı mârifet olur. Sa'di-i şirazi'nin dediği gibi: Herşeyde Cenâb-ı Hakk'ın mârifetine bir pencere açar.Bâzı Sözlerde ulema-i îlm-i Kelâm'ın mesleğiyle, Kur'andan alınan minhâc-ı hakikinin farkları hakkında şöyle bir temsil söylemişiz ki; meselâ: Bir su getirmek için, bâzıları küngân (su borusu) ile uzak yerden, dağlar altında kazar, su getirir. Bir kısım da, her yerde kuyu kazar, su çıkarır. Birinci kısım çok zahmetlidir; tıkanır, kesilir. Fakat her yerde kuyuları kazıp su çıkarmağa ehil olanlar, zahmetsiz herbir yerde suyu buldukları gibi, aynen öyle de: Ulema-i îlm-i Kelâm, esbabı, nihayet-i âlemde teselsül ve devrin muhâliyeti ile kesip, sonra Vâcib-ül Vücud'un vücudunu onunla isbat ediyorlar. Uzun bir yolda gidiliyor. Amma Kur'an-ı Hakim'in minhâc-ı hakikisi ise, her yerde suyu buluyor, çıkarıyor. Her bir âyeti, birer Asâ-yı Musâ gibi nereye vursa âb-ı hayat fışkırtıyor. düsturunu, herşeye okutturuyor.Hem imân yalnız ilim ile değil, imânda çok letâifin hisseleri var. Nasılki: Bir yemek mideye girse, o yemek muhtelif âsâba, muhtelif bir surette inkısam edip tevzi olunuyor. îlim ile gelen mesâil-i imâniye dahi, akıl midesine girdikten sonra derecata göre ruh, kalb, sır, nefis ve hâkezâ.. letâif, kendine göre birer hisse alır, masseder. Eğer onların hissesi olmazsa, noksandır. îşte Muhyiddin-i Arabi, Fahreddin-i Râziye bu noktayı ihtar ediyor. M.)
 marîn: Burun ucunda olan yumuşak kemiksiz yer.
 marîstan: Hastahâne.
 marîz: (Maraz. dan) Hasta. îlletli. Dertli.
@@ -1079,14 +1079,14 @@ mârr-üz zîkr: Yukarıda zikri geçmiş olan, yukarda bahsedilmiş olan.
 mârre: Fık: Herkesin gittiği umumi yoldan yürüyen.
 mârrîn: (Mâr. dan) Geçenler.
 mârrîn ü âbîrîn: Gelip geçenler. Gelen giden.
-marsus : (Bak: Mersus)
+marsus : (Bak: Mersus)
 martulos: (Martoloz) Osmanlı Devletinin teşekkülü sıralarında ve yeniçeri teşkilâtından önce, Hristiyanlardan, ordunun geri hizmetlerinde çalışmış olan teşekküllerden biridir. Silâhlanmış kişi mânasında Rumca bir kelimedir. * Eskiden Tuna gemicileri, korsanı mânasında da kullanılmıştır.
 ma'ruf: Bilinen, tanınmış. Belli, meşhur. * şeriatın makbul kıldığı veya emrettiği. * Adl, ihsan, cud, tatlı dil, iyi muamele. (Bak: Emr-i bi-l ma'ruf)
 ma'ruf-î cîhân: Dünyaca tanınan ve meşhur. Cihânın bildiği.
 ma'rufat: Bilinen şeyler. şeriatın emrettiği hususlar.
 ma'rufîyet: Ma'rufluk. ünlülük, meşhurluk, tanınmışlık.
 ma'rur: Uyuz.
-ma'ruş : üstü çardak şeklinde yapılı bina.
+ma'ruş : üstü çardak şeklinde yapılı bina.
 ma'ruz: Bir şeyin etkisine uğramak veya uğratmak. * Arzolunmuş, arzolunan. * Serilmiş, yayılmış. * Verilmiş, sunulmuş. * Anlatılmış. * Bir şeye karşı siper alan.
 ma'ruzât: (Ma'ruz. C.) Arz olunanlar. Arzedilenler, takdim edilenler. Küçükten büyüğe bildirilenler.
 marzat: Rızâ. Memnuniyet, hoşnudluk.
@@ -1133,7 +1133,7 @@ masdar-i ca'lî: (Mec'ul) yapma olan masdar. Arapçada, bazı isim ve sıfatlar�
 masdar-i merre: Fiilin bir defa yapıldığını belli eden masdar. Merre, kerre, lem'a, darbe gibi, "fa'le" vezninden gelen masdarlardır.
 masdar-i mîmî: Başında mim harfi bulunan masdar. (Ketb: Yazmak) masdarının mimisi (mekteb) olduğu gibi.
 masdu': Baş ağrısına tutulmuş olan. Başı ağrıyan.
-masduk : Doğruluğu kabul edilmiş, tasdik edilmiş.
+masduk : Doğruluğu kabul edilmiş, tasdik edilmiş.
 masduka: (C.: Masdukat) Doğru söz. Hakikat ve gerçek olan kelâm.
 masdum: çarpılmış. Kendisine vurulmuş.
 masdur: Gönderilmiş, yollanmış olan. * Göğsü incinmiş veya ağrımış olan.
@@ -1173,7 +1173,7 @@ maslahatkârâne: Maslahata, işe ve maksada uygun surette.
 maslahatşînâs: îşten anlıyan, iş bilen.
 maslak: Su yolu üzerinde bulunan su haznesi. * Dâima akan su borusu. * Büyük yalak.
 maslîye: Tarhana çorbası. * Koruk aşı.
-maslub : Salbolmuş, asılmış. Asılarak idam edilmiş.
+maslub : Salbolmuş, asılmış. Asılarak idam edilmiş.
 masluben: Asılarak, asılmış olduğu hâlde. Asılma suretiyle.
 masmasa: Ağzın önü.
 masna': (Masnaa) Su mahzeni. Sarnıç. * şimdiki Arapçada: Fabrika. * Bucak, köşe.
@@ -1183,14 +1183,14 @@ masnu-u vâhîd: Cenab-ı Hakk'ın (C.C.) (bir tek olan) san'at eseri.
 masnuat: San'atkârâne yapılan şeyler. Yapılanlar.
 masnuat-i sayfîyye : Cenab-ı Hakk'ın yaz mevsiminde yarattığı san'atlı güzel eserler.
 masnuk: Nezleli kimse.
-mason : Fr. Duvarcı mânasına bir kelimeden alınmış isimdir. Dinsiz, imânsız mânâsına kullanılır. Fermeson veya farmason da denir.
+mason : Fr. Duvarcı mânasına bir kelimeden alınmış isimdir. Dinsiz, imânsız mânâsına kullanılır. Fermeson veya farmason da denir.
 masr: Parmak uçlarıyla süt sağmak. * Bir şeyi incelemek. * Az olmak. * Dağılmak. (îmtisar veya immisar ile aynı manadadır.)
 masra': çarpışma, ölme. * Güreş meydanı.
 masraf: Sarfedilen, harcanan. Gider.
 masrîf: (Sarf. dan) Sarfetme ve harcama mahalli.
 masru': Sar'a hastalığına tutulmuş, sar'alı.
 masruan: Sar'alı olarak, sar'a hastalığına tutulmuş olarak.
-masruf : Sarfolunmuş, harcanılmış olan.
+masruf : Sarfolunmuş, harcanılmış olan.
 mass: Emmek. Bir şeyi eme eme içmek.
 mass: (Mâssa) Emici, massedici.
 mass: Yakın olan. * Dokunan. Değen.
@@ -1204,11 +1204,11 @@ mastub: Damarlardan taşmış kan.
 mastur: (Satır. dan) çizilmiş, yazılmış.
 masube: îsâbet etmiş (felâket, musibet, belâ, âfet).
 masug: Kalıba dökülmüş. * örneğe uygun. * Düz.
-ma'sum : Günahsız, suçsuz.
-ma'sumâne : Günahsızcasına, suçsuz olarak.
-ma'sume : Suçsuz kadın veya kız.
+ma'sum : Günahsız, suçsuz.
+ma'sumâne : Günahsızcasına, suçsuz olarak.
+ma'sume : Suçsuz kadın veya kız.
 ma'sumîyet: Ma'sumluk, kabahatsizlik, suçsuzluk.
-masun : Korunan, mahfuz, emin, muhafaza olunan. * Sâlim, sağlam.
+masun : Korunan, mahfuz, emin, muhafaza olunan. * Sâlim, sağlam.
 masunîyet: Eminlik, sağlamlık, muhafaza altında bulunmak, dokunulmazlık.
 ma'sur: Zor, güç, zorlaştırılmış.
 ma'sur: Sıkılmış. Suyu veya yağı çıkarılmış.
@@ -1315,7 +1315,7 @@ matrud: Kovulmuş. Tardedilmiş. Uzaklaştırılmış olan.
 matrudîn: Kovulmuş olanlar. Kovulmuşlar.
 matruh: Tarh edilmiş, çıkarılmış. * Belirtilmiş, konulmuş (vergi) * Temeli atılmış (Binâ).
 matruk: Gevşek ve uyuşuk adam. * Kuruduktan sonra yine yağmurla tazelenmiş.
-matruş : Traş olmuş. Sakalsız. * Sağır kimse.
+matruş : Traş olmuş. Sakalsız. * Sağır kimse.
 matt: çekmek.
 matta: încil kitaplarından birisinin adı. Tahrif edilmiş dört yüz muhtelif încil içinden seçilen biri. (Bak: Havari)
 mattal: (Mattâle) Devamlı olarak borcunu ileri atıp geciktiren.
@@ -1440,7 +1440,7 @@ mazlum: Zulüm görmüş. Kendine zulmedilmiş. * Halim, selim, sakin, sessiz.
 mazlumane: Zulüm görmüşe yaraşır surette. * Sessizce. Sessizlikle.
 mazlumîn: Zulüm görmüş kimseler.
 mazlumîyyet: Mazlumluk. Zulüm görmüşlük. * Sessizlik, yavaşlık.
-mazmaz : (îbranice) Hz. Muhammed'in (A.S.M.) Suhuf-u îbrahim ve Tevrat'taki ismi.
+mazmaz : (îbranice) Hz. Muhammed'in (A.S.M.) Suhuf-u îbrahim ve Tevrat'taki ismi.
 mazmaza: Gusül veya abdest alırken, elleri yıkadıktan sonra üç kere ağız dolusu su alıp ağızda çalkalamak.
 mazmî: Sulanan ekin.
 mazmum: (Zamm. dan) Zammolunmuş. îlâve olunmuş. * Yapışmış. * Zamme ile okunan.
@@ -1456,7 +1456,7 @@ mazrub: (Zarb. dan) Zarbolunmuş. çarpılmış. Dövülmüş. * Basılmış, da
 mazrubeyn: Birbirine çarpılan iki sayıdan herbiri.
 mazruf: Zarflanan. Sarılıp muhafaza edilen. Zarfa konan.
 mazrufât: (Mazruf. C.) Zarflı olanlar.
-mazrufen : Zarf içinde olarak. Zarflı surette.
+mazrufen : Zarf içinde olarak. Zarflı surette.
 mazrur: Zarar etmiş. Ziyan görmüş.
 mazrus: örülmüş, örülerek yapılmış. Diş takımı.
 ma'zub: Kötürüm kimse.
@@ -1596,7 +1596,7 @@ mecbee: Mantar yetişen yer.
 mecbub: Hayası ve zekeri kesilmiş.
 mecbul(e): (Cibillet. den) Yaratılmış. Yaratılışında bir hâl veya sıfat bulunan.
 mecbur: Zor görmüş. Zorla bir işe girişmiş. îcbar görmüş. * Hatırı alınmış, gönlü yapılmış. (Hakiki manası: Kırıldıktan sonra bütünlenmiş.)
-mecburen : îster istemez. Cebirle. Zaruret icâbı. Zorla.
+mecburen : îster istemez. Cebirle. Zaruret icâbı. Zorla.
 mecburî: Zor altında, ister istemez, yapma mecburiyetinde.
 mecburîyet: Zora tutulma. Mecburluk.
 mecc: Ağızla su püskürmek. * Sulu şeyler atmak ve saçmak.
@@ -1682,7 +1682,7 @@ mecved: Doymaya yakın olmak. * Yağmur taneleri değmiş cisim.
 meczîr: (C: Mecâzir) Deve boğazlayacak yer.
 meczub: Başkasının te'siri ile hareket hâlinde olan. Cezbedilmiş. Aklı gitmiş olan. Aşk-ı îlahi ile kendinden geçmiş. * Deli. Divane. Mecnun.(Sultan Mehmed Fatih'in zamanında hikâye edilen meşhur ve mânidar "Cibâli Baba kıssası" nev'inden olarak bir kısım ehl-i velâyet, zâhiren muhakemeli ve âkıl görünürken, meczubdurlar. Ve bir kısmı dahi; bâzan sahvede ve daire-i akılda görünür, bâzan aklın ve muhakemenin haricinde bir hâle girer. şu kısımdan bir sınıfı; ehl-i iltibastır, tefrik etmiyor. Sekir hâlinde gördüğü bir mes'eleyi hâlet-i sahvede tatbik eder, hatâ eder ve hatâ ettiğini bilmez. Meczubların bir kısmı ise; indallah mahfuzdur, dalâlete süluk etmez. Diğer bir kısmı ise, mahfuz değiller; bid'at ve dalâlet fırkalarında bulunabilirler. Hattâ, kâfirler içinde bulunabileceği ihtimal verilmiş.îşte; muvakkat veya dâimi meczub olduklarından, mânen '"mübarek mecnun" hükmünde oluyorlar. Ve mübarek ve serbest mecnun hükmünde oldukları için, mükellef değiller. Ve mükellef olmadıkları için muahaze olunmuyorlar. Kendi velâyet-i meczubaneleri bâki kalmakla beraber, ehl-i dalâlete ve ehl-i bid'aya tarafdar çıkarlar, mesleklerine bir derece revaç verip, bir kısım ehl-i imânı ve ehl-i hakkı, o mesleğe girmeye meş'umane bir sebebiyet verirler. M.)
 meczubîn: (Meczub. C.) Meczublar. Deliler, mecnunlar. Cezbeye gelmiş olanlar.
-meczum : Kat'i niyet edilmiş, cezmolunmuş. Kat'i karar verilmiş. * Gr: Son harfi harekesiz okunan kelime. Cezimli kelime. (îlim, kilim, kitab kelimelerinin son harflerinin okunduğu gibi.)
+meczum : Kat'i niyet edilmiş, cezmolunmuş. Kat'i karar verilmiş. * Gr: Son harfi harekesiz okunan kelime. Cezimli kelime. (îlim, kilim, kitab kelimelerinin son harflerinin okunduğu gibi.)
 meczum: (Cüzam. dan) Cüzam hastalığına tutulmuş kimse.
 meczur: Cezr olunmuş, kare kökü alınmış sayı. (On sayısı yüz sayısının meczurudur, yani kare köküdür.)
 meczuz: Kesilmiş, münkatı'.
@@ -1740,7 +1740,7 @@ mededres: Yardımcı. înâyet eden. Yardım eden. Mededresân da denir.
 mededresanî: Yardımcılık. Yardım ve inâyet edicilik.
 medenî: Faziletli, terbiyeli, kibâr. * Medineli. şehirli. * Kur'an-ı Kerimin Medine şehrinde nâzil olan âyet ve sureleri.
 medenî-î bîttab': Doğuştan, yaradılıştan huyları ile medeni oluş. * Cenab-ı Hakkın yaratması ile tab'an iyi huylu, kibar, faziletli kimse.
-medenîyet: Adaletseverlik, insanca iyi ve ferah yaşayış. şehirlilik. Yaşayışta, içtimai münâsebetlerde, ilim, fenn ve san'atta tekâmül etmiş cemiyetlerin hâli. * îslâmiyetin emirlerine göre, usulü dâiresinde yaşayış.(Küre-i arzı bir köy şekline sokan şu medeniyet-i sefihe ile gaflet perdesi pek kalınlaşmıştır. Tâdili, büyük bir himmete muhtaçtır. Ve keza, beşeriyet ruhundan dünyaya nâzır pek çok menfezler açmıştır. Bunların kapatılması ancak Allah'ın lutfuna mazhar olanlara müyesser olur. M.N.)(Sual: Sen eskiden şarktaki bedevi aşâirde seyahat ettiğin vakit, onları medeniyet ve terakkiyata çok teşvik ediyordun. Neden, kırk seneye yakındır, medeniyet-i hâzıradan "mimsiz" diyerek hayat-ı içtimaiyeden çekildin, inzivâya sokuldun?Elcevab: Medeniyet-i hâzıra-i Garbiye, semâvi kanun-u esasilere muhalif olarak hareket ettiği için seyyiatı hasenatına; hatâları, zararları, fâidelerine râcih geldi. Medeniyetteki maksud-u hakiki olan istirahat-ı umumiye ve saadet-i hayat-ı dünyeviye bozuldu. îktisad, kanaat yerine israf ve sefahet.. ve sa'y ve hizmet yerine tenbellik ve istirahat meyli galebe çaldığından, biçâre beşeri hem gayet fakir, hem gâyet tenbel eyledi. Semâvi Kur'anın kanun-u esasisi $_ $_ $ ferman-ı esasisiyle: "Beşerin saadet-i hayatiyesi, iktisad ve sa'ye gayrette olduğunu ve onunla beşerin havas, avâm tabakası birbiriyle barışabilir." diye Risale-i Nur bu esası izaha binaen kısa bir-iki nükte söyleyeceğim:Birincisi: Bedevilikte beşer üç-dört şey'e muhtaç oluyordu. O üç-dört hâcatını tedarik etmiyen on adette ancak ikisi idi. şimdiki garb medeniyet-i zâlime-i hâzırası su'i-i istimâlât ve israfat ve hevesatı tehyic ve havâic-i gayr-i zaruriyeyi, zaruri hâcatlar hükmüne getirip görenek ve tiryakilik cihetiyle şimdiki o medeni insanın tam muhtaç olduğu dört hâcâtı yerine, yirmi şey'e bu zamanda muhtaç oluyor. O yirmi hâcatı tam helâl bir tarzda tedarik edecek yirmiden ancak ikisi olabilir. Onsekizi muhtaç hükmünde kalır. Demek bu medeniyet-i hazıra insanı çok fakir ediyor. O ihtiyaç cihetinde beşeri zulme, başka haram kazanmağa sevk etmiş. Biçâre avâm ve havas tabakasını dâima mübarezeye teşvik etmiş. Kur'anın kanun-u esasisi olan "vücub-u zekât, hurmet-i riba" vasıtasiyle avâmın havassa karşı itâatini ve havassın avâma karşı şefkatini te'min eden o kudsi kanunu bırakıp burjuvaları zulme, fukaraları isyana sevk etmeğe mecbur etmiş. îstirahat-ı beşeriyeyi zir ü zeber etti!..îkinci Nükte: Bu medeniyet-i hâzıranın hârikaları, beşere birer ni'met-i Rabbaniye olmasından, hakiki bir şükür ve menfaat-ı beşerde istimâli iktiza ettiği halde, şimdi görüyoruz ki: Ehemmiyetli bir kısım insanı tenbelliğe ve sefahete ve sa'yi ve çalışmayı bırakıp istirahat içinde hevesatı dinlemek meylini verdiği için sa'yin şevkini kırıyor. Ve kanaatsizlik ve iktisadsızlık yoluyla sefahete, israfa, zulme, harama sevkediyor. Meselâ Risale-i Nurdaki "Nur Anahtarı"nın dediği gibi: Radyo büyük bir ni'met iken, maslahat-ı beşeriyeye sarf edilmek ile bir mânevi şükür iktiza ettiği halde, beşte dördü hevesata, lüzumsuz malâyani şeylere sarf edildiğinden; tenbelliğe, radyo dinlemekle heveslenmeğe sevk edip, sa'yin şevkini kırıyor. Vazife-i hakikiyesini bırakıyor. Hattâ çok menfaatli olan bir kısım hârika vesait, sa'y ve amel ve hakiki maslahat-ı ihtiyac-ı beşeriyeye istimâli lâzım gelirken, ben kendim gördüm; ondan bir-ikisi zaruri ihtiyâcata sarf edilmeğe mukabil, ondan sekizi keyf, hevesat, tenezzüh, tenbelliğe mecbur ediyor. Bu iki cüz'i misâle binler misâller var.Elhâsıl: Medeniyet-i garbiye-i hâzıra, semâvi dinleri tam dinlemediği için, beşeri hem fakir edip ihtiyacatı ziyadeleştirmiş... îktisad ve kanaat esasını bozup israf ve hırs ve tama'ı ziyadeleştirmeğe; zulüm ve harama yol açmış. Hem beşeri vesait-i sefahete teşvik etmekle o biçare muhtaç beşeri tam tenbelliğe atmış. Sa'y ve amelin şevkini kırıyor! Hevesata, sefahete sevk edip ömrünü faidesiz zâyi ediyor.Hem o muhtaç ve tenbelleşmiş beşeri, hasta etmiş. Su'-i istimâl ve israfat ile yüz nevi hastalığın sirayetine, intişarına vesile olmuş.Hem üç şiddetli ihtiyaç ve meyl-i sefahet ve ölümü her vakit hâtıra getiren kesretli hastalıklar ve dinsizlik cereyanlarının o medeniyetin içlerine yayılmasiyle intibaha gelip uyanmış beşerin gözü önünde ölümü idam-ı ebedi suretinde gösterip, her vakit beşeri tehdid ediyor. Bir nevi cehennem azâbı veriyor...îşte bu dehşetli musibet-i beşeriyeye karşı Kur'an-ı Hakim'in dörtyüz milyon talebesinin intibahiyle ve içinde semâvi, kudsi kanun-u esasileriyle bin üçyüz sene evvel gösterdiği gibi, yine bu dörtyüz milyonun kendi kudsi esasi kanunlariyle beşerin bu üç dehşetli yarasını tedavi etmesini; ve eğer yakında kıyamet kopmazsa, beşerin hem saâdet-i hayat-ı dünyeviyesini, hem saadet-i hayat-ı uhreviyesini kazandıracağını; ve ölümü, idam-ı ebediden çıkarıp âlem-i nura bir terhis tezkeresi göstermesini ve ondan çıkan medeniyetin mehasini, seyyiatına tam galebe edeceğini ve şimdiye kadar olduğu gibi; dinin bir kısmını, medeniyetin bir kısmını kazanmak için rüşvet vermek değil, belki medeniyeti ona, o semavi kanunlara bir hizmetkâr, bir yardımcı edeceğini Kur'an-ı Mu'ciz-il-Beyan'ın işarat ve rumuzundan anlaşıldığı gibi, Rahmet-i îlâhiyeden şimdiki uyanmış beşer bekliyor, yalvarıyor, arıyor!. R.N.)
+medenîyet: Adaletseverlik, insanca iyi ve ferah yaşayış. şehirlilik. Yaşayışta, içtimai münâsebetlerde, ilim, fenn ve san'atta tekâmül etmiş cemiyetlerin hâli. * îslâmiyetin emirlerine göre, usulü dâiresinde yaşayış.(Küre-i arzı bir köy şekline sokan şu medeniyet-i sefihe ile gaflet perdesi pek kalınlaşmıştır. Tâdili, büyük bir himmete muhtaçtır. Ve keza, beşeriyet ruhundan dünyaya nâzır pek çok menfezler açmıştır. Bunların kapatılması ancak Allah'ın lutfuna mazhar olanlara müyesser olur. M.N.)(Sual: Sen eskiden şarktaki bedevi aşâirde seyahat ettiğin vakit, onları medeniyet ve terakkiyata çok teşvik ediyordun. Neden, kırk seneye yakındır, medeniyet-i hâzıradan "mimsiz" diyerek hayat-ı içtimaiyeden çekildin, inzivâya sokuldun?Elcevab: Medeniyet-i hâzıra-i Garbiye, semâvi kanun-u esasilere muhalif olarak hareket ettiği için seyyiatı hasenatına; hatâları, zararları, fâidelerine râcih geldi. Medeniyetteki maksud-u hakiki olan istirahat-ı umumiye ve saadet-i hayat-ı dünyeviye bozuldu. îktisad, kanaat yerine israf ve sefahet.. ve sa'y ve hizmet yerine tenbellik ve istirahat meyli galebe çaldığından, biçâre beşeri hem gayet fakir, hem gâyet tenbel eyledi. Semâvi Kur'anın kanun-u esasisi__ ferman-ı esasisiyle: "Beşerin saadet-i hayatiyesi, iktisad ve sa'ye gayrette olduğunu ve onunla beşerin havas, avâm tabakası birbiriyle barışabilir." diye Risale-i Nur bu esası izaha binaen kısa bir-iki nükte söyleyeceğim:Birincisi: Bedevilikte beşer üç-dört şey'e muhtaç oluyordu. O üç-dört hâcatını tedarik etmiyen on adette ancak ikisi idi. şimdiki garb medeniyet-i zâlime-i hâzırası su'i-i istimâlât ve israfat ve hevesatı tehyic ve havâic-i gayr-i zaruriyeyi, zaruri hâcatlar hükmüne getirip görenek ve tiryakilik cihetiyle şimdiki o medeni insanın tam muhtaç olduğu dört hâcâtı yerine, yirmi şey'e bu zamanda muhtaç oluyor. O yirmi hâcatı tam helâl bir tarzda tedarik edecek yirmiden ancak ikisi olabilir. Onsekizi muhtaç hükmünde kalır. Demek bu medeniyet-i hazıra insanı çok fakir ediyor. O ihtiyaç cihetinde beşeri zulme, başka haram kazanmağa sevk etmiş. Biçâre avâm ve havas tabakasını dâima mübarezeye teşvik etmiş. Kur'anın kanun-u esasisi olan "vücub-u zekât, hurmet-i riba" vasıtasiyle avâmın havassa karşı itâatini ve havassın avâma karşı şefkatini te'min eden o kudsi kanunu bırakıp burjuvaları zulme, fukaraları isyana sevk etmeğe mecbur etmiş. îstirahat-ı beşeriyeyi zir ü zeber etti!..îkinci Nükte: Bu medeniyet-i hâzıranın hârikaları, beşere birer ni'met-i Rabbaniye olmasından, hakiki bir şükür ve menfaat-ı beşerde istimâli iktiza ettiği halde, şimdi görüyoruz ki: Ehemmiyetli bir kısım insanı tenbelliğe ve sefahete ve sa'yi ve çalışmayı bırakıp istirahat içinde hevesatı dinlemek meylini verdiği için sa'yin şevkini kırıyor. Ve kanaatsizlik ve iktisadsızlık yoluyla sefahete, israfa, zulme, harama sevkediyor. Meselâ Risale-i Nurdaki "Nur Anahtarı"nın dediği gibi: Radyo büyük bir ni'met iken, maslahat-ı beşeriyeye sarf edilmek ile bir mânevi şükür iktiza ettiği halde, beşte dördü hevesata, lüzumsuz malâyani şeylere sarf edildiğinden; tenbelliğe, radyo dinlemekle heveslenmeğe sevk edip, sa'yin şevkini kırıyor. Vazife-i hakikiyesini bırakıyor. Hattâ çok menfaatli olan bir kısım hârika vesait, sa'y ve amel ve hakiki maslahat-ı ihtiyac-ı beşeriyeye istimâli lâzım gelirken, ben kendim gördüm; ondan bir-ikisi zaruri ihtiyâcata sarf edilmeğe mukabil, ondan sekizi keyf, hevesat, tenezzüh, tenbelliğe mecbur ediyor. Bu iki cüz'i misâle binler misâller var.Elhâsıl: Medeniyet-i garbiye-i hâzıra, semâvi dinleri tam dinlemediği için, beşeri hem fakir edip ihtiyacatı ziyadeleştirmiş... îktisad ve kanaat esasını bozup israf ve hırs ve tama'ı ziyadeleştirmeğe; zulüm ve harama yol açmış. Hem beşeri vesait-i sefahete teşvik etmekle o biçare muhtaç beşeri tam tenbelliğe atmış. Sa'y ve amelin şevkini kırıyor! Hevesata, sefahete sevk edip ömrünü faidesiz zâyi ediyor.Hem o muhtaç ve tenbelleşmiş beşeri, hasta etmiş. Su'-i istimâl ve israfat ile yüz nevi hastalığın sirayetine, intişarına vesile olmuş.Hem üç şiddetli ihtiyaç ve meyl-i sefahet ve ölümü her vakit hâtıra getiren kesretli hastalıklar ve dinsizlik cereyanlarının o medeniyetin içlerine yayılmasiyle intibaha gelip uyanmış beşerin gözü önünde ölümü idam-ı ebedi suretinde gösterip, her vakit beşeri tehdid ediyor. Bir nevi cehennem azâbı veriyor...îşte bu dehşetli musibet-i beşeriyeye karşı Kur'an-ı Hakim'in dörtyüz milyon talebesinin intibahiyle ve içinde semâvi, kudsi kanun-u esasileriyle bin üçyüz sene evvel gösterdiği gibi, yine bu dörtyüz milyonun kendi kudsi esasi kanunlariyle beşerin bu üç dehşetli yarasını tedavi etmesini; ve eğer yakında kıyamet kopmazsa, beşerin hem saâdet-i hayat-ı dünyeviyesini, hem saadet-i hayat-ı uhreviyesini kazandıracağını; ve ölümü, idam-ı ebediden çıkarıp âlem-i nura bir terhis tezkeresi göstermesini ve ondan çıkan medeniyetin mehasini, seyyiatına tam galebe edeceğini ve şimdiye kadar olduğu gibi; dinin bir kısmını, medeniyetin bir kısmını kazanmak için rüşvet vermek değil, belki medeniyeti ona, o semavi kanunlara bir hizmetkâr, bir yardımcı edeceğini Kur'an-ı Mu'ciz-il-Beyan'ın işarat ve rumuzundan anlaşıldığı gibi, Rahmet-i îlâhiyeden şimdiki uyanmış beşer bekliyor, yalvarıyor, arıyor!. R.N.)
 medenk: Kapı sürgüsü. Kilit.
 meder: Tezek, toprak tezeği. * çakıl. Kuru çamur. Kuru balçık. * Köy, mahalle.
 medfa': (C.: Medâfi') Ask: Top.
@@ -1762,7 +1762,7 @@ medhîye: Birini medhetmek için yazılan yazı.
 medhul: (Dahl. den) Ayıplanacak kusuru olan. * Dile düşmüş. * Kendisine birşey girmiş olan.
 medhun: Tabaklanmış deri.
 medhur: Uzaklaştırılmış veya kovulmuş olan. Tardedilmiş olan.
-medhuş : Dehşete uğramış. şaşırmış. Korkmuş.
+medhuş : Dehşete uğramış. şaşırmış. Korkmuş.
 medhuşâne: ürkmüş gibi. ürkmüş bir hâlde.
 med'î: Dâvet edilmiş, davetli. çağrılmış.
 medî: (C: Emdiye) Bir yerde birikip toplanmış su.
@@ -1832,7 +1832,7 @@ mefdere: Dağ keçisinin durağı.
 mef'em: Karnı geniş olan kişi.
 meferr: Kaçılacak yer.
 mefhar: îftihara, övünmeğe, sevinmeğe sebeb olan. îftihara vesile olan şey.
-mefhar-i kâînat: (Mefhar-i Mevcudat) Kâinatın, kendisi ile iftihar ettiği zat mânâsına Hz. Muhammed'e (A.S.M.) alem olmuş bir tâbirdir.Bu tâbirin kavranabilmesi için nurâni bir bahsi naklediyoruz: "Bak, hârika bir surette hüsn-i suretle hüsn-i sireti cem'eden O Mürşid-i Umumi, O Hatib-i Kudsi; cevâhir dolu bir Kitab-ı Mu'ciz-ül Beyan eline alarak, bütün insanlara mele-i a'lâdan nâzil olan bir hutbe-i ezeliyeyi okuyor ve bütün beni âdemi ve cinleri ve mevcudatı dinletiyor. Evet, pek büyük bir emirden haber veriyor. Hilkat-ı âlemin acib muammasını açıyor. Kâinatın sırr-ı hikmetine dâir tılsımı açıyor. Felsefe ve fenn-i hikmetin, nev-i beşere: "Siz kimlersiniz? Nereden geliyorsunuz? Nereye gidiyorsunuz?" diye irâd ettiği, akılları acz ve hayrette bırakan üç suâle cevap veriyor...Arkadaş! şu Zât-ı Nurâni (A.S.M.) Mürşid-i îmâni Resul-ü Ekrem, bak; nasıl neşrettiği hakikatın nuriyle, Hakkın ziyası ile, nev-i beşerin gecesini gündüze, kışını bahara çevirerek, âlemde yaptığı inkılâb ile âlemin şeklini değiştirerek nurâni bir şekle sokmuştur. Evet, O Zâtın nurâni güzelliği ile kâinata bakılmazsa, kâinat bir mâtem-i umumi içinde görünecekti. Bütün mevcudat birbirine karşı ecnebi ve düşman durumunda bulunacaktı. Cemâdat, birer cenaze suretini gösterecekti. Hayvan ve insanlar, eytam gibi zevâl ve firakın korkusundan vâveylâlara düşeceklerdi. Ve kâinata, harekâtiyle, tenevvüü ile ve tagayyüratiyle, nukuşiyle tesadüfe bağlı bir oyuncak nazarı ile bakılacaktı. Bilhassa insanlar, hayvanlardan daha aşağı, zelil ve hakir olacaklardı. îşte, O Zâtın telkin ettiği imân nazarı ile kâinata bakılmadığı takdirde, kâinat böyle korkunç, zulümatlı bir şekilde görülecekti. Fakat O Mürşid-i Kâmil'in gözü ile ve imân gözlüğü ile bakılırsa; her taraf nurlu, ziyadar, canlı, hayatlı, sevimli, sevgili bir vaziyette arz-ı didar edecektir. Evet, kâinat iman nuru ile mâtem-i umumi yeri olmaktan çıkıp mescid-i zikir ve şükür olmuştur. Birbirine düşman telâkki edilen mevcudat, birbirine ahbab ve kardeş olmuşlardır. Cenâze ve ölü şeklini gösteren cemâdât, ünsiyyetli birer hayattar ve lisan-ı hâliyle hâlıkının âyâtını nâtık birer müsahhar me'muru şekline giriyorlar. Ağlayan müteşekki ve eytâm kıyafetinde görünen insan; ibâdetinde zâkir, Hâlikına şâkir sıfatını takınıyor. Ve kâinatın harekât, tenevvüât, tagayyürât ve nukuşu, abesiyyetten kurtuluyor. Rabbâni mektublar, Ayat-ı tekviniyyeye sahifeler, Esmâ-i îlâhiyyeye âyineler suretine inkılâb ederler.Hülâsa: îman nuriyle âlem öyle terakki eder ki: "Hikmet-i Samedâniye Kitabı" nâmını alıyor. Ve insan zelil ve fakir ve âciz hayvanların sırasından çıkar. Za'fının kuvvetiyle, aczinin kudreti ile, ubudiyyetinin şevketi ile, kalbinin şuâı ile, aklının haşmet-i îmâniyyesi ile hilâfet ve hâkimiyyetin zirvesine yükselmiştir. Hattâ, acz, fakr, ihtiyaç ve akıl onun sukutuna esbâb iken, suud ve yükselmesine sebeb olurlar. Zulmetli, karanlıklı bir mezar-ı ekber suretinde görünen zaman-ı mâzi, enbiya ve evliyanın ziyâsı ile ziyâdar ve nurâni görünmeğe başlar. Karanlıklı gece şeklinde olan istikbal, Kur'ânın ziyası ile tenevvür eder. Cennetin bostanları şekline girer. Buna binâen, O Zât-ı Nurâni olmasa idi; kâinat da, insan da, her şey de adem hükmünde kalır; ne kıymeti olur ve ne ehemmiyeti kalırdı.Binaenaleyh bu kadar garib, acib, güzel kâinat için böyle târifat ve teşrifatçı bir Mürşid-i Harika lâzımdır! "Eğer bu Zât (A.S.M.) olmasa idi kâinat da olmazdı" meâlinde $ olan Hadis-i Kudsi şu hakikatı tenvir ediyor." M.N.)
+mefhar-i kâînat: (Mefhar-i Mevcudat) Kâinatın, kendisi ile iftihar ettiği zat mânâsına Hz. Muhammed'e (A.S.M.) alem olmuş bir tâbirdir.Bu tâbirin kavranabilmesi için nurâni bir bahsi naklediyoruz: "Bak, hârika bir surette hüsn-i suretle hüsn-i sireti cem'eden O Mürşid-i Umumi, O Hatib-i Kudsi; cevâhir dolu bir Kitab-ı Mu'ciz-ül Beyan eline alarak, bütün insanlara mele-i a'lâdan nâzil olan bir hutbe-i ezeliyeyi okuyor ve bütün beni âdemi ve cinleri ve mevcudatı dinletiyor. Evet, pek büyük bir emirden haber veriyor. Hilkat-ı âlemin acib muammasını açıyor. Kâinatın sırr-ı hikmetine dâir tılsımı açıyor. Felsefe ve fenn-i hikmetin, nev-i beşere: "Siz kimlersiniz? Nereden geliyorsunuz? Nereye gidiyorsunuz?" diye irâd ettiği, akılları acz ve hayrette bırakan üç suâle cevap veriyor...Arkadaş! şu Zât-ı Nurâni (A.S.M.) Mürşid-i îmâni Resul-ü Ekrem, bak; nasıl neşrettiği hakikatın nuriyle, Hakkın ziyası ile, nev-i beşerin gecesini gündüze, kışını bahara çevirerek, âlemde yaptığı inkılâb ile âlemin şeklini değiştirerek nurâni bir şekle sokmuştur. Evet, O Zâtın nurâni güzelliği ile kâinata bakılmazsa, kâinat bir mâtem-i umumi içinde görünecekti. Bütün mevcudat birbirine karşı ecnebi ve düşman durumunda bulunacaktı. Cemâdat, birer cenaze suretini gösterecekti. Hayvan ve insanlar, eytam gibi zevâl ve firakın korkusundan vâveylâlara düşeceklerdi. Ve kâinata, harekâtiyle, tenevvüü ile ve tagayyüratiyle, nukuşiyle tesadüfe bağlı bir oyuncak nazarı ile bakılacaktı. Bilhassa insanlar, hayvanlardan daha aşağı, zelil ve hakir olacaklardı. îşte, O Zâtın telkin ettiği imân nazarı ile kâinata bakılmadığı takdirde, kâinat böyle korkunç, zulümatlı bir şekilde görülecekti. Fakat O Mürşid-i Kâmil'in gözü ile ve imân gözlüğü ile bakılırsa; her taraf nurlu, ziyadar, canlı, hayatlı, sevimli, sevgili bir vaziyette arz-ı didar edecektir. Evet, kâinat iman nuru ile mâtem-i umumi yeri olmaktan çıkıp mescid-i zikir ve şükür olmuştur. Birbirine düşman telâkki edilen mevcudat, birbirine ahbab ve kardeş olmuşlardır. Cenâze ve ölü şeklini gösteren cemâdât, ünsiyyetli birer hayattar ve lisan-ı hâliyle hâlıkının âyâtını nâtık birer müsahhar me'muru şekline giriyorlar. Ağlayan müteşekki ve eytâm kıyafetinde görünen insan; ibâdetinde zâkir, Hâlikına şâkir sıfatını takınıyor. Ve kâinatın harekât, tenevvüât, tagayyürât ve nukuşu, abesiyyetten kurtuluyor. Rabbâni mektublar, Ayat-ı tekviniyyeye sahifeler, Esmâ-i îlâhiyyeye âyineler suretine inkılâb ederler.Hülâsa: îman nuriyle âlem öyle terakki eder ki: "Hikmet-i Samedâniye Kitabı" nâmını alıyor. Ve insan zelil ve fakir ve âciz hayvanların sırasından çıkar. Za'fının kuvvetiyle, aczinin kudreti ile, ubudiyyetinin şevketi ile, kalbinin şuâı ile, aklının haşmet-i îmâniyyesi ile hilâfet ve hâkimiyyetin zirvesine yükselmiştir. Hattâ, acz, fakr, ihtiyaç ve akıl onun sukutuna esbâb iken, suud ve yükselmesine sebeb olurlar. Zulmetli, karanlıklı bir mezar-ı ekber suretinde görünen zaman-ı mâzi, enbiya ve evliyanın ziyâsı ile ziyâdar ve nurâni görünmeğe başlar. Karanlıklı gece şeklinde olan istikbal, Kur'ânın ziyası ile tenevvür eder. Cennetin bostanları şekline girer. Buna binâen, O Zât-ı Nurâni olmasa idi; kâinat da, insan da, her şey de adem hükmünde kalır; ne kıymeti olur ve ne ehemmiyeti kalırdı.Binaenaleyh bu kadar garib, acib, güzel kâinat için böyle târifat ve teşrifatçı bir Mürşid-i Harika lâzımdır! "Eğer bu Zât (A.S.M.) olmasa idi kâinat da olmazdı" meâlinde olan Hadis-i Kudsi şu hakikatı tenvir ediyor." M.N.)
 mefharet: Birine şeref veren şey. îftihar edilecek, övünülecek şey.
 mefhas: (C.: Mefâhis) Kuş yuvası.
 mefhum: Anlaşılan. Mânâ. îfade. Sözden çıkarılan mânâ.
@@ -1859,8 +1859,8 @@ mefrugün bîh: Bir kimseye bırakılan şey.
 mefrugün leh: Kendisine bir şeyin mülkiyeti ve tasarruf hakkı bırakılmış olan kimse.
 mefruk: Bölünmüş, ayrılmış tefrik edilmiş.
 mefruk: Ovulmuş nesne. * Zâ'ferân ile boyanmış nesne.
-mefruş : Döşenmiş, ferş olunmuş, serilmiş. * Nikâhlı karı.
-mefruşat : (Ferş. ten) Ev döşemeğe yarayan şeyler. Kilim, halı v.s.
+mefruş : Döşenmiş, ferş olunmuş, serilmiş. * Nikâhlı karı.
+mefruşat : (Ferş. ten) Ev döşemeğe yarayan şeyler. Kilim, halı v.s.
 mefruşat-i beytîye: Ev eşyası.
 mefruz: îftira olunmuş, ayrılmış, bölünmüş.
 mefruz: (Farz. dan) Farz olunmuş. Farz hâline gelmiş. çok lüzumlu. Farz kabilinden olmuş. * Var sayılan.
@@ -1870,7 +1870,7 @@ mefsah: Bozma. * Feshedecek, bozacak yer.
 mefsaka: (Fısk. dan) Günah işlenen yer.
 mefsedet: Bozukluk, fenâlık, fesatçılık. Münâfıklık.
 mefsîl: (C: Mefâsıl) Her âzada olan ek yerleri. Mafsal.
-mefsud : Kendinden kan alınmış kimse.
+mefsud : Kendinden kan alınmış kimse.
 mefsuh: Hükümsüz bırakılmış. Yürürlükten kaldırılmış. Battal edilmiş.
 mefsuhîyet: Mefsuhluk. Yürürlükten kaldırılma hâli. Hükümsüzlük.
 meftah: Hazine.
@@ -1999,7 +1999,7 @@ mehmed: Muhammed isminin Türkçede meşhur olmuş değişik şeklidir. Resul-i 
 mehmed akîf: (1873-1936) şiir ve manzumeyi sırf îslâmiyete hizmet için yazdı. îlk Türkiye Büyük Millet Meclisinde îstiklâl Marşı manzumesi kabul edilerek milletin mâneviyatına büyük faydalar sağladı. çanakkale şehidlerine hitaben yazdığı manzumesi de aynı mahiyettedir. Bu îslâm mücahidinin şiirleri Safahât isimli yedi kısımdan ibâret bir kitabda toplanmıştır. (R. Aleyh)
 mehmedcîk: Kahraman ve mücahid mânasında Türk askerine verilen ünvandır.
 mehmum: Endişeli. Düşünceli.
-mehmuse: Gizli. Gizlenmiş eşya. * örtülmüş. * Tecvidde: Gizli okunan harfler. Fısıltı ile okunan harfler. $ sözü, bu harfleri toplamıştır. Bunun zıddı "Huruf-u mechure" dir.
+mehmuse: Gizli. Gizlenmiş eşya. * örtülmüş. * Tecvidde: Gizli okunan harfler. Fısıltı ile okunan harfler. sözü, bu harfleri toplamıştır. Bunun zıddı "Huruf-u mechure" dir.
 mehmusen: Gizli olarak.
 mehmuz: Gr: Hemzeli kelime. Harfin kökünde hemze varsa o kelimeye denir.
 mehmuz-ul ayn: Kelime kökündeki ikinci harf "hemze" olursa, o kelimeye denir. Birinci harfi "hemze" olursa ona: Mehmuz-ul fâ; üçüncü harf hemzeli olur ise ona da: Mehmuz-ül lâm denir.
@@ -2032,8 +2032,8 @@ mehvare: Ay gibi. * Aylık maaş. Aylık ücret.
 mehvat: çöl, sahra. * îki şeyin arası.
 mehveş: Ay gibi. * Mc: Güzel.
 mehyum: şaşmış, hayrette kalmış, şaşırmış. * Sevgi ve aşkdan serseme dönmüş.
-mehzul : Düşkün. Zayıf. Arık.
-mehzum : Hezimete uğramış. Mağlub olmuş olan.
+mehzul : Düşkün. Zayıf. Arık.
+mehzum : Hezimete uğramış. Mağlub olmuş olan.
 meik: Gayretli kişi. * Hiddeti galip kimse.
 meîn: Ağlanacak ve inlenecek yer.
 mejeng: Keder, hüzün, tasa, gam. * Hoşa gitmeyen, beğenilmeyen, nefret edilen, iğrenilen.
@@ -2312,7 +2312,7 @@ melmusat: (Melmus. C.) El ile dokunmalar. El ile temas etmeler.
 mels: Enemek. Hayvanı iğdiş etmek, erkekliğini gidermek.
 mels: Yalan vâde, yalan söz. * Güzellik, hüsün.
 melsa': Pürüzsüz ve düz yer. * şarap.
-melsuk : Yapıştırılmış. Bitiştirilmiş.
+melsuk : Yapıştırılmış. Bitiştirilmiş.
 melsun: (C.: Melâsin) Yalancı, kezzâb.
 meltafa: Güzellik, lâtiflik yeri olan şey veya vasıf.
 meltem: Yaz mevsiminde karadan denize doğru esen rüzgâr.
@@ -2329,7 +2329,7 @@ mel'un: Lânetlenmiş. Lânete lâyık. * Kovulmuş, tard olunmuş.
 melvan: Gece ve gündüz.
 melyene: Yumuşaklık.
 melze: At seğirtirken koltuklarını uzatmak. * Süngü ile veya gayrı nesne ile ta'n eylemek.
-melzum : Mevcud bir şeyle birbirinden ayrılmayan. Mevcud bir şeyle beraber bulunması lâzım gelen. Lüzumlu olmuş olan. Lüzumlu kılınmış.
+melzum : Mevcud bir şeyle birbirinden ayrılmayan. Mevcud bir şeyle beraber bulunması lâzım gelen. Lüzumlu olmuş olan. Lüzumlu kılınmış.
 melzumîyet: Lüzumlu kılma. Melzumluk.
 memalîk: (Memluk. C.) Köleler. kullar.
 memalîk: (Memleket. C.) Memleketler.
@@ -2398,7 +2398,7 @@ me'murîn: (Me'mur. C.) Devlet hizmetinde bulunan kimseler. Me'murlar.
 me'murîyet: Me'murluk. Vazife, görev, hizmet.
 me'murîyet-î aslîye: Asıl me'murluk.
 memut: Meyyit. ölmüş.
-memzuc : Bitişik. Karışık. Karışmış. Birlik olmuş. Birbirine mezc olmuş. * şakalaşmak. * Oynamak.
+memzuc : Bitişik. Karışık. Karışmış. Birlik olmuş. Birbirine mezc olmuş. * şakalaşmak. * Oynamak.
 me'n: (C: Müün-Me'nât) Böğür. * Yer kazmakta kullanılan ucu demirli ağaç.
 men: Ben. (Farsçada birinci şahıs zamiri) (Bak: Mâ)
 men: (îsm-i Mevsuldür) şahsa delâlet eder. "O kimse ki, yahut, kimi, kim, kim ki" gibi mânâlara gelir. îstifham için olur, yerine göre tesniye (Menân) şeklinde ve cemi (Menun) gibi okunabilir. Akıl sahibleri hakkında kullanılır. Mevsule, şartiye, nekre-i tâmme, nekre-i mevsule olur.
@@ -2522,7 +2522,7 @@ menfîyyen: Sürgün olarak.
 menfuh: üfürülmüş. * Büyük karınlı. Nefholunmuş.
 menfur: Kendisinden nefret edilen, sevilmeyen. îğrenç. * Mebguz.
 menfus: Yeni doğmuş çocuk.
-menfuş : (Pamuk veya yün gibi) atılmış ve didilmiş. Dağılmış, didik didik edilmiş.
+menfuş : (Pamuk veya yün gibi) atılmış ve didilmiş. Dağılmış, didik didik edilmiş.
 mengene: Tazyik veya sıkıştırma için kullanılan demir veya tahta âlet.
 menguş: Küpe.
 menh: Verme, ihsan etme.
@@ -2569,8 +2569,8 @@ menkulat: Nesilden nesile veya ağızdan ağıza yayılıp duyulan. Nakle dayana
 menkur: Delinmiş. Oyulmuş.
 menkur: înkâr olunmuş.
 menkus: (Nüks. den) Tersine çevrilmiş. Baş aşağı edilmiş.
-menkus : (Naks. dan) Noksanlaştırılmış. Eksik olan.
-menkuş : (Nakş. dan) Nakşolunmuş. îşlenmiş. Nakış yapılmış. Boya ile süslenmiş.
+menkus : (Naks. dan) Noksanlaştırılmış. Eksik olan.
+menkuş : (Nakş. dan) Nakşolunmuş. îşlenmiş. Nakış yapılmış. Boya ile süslenmiş.
 menkuşe: Nakşolunmuş, işlenmiş. * Kemik çıkmış olan baş yarığı.
 menkut: (Nokta. dan) Noktalanmış. Noktalı.
 menkuz: Nakzedilmiş. Bozulmuş. Hükümsüz bırakılmış.
@@ -2593,7 +2593,7 @@ mensîm: (C.: Menâsim) Alâmet, işaret, nişân, iz, eser. * Yol, tarik. * Dev
 mensîyat: (Mensi. C.) Hatırdan çıkıp unutulmuş şeyler.
 mensîyet: Unutulma, hatırdan çıkma.
 mensîyy: Unutma yeri. * Hiç bahsedilmeyen terkedilmiş nesne.
-mensub : (Bak: Mansub)
+mensub : (Bak: Mansub)
 mensub: Bir şeye veya kimseye nisbeti olan, alâkası bulunan. Bir şeyle ilgili olan.
 mensubât: (Mensub. C.) Bir yere mensub olanlar. Bir yerin adamları.
 mensubîn: (Mensub. C.) Mensublar. Mensub ve alâkadar olanlar. Bir daire veya yerin adamları.
@@ -2603,9 +2603,9 @@ mensucât: Bez veya kumaş gibi dokumak suretiyle yapılan tezgâh veya fabrika 
 mensucât-i harîrîyye: îpek dokumalar.
 mensuh: (Nesh. den) Hükmü kaldırılmış. Nesholunmuş. Hükümsüz bırakılmış.
 mensuk: (Nesk. den) Düzgün olarak dizilmiş olan.
-mensur : (Nasr. dan) Yardım görmüş. * Muzaffer. Zafer bulmuş. * Cenab-ı Hak tarafından her işinde nusrete mazhar olduğundan Hz. Peygamber Aleyhissalâtü Vesselâm'ın bir ismi de Mensur'dur.
-mensur : (Nesr. den) Dağılmış. Saçılmış. * Gece vaktinde güzel kokan bir çiçek. * Edb: Manzum olmayan nesir halindeki yazı. Bunun mânaca çok güzel ve şiir gibi ahenkli yazılmış olanına "mensur şiir" denir.
-mensus : (Bak: Mansus)
+mensur : (Nasr. dan) Yardım görmüş. * Muzaffer. Zafer bulmuş. * Cenab-ı Hak tarafından her işinde nusrete mazhar olduğundan Hz. Peygamber Aleyhissalâtü Vesselâm'ın bir ismi de Mensur'dur.
+mensur : (Nesr. den) Dağılmış. Saçılmış. * Gece vaktinde güzel kokan bir çiçek. * Edb: Manzum olmayan nesir halindeki yazı. Bunun mânaca çok güzel ve şiir gibi ahenkli yazılmış olanına "mensur şiir" denir.
+mensus : (Bak: Mansus)
 menşar: Yayıp dağıtacak yer. * öldükten sonra dirilecek yer.
 menşat: (C: Menâşıt) Neşat, sürur, neşe.
 menşe': (Neş'et. den) Esas. Kök. Bir şeyin çıktığı, neş'et ettiği yer. Beslenip yetişilen yer.
@@ -2760,7 +2760,7 @@ merdümküş: Katil. Adam öldüren. însan katleden.
 merdümzad: însan oğlu. Beni Adem.
 mer'e: (Mer'et) Kadın. Zen.
 mereb: însan toplanan yer.
-me'rebe: $ (Me'ribe): (C: Meârib) îhtiyaç. * ümitli bulunma. ümitvar olmak.
+me'rebe: (Me'ribe): (C: Meârib) îhtiyaç. * ümitli bulunma. ümitvar olmak.
 merec: Kararsız ve mütehayyir olma. * Mecburi olma.
 mered: Kötülükte inad. * Sakal belirmemek, sakal çıkmamak.
 merede: (Mârid. C.) înadçılar, muannidler, direnenler.
@@ -2845,7 +2845,7 @@ merkez-î âlem: Güneş, şems.
 merkez-î arz: Arzın merkezi. Dünyanın merkezi, iç tarafı.
 merkez-î devr: Hareket eden bir cismin, etrafında devrettiği nokta.
 merkez-î siklet: Ağırlık merkezi.
-merkez-î teşrî' : Kanun yapma merkezi.
+merkez-î teşrî' : Kanun yapma merkezi.
 merkezî: (Merkeziye) Merkeze mensub. Merkezde bulunan. Merkezle alâkalı.
 merkezîyyet: îşlek yerde, merkezde bulunmuş olmak. * Bütün işlerin bir yerden idare edilir olması, merkezleştirilmesi.
 merku': Eski, yırtılmış elbise.
@@ -2886,10 +2886,10 @@ mersîn (mersînî): Mersin ağacı.
 mersîye: Birisinin ölümü hakkında yazılan, teessürü anlatan manzume.
 mersîyehân: Ağıt okuyan. Mersiye söyliyen.
 mersîyekâr: Ağıtçı. Ağıt ve mersiye okuyan.
-mersud : Rasad olunmuş, ölçülüp biçilmiş, hesab edilmiş.
+mersud : Rasad olunmuş, ölçülüp biçilmiş, hesab edilmiş.
 mersud: Birbiri üstüne yığılmış kumaş.
 mersum: (Resm. den) Yazılmış, çizilmiş. Alâmetli, işaretli. * An'ane, gelenek, örf ü âdât. * Adı ve bahsi geçmiş. Bahsedilmiş.
-mersus : Sağlam yapı. Birbirine kenetlenmiş, kurşun veya lehim ile birbirine bağlanmış sağlam yapı.
+mersus : Sağlam yapı. Birbirine kenetlenmiş, kurşun veya lehim ile birbirine bağlanmış sağlam yapı.
 merş (marş): (C.: Müruş) Tırnak ucuyla deriyi yırtmak. * Yağmur suyunun durmayıp üzerinden çabuk geçtiği yer. * încitici söz.
 merşa': Her hayvanın yavuzu ve yırtıcısı. * Otu çok olan yer.
 merşe: Yuvarlak cisim.
@@ -2910,7 +2910,7 @@ mertus: Bir fesleğen çeşidi.
 mer'ub: (Ru'b. dan) ürkmüş, korkmuş.
 mer'uben: ürkerek, korkarak, korku ile.
 merue: Hazmetmek.
-me'ruş : Yer. Arz. Yeryüzü.
+me'ruş : Yer. Arz. Yeryüzü.
 me'ruza: Ağaç kurdunun yediği ağaç.
 merv: Bir cins güzel koku.
 mervaha: (C.: Merâvih) Ova, çöl. Her tarafından rüzgâr esen yer.
@@ -2938,7 +2938,7 @@ merzî: (Bak: Marzi)
 merzîh: şiddetli ses.
 merzuban: (C: Merazibe) Mecusiler reisi.
 merzuf: Ateş ile kızmış taş üzerinde pişirdikleri et.
-merzuk : Rızıklanmış, ihtiyaçları verilmiş. * Bahtiyar. Saadetli, mutlu.
+merzuk : Rızıklanmış, ihtiyaçları verilmiş. * Bahtiyar. Saadetli, mutlu.
 merzukîyyet: Rızıklanış. Bütün mahlukatın rızkını bulması hali.
 merzul: Rezil ve kepaze edilmiş.
 merzuz: Dövülmüş. * Parçalanmış.
@@ -3122,7 +3122,7 @@ meslaha: Sınır kalesi. Derbent.
 mesleb: Zorla birşey alınan yer. Zorla alma yeri.
 meslebe: (C.: Mesâlib) Eksik, kusur, noksanlık, ayıp.
 meslec: Karlık.
-meslek: Yol. Usul. Gidiş. * San'at. Geçim için tutulan yol. * Sistem. * Mezheb. Mâneviyatta tutulan yol.(Sen, mesleğini ve efkârını hak bildiğin vakit, "mesleğim haktır veya daha güzeldir" demeye hakkın var. Fakat "yalnız hak benim mesleğimdir" demeye hakkın yoktur. $ sırrınca insafsız nazarın ve düşkün fikrin hakem olamaz. Başkasının mesleğini butlan ile mahkûm edemez. M.)
+meslek: Yol. Usul. Gidiş. * San'at. Geçim için tutulan yol. * Sistem. * Mezheb. Mâneviyatta tutulan yol.(Sen, mesleğini ve efkârını hak bildiğin vakit, "mesleğim haktır veya daha güzeldir" demeye hakkın var. Fakat "yalnız hak benim mesleğimdir" demeye hakkın yoktur. sırrınca insafsız nazarın ve düşkün fikrin hakem olamaz. Başkasının mesleğini butlan ile mahkûm edemez. M.)
 meslek-î müteassîfe: Sapık meslek.
 meslekî: (Meslekiyye) Meslekle alâkalı. Mesleğe ait.
 mesles: (C: Mesâlis) üçer üçer olmak. * üç kıllı tanbur.
@@ -3147,7 +3147,7 @@ mesmua: Duyulmuş. Kulakla dinlenmiş olan.
 mesmuât: îşitilenler. Duyulanlar.
 mesmud: Fukarânın çok istemesinden vere vere hiç birşeyi kalmayan kimse.
 mesmum: Zehirlenmiş. Ağu katılmış. Zehirli.
-mesmumen : Zehirli olarak. Zehirlenmiş olarak.
+mesmumen : Zehirli olarak. Zehirlenmiş olarak.
 mesmur: Cismen ufak olmakla beraber, sinirleri kuvvetli olan adam.
 mesmus: Zehirli.
 mesna: îkişer ikişer. * Derenin büklüm ve boğaz yeri. * çalgının ikinci teli.
@@ -3469,7 +3469,7 @@ mevarîs: Miraslar. Verasetle nâil olunan mülk ve mallar.
 mevasîk: Mevsuk şeyler. Misaklar. Ahd ü peymanlar. Yeminler. Sözleşmeler.
 mevasîm: Mevsimler. * Pazar yerleri.
 mevasîm-î erbaa: Dört mevsim. Rebi' (îlkbahar), Sayf (Yaz), Harif (Sonbahar), şitâ (Kış).
-mevaşî : Davar, koyun, keçi, inek ve öküz gibi hayvanlar.
+mevaşî : Davar, koyun, keçi, inek ve öküz gibi hayvanlar.
 mevat: (Mevt. den) Cansız şeyler. Sürülmemiş topraklar. * Sahibsiz yerler.
 mevatin: (Mevtın. C.) Yurtlar. şenlendirilmiş ve bayındır yerler.
 mevatî: Mevâta yani cansız şeye ait, bununla alâkalı. * îşlenmemiş toprağa ait.
@@ -3571,7 +3571,7 @@ mevrusat: Mirastan gelenler.
 mevrus(e): Vereseye âit olan. Miras edilmiş. Miras edilen eşya.
 mevs: Yolmak. Traş etmek.
 mevs: Ekmeği suyla ıslatmak.
-mevs : Yıkamak.
+mevs : Yıkamak.
 mevsik: îtimad etmek. Emniyet etmek. înanmak. * Yemin. Sözleşme.
 mevsîl: (Vusul. den) Kavşak. Kavuşacak yer. * Ek yeri.
 mevsîm: (C: Mevâsim) Pazar yeri. * Arap pazargâhları. * Yılın dört kısmından biri. * Zaman. Vakit. Alâmet.
@@ -3579,17 +3579,17 @@ mevsîm be mevsîm: Zaman zaman. Mevsimden mevsime, zamanı geldikçe.
 mevsîm-î harîf: Sonbahar, güz devresi.
 mevsîm-î sayf: Yaz mevsimi, yaz devresi.
 mevsîm-î şîtâ: Kış mevsimi.
-mevsuf : Vasıflanan. Bir sıfatla tavsif edilen. * Kendisinde bir sıfat mevcud olan, kendisine bir sıfat isnad edilmiş olan.
+mevsuf : Vasıflanan. Bir sıfatla tavsif edilen. * Kendisinde bir sıfat mevcud olan, kendisine bir sıfat isnad edilmiş olan.
 mevsuk: Kendisine inanılır olan. şâyân-ı itimad olan. * Sağlam. * Vesikalı. Delile dayanan hakikat.
 mevsuk-ul kelîm: Sözlerine inanılır. Söylediği şeylere itimad edip güvenilir.
 mevsukan: Sağlam, delile dayanır, itimad edilir şekilde.
 mevsukîyet: Sağlamlık, gerçeklik. înanılır hâl.
-mevsul : Erişen. Vasıl olan. * Birleşmiş. Kendine başka şey vasıl olmuş olan. Bitirmiş. Vasledilmiş.
-mevsule : Bitiştirilmiş.
+mevsul : Erişen. Vasıl olan. * Birleşmiş. Kendine başka şey vasıl olmuş olan. Bitirmiş. Vasledilmiş.
+mevsule : Bitiştirilmiş.
 mevsum: (Vesm. den) îşaretlenmiş, damgalanmış, nişanlanmış. * Ad verilmiş, isimlendirilmiş.
 mevsume: Tamamen baştan aşağı süslü zırh. * Bahar yağmuru ile ıslanmış toprak.
 mevsut: Ortada. Vasat olan.
-mevt: ölüm. âhirete göç. Dünyadan gitmek. * Mevt, mü'minler için dünya vazifelerinden ve imtihanından bir paydostur.(Sual: Furkan-ı Hakim'de $ gibi âyetlerde: "Mevt dahi, hayat gibi mahluktur, hem bir ni'mettir." diye ifham ediliyor. Halbuki zâhiren mevt, inhilâldir, ademdir, tefessühtür, hayatın sönmesidir, hâdim-ül-lezzattır... Nasıl mahluk ve ni'met olabilir?Elcevab: "Birinci Suâl"in cevabının âhirinde denildiği gibi, mevt, vazife-i hayattan bir terhistir, bir paydostur, bir tebdil-i mekândır, bir tahvil-i vücuddur, hayat-ı bâkıyeye bir dâvettir, bir mebde'dir, bir hayat-ı bâkıyenin mukaddimesidir. Nasılki hayatın dünyaya gelmesi bir halk ve takdir iledir; öyle de, dünyadan gitmesi de bir halk ve takdir ile, bir hikmet ve tedbir iledir. çünki, en basit tabaka-i hayat olan hayat-ı nebâtiyenin mevti, hayattan daha muntazam bir eser-i san'at olduğunu gösteriyor. Zira meyvelerin, çekirdeklerin, tohumların mevti tefessüh ile, çürümek ve dağılmakla göründüğü halde, gayet muntazam bir muamele-i kimyeviye ve mizanlı bir imtizâcat-ı unsuriye ve hikmetli bir teşekkülât-ı zerreviyeden ibaret olan bir yoğurmaktır ki, bu görünmeyen intizamlı ve hikmetli ölümü, sünbülün hayatiyle tezahür ediyor. Demek çekirdeğin mevti, sünbülün mebde-i hayatıdır; belki ayn-ı hayatı hükmünde olduğu için, şu ölüm dahi hayat kadar mahluk ve muntazamdır.Hem zihayat meyvelerin yahut hayvanların mide-i insaniyede ölümleri, hayat-ı insaniyeye çıkmalarına menşe' olduğundan; "o mevt, onların hayatından daha muntazam ve mahluk" denilir.îşte en edna tabaka-i hayat olan hayat-ı nebatiyenin mevti; böyle mahluk, hikmetli ve intizamlı olsa, tabaka-i hayatın en ulvisi olan hayat-ı insaniyenin başına gelen mevt, elbette yer altına girmiş bir çekirdeğin hava âleminde bir ağaç olması gibi, yer altına giren bir insan da, âlem-i berzahta elbette bir hayat-ı bâkıye sünbülü verecektir. M.)(Sizlere müjde! Mevt: îdam değil, hiçlik değil, fena değil, inkıraz değil, sönmek değil, firâk-ı ebedi değil, adem değil, tesâdüf değil, fâilsiz bir in'idam değil; belki, bir Fâil-i Hakim-i Rahim tarafından bir terhistir, bir tebdil-i mekândır. Saadet-i ebediyye tarafına, vatan-ı aslilerine bir sevkiyattır. Yüzde doksandokuz ahbabın mecmaı olan âlem-i berzaha bir visal kapısıdır. M.)
+mevt: ölüm. âhirete göç. Dünyadan gitmek. * Mevt, mü'minler için dünya vazifelerinden ve imtihanından bir paydostur.(Sual: Furkan-ı Hakim'de gibi âyetlerde: "Mevt dahi, hayat gibi mahluktur, hem bir ni'mettir." diye ifham ediliyor. Halbuki zâhiren mevt, inhilâldir, ademdir, tefessühtür, hayatın sönmesidir, hâdim-ül-lezzattır... Nasıl mahluk ve ni'met olabilir?Elcevab: "Birinci Suâl"in cevabının âhirinde denildiği gibi, mevt, vazife-i hayattan bir terhistir, bir paydostur, bir tebdil-i mekândır, bir tahvil-i vücuddur, hayat-ı bâkıyeye bir dâvettir, bir mebde'dir, bir hayat-ı bâkıyenin mukaddimesidir. Nasılki hayatın dünyaya gelmesi bir halk ve takdir iledir; öyle de, dünyadan gitmesi de bir halk ve takdir ile, bir hikmet ve tedbir iledir. çünki, en basit tabaka-i hayat olan hayat-ı nebâtiyenin mevti, hayattan daha muntazam bir eser-i san'at olduğunu gösteriyor. Zira meyvelerin, çekirdeklerin, tohumların mevti tefessüh ile, çürümek ve dağılmakla göründüğü halde, gayet muntazam bir muamele-i kimyeviye ve mizanlı bir imtizâcat-ı unsuriye ve hikmetli bir teşekkülât-ı zerreviyeden ibaret olan bir yoğurmaktır ki, bu görünmeyen intizamlı ve hikmetli ölümü, sünbülün hayatiyle tezahür ediyor. Demek çekirdeğin mevti, sünbülün mebde-i hayatıdır; belki ayn-ı hayatı hükmünde olduğu için, şu ölüm dahi hayat kadar mahluk ve muntazamdır.Hem zihayat meyvelerin yahut hayvanların mide-i insaniyede ölümleri, hayat-ı insaniyeye çıkmalarına menşe' olduğundan; "o mevt, onların hayatından daha muntazam ve mahluk" denilir.îşte en edna tabaka-i hayat olan hayat-ı nebatiyenin mevti; böyle mahluk, hikmetli ve intizamlı olsa, tabaka-i hayatın en ulvisi olan hayat-ı insaniyenin başına gelen mevt, elbette yer altına girmiş bir çekirdeğin hava âleminde bir ağaç olması gibi, yer altına giren bir insan da, âlem-i berzahta elbette bir hayat-ı bâkıye sünbülü verecektir. M.)(Sizlere müjde! Mevt: îdam değil, hiçlik değil, fena değil, inkıraz değil, sönmek değil, firâk-ı ebedi değil, adem değil, tesâdüf değil, fâilsiz bir in'idam değil; belki, bir Fâil-i Hakim-i Rahim tarafından bir terhistir, bir tebdil-i mekândır. Saadet-i ebediyye tarafına, vatan-ı aslilerine bir sevkiyattır. Yüzde doksandokuz ahbabın mecmaı olan âlem-i berzaha bir visal kapısıdır. M.)
 mevt-alud: ölüm gibi. ölümlü. Korkunç. ölü gibi.
 mevt-î ahmer: Kızıl ölüm. Kanlı ölüm. öldürülmek. * Tas: Nefse karşı koymak.
 mevt-î ebyaz: Ani ölüm. * Açlık.
@@ -3614,7 +3614,7 @@ mevzu-u bahs: Kendisinden bahsedilen. Bahis konusu.
 mevzua: Kabul edilmiş esas. îlk önce ele alınan fikir. Müsellem ve âşikâr olan kaziyye, hüküm.
 mevzuat: Bahsedilen hususlar. Bir şeyin esasını teşkil eden hususat. Tatbikat halinde olan hükümler ve kaideler.
 mevzuat-i beşer: însanların koyup kabul ettikleri hükümler ve kanunlar.
-mevzun : Vezinli. ölçülü. Tartılı. Düzgün. * Yakışıklı. * Her bir vasfı ölçülü ve i'tidal üzere bulunup, sırf iyi ve güzel şeylere nâil olan.
+mevzun : Vezinli. ölçülü. Tartılı. Düzgün. * Yakışıklı. * Her bir vasfı ölçülü ve i'tidal üzere bulunup, sırf iyi ve güzel şeylere nâil olan.
 mevzunat: (Mevzun ve Mevzune. C.) Vezinli ve tartılı şeyler.
 mevzunen: Vezinli olarak. ölçülü olarak.
 mevzunîyet: Düzgün, hesaplı ve düzenli. * Mevzun olma hâli.
@@ -3643,7 +3643,7 @@ meyd: Deprenmek. Sallanmak. * Ziyaret etmek. * Hareket etmek. * Kırağı çalma
 meydan: Arsa. * Geniş yer. * Etrafı çevrilmiş, üstü açık geniş yer.
 meydan dayaği: Eskiden askeri mekteblerle kışlalarda tatbik edilen cezalardan biridir. Meydanda tatbik edildiği için bu adı almıştır. Arkadaşını yaralamak, hoca ve zâbitine hakarette bulunmak gibi büyük kabahatlerden dolayı verilen bu dayak cezası, saf saf dizilen bütün talebelerin; asker ise kışladaki askerlerin huzurunda atılırdı. Cezaya çarpılacak talebe yahut asker, meydana getirilerek cezayı icab ettiren kabahatle meydan dayağının tatbiki için verilen karar okunduktan sonra serilen bir battaniye üzerine yüzükoyun yatırılır, başının ucuna ve ayaklarının üstüne kuvvetli birer hademe yahut asker oturtulur, okulun inzibât subayı, asker ise bölüğün subaylarından biri ince kızılcık sopasıyla kaba etlerine vururdu.Bu gibi cezalar, herkes ibret alıp bu suçlar işlenmemesi için herkesin gözü önünde icra edilirdi.
 meydan-i harb: Savaş meydanı, muhârebe alanı, harp meydanı.
-meydan-i haşîr: Haşir meydanı. Haşrin yeri.(Sual: Meydan-ı Haşir nerededir?Elcevab: $ Hâlik-ı Hakim'in herşeyde gösterdiği hikmet-i âliye, hatta tek küçük bir şey'e, çok büyük hikmetleri takmasiyle tasrih derecesinde işaret ediyor ki: Küre-i Arz; serseriyane, bâd-ı heva azim bir dâireyi çizmiyor.. belki mühim bir şey etrafında dönüyor ve meydan-ı ekberin daire-i muhitasını çiziyor, gösteriyor. Ve bir meşher-i azimin etrafında gezip, mahsulât-ı mâneviyesini ona devrediyor ki, ileride o meşherde, enzar-ı nâs önünde gösterilecektir. Demek, yirmibeş bin seneye karib bir daire-i muhitanın içinde, rivayete binaen şâm-ı şerif kıt'ası bir çekirdek hükmünde olarak o daireyi dolduracak, bir meydan-ı haşir bastedilecektir. Küre-i Arzın bütün mânevi mahsulâtı, şimdilik perde-i gayb altında olan o meydanın defterlerine ve elvahlarına gönderiliyor ve ileride meydan açıldığı vakit, sekenesini de yine o meydana dökecek; o mânevi mahsulâtları da, gaibden şehadete geçecektir. Evet Küre-i Arz; bir tarla, bir çeşme, bir ölçek hükmünde olarak o meydan-ı ekberi dolduracak kadar mahsulât vermiş ve onu istiab edecek mahlukat ondan akmış ve onu imlâ edecek masnuat ondan çıkmış. Demek Küre-i Arz bir çekirdek ve meydan-ı haşir, içindekilerle beraber bir ağaçtır, bir sünbüldür ve bir mahzendir. Evet, nasılki nurani bir nokta, sür'at-i hareketiyle nurani bir hat olur veya bir daire olur. öyle de: Küre-i Arz; sür'atli, hikmetli hareketiyle bir daire-i vücudun temessülüne ve o daire-i vücud mahsulâtiyle beraber, bir meydan-ı haşr-i ekberin teşekkülüne medardır. $ M.)
+meydan-i haşîr: Haşir meydanı. Haşrin yeri.(Sual: Meydan-ı Haşir nerededir?Elcevab: Hâlik-ı Hakim'in herşeyde gösterdiği hikmet-i âliye, hatta tek küçük bir şey'e, çok büyük hikmetleri takmasiyle tasrih derecesinde işaret ediyor ki: Küre-i Arz; serseriyane, bâd-ı heva azim bir dâireyi çizmiyor.. belki mühim bir şey etrafında dönüyor ve meydan-ı ekberin daire-i muhitasını çiziyor, gösteriyor. Ve bir meşher-i azimin etrafında gezip, mahsulât-ı mâneviyesini ona devrediyor ki, ileride o meşherde, enzar-ı nâs önünde gösterilecektir. Demek, yirmibeş bin seneye karib bir daire-i muhitanın içinde, rivayete binaen şâm-ı şerif kıt'ası bir çekirdek hükmünde olarak o daireyi dolduracak, bir meydan-ı haşir bastedilecektir. Küre-i Arzın bütün mânevi mahsulâtı, şimdilik perde-i gayb altında olan o meydanın defterlerine ve elvahlarına gönderiliyor ve ileride meydan açıldığı vakit, sekenesini de yine o meydana dökecek; o mânevi mahsulâtları da, gaibden şehadete geçecektir. Evet Küre-i Arz; bir tarla, bir çeşme, bir ölçek hükmünde olarak o meydan-ı ekberi dolduracak kadar mahsulât vermiş ve onu istiab edecek mahlukat ondan akmış ve onu imlâ edecek masnuat ondan çıkmış. Demek Küre-i Arz bir çekirdek ve meydan-ı haşir, içindekilerle beraber bir ağaçtır, bir sünbüldür ve bir mahzendir. Evet, nasılki nurani bir nokta, sür'at-i hareketiyle nurani bir hat olur veya bir daire olur. öyle de: Küre-i Arz; sür'atli, hikmetli hareketiyle bir daire-i vücudun temessülüne ve o daire-i vücud mahsulâtiyle beraber, bir meydan-ı haşr-i ekberin teşekkülüne medardır. M.)
 meydan-i îmtîhan-i îns ü cân: însan ve cinlerin imtihan meydanı, yani dünya.
 meydan-i mahşer: Mahşer meydanı.
 meyeh: Su, mâ.
@@ -3754,10 +3754,10 @@ mezbube: Sineği çok olan yer.
 mezbuh: Kesilen. Zebhedilen. Boğazlanmış. * Kurban edilmiş.
 mezbuhâne: Boğazlanır gibi. Boynundan kesilircesine. * çırpınarak, son ümid ve son kuvvetle.
 mezbul: Solmuş çiçek. * Zayıf, arık ve zebun olmuş olan.
-mezbur(e) : Adı geçen. îsmi yukarıda geçen. (Bak: Merkum) * Taş ile örülmüş kuyu.
+mezbur(e) : Adı geçen. îsmi yukarıda geçen. (Bak: Merkum) * Taş ile örülmüş kuyu.
 mezc: Katma. Karıştırma.
 mezc-î îttîhad: îttihadın verdiği imtizac. Kuvvetli birlik ve beraberlik.
-mezcen : Karıştırmakla. Katma suretiyle.
+mezcen : Karıştırmakla. Katma suretiyle.
 mezcetmek: Katmak. Karıştırmak.
 mezcî: Katıp karıştırmakla alâkalı. Mezce dair.
 mezcuc: Süngülenmiş. Süngü ile dürtülmüş.
@@ -3797,15 +3797,15 @@ mezlaka: Ayak kayacak yer. Kaypak yer. * Mc: Yanlışlığa düşmeye sebeb olan
 mezmere: çok şiddetli hareket ettirmek.
 mezmum: Zemmolunmuş. Makbul olmıyarak ayıplanmış. Kötü.
 mezmun: (Bak: Mazmun)
-mezmur : Terennümle okunan kaside, ilâhi ve münâcat. * Hz. Dâvuda (A.S.) inen "Zebur"un Surelerinden herbiri.
+mezmur : Terennümle okunan kaside, ilâhi ve münâcat. * Hz. Dâvuda (A.S.) inen "Zebur"un Surelerinden herbiri.
 mezneb: (C: Mezânib) Kepçe. * Suyun akacak olduğu yer.
 mezr: (Mezra) Zarif adam. * Bir kimseye düşmanlık etmek. * Parmakla çimdiklemek. * Su kırbasını tamamen doldurmak. * Tadını anlamak için biraz ağzına almak, içmek.
 mezr: Fâsit olma. Bozuk olma. * Pis. * Ayrılık.
 mezraa: Tarla. Ekilip mahsul alınan mülk, yer.
 mezrevan: Dizin aşağısındaki kaba etlerin etrafı.
-mezru' : Ekilmiş. Tohum ekilmiş yer.
-mezru' : (C.: Mezruât) (Zirâ. dan) Arşınlanmış, ölçülmüş. Arşınla ölçülmüş.
-mezruat : Ekili olan şeyler. Ekili yerler.
+mezru' : Ekilmiş. Tohum ekilmiş yer.
+mezru' : (C.: Mezruât) (Zirâ. dan) Arşınlanmış, ölçülmüş. Arşınla ölçülmüş.
+mezruat : Ekili olan şeyler. Ekili yerler.
 mezruat: (Mezru. C.) Arşınlanmış şeyler. ölçülmüş nesneler.
 mez'ub: Koyununa kurt gelen.
 mez'uk: Mesrur, neşeli, sürurlu. * Tuzlu.
@@ -3933,7 +3933,7 @@ mizrak: Ucu sivri uzun saplı harp âleti. Kargı.
 mizreb: Büyük çadır, oba.
 mizya': Malını çok harcayan kimse. Malını fazlaca zâyi eden adam.
 mizz: Yemeğin lezzetinden ağzını şapırdatmak.
-mî-zenend: (f. Fiil) Söylüyorlar, vuruyorlar. ": Zeden" vurmak" masdarındandır.
+mî-zenend: (f. Fiil) Söylüyorlar, vuruyorlar.: Zeden" vurmak" masdarındandır.
 mîa: Günlük adı verilen zamk.
 mîâ': (C.: Em'â) Bağırsak.
 mîâ-î a'ver: Körbağırsak.
@@ -4240,7 +4240,7 @@ mîllet-î beyza: Bütün Müslümanlar.
 mîllet-î hâkîme: Hâkim millet.
 mîllet-î merhume: Müslümanlar, îslâm Milleti. (Allah'a ve onları ebedi saadete sevkeden emirlerine itaat ettiklerinden, kendileri rahmete mazhar olmuşlardır.)
 mîllî: (Milliye) Din ve millete âit, milletle alâkalı, millete mensub.
-mîllîyet: ümmet. Aralarında din, dil ve tarih birliği olan topluluktaki hâl. Millet olma. Aralarında maddi mânevi birlik ve beraberlik râbıtaları bulunan topluluktaki vasıf. (Milliyetimiz bir vücuddur. Ruhu, îslâmiyyet; aklı, Kur'ân ve imândır.)(Kimin himmeti milleti ise, o tek başiyle küçük bir millettir. M.)(Fikr-i milliyet, şu asırda çok ileri gitmiş. Hususan dessas Avrupa zâlimleri, bunu îslâmlar içinde menfi bir surette uyandırıyorlar, tâ ki, parçalayıp, onları yutsunlar.Hem fikr-i milliyette bir zevk-i nefsâni var; gafletkârâne bir lezzet var; şeâmetli bir kuvvet var. Onun için şu zamanda hayat-ı içtimaiye ile meşgul olanlara, "Fikr-i milliyeti bırakınız!" denilmez. Fakat, fikr-i milliyet iki kısımdır. Bir kısmı menfidir. şeâmetlidir, zararlıdır; başkasını yutmakla beslenir, diğerlerine adâvetle devam eder, mütayakkız davranır. şu ise, muhâsamet ve keşmekeşe sebebdir. Onun içindir ki, hadis-i şerifte ferman etmiş: $Ve Kur'an da ferman etmiş: $ îşte şu hadis-i şerif ve şu âyet-i kerime; kat'i bir surette menfi bir milliyeti ve fikr-i unsuriyeti kabul etmiyorlar. çünki: Müsbet ve mukaddes îslâmiyet milliyeti, ona ihtiyaç bırakmıyor... M.) (Bak: Türk)(Menfi milliyette ve unsuriyet fikrinde ifrat edenlere deriz ki:Evvelâ: şu dünya yüzü, hususan şu memleketimiz, eski zamandan beri çok muhaceretlere ve tebeddülâta mâruz olmakla beraber; Merkez-i Hükümet-i îslâmiyye bu vatanda teşkil olduktan sonra, akvâm-ı sâireden pervane gibi çokları içine atılıp, tavattun etmişler. îşte bu halde Levh-i Mahfuz açılsa ancak hakiki unsurlar birbirinden tefrik edilebilir. öyle ise, hakiki unsuriyet fikrine, hareketi ve hamiyeti bina etmek mânasız ve hem pek zararlıdır. Onun içindir ki: Menfi milliyetçilerin ve unsuriyet-perverlerin reislerinden ve dine karşı pek lâkayd birisi mecbur olmuş; demiş: "Dil, din bir ise; millet birdir." Mâdem öyledir. Hakiki unsuriyete değil; belki dil, din, vatan münâsebatına bakılacak. Eğer üçü bir ise, zaten kuvvetli bir millet; eğer biri noksan olursa, tekrar milliyet dairesine dâhildir. M.)
+mîllîyet: ümmet. Aralarında din, dil ve tarih birliği olan topluluktaki hâl. Millet olma. Aralarında maddi mânevi birlik ve beraberlik râbıtaları bulunan topluluktaki vasıf. (Milliyetimiz bir vücuddur. Ruhu, îslâmiyyet; aklı, Kur'ân ve imândır.)(Kimin himmeti milleti ise, o tek başiyle küçük bir millettir. M.)(Fikr-i milliyet, şu asırda çok ileri gitmiş. Hususan dessas Avrupa zâlimleri, bunu îslâmlar içinde menfi bir surette uyandırıyorlar, tâ ki, parçalayıp, onları yutsunlar.Hem fikr-i milliyette bir zevk-i nefsâni var; gafletkârâne bir lezzet var; şeâmetli bir kuvvet var. Onun için şu zamanda hayat-ı içtimaiye ile meşgul olanlara, "Fikr-i milliyeti bırakınız!" denilmez. Fakat, fikr-i milliyet iki kısımdır. Bir kısmı menfidir. şeâmetlidir, zararlıdır; başkasını yutmakla beslenir, diğerlerine adâvetle devam eder, mütayakkız davranır. şu ise, muhâsamet ve keşmekeşe sebebdir. Onun içindir ki, hadis-i şerifte ferman etmiş:Ve Kur'an da ferman etmiş: îşte şu hadis-i şerif ve şu âyet-i kerime; kat'i bir surette menfi bir milliyeti ve fikr-i unsuriyeti kabul etmiyorlar. çünki: Müsbet ve mukaddes îslâmiyet milliyeti, ona ihtiyaç bırakmıyor... M.) (Bak: Türk)(Menfi milliyette ve unsuriyet fikrinde ifrat edenlere deriz ki:Evvelâ: şu dünya yüzü, hususan şu memleketimiz, eski zamandan beri çok muhaceretlere ve tebeddülâta mâruz olmakla beraber; Merkez-i Hükümet-i îslâmiyye bu vatanda teşkil olduktan sonra, akvâm-ı sâireden pervane gibi çokları içine atılıp, tavattun etmişler. îşte bu halde Levh-i Mahfuz açılsa ancak hakiki unsurlar birbirinden tefrik edilebilir. öyle ise, hakiki unsuriyet fikrine, hareketi ve hamiyeti bina etmek mânasız ve hem pek zararlıdır. Onun içindir ki: Menfi milliyetçilerin ve unsuriyet-perverlerin reislerinden ve dine karşı pek lâkayd birisi mecbur olmuş; demiş: "Dil, din bir ise; millet birdir." Mâdem öyledir. Hakiki unsuriyete değil; belki dil, din, vatan münâsebatına bakılacak. Eğer üçü bir ise, zaten kuvvetli bir millet; eğer biri noksan olursa, tekrar milliyet dairesine dâhildir. M.)
 mîllîyetperver: Milliyetini seven.
 mîlsah: (C.: Melâsıh) Keten tarağı.
 mîlt: Nesebi bilinmeyen.
@@ -4263,7 +4263,7 @@ mîmsah: Yalancı.
 mîmsaha: Adi basacak nesne. * Yüz silecek mendil.
 mîmsîz medenîyet: Vahşilik, denilik. Alçaklık. * Medeni kelimesinin, Kur'ân alfabesine göre "mim" harfini kaldırırsak, deni kelimesi kalır. Buna binaen, "mimsiz medeniyyet" de deni, alçak ve zâlim yerinde kullanılmıştır.
 mîmtar: Yağmurluk.
-mîn: Arabçada harf-i cerrdir. 1- Mekân ve bir şeye başlamayı ifâde eder.Meselâ: $ "Haftadan haftaya" da olduğu gibi.2- Teb'iz için olur. Meselâ: $"Kim bir kavme benzemeğe özenirse onlardan sayılır" cümlesinde olduğu gibi. Bazılarını, bir kısmını ifâde ediyor. 3- Cinsi beyan için olur. Meselâ: $ "îşlediğiniz hayrı Allah bilir" cümlesinde "min" tebyine (açıklamaya) vesile oluyor.4- Bedel-i ivâz (karşılık) için olur. Meselâ: $ "Ahirete bedel, dünya hayatına râzı mı oldunuz" cümlesinde olduğu gibi.5- Tâlil (sebeb bildirmek) için olur. Meselâ: $ "Allah'tan korktuğu için ağlıyor." cümlesinde olduğu gibi. önündeki kelime mef'ulün leh olur.6- îstiğrak ifadesi için olur. Gâyet, hiç bir, hiç... gibi. "Bize hiç bir yorgunluk dokunmadı" cümlesinde olduğu gibi. $ Bâzı fiiller mef'ul-ü bihini, "min" ile alır. Bu takdirde... den, dan... manası ile tercüme edilmez.7- Tahsis-i alel umum (katiyyet ifadesi) için olur. Bu da zâidedir. Meselâ: $ "Hiç kimse bana gelmedi" cümlesinde olduğu gibi. Bunlardan başka "min" harf-i icerri;fasıl mânasına, birbirine zıd iki kelimeden ikincisine dahil olur. Bâ-i cerreye, an $, fi $, ind $, alâ $'ya müradif olur. $ Rubbemâ, mânasına ve sıla olur. Lâm-ı zâide ve $ müz ve ba-i kasem yerinde de kullanılır.
+mîn: Arabçada harf-i cerrdir. 1- Mekân ve bir şeye başlamayı ifâde eder.Meselâ: "Haftadan haftaya" da olduğu gibi.2- Teb'iz için olur. Meselâ:"Kim bir kavme benzemeğe özenirse onlardan sayılır" cümlesinde olduğu gibi. Bazılarını, bir kısmını ifâde ediyor. 3- Cinsi beyan için olur. Meselâ: "îşlediğiniz hayrı Allah bilir" cümlesinde "min" tebyine (açıklamaya) vesile oluyor.4- Bedel-i ivâz (karşılık) için olur. Meselâ: "Ahirete bedel, dünya hayatına râzı mı oldunuz" cümlesinde olduğu gibi.5- Tâlil (sebeb bildirmek) için olur. Meselâ: "Allah'tan korktuğu için ağlıyor." cümlesinde olduğu gibi. önündeki kelime mef'ulün leh olur.6- îstiğrak ifadesi için olur. Gâyet, hiç bir, hiç... gibi. "Bize hiç bir yorgunluk dokunmadı" cümlesinde olduğu gibi. Bâzı fiiller mef'ul-ü bihini, "min" ile alır. Bu takdirde... den, dan... manası ile tercüme edilmez.7- Tahsis-i alel umum (katiyyet ifadesi) için olur. Bu da zâidedir. Meselâ: "Hiç kimse bana gelmedi" cümlesinde olduğu gibi. Bunlardan başka "min" harf-i icerri;fasıl mânasına, birbirine zıd iki kelimeden ikincisine dahil olur. Bâ-i cerreye, an, fi, ind, alâ'ya müradif olur. Rubbemâ, mânasına ve sıla olur. Lâm-ı zâide ve müz ve ba-i kasem yerinde de kullanılır.
 mîn gayr-i haddîn: Had harici, edeb dışı olarak. * Haddim olmayarak.
 mîn.. îla: den... ye kadar.
 mîn küll-îl vücuh: Her yönden. Her cihetle.
@@ -4278,7 +4278,7 @@ mîn-eş şems: Güneşten.
 mîn-haysü-layahtesîb: Hesab edilmedik ve umulmadık yerden veya kadar (mânasında).
 mîn-ma: (Mimmâ okunur) şey, nesne. O şeyden.
 mîn-tarafîllah: Allah tarafından. Cenâb-ı Hakk'ın emriyle.
-mîn-vechîn ù: Bir bakımdan, bir cihetten.
+mîn-vechîn: Bir bakımdan, bir cihetten.
 mîna: şişe, cam, billur. * Parlak saray. * Sırça. Kuyumcuların kullandıkları lâcivert renkli sırça.
 mîna': (C.: Miyâni) Liman.
 mîna-renk: Gök mavisi.
@@ -4362,7 +4362,7 @@ mîr-ab: Bir kentin su işlerine bakan kişi.
 mîr-ahur: Sarayda at işlerine bakan memurun ünvanıdır.
 mîr-î kelâm: Güzel ve zarif konuşan.
 mîra': (Riya. dan) Riya etme, riyakârlık yapma. * Başkasının sözüne itiraz edip mücâdele etme. * îçindekinin aksini söyleme.
-mî'rac: Merdiven, süllem. * Yükselecek yer. * En yüksek makam. * Huzur-u îlâhi. Peygamberimiz Hz. Muhammed (A.S.M.) Efendimizin, Receb ayının 27. gecesinde Cenab-ı Hakk'ın huzuruna ruhen, cismen, hâlen çıkması mu'cizesi ki; en büyük mu'cizelerinden birisidir.(Resul-i Ekrem Aleyhissalâtü Vesselâm, nasılki Arz ahâlisine inşikak-ı Kamer mu'cizesini göstermiş; öyle de: Semâvat ahâlisine, Mi'rac mu'cize-i ekberini göstermiştir. îşte Mi'rac denilen şu mu'cize-i âzamı, Otuzbirinci Söz olan Mi'rac Risalesi'ne havale ederiz. çünki o risale, o mu'cize-i kübrâyı, ne kadar nurani ve âli ve doğru olduğunu kat'i bürhanlarla, hattâ mülhidlere karşı da isbat etmiştir. Yalnız, mu'cize-i Mi'racın mukaddimesi olan Beyt-ül-Makdis seyahatı ve sabahleyin Kureyş kavmi, Ondan Beyt-ül Makdis'in târifatını istemesi üzerine hâsıl olan bir mu'cizeyi bahsedeceğiz. şöyle ki:Mi'rac gecesinin sabahında, Mi'râcını Kureyş'e haber verdi. Kureyş tekzib etti. Dediler: "Eğer Beyt-ül Makdis'e gitmiş isen, Beyt-ül Makdis'in kapılarını ve duvarlarını ve ahvâlini bize târif et." Resul-i Ekrem Aleyhissalâtü Vesselâm ferman ediyor ki: $Yâni: "Onların tekziblerinden ve suâllerinden pek çok sıkıldım. Hattâ öyle bir sıkıntı hiç çekmemiştim. Birden Cenab-ı Hak, Beyt-ül-Makdis'i bana gösterdi; ben de Beyt-ül-Makdis'e bakıyorum, birer birer herşey'i târif ediyordum." îşte o vakit Kureyş baktılar ki: Beyt-ül-Makdis'ten doğru ve tam haber veriyor...Hem Resul-i Ekrem Aleyhissalâtü Vesselâm Kureyş'e demiş ki: "Yolda giderken sizin bir kafilenizi gördüm kâfileniz yarın filân vakitte gelecek. Sonra o vakit kâfileye muntazır kaldılar. Kâfile bir saat teehhür etmiş. Resul-i Ekrem Aleyhissalâtü Vesselâm'ın ihbarı doğru çıkmak için, ehl-i tahkikın tasdikıyla, Güneş bir saat tevakkuf etmiş. Yâni Arz, O'nun sözünü doğru çıkarmak için; vazifesini, seyahatını bir saat tâtil etmiştir ve o tâtili, Güneş'in sükunetiyle göstermiştir. îşte Muhammed-i Arabi Aleyhissalâtü Vesselâm'ın birtek sözünün tasdikı için, koca Arz vazifesini terkeder; koca Güneş şâhid olur. Böyle bir Zâtı tasdik etmeyen ve emrini tutmayanın, ne derece bedbaht olduğunu.. ve O'nu tasdik edip emrine $ diyenlerin ne kadar bahtiyar olduklarını anla. M.)
+mî'rac: Merdiven, süllem. * Yükselecek yer. * En yüksek makam. * Huzur-u îlâhi. Peygamberimiz Hz. Muhammed (A.S.M.) Efendimizin, Receb ayının 27. gecesinde Cenab-ı Hakk'ın huzuruna ruhen, cismen, hâlen çıkması mu'cizesi ki; en büyük mu'cizelerinden birisidir.(Resul-i Ekrem Aleyhissalâtü Vesselâm, nasılki Arz ahâlisine inşikak-ı Kamer mu'cizesini göstermiş; öyle de: Semâvat ahâlisine, Mi'rac mu'cize-i ekberini göstermiştir. îşte Mi'rac denilen şu mu'cize-i âzamı, Otuzbirinci Söz olan Mi'rac Risalesi'ne havale ederiz. çünki o risale, o mu'cize-i kübrâyı, ne kadar nurani ve âli ve doğru olduğunu kat'i bürhanlarla, hattâ mülhidlere karşı da isbat etmiştir. Yalnız, mu'cize-i Mi'racın mukaddimesi olan Beyt-ül-Makdis seyahatı ve sabahleyin Kureyş kavmi, Ondan Beyt-ül Makdis'in târifatını istemesi üzerine hâsıl olan bir mu'cizeyi bahsedeceğiz. şöyle ki:Mi'rac gecesinin sabahında, Mi'râcını Kureyş'e haber verdi. Kureyş tekzib etti. Dediler: "Eğer Beyt-ül Makdis'e gitmiş isen, Beyt-ül Makdis'in kapılarını ve duvarlarını ve ahvâlini bize târif et." Resul-i Ekrem Aleyhissalâtü Vesselâm ferman ediyor ki:Yâni: "Onların tekziblerinden ve suâllerinden pek çok sıkıldım. Hattâ öyle bir sıkıntı hiç çekmemiştim. Birden Cenab-ı Hak, Beyt-ül-Makdis'i bana gösterdi; ben de Beyt-ül-Makdis'e bakıyorum, birer birer herşey'i târif ediyordum." îşte o vakit Kureyş baktılar ki: Beyt-ül-Makdis'ten doğru ve tam haber veriyor...Hem Resul-i Ekrem Aleyhissalâtü Vesselâm Kureyş'e demiş ki: "Yolda giderken sizin bir kafilenizi gördüm kâfileniz yarın filân vakitte gelecek. Sonra o vakit kâfileye muntazır kaldılar. Kâfile bir saat teehhür etmiş. Resul-i Ekrem Aleyhissalâtü Vesselâm'ın ihbarı doğru çıkmak için, ehl-i tahkikın tasdikıyla, Güneş bir saat tevakkuf etmiş. Yâni Arz, O'nun sözünü doğru çıkarmak için; vazifesini, seyahatını bir saat tâtil etmiştir ve o tâtili, Güneş'in sükunetiyle göstermiştir. îşte Muhammed-i Arabi Aleyhissalâtü Vesselâm'ın birtek sözünün tasdikı için, koca Arz vazifesini terkeder; koca Güneş şâhid olur. Böyle bir Zâtı tasdik etmeyen ve emrini tutmayanın, ne derece bedbaht olduğunu.. ve O'nu tasdik edip emrine diyenlerin ne kadar bahtiyar olduklarını anla. M.)
 mî'rac gecesî: Leyle-i Mi'rac da denir. Arabi aylardan Receb-i şeri'fin yirmiyedinci gecesidir.
 mî'rac-un nebî: Hazret-i Peygamber'in (A.S.M.) huzur-u îlâhide yükselmesi.(Mi'râc-un Nebi: Zât-ı Ahmediyye (A.S.M.) Efendimizin seyr-i sülukundan ibârettir. Zât-ı Muhammediye'nin bütün kâinatın fevkine çıkıp, bütün mevcudattan geçip, bütün mahlukatın Hâlikı ile umumi, külli, ulvi bir sohbetidir.)(Mi'rac meselesi erkân-ı imaniyyenin usulünden sonra terettüb eden bir neticedir. Ve erkân-ı imaniyyenin nurlarından medet alan bir nurdur. Erkân-ı imaniyyeyi kabul etmeyen dinsiz mülhidlere karşı elbette bizzat isbat edilmez. çünkü Allah'ı bilmeyen, peygamberi tanımayan ve melâikeyi kabul etmeyen veya semâvatın vücudunu inkâr eden adamlara Mi'rac'dan bahsedilmez. Evvelâ o erkânı isbat etmek lâzım geliyor. S.) (Bak: Bast-ı zaman)
 mî'racîyye: Mi'raca âid. Mi'rac hakkında. Peygamberimiz Hz. Muhammed'in (A.S.M.) Mi'rac mu'cizesi hakkında yazılmış manzume veya bu hususta yazılan eser.
@@ -4375,7 +4375,7 @@ mîran: (C: Mârin) Vahşi canavar yatağı.
 mîran aşîretî: Cizre havalisinde Bühti ismi ile de anılan bir aşiret adı.
 mîrar: Kerreler. Def'alar.
 mîraren: Defalarca, birçok kere.
-mîras: ölen kimseden akrabalarına ve yakınlarına kalmış olan mal, mülk.( $ olan hükm-ü Kur'ani, mahz-ı adâlet olduğu gibi, ayn-ı merhamettir. Evet adâlettir. çünki; ekseriyet-i mutlaka itibariyle bir erkek, bir kadın alır, nafakasını taahhüt eder. Bir kadın ise, bir kocaya gider, nafakasını ona yükler; irsiyetteki noksanını telâfi eder. Hem merhamettir, çünki: O zaife kız, pederinden şefkate ve kardeşinden merhamete çok muhtaçtır. Hükm-ü Kur'ana göre o kız, pederinden endişesiz bir şefkat görür. Pederi ona, "Benim servetimin yarısını, ellerin ve yabanilerin ellerine geçmesine sebeb olacak zararlı bir çocuk" nazariyle endişe edip bakmaz. O şefkate, endişe ve hiddet karışmaz. Hem kardeşinden rekabetsiz, hasedsiz bir merhamet ve himayet görür. Kardeşi ona, "hânedanımızın yarısını bozacak ve malımızın mühim bir kısmını ellerin eline verecek bir rakib" nazariyle bakmaz; o merhamete ve himayete bir kin, bir iğbirar katmaz. şu halde o fıtraten nazik, nâzenin ve hilkaten zaife ve nahife kız, sûreten, az bir şey kaybeder; fakat ona bedel akaribin şefkatinden, merhametinden, tükenmez bir servet kazanır. Yoksa rahmet-i Hak'tan ziyade ona merhamet edeceğiz diye hakkından fazla ona hak vermek, ona merhamet değil, şedit bir zulümdür. Belki zaman-ı câhiliyette gayret-i vahşiyaneye binaen kızlarını sağ olarak defnetmek gibi gaddarâne bir zulmü andıracak şu zamanın hırs-ı vahşiyanesi, merhametsiz bir şenâate yol açmak ihtimali vardır. M.)
+mîras: ölen kimseden akrabalarına ve yakınlarına kalmış olan mal, mülk.( olan hükm-ü Kur'ani, mahz-ı adâlet olduğu gibi, ayn-ı merhamettir. Evet adâlettir. çünki; ekseriyet-i mutlaka itibariyle bir erkek, bir kadın alır, nafakasını taahhüt eder. Bir kadın ise, bir kocaya gider, nafakasını ona yükler; irsiyetteki noksanını telâfi eder. Hem merhamettir, çünki: O zaife kız, pederinden şefkate ve kardeşinden merhamete çok muhtaçtır. Hükm-ü Kur'ana göre o kız, pederinden endişesiz bir şefkat görür. Pederi ona, "Benim servetimin yarısını, ellerin ve yabanilerin ellerine geçmesine sebeb olacak zararlı bir çocuk" nazariyle endişe edip bakmaz. O şefkate, endişe ve hiddet karışmaz. Hem kardeşinden rekabetsiz, hasedsiz bir merhamet ve himayet görür. Kardeşi ona, "hânedanımızın yarısını bozacak ve malımızın mühim bir kısmını ellerin eline verecek bir rakib" nazariyle bakmaz; o merhamete ve himayete bir kin, bir iğbirar katmaz. şu halde o fıtraten nazik, nâzenin ve hilkaten zaife ve nahife kız, sûreten, az bir şey kaybeder; fakat ona bedel akaribin şefkatinden, merhametinden, tükenmez bir servet kazanır. Yoksa rahmet-i Hak'tan ziyade ona merhamet edeceğiz diye hakkından fazla ona hak vermek, ona merhamet değil, şedit bir zulümdür. Belki zaman-ı câhiliyette gayret-i vahşiyaneye binaen kızlarını sağ olarak defnetmek gibi gaddarâne bir zulmü andıracak şu zamanın hırs-ı vahşiyanesi, merhametsiz bir şenâate yol açmak ihtimali vardır. M.)
 mîrashar: Mirasyedi. Kendine kalan mirası yiyen. Mirashor.
 mîr'aş (mer'aş): çok yüksekten uçan güvercin.
 mîr'at: Ayine. Ayna. * Meşhur bir cins lâle.
@@ -4568,7 +4568,7 @@ mît'em: Bir defalık ikiz doğuran kadın.
 mîthara: (Tahâret. den) Matara.
 mîtîn:. Taşları kayaları paçalamada kullanılan büyük çekiç.
 mîtîng: îng. îçtimai ve siyasi bir mes'ele için yapılan büyük toplantı.
-mîtolojî ©: Fr. Efsane bilgisi.
+mîtolojî : Fr. Efsane bilgisi.
 mîtralyöz: Fr. Makinalı tüfek.
 mîtres: Kapı ardınca koydukları ağaç.
 mîv: Kıl.
@@ -4681,7 +4681,7 @@ muafat: Afvetmek. * Sıhhat vermek. * Sıhhat ve âfiyet bulmuş, iyileşmiş ki
 muafese: Tedavi etmek.
 muafî: Afiyet verici. * Belâ ve musibeti def eden.
 muafîr: Yavaş yürüyen kişi.
-muafîyyet: Bir hastalığa $karşı aşı ile elde edilen hâl. * Afvolunmuş olma. Bağışlanmış olma.
+muafîyyet: Bir hastalığakarşı aşı ile elde edilen hâl. * Afvolunmuş olma. Bağışlanmış olma.
 muafname: Afv kâğıdı. Bir şeyin muaf tutulup afvedildiğini gösteren kâğıt.
 muahat: Kardeşlik edinme.
 muahed: Zimmi kâfir.
@@ -4716,7 +4716,7 @@ mualece: Bir hususa çalışıp devam etmek. * Hastaya bakmak. îlâç kullanmak
 mualla: Yüksek, yüce, âli. Makamı ve rütbesi yüksek.
 muallak: Askıda. Hakkında karar verilmemiş, hallolunmamış. * Havada boşta duran. * Sürüncemede kalmış iş. * Edb: Açık hece, bir vokalle okunan hece. (Bak: Müsned)
 mualleka: (C.: Muallekat) Askılar. Henüz karar verilmemiş olanlar. * Kocası kaybolan kadın. * îslâmiyet'ten evvel Arabların meşhur edib ve şâirlerinin Kâbe duvarına astıkları yazılar ve şiirler.
-muallekat-i seb'a: (Yedi askı) Kur'ân henüz nâzil olmadan, câhiliyet devrinde meşhur Arap şâirlerinin en beğenilmiş şiirlerinden, Kâbe'nin duvarına astıkları yedi meşhur kaside.(Ceziret-ül Arab ahalisi o asırda ekseriyet-i mutlaka itibariyle ümmi idi. ümmilikleri için mefâhirlerini ve vukuat-ı tarihiyelerini ve mehâsin-i ahlâka yardım edecek durub-u emsâllerini kitabet yerine şiir ve belâğat kaydiyle muhafaza ediyorlardı. Mânidar bir kelâm, şiir ve belâgat cazibesiyle eslâftan ahlâfa hafızalarda kalıp gidiyordu. îşte şu ihtiyac-ı fıtri neticesi olarak o kavmin mânevi çarşı-yı ticaretlerinde en ziyade revac bulan, fesâhat ve belâgat metâı idi. Hattâ bir kabilenin beliğ bir edibi, en büyük bir kahraman-ı millisi gibi idi. En ziyâde onunla iftihar ediyorlardı. îşte îslâmiyetten sonra âlemi zekâlariyle idare eden o zeki kavim, şu en revaçlı ve medar-ı iftiharları ve ona şiddet-i ihtiyaçla muhtaç olan belâgatta akvâm-ı âlemden en ileride ve en yüksek mertebede idiler. Belâgat, o kadar kıymetdar idi ki, bir edibin bir sözü için iki kavim büyük muharebe ederdi ve bir sözüyle musâlaha ediyorlardı. Hattâ onların içinde "Muallekat-ı Seb'a" nâmiyle yedi edibin yedi kasidesini altınla Kâbe'nin duvarına yazmışlar, onunla iftihar ediyorlardı. îşte böyle bir zamanda, belâgat en revaçlı olduğu bir anda Kur'an-ı Mu'ciz-ül-Beyan nüzul etti. Nasılki, zamân-ı Musâ Aleyhisselâm'da sihir ve zaman-ı îsâ Aleyhisselâm'da tıb revaçta idi. Mu'cizelerinin mühimmi o cinsten geldi. îşte o vakit bülegâ-yı Arabı, en kısa bir suresine mukabeleye dâvet etti: $ fermaniyle onlara meydan okuyor. Hem der ki: "îman getirmezseniz mel'unsunuz. Cehennem'e gireceksiniz." Damarlarına şiddetle vuruyor. Gururlarını dehşetli surette kırıyor. O kibirli akıllarını istihfaf ediyor. Onları bidâyeten idam-ı ebedi ile ve sonra da Cehennem'de idâm-ı ebedi ile beraber dünyevi idam ile de mahkûm ediyor. Der: "Ya muâraza ediniz, yahut can ve malınız helâkettedir."îşte eğer muâraza mümkün olsaydı acaba hiç mümkün mü idi ki, bir iki satırla muâraza edip dâvâsını ibtal etmek gibi rahat bir çare varken, en tehlikeli, en müşkilâtlı muharebe tariki ihtiyar edilsin! Evet o zeki kavim, o siyasi millet ki, bir zaman âlemi, siyasetle idare ettiği halde, en kısa ve rahat ve hafif bir yolu terketsin! En tehlikeli ve bütün mal ve canını belâya atacak uzun bir yolu ihtiyar etsin, hiç kabil midir? çünki: Edipleri, birkaç hurufatla muâraza edebilseydi; Kur'an, dâvasından vazgeçerdi. Onlar da maddi ve mânevi helâketten kurtulurlardı. Halbuki, muharebe gibi dehşetli, uzun bir yolu ihtiyar ettiler. Demek, muâraza-i bilhuruf mümkün değildi, muhaldi. Onun için muharebe-i bissüyufa mecbur oldular. Hem, Kur'anı tanzir etmek, taklidini yapmak için gayet şiddetli iki sebep var. Birisi, düşmanın hırs-ı muârazası; diğeri, dostlarının şevk-i taklididir ki, şu iki sâik-ı şedid altında milyonlar Arabi kitablar yazılmış ki hiçbirisi ona benzemez. âlim olsun, âmi olsun her kim O'na ve onlara baksa kat'iyyen diyecek ki: "Kur'an, bunlara benzemez. Hiçbirisi onu tanzir edemez." şu hâlde, ya Kur'an, bütününün altındadır. Bu ise bütün dost ve düşmanın ittifakıyla battaldır, muhaldir. Veya Kur'an, o yazılan umum kitabların fevkindedir. S.)
+muallekat-i seb'a: (Yedi askı) Kur'ân henüz nâzil olmadan, câhiliyet devrinde meşhur Arap şâirlerinin en beğenilmiş şiirlerinden, Kâbe'nin duvarına astıkları yedi meşhur kaside.(Ceziret-ül Arab ahalisi o asırda ekseriyet-i mutlaka itibariyle ümmi idi. ümmilikleri için mefâhirlerini ve vukuat-ı tarihiyelerini ve mehâsin-i ahlâka yardım edecek durub-u emsâllerini kitabet yerine şiir ve belâğat kaydiyle muhafaza ediyorlardı. Mânidar bir kelâm, şiir ve belâgat cazibesiyle eslâftan ahlâfa hafızalarda kalıp gidiyordu. îşte şu ihtiyac-ı fıtri neticesi olarak o kavmin mânevi çarşı-yı ticaretlerinde en ziyade revac bulan, fesâhat ve belâgat metâı idi. Hattâ bir kabilenin beliğ bir edibi, en büyük bir kahraman-ı millisi gibi idi. En ziyâde onunla iftihar ediyorlardı. îşte îslâmiyetten sonra âlemi zekâlariyle idare eden o zeki kavim, şu en revaçlı ve medar-ı iftiharları ve ona şiddet-i ihtiyaçla muhtaç olan belâgatta akvâm-ı âlemden en ileride ve en yüksek mertebede idiler. Belâgat, o kadar kıymetdar idi ki, bir edibin bir sözü için iki kavim büyük muharebe ederdi ve bir sözüyle musâlaha ediyorlardı. Hattâ onların içinde "Muallekat-ı Seb'a" nâmiyle yedi edibin yedi kasidesini altınla Kâbe'nin duvarına yazmışlar, onunla iftihar ediyorlardı. îşte böyle bir zamanda, belâgat en revaçlı olduğu bir anda Kur'an-ı Mu'ciz-ül-Beyan nüzul etti. Nasılki, zamân-ı Musâ Aleyhisselâm'da sihir ve zaman-ı îsâ Aleyhisselâm'da tıb revaçta idi. Mu'cizelerinin mühimmi o cinsten geldi. îşte o vakit bülegâ-yı Arabı, en kısa bir suresine mukabeleye dâvet etti: fermaniyle onlara meydan okuyor. Hem der ki: "îman getirmezseniz mel'unsunuz. Cehennem'e gireceksiniz." Damarlarına şiddetle vuruyor. Gururlarını dehşetli surette kırıyor. O kibirli akıllarını istihfaf ediyor. Onları bidâyeten idam-ı ebedi ile ve sonra da Cehennem'de idâm-ı ebedi ile beraber dünyevi idam ile de mahkûm ediyor. Der: "Ya muâraza ediniz, yahut can ve malınız helâkettedir."îşte eğer muâraza mümkün olsaydı acaba hiç mümkün mü idi ki, bir iki satırla muâraza edip dâvâsını ibtal etmek gibi rahat bir çare varken, en tehlikeli, en müşkilâtlı muharebe tariki ihtiyar edilsin! Evet o zeki kavim, o siyasi millet ki, bir zaman âlemi, siyasetle idare ettiği halde, en kısa ve rahat ve hafif bir yolu terketsin! En tehlikeli ve bütün mal ve canını belâya atacak uzun bir yolu ihtiyar etsin, hiç kabil midir? çünki: Edipleri, birkaç hurufatla muâraza edebilseydi; Kur'an, dâvasından vazgeçerdi. Onlar da maddi ve mânevi helâketten kurtulurlardı. Halbuki, muharebe gibi dehşetli, uzun bir yolu ihtiyar ettiler. Demek, muâraza-i bilhuruf mümkün değildi, muhaldi. Onun için muharebe-i bissüyufa mecbur oldular. Hem, Kur'anı tanzir etmek, taklidini yapmak için gayet şiddetli iki sebep var. Birisi, düşmanın hırs-ı muârazası; diğeri, dostlarının şevk-i taklididir ki, şu iki sâik-ı şedid altında milyonlar Arabi kitablar yazılmış ki hiçbirisi ona benzemez. âlim olsun, âmi olsun her kim O'na ve onlara baksa kat'iyyen diyecek ki: "Kur'an, bunlara benzemez. Hiçbirisi onu tanzir edemez." şu hâlde, ya Kur'an, bütününün altındadır. Bu ise bütün dost ve düşmanın ittifakıyla battaldır, muhaldir. Veya Kur'an, o yazılan umum kitabların fevkindedir. S.)
 muallekîyyet: Muallak olma, askıda oluş, boşta durma.
 muallel: Sakat, eksik, noksan. * Hasta, illetli.
 muallem: Ta'lim görmüş, ta'limli.
@@ -4833,8 +4833,8 @@ muazzamât: Büyük ve ağır işler. Muazzam şeyler.
 muazzeb: Eziyet çeken, azap içinde bulunan. Sıkıntıda kalan.
 muazzef: Nefsin arzularını terkeden, zühd sâhibi.
 muazzel: Ayıplanmış, ta'zil edilmiş. Azarlanmış, paylanmış.
-muazzez : çok aziz. Muhterem. çok sevgili, kıymettâr, izzetlendirilmiş.
-muazzezen : îzzet ve ikram ile, ikram olunarak, ağırlanarak.
+muazzez : çok aziz. Muhterem. çok sevgili, kıymettâr, izzetlendirilmiş.
+muazzezen : îzzet ve ikram ile, ikram olunarak, ağırlanarak.
 muazzî: Sabredici.
 muazzîb: Ta'zib edin, azapla eziyet veren.
 muazzîr: (özür. den) Ta'zir eden, sahte özür süren.
@@ -4991,7 +4991,7 @@ mugaylangâh: Dünya.
 mugaylanzar: Dünya. * Deve dikeni biten yer, dikenlik.
 mugayyeb: (C.: Mugayyebât) (Gayb. dan) Kayıp. Kaybedilmiş.
 mugayyebat: (Magibât) Zâhir duygularla bilinmeyen, bizce gaip olan, bilinmeyen şeyler.
-mugayyebât-i hamse: Beş bilinmeyen. Bizce gaib olan beş şey:1- Kıyamet vakti, 2- Yağmurun ne zaman yağacağı, 3- Ana rahmindeki çocuğun mahiyeti ve ceninin isti'dadı ve mânevi simasının ne olduğu, 4- Yarın insan hayr ve şer olarak ne kazanacağını, 5- însanın nerede öleceğini Allah bildirmedikçe kimse bilemez. Bunlara mefâtih-ül gayb da denir.("Mugayyebât-ı Hamse"ye dair Sure-i Lokman'ın âhirindeki âyetin hakkında mühim sualinize gayet mühim bir cevap isterken, maatteessüf şimdiki hâlet-i ruhiyem ve ahvâl-i maddiyem o cevaba müsaid değildir. Yalnız sualinizin temas ettiği bir iki noktaya gayet mücmel işaret edeceğiz. şu sualinizin meâli gösteriyor ki, ehl-i ilhad tarafından tenkid suretinde mugayyebât-ı hamseden yağmurun gelmek vaktine ve rahm-i mâderdeki ceninin keyfiyetine itiraz edilmiş. Demişler ki: "Rasathânelerde bir âletle yağmurun vakt-i nüzulü keşfediliyor. Onu da Allah'dan başkası da biliyor. Hem röntgen şuâiyle rahm-i maderdeki ceninin müzekker, müennes olduğu anlaşılıyor. Demek mugayyebat-ı hamseye ıttıla' kabildir"?Elcevap: Yağmurun vakt-i nüzulü bir kaideye merbut olmadığı için, doğrudan doğruya meşiet-i hâssa-i îlâhiyye ile bağlı ve hazine-i rahmetten hususi iradeye tâbi olduğunun, bir sırr-ı hikmeti şudur ki: Kâinatta en mühim hakikat ve en kıymetdar mahiyet, nur, vücud ve hayat ve rahmettir ki, bu dört şey; perdesiz, vasıtasız, doğrudan doğruya Kudret-i îlâhiyye ve meşiet-i hassa-i îlâhiyyeye bakar. Sair masnuatta zahiri esbab; kudretin tasarrufuna perde oluyorlar. Ve muttarid kanunlar ve kaideler, bir derece irade ve meşiete hicab oluyor. Fakat vücud, hayat ve nur ve rahmette o perdeler konulmamış. çünki; perdelerin sırr-ı hikmeti o işte cereyan etmiyor. Madem vücudda en mühim hakikat rahmet ve hayattır; yağmur, hayata menşe ve medâr-ı rahmet, belki ayn-ı rahmettir. Elbette vesait perde olmıyacak. Kaide ve yeknesaklık dahi, meşiet-i hassa-i îlâhiyyeyi setretmiyecek; tâ ki, her vakit herkes herşeyde şükür ve ubudiyete ve sual ve duaya mecbur olsun. Eğer bir kaide dahilinde olsaydı, o kaideye güvenip şükür ve rica kapısı kapanırdı. Güneşin tuluunda ne kadar menfaatler olduğu mâlumdur. Halbuki muttarid bir kaideye tabi olduğundan, Güneşin çıkması için dua edilmiyor ve çıkmasına dair şükür yapılmıyor. Ve ilm-i beşeri, o kaidenin yoluyla yarın Güneşin çıkacağını bildiği için, gaibden sayılmıyor. Fakat yağmurun cüz'iyatı bir kaideye tâbi olmadığı için, her vakit insanlar rica ve dua ile dergâh-ı îlâhiyyeye ilticaya mecbur oluyorlar. Ve ilm-i beşeri, vakt-i nüzulünü tayin edemediği için, sırf hazine-i rahmetten bir nimet-i hassa telâkki edip hakiki şükrediyorlar.îşte bu âyet, bu nokta-i nazardan yağmurun vakt-i nüzulünü, Mugayyebat-ı Hamse'ye idhal ediyor. Rasadhanelerdeki âletle, bir yağmurun mukaddematını hissedip vaktini tayin etmek, gaibi bilmek değil, belki gaibden çıkıp âlem-i şehadete takarrubu vaktinde bazı mukaddematına ıttıla' suretinde bilmektir. Nasıl, en hafi umur-u gaybiye vukua geldikte veyahud vukua yakın olduktan sonra hiss-i kabl-el-vukuun bir nev'iyle bilinir. O, gaybı bilmek değil; belki o, mevcudu veya mukarreb-ül-vücudu bilmektir. Hatta ben kendi âsâbımda bir hassasiyet cihetiyle yirmi dört saat evvel, gelecek yağmuru bazen hissediyorum. Demek yağmurun mukaddematı, mebâdileri var. O mebâdiler, rutubet nev'inden kendini gösteriyor, arkasından yağmurun geldiğini bildiriyor. Bu hal, aynen kaide gibi, ilm-i beşerin gaibden çıkıp daha şehadete girmiyen umura vüsule bir vesile olur. Fakat daha âlem-i şehadete ayak basmayan ve meşiet-i hassa ile rahmet-i hassadan çıkmıyan yağmurun vakt-i nüzulünü bilmek, ilm-i Allâm-ül-Guyub'a mahsustur.Kaldı îkinci Mes'ele: Röntgen şuâiyle rahm-ı mâderdeki çocuğun erkek ve dişisini bilmek ile $ âyetinin meâl-i gaybisine münafi olamaz. çünki: âyet yalnız zükuret ve ünuset keyfiyetine değil, belki o çocuğun acib istidad-ı hususisi ve istikbalde kesbedeceği vaziyetine medar olan mukadderat-ı hayatiyesinin mebâdileri, hatta simasındaki gayet acib olan sikke-i Samediyet muraddır ki, çocuğun o tarzda bilinmesi, ilm-i Allâm-ül-Guyub'a mahsustur. Yüzbin röntgen-misal fikr-i beşeri birleşse, yine o çocuğun umum efrâd-ı beşeriyeye karşı birer alâmet-i fârikası bulunan yalnız hakiki sima-yı vechiyesini keşfedemez. Nerede kaldı ki sima-yı veçhisinden yüz defa daha harika olan istidadındaki sima-yı mâneviyi keşfedebilsin. Başta dedik ki: Vücud ve hayat ve rahmet, bu kâinatta en mühim hakikatlardır ve en mühim makam onlarındır. îşte onun için o câmi hakikat-ı hayatiye, bütün incelikleriyle ve dekaikiyle irade-i hassaya ve rahmet-i hassaya ve meşiet-i hassaya bakmalarının bir sırrı şudur ki; hayat, bütün cihazatiyle ve cihâtiyle şükür ve ubudiyet ve tesbihin menşe' ve medârı olduğundandır ki, irade-i hassaya hicab olan yeknesaklık ve kaidelik ve rahmet-i hassaya perde olan vesâit-i zahiriye konulmamıştır. Cenab-ı Hakkın rahm-ı mâderdeki çocukların sima-yı maddi ve mânevilerinde iki cilvesi var:Birisi: Vahdetini ve Ehadiyetini ve Samediyetini gösterir ki, o çocuk âzâ-yı esaside ve cihazat-ı insaniyenin envâında sair insanlarla muvafık ve mutabık olduğu cihetle, Hâlık ve Sâniinin vahdetine şehadet ediyor. O cenin bu lisan ile bağırıyor ki: "Bana bu sima ve âzâyı veren kim ise, bütün esasat-ı âzâda bana benzeyen bütün insanların sânii dahi O'dur. Ve hem bütün zihayatın sânii O'dur."îşte rahm-i mâderdeki ceninin bu lisanı, gaybi değil, kaideye ve ıttırada ve nev'ine tâbi olduğu için mâlumdur, bilinebilir. âlem-i şehadetten âlem-i gayba girmiş bir daldır ve bir dildir.îkinci Cihet: Sima-yı istidadiye-i hususiyesi ve sima-yı veçhiye-i şahsiyesi lisaniyle Sâniinin ihtiyarını, iradesini ve meşietini ve rahmet-i hassasını ve hiçbir kayd altında olmadığını, bağırıp gösteriyor. Fakat bu lisan, gayb-ül-gaybdan geliyor. îlm-i ezeliden başkası, kabl-el-vücud bunu göremiyor ve ihata edemiyor. Rahm-i mâderde iken bu simanın binde bir cihazatı görünmekle, bilinmiyor!Elhasıl: Ceninin sima-yı istidadisinde ve sima-yı veçhiyesinde hem delil-i vahdaniyet var, hem ihtiyar ve irade-i îlâhiyyenin hücceti vardır. L.)
+mugayyebât-i hamse: Beş bilinmeyen. Bizce gaib olan beş şey:1- Kıyamet vakti, 2- Yağmurun ne zaman yağacağı, 3- Ana rahmindeki çocuğun mahiyeti ve ceninin isti'dadı ve mânevi simasının ne olduğu, 4- Yarın insan hayr ve şer olarak ne kazanacağını, 5- însanın nerede öleceğini Allah bildirmedikçe kimse bilemez. Bunlara mefâtih-ül gayb da denir.("Mugayyebât-ı Hamse"ye dair Sure-i Lokman'ın âhirindeki âyetin hakkında mühim sualinize gayet mühim bir cevap isterken, maatteessüf şimdiki hâlet-i ruhiyem ve ahvâl-i maddiyem o cevaba müsaid değildir. Yalnız sualinizin temas ettiği bir iki noktaya gayet mücmel işaret edeceğiz. şu sualinizin meâli gösteriyor ki, ehl-i ilhad tarafından tenkid suretinde mugayyebât-ı hamseden yağmurun gelmek vaktine ve rahm-i mâderdeki ceninin keyfiyetine itiraz edilmiş. Demişler ki: "Rasathânelerde bir âletle yağmurun vakt-i nüzulü keşfediliyor. Onu da Allah'dan başkası da biliyor. Hem röntgen şuâiyle rahm-i maderdeki ceninin müzekker, müennes olduğu anlaşılıyor. Demek mugayyebat-ı hamseye ıttıla' kabildir"?Elcevap: Yağmurun vakt-i nüzulü bir kaideye merbut olmadığı için, doğrudan doğruya meşiet-i hâssa-i îlâhiyye ile bağlı ve hazine-i rahmetten hususi iradeye tâbi olduğunun, bir sırr-ı hikmeti şudur ki: Kâinatta en mühim hakikat ve en kıymetdar mahiyet, nur, vücud ve hayat ve rahmettir ki, bu dört şey; perdesiz, vasıtasız, doğrudan doğruya Kudret-i îlâhiyye ve meşiet-i hassa-i îlâhiyyeye bakar. Sair masnuatta zahiri esbab; kudretin tasarrufuna perde oluyorlar. Ve muttarid kanunlar ve kaideler, bir derece irade ve meşiete hicab oluyor. Fakat vücud, hayat ve nur ve rahmette o perdeler konulmamış. çünki; perdelerin sırr-ı hikmeti o işte cereyan etmiyor. Madem vücudda en mühim hakikat rahmet ve hayattır; yağmur, hayata menşe ve medâr-ı rahmet, belki ayn-ı rahmettir. Elbette vesait perde olmıyacak. Kaide ve yeknesaklık dahi, meşiet-i hassa-i îlâhiyyeyi setretmiyecek; tâ ki, her vakit herkes herşeyde şükür ve ubudiyete ve sual ve duaya mecbur olsun. Eğer bir kaide dahilinde olsaydı, o kaideye güvenip şükür ve rica kapısı kapanırdı. Güneşin tuluunda ne kadar menfaatler olduğu mâlumdur. Halbuki muttarid bir kaideye tabi olduğundan, Güneşin çıkması için dua edilmiyor ve çıkmasına dair şükür yapılmıyor. Ve ilm-i beşeri, o kaidenin yoluyla yarın Güneşin çıkacağını bildiği için, gaibden sayılmıyor. Fakat yağmurun cüz'iyatı bir kaideye tâbi olmadığı için, her vakit insanlar rica ve dua ile dergâh-ı îlâhiyyeye ilticaya mecbur oluyorlar. Ve ilm-i beşeri, vakt-i nüzulünü tayin edemediği için, sırf hazine-i rahmetten bir nimet-i hassa telâkki edip hakiki şükrediyorlar.îşte bu âyet, bu nokta-i nazardan yağmurun vakt-i nüzulünü, Mugayyebat-ı Hamse'ye idhal ediyor. Rasadhanelerdeki âletle, bir yağmurun mukaddematını hissedip vaktini tayin etmek, gaibi bilmek değil, belki gaibden çıkıp âlem-i şehadete takarrubu vaktinde bazı mukaddematına ıttıla' suretinde bilmektir. Nasıl, en hafi umur-u gaybiye vukua geldikte veyahud vukua yakın olduktan sonra hiss-i kabl-el-vukuun bir nev'iyle bilinir. O, gaybı bilmek değil; belki o, mevcudu veya mukarreb-ül-vücudu bilmektir. Hatta ben kendi âsâbımda bir hassasiyet cihetiyle yirmi dört saat evvel, gelecek yağmuru bazen hissediyorum. Demek yağmurun mukaddematı, mebâdileri var. O mebâdiler, rutubet nev'inden kendini gösteriyor, arkasından yağmurun geldiğini bildiriyor. Bu hal, aynen kaide gibi, ilm-i beşerin gaibden çıkıp daha şehadete girmiyen umura vüsule bir vesile olur. Fakat daha âlem-i şehadete ayak basmayan ve meşiet-i hassa ile rahmet-i hassadan çıkmıyan yağmurun vakt-i nüzulünü bilmek, ilm-i Allâm-ül-Guyub'a mahsustur.Kaldı îkinci Mes'ele: Röntgen şuâiyle rahm-ı mâderdeki çocuğun erkek ve dişisini bilmek ile âyetinin meâl-i gaybisine münafi olamaz. çünki: âyet yalnız zükuret ve ünuset keyfiyetine değil, belki o çocuğun acib istidad-ı hususisi ve istikbalde kesbedeceği vaziyetine medar olan mukadderat-ı hayatiyesinin mebâdileri, hatta simasındaki gayet acib olan sikke-i Samediyet muraddır ki, çocuğun o tarzda bilinmesi, ilm-i Allâm-ül-Guyub'a mahsustur. Yüzbin röntgen-misal fikr-i beşeri birleşse, yine o çocuğun umum efrâd-ı beşeriyeye karşı birer alâmet-i fârikası bulunan yalnız hakiki sima-yı vechiyesini keşfedemez. Nerede kaldı ki sima-yı veçhisinden yüz defa daha harika olan istidadındaki sima-yı mâneviyi keşfedebilsin. Başta dedik ki: Vücud ve hayat ve rahmet, bu kâinatta en mühim hakikatlardır ve en mühim makam onlarındır. îşte onun için o câmi hakikat-ı hayatiye, bütün incelikleriyle ve dekaikiyle irade-i hassaya ve rahmet-i hassaya ve meşiet-i hassaya bakmalarının bir sırrı şudur ki; hayat, bütün cihazatiyle ve cihâtiyle şükür ve ubudiyet ve tesbihin menşe' ve medârı olduğundandır ki, irade-i hassaya hicab olan yeknesaklık ve kaidelik ve rahmet-i hassaya perde olan vesâit-i zahiriye konulmamıştır. Cenab-ı Hakkın rahm-ı mâderdeki çocukların sima-yı maddi ve mânevilerinde iki cilvesi var:Birisi: Vahdetini ve Ehadiyetini ve Samediyetini gösterir ki, o çocuk âzâ-yı esaside ve cihazat-ı insaniyenin envâında sair insanlarla muvafık ve mutabık olduğu cihetle, Hâlık ve Sâniinin vahdetine şehadet ediyor. O cenin bu lisan ile bağırıyor ki: "Bana bu sima ve âzâyı veren kim ise, bütün esasat-ı âzâda bana benzeyen bütün insanların sânii dahi O'dur. Ve hem bütün zihayatın sânii O'dur."îşte rahm-i mâderdeki ceninin bu lisanı, gaybi değil, kaideye ve ıttırada ve nev'ine tâbi olduğu için mâlumdur, bilinebilir. âlem-i şehadetten âlem-i gayba girmiş bir daldır ve bir dildir.îkinci Cihet: Sima-yı istidadiye-i hususiyesi ve sima-yı veçhiye-i şahsiyesi lisaniyle Sâniinin ihtiyarını, iradesini ve meşietini ve rahmet-i hassasını ve hiçbir kayd altında olmadığını, bağırıp gösteriyor. Fakat bu lisan, gayb-ül-gaybdan geliyor. îlm-i ezeliden başkası, kabl-el-vücud bunu göremiyor ve ihata edemiyor. Rahm-i mâderde iken bu simanın binde bir cihazatı görünmekle, bilinmiyor!Elhasıl: Ceninin sima-yı istidadisinde ve sima-yı veçhiyesinde hem delil-i vahdaniyet var, hem ihtiyar ve irade-i îlâhiyyenin hücceti vardır. L.)
 mugayyebe: Gizli şey. Görünmeyen ve saklı olan nesne.
 mugayyer: (Gayr. dan) Değiştirilmiş, başkalaştırılmış. Tağyir edilmiş.
 mugayyîr: Tağyir eden, değiştiren.
@@ -5043,7 +5043,7 @@ muhabbet: Sevgi, sevme. * Sohbet. Ruhun, kendisinden lezzet duyduğu şeye meyle
 muhabbetdarane: Muhabbete yakışır şekilde.
 muhabbetkâr: Muhabbetli, sevgi gösteren.
 muhabbetname: Sevgisini bildiren yazılı kâğıt. Aşkını bildiren yazı.
-muhabbetullah: Cenab-ı Hakk'a karşı beslenen ihlâslı sevgi.(...Sende, senin nefsine olan şedid muhabbetin O'nun zâtına karşı muhabbet-i zâtiyedir ki, sen su-i istimal edip kendi zâtına sarfediyorsun. öyle ise, nefsindeki eneyi yırt, hüveyi göster. Ve kâinata dağınık bütün muhabbetlerin, O'nun esmâ ve sıfâtına karşı verilmiş bir muhabbettir. Sen su-i istimal etmişsin, cezasını da çekiyorsun. çünkü yerinde sarfolunmayan bir muhabbet-i gayr-i meşruanın cezası, merhametsiz bir musibettir. Rahman-ür-Rahim ismiyle hurilerle müzeyyen Cennet gibi senin bütün arzularına câmi' bir meskeni, senin cismani hevesatına ihzar eden ve sair esmâsiyle senin ruhun, kalbin, sırrın, aklın ve sair letâifin arzularını tatmin edecek ebedi ihsanatını, o cennette sana müheyya eden ve her bir isminde mânevi çok hazine-i ihsan ve kerem bulunan bir Mahbub-u Ezelinin, elbette bir zerre muhabbeti, kâinata bedel olabilir. Kâinat O'nun bir cüz'i tecelli-i muhabbetine bedel olamaz. S.)(Velâyet yollarının ve tarikat şubelerinin en mühim esası ihlâsdır. çünkü, ihlâs ile hafi şirklerden halâs olur. îhlâsı kazanmıyan, o yollarda gezemez ve o yolların en keskin kuvveti, muhabbettir. Evet muhabbet; mahbubunda bahaneler aramaz ve kusurlarını görmek istemez. Ve kemâline delâlet eden zayıf emâreleri, kavi hüccetler hükmünde görür. Dâima mahbubuna tarafdardır.îşte bu sırra binaendir ki, muhabbet ayağı ile marifetullaha teveccüh eden zâtlar şübehata ve itirâzata kulak vermezler, ucuz kurtulurlar. Binler şeytan toplansa, onların mahbub-u hakikisinin kemâline işaret eden bir emareyi, onların nazarında ibtal edemez. Eğer muhabbet olmazsa, o vakit kendi nefsi ve şeytanı ve harici şeytanların ettikleri itirazât içinde çok çırpınacak. Kahramancasına bir metanet ve kuvvet-i imân ve dikkat-ı nazar lâzımdır ki, kendisini kurtarsın.îşte bu sırra binaendir ki, umum meratib-i velâyette, mârifetullahtan gelen muhabbet, en mühim mâye ve iksirdir. Fakat muhabbetin bir vartası var ki, ubudiyyetin sırrı olan niyazdan, mahviyetten, naza ve dâvaya atlar, mizansız hareket eder. Mâsiva-yı îlâhiyeye teveccühü hengâmında, mâna-yı harfiden mâna-yı ismiye geçmesi ile, tiryak iken zehir olur. Yâni gayrullahı sevdiği vakit Cenab-ı Hak hesabına ve onun nâmına, onun bir âyine-i esmâsı olmak ciheti ile rabt-ı kalb etmek lâzım iken; bazan o zâtı o zât hesabına kendi kemâlât-ı şahsiyesi ve cemâl-i zâtisi nâmına düşünüp, mâna-yı ismiyle sever. Allah'ı ve Peygamber'i düşünmeden yine onları sevebilir. Bu muhabbet, muhabbetullaha vesile değil, perde oluyor. Mâna-yı harfi ile olsa, muhabbetullaha vesile olur, belki cilvesidir denilebilir. M.)( $ âyetinde i'cazlı bir icaz vardır. çünki çok cümleler, bu üç cümlenin içinde dercedilmiştir. şöyleki: şu âyet diyor ki: "Allah'a (Celle Celâluhu) imanınız varsa elbette Allah'ı seveceksiniz. Mâdem Allah'ı seversiniz, Allah'ın sevdiği tarzı yapacaksınız. Ve o sevdiği tarz ise, Allah'ın sevdiği zâta benzemelisiniz. Ona benzemek ise, ona ittiba etmektir. Ne vakit ona ittiba etseniz. Allah da sizi sevecek. Zâten siz Allah'ı seversiniz, tâ ki, Allah da sizi sevsin". L.)
+muhabbetullah: Cenab-ı Hakk'a karşı beslenen ihlâslı sevgi.(...Sende, senin nefsine olan şedid muhabbetin O'nun zâtına karşı muhabbet-i zâtiyedir ki, sen su-i istimal edip kendi zâtına sarfediyorsun. öyle ise, nefsindeki eneyi yırt, hüveyi göster. Ve kâinata dağınık bütün muhabbetlerin, O'nun esmâ ve sıfâtına karşı verilmiş bir muhabbettir. Sen su-i istimal etmişsin, cezasını da çekiyorsun. çünkü yerinde sarfolunmayan bir muhabbet-i gayr-i meşruanın cezası, merhametsiz bir musibettir. Rahman-ür-Rahim ismiyle hurilerle müzeyyen Cennet gibi senin bütün arzularına câmi' bir meskeni, senin cismani hevesatına ihzar eden ve sair esmâsiyle senin ruhun, kalbin, sırrın, aklın ve sair letâifin arzularını tatmin edecek ebedi ihsanatını, o cennette sana müheyya eden ve her bir isminde mânevi çok hazine-i ihsan ve kerem bulunan bir Mahbub-u Ezelinin, elbette bir zerre muhabbeti, kâinata bedel olabilir. Kâinat O'nun bir cüz'i tecelli-i muhabbetine bedel olamaz. S.)(Velâyet yollarının ve tarikat şubelerinin en mühim esası ihlâsdır. çünkü, ihlâs ile hafi şirklerden halâs olur. îhlâsı kazanmıyan, o yollarda gezemez ve o yolların en keskin kuvveti, muhabbettir. Evet muhabbet; mahbubunda bahaneler aramaz ve kusurlarını görmek istemez. Ve kemâline delâlet eden zayıf emâreleri, kavi hüccetler hükmünde görür. Dâima mahbubuna tarafdardır.îşte bu sırra binaendir ki, muhabbet ayağı ile marifetullaha teveccüh eden zâtlar şübehata ve itirâzata kulak vermezler, ucuz kurtulurlar. Binler şeytan toplansa, onların mahbub-u hakikisinin kemâline işaret eden bir emareyi, onların nazarında ibtal edemez. Eğer muhabbet olmazsa, o vakit kendi nefsi ve şeytanı ve harici şeytanların ettikleri itirazât içinde çok çırpınacak. Kahramancasına bir metanet ve kuvvet-i imân ve dikkat-ı nazar lâzımdır ki, kendisini kurtarsın.îşte bu sırra binaendir ki, umum meratib-i velâyette, mârifetullahtan gelen muhabbet, en mühim mâye ve iksirdir. Fakat muhabbetin bir vartası var ki, ubudiyyetin sırrı olan niyazdan, mahviyetten, naza ve dâvaya atlar, mizansız hareket eder. Mâsiva-yı îlâhiyeye teveccühü hengâmında, mâna-yı harfiden mâna-yı ismiye geçmesi ile, tiryak iken zehir olur. Yâni gayrullahı sevdiği vakit Cenab-ı Hak hesabına ve onun nâmına, onun bir âyine-i esmâsı olmak ciheti ile rabt-ı kalb etmek lâzım iken; bazan o zâtı o zât hesabına kendi kemâlât-ı şahsiyesi ve cemâl-i zâtisi nâmına düşünüp, mâna-yı ismiyle sever. Allah'ı ve Peygamber'i düşünmeden yine onları sevebilir. Bu muhabbet, muhabbetullaha vesile değil, perde oluyor. Mâna-yı harfi ile olsa, muhabbetullaha vesile olur, belki cilvesidir denilebilir. M.)( âyetinde i'cazlı bir icaz vardır. çünki çok cümleler, bu üç cümlenin içinde dercedilmiştir. şöyleki: şu âyet diyor ki: "Allah'a (Celle Celâluhu) imanınız varsa elbette Allah'ı seveceksiniz. Mâdem Allah'ı seversiniz, Allah'ın sevdiği tarzı yapacaksınız. Ve o sevdiği tarz ise, Allah'ın sevdiği zâta benzemelisiniz. Ona benzemek ise, ona ittiba etmektir. Ne vakit ona ittiba etseniz. Allah da sizi sevecek. Zâten siz Allah'ı seversiniz, tâ ki, Allah da sizi sevsin". L.)
 muhaberat: Muhabereler. Haberleşmeler. Haberleşme yapan dâireler.
 muhabere: Haberleşme. Karşılıklı birbirine haber verme.
 muhabere memuru: Telgrafçı.
@@ -5165,7 +5165,7 @@ muhamere: Karışmak. * Gizlemek.
 muhamese: Fısıldaşma.
 muhamî: Avukat. * Himaye eden.
 muhammat: Kızdırılmış nesne.
-muhammed: Pek çok tekrar tekrar övülmüş, medhedilmiş meâlinde bir isim olup ilk olarak Peygamberimize (A.S.M.) verilmiştir. (Allahımızın bütün insanlara son peygamberi olan Hz. Muhammed (A.S.M) Efendimiz, Arabistan'da Mekke-i Mükerreme şehrinde milâdi 571 tarihinde dünyaya teşrif etmişlerdir.Fahr-i âlem Efendimiz, Kureyş kabilesinden ve Haşim âilesindendir. Muhterem pederinin adı Abdullah, dedesinin adı Abdülmuttalib, vâlidesinin adı ise Amine'dir.Peygamberimizin (A.S.M.) baba cihetinden mübarek nesebleri şöyledir. Hz. Muhammed îbn-i Abdullah, ibn-i Abdulmuttalib, Haşim, Abdi Menaf, Kusey, Hakim, Mürre, Keab, Lüey, Galib, Fihr, Mâlik, Nazr, Kinane, Huzeyme, Müdrike, îlyas, Mudar, Mirar, Mead, Adnan. Adnan da îsmâil Aleyhisselâm'ın oğlu Kıyzar'ın neslindendir. Adlarını yazdığımız bu zatlardan her birinin evlâdı birçok kabilelere ayrılmış, Mâlik'in oğlu Fihr'in evlâdından da Kureyş kabilesi teşekkül etmiştir.Resul-i Ekrem Efendimizin (A.S.M.) vâlidesi cihetinde yüksek nesebleri de şöyledir: Hz. Muhammed ibn-i Amine Bint-i Vehb, ibn-i Abdi Menaf, ibn-i Zühre, ibn-i Hâkim.Peygamber Efendimizin (A.S.M.) babası tarafından mübârek nesebiyle anası tarafından nesebi, Mürre oğlu Hâkim'de birleşirler.Peygamber Efendimizin dedesi ve zamanında Kureyş kabilesinin reisi bulunan Abdülmuttalib, Kâbe-i Muazzama'nın mütevellisiydi. Ebu Tâlib, Ebu Leheb, Hâris, Zübeyr, Hamza, Abbas, Abdullah v.s. adında onüç oğlu vardı. Fakat bunların içinde en fazla Abdullah'ı severdi. çünki onda başka bir güzellik, başka bir nuraniyet vardı. Abdülmuttalib, bu sevgili oğluna Beni Zühre reisi Vehb'in kızı Amine'yi nikâhla aldı. Abdullah Hazretleri, Peygamber Efendimiz doğmadan iki ay evvel bir ticaret kafilesiyle Medine-i Münevvere'ye gidip orada vefat etti ki, daha yirmibeş yaşında bulunuyordu. Bu cihetle Fahr-i âlem Efendimiz (A.S.M.) yetim kaldı.Peygamber Efendimizin çocukluk devresi pek kudsi bir halde geçmiştir. Daha doğar doğmaz bir takım hârikalar meydana gelmiştir. (Bak: Delâil-i Nübüvvet) Süt anası, Beni Sa'd kabilesinden Haris'in refikası Halime idi. Dört sene onun yanında kaldı. Annesi Hz. Amine ile birlikte Medine-i Münevvere'ye dayı-zâdeleri bulunan Neccar oğullarını ziyarete gittiler. Sonra Mekke-i Mükerreme'ye dönerlerken Hz. Amine, Ebva denilen yerde daha yirmi yaşında olduğu halde vefat etti. Altı yaşında öksüz kalan Peygamberimizi, ümmieymen adındaki dadısı alıp, Mekke-i Mükerreme'ye getirip dedesi Hz. Abdülmuttalib'e teslim etti. îki sene sonra da dedesi vefat edince amcası Ebu Tâlib'in yanında kaldı.Peygamber Efendimiz gençliğinde Kureyş kabilesi arasında büyük bir şeref ve şânı haiz bulunuyordu. Kendisine "Muhammed-ül Emin" deniliyordu. Yirmibeş yaşında iken, pek yüksek bir ruha sahib, pek şerefli bir hânedana mensub olan ve daha genç iken dul kalmış olup çok zengin olan Huveylid kızı Hatice ile evlendi. Peygamber Efendimiz, tam kırk yaşlarına girince Peygamberlik şerefine nâil oldu. Kendisine peygamberlik verilince ilk evvel çevresinde bulunan kişileri hususi surette îslâm dinine dâvet etmişti. Bu dâveti ilk önce Hz. Hatice vâlidemiz kabul etti. Sonra Kureyşin büyüklerinden olan Hz. Ebubekir-is sıddık ile Peygamberimizin âzatlısı olan Zeyd ibn-i Harise ve peygamberimizin amcası Ebu Tâlib'in oğlu olup, henüz dokuz-on yaşlarında olan Hz. Ali kabul ettiler. Bir müddet sonra da Hz. Ebubekir'in vasıtasıyla Osman bin Affan, Abdurrahman ibn-i Avf, Sa'd ibn-i Ebu Vakkas, Zübeyr ibn-ül Avvam, Talha-t-übnü Ubeydullah Hazretleri îslâmiyetle müşerref oldular.Bi'setin ondördüncü senesinde Mekke'deki müslümanlar, Medine-i Münevvere'ye hicret ettiler. Peşinden de Peygamberimiz Hz. Ebubekir ile birlikte hicret etti. (Bak: Hicret)Peygamberimiz (A.S.M.) hicretin onbirinci senesinin Rebiülevvel ayının onikisinde pazartesi günü Medine-i Münevvere'de hücre-i saadetinde vefat etti.) (B.î.î.)(şu kâinatın Sâhib ve Mutasarrıfı, elbette bilerek yapıyor ve hikmetle tasarruf ediyor. Ve her tarafı görerek tedvir ediyor. Ve her şeyi bilerek, görerek terbiye ediyor ve her şeyde görünen hikmetleri, gayeleri, faydaları irade ederek tedvir ediyor. Mâdem yapan bilir; elbette bilen konuşur. Mâdem konuşacak, elbette zişuur ve zifikir ve konuşmasını bilenlere konuşacak. Mâdem zifikirle konuşacak; elbette zişuurun içinde en cem'iyetli ve şuuru külli olan insan nev'i ile konuşacaktır. Mâdem insan nev'i ile konuşacak, elbette insanlar içinde kabil-i hitab ve mükemmel insan olanlarla konuşacak. Mâdem en mükemmel ve istidâdı en yüksek ve ahlâkı ulvi ve nev'-i beşere muktedâ olacak olanlarla konuşacaktır. Elbette, dost ve düşmanın ittifakı ile, en yüksek isti'datta ve en âli ahlâkta ve nev-i beşerin humsu ona iktida etmiş ve nısf-ı arz onun hükm-ü mânevisi altına girmiş ve istikbal onun getirdiği nurun ziyası ile bin üçyüz sene ışıklanmış; ve beşerin nurani kısmı ve ehl-i imanı mütemadiyen günde beş defa onunla tecdid-i biat edip, ona dua-i rahmet ve saadet edip, ona medh ve muhabbet etmiş olan Muhammed (A.S.M.) ile konuşacak.. ve konuşmuş ve Resul yapacak ve yapmış; ve sair nev-i beşere rehber yapacak ve yapmıştır. M.) (Bak: Fahr-i Kâinat ve Resulullah ve Mefhar-ı mevcudat)(Zât-ı Zülcelâl (C.C.) demiş: $ Bütün ümmet, hattâ düşmanları da dahil olduğu halde icma etmişler ki, bütün ahlâk-ı haseneye câmi'dir.Nübüvvetten evvel ondaki ahlâk-ı hamidenin kemâline tercüman olan Muhammed'ül Emin ünvaniyle iştihar etmişler.Hazret-i Aişe (R.A.) her vakit derdi: $ Demek Kur'an tazammun ettiği bütün ahlâk-ı haseneye câmi idi. îşte o Zât-ı Kerimde icma-ı ümmetle tevatür-ü mânevi-i kat'iyle sabittir ki; insanların sireten, sureten en cemili ve en halimi ve en sâbiri ve en şâkiri ve en zâhidi ve en mütevazii ve en afifi ve en cevâdı ve en kerimi ve en rahimi ve en âdili, herkesten ziyade mürüvvet, vakar, afv, sıhhat-ı fehim, şefkat gibi ne kadar secâya-yı âliyye varsa en mükemmel bir fihriste-i nuranisidir. Bunların içindeki nokta-i i'caz şudur ki: Ahlâk-ı hasene çendan birbirine mübayin değil, fakat derece-i kemâlde birbirine müzaheme eder. Biri galebe çalsa öteki zayıflaşır. Meselâ: Kemâl-i hilm ile kemâl-i şecaat, hem kemal-i tevazu ile kemal-i şehamet, hem kemal-i merhamet ve mürüvvet, hem tam iktisat ve itidal ile tamam-ı kerem ve sehavet, hem gayet vakar ile nihayet haya, hem gâyet şefkat ile nihayet Elbuğzu fillah, hem gayet afv ile nihayet izzet-i nefs, hem gayet tevekkül ile nihayet içtihad gibi mecâmi-i ahlâk-ı mütezahime birden derece-i âliyyede bir zâtta içtimâı müzayakasız inkişafları mu'cizelerin mu'cizesidir. Bediüzzaman)
+muhammed: Pek çok tekrar tekrar övülmüş, medhedilmiş meâlinde bir isim olup ilk olarak Peygamberimize (A.S.M.) verilmiştir. (Allahımızın bütün insanlara son peygamberi olan Hz. Muhammed (A.S.M) Efendimiz, Arabistan'da Mekke-i Mükerreme şehrinde milâdi 571 tarihinde dünyaya teşrif etmişlerdir.Fahr-i âlem Efendimiz, Kureyş kabilesinden ve Haşim âilesindendir. Muhterem pederinin adı Abdullah, dedesinin adı Abdülmuttalib, vâlidesinin adı ise Amine'dir.Peygamberimizin (A.S.M.) baba cihetinden mübarek nesebleri şöyledir. Hz. Muhammed îbn-i Abdullah, ibn-i Abdulmuttalib, Haşim, Abdi Menaf, Kusey, Hakim, Mürre, Keab, Lüey, Galib, Fihr, Mâlik, Nazr, Kinane, Huzeyme, Müdrike, îlyas, Mudar, Mirar, Mead, Adnan. Adnan da îsmâil Aleyhisselâm'ın oğlu Kıyzar'ın neslindendir. Adlarını yazdığımız bu zatlardan her birinin evlâdı birçok kabilelere ayrılmış, Mâlik'in oğlu Fihr'in evlâdından da Kureyş kabilesi teşekkül etmiştir.Resul-i Ekrem Efendimizin (A.S.M.) vâlidesi cihetinde yüksek nesebleri de şöyledir: Hz. Muhammed ibn-i Amine Bint-i Vehb, ibn-i Abdi Menaf, ibn-i Zühre, ibn-i Hâkim.Peygamber Efendimizin (A.S.M.) babası tarafından mübârek nesebiyle anası tarafından nesebi, Mürre oğlu Hâkim'de birleşirler.Peygamber Efendimizin dedesi ve zamanında Kureyş kabilesinin reisi bulunan Abdülmuttalib, Kâbe-i Muazzama'nın mütevellisiydi. Ebu Tâlib, Ebu Leheb, Hâris, Zübeyr, Hamza, Abbas, Abdullah v.s. adında onüç oğlu vardı. Fakat bunların içinde en fazla Abdullah'ı severdi. çünki onda başka bir güzellik, başka bir nuraniyet vardı. Abdülmuttalib, bu sevgili oğluna Beni Zühre reisi Vehb'in kızı Amine'yi nikâhla aldı. Abdullah Hazretleri, Peygamber Efendimiz doğmadan iki ay evvel bir ticaret kafilesiyle Medine-i Münevvere'ye gidip orada vefat etti ki, daha yirmibeş yaşında bulunuyordu. Bu cihetle Fahr-i âlem Efendimiz (A.S.M.) yetim kaldı.Peygamber Efendimizin çocukluk devresi pek kudsi bir halde geçmiştir. Daha doğar doğmaz bir takım hârikalar meydana gelmiştir. (Bak: Delâil-i Nübüvvet) Süt anası, Beni Sa'd kabilesinden Haris'in refikası Halime idi. Dört sene onun yanında kaldı. Annesi Hz. Amine ile birlikte Medine-i Münevvere'ye dayı-zâdeleri bulunan Neccar oğullarını ziyarete gittiler. Sonra Mekke-i Mükerreme'ye dönerlerken Hz. Amine, Ebva denilen yerde daha yirmi yaşında olduğu halde vefat etti. Altı yaşında öksüz kalan Peygamberimizi, ümmieymen adındaki dadısı alıp, Mekke-i Mükerreme'ye getirip dedesi Hz. Abdülmuttalib'e teslim etti. îki sene sonra da dedesi vefat edince amcası Ebu Tâlib'in yanında kaldı.Peygamber Efendimiz gençliğinde Kureyş kabilesi arasında büyük bir şeref ve şânı haiz bulunuyordu. Kendisine "Muhammed-ül Emin" deniliyordu. Yirmibeş yaşında iken, pek yüksek bir ruha sahib, pek şerefli bir hânedana mensub olan ve daha genç iken dul kalmış olup çok zengin olan Huveylid kızı Hatice ile evlendi. Peygamber Efendimiz, tam kırk yaşlarına girince Peygamberlik şerefine nâil oldu. Kendisine peygamberlik verilince ilk evvel çevresinde bulunan kişileri hususi surette îslâm dinine dâvet etmişti. Bu dâveti ilk önce Hz. Hatice vâlidemiz kabul etti. Sonra Kureyşin büyüklerinden olan Hz. Ebubekir-is sıddık ile Peygamberimizin âzatlısı olan Zeyd ibn-i Harise ve peygamberimizin amcası Ebu Tâlib'in oğlu olup, henüz dokuz-on yaşlarında olan Hz. Ali kabul ettiler. Bir müddet sonra da Hz. Ebubekir'in vasıtasıyla Osman bin Affan, Abdurrahman ibn-i Avf, Sa'd ibn-i Ebu Vakkas, Zübeyr ibn-ül Avvam, Talha-t-übnü Ubeydullah Hazretleri îslâmiyetle müşerref oldular.Bi'setin ondördüncü senesinde Mekke'deki müslümanlar, Medine-i Münevvere'ye hicret ettiler. Peşinden de Peygamberimiz Hz. Ebubekir ile birlikte hicret etti. (Bak: Hicret)Peygamberimiz (A.S.M.) hicretin onbirinci senesinin Rebiülevvel ayının onikisinde pazartesi günü Medine-i Münevvere'de hücre-i saadetinde vefat etti.) (B.î.î.)(şu kâinatın Sâhib ve Mutasarrıfı, elbette bilerek yapıyor ve hikmetle tasarruf ediyor. Ve her tarafı görerek tedvir ediyor. Ve her şeyi bilerek, görerek terbiye ediyor ve her şeyde görünen hikmetleri, gayeleri, faydaları irade ederek tedvir ediyor. Mâdem yapan bilir; elbette bilen konuşur. Mâdem konuşacak, elbette zişuur ve zifikir ve konuşmasını bilenlere konuşacak. Mâdem zifikirle konuşacak; elbette zişuurun içinde en cem'iyetli ve şuuru külli olan insan nev'i ile konuşacaktır. Mâdem insan nev'i ile konuşacak, elbette insanlar içinde kabil-i hitab ve mükemmel insan olanlarla konuşacak. Mâdem en mükemmel ve istidâdı en yüksek ve ahlâkı ulvi ve nev'-i beşere muktedâ olacak olanlarla konuşacaktır. Elbette, dost ve düşmanın ittifakı ile, en yüksek isti'datta ve en âli ahlâkta ve nev-i beşerin humsu ona iktida etmiş ve nısf-ı arz onun hükm-ü mânevisi altına girmiş ve istikbal onun getirdiği nurun ziyası ile bin üçyüz sene ışıklanmış; ve beşerin nurani kısmı ve ehl-i imanı mütemadiyen günde beş defa onunla tecdid-i biat edip, ona dua-i rahmet ve saadet edip, ona medh ve muhabbet etmiş olan Muhammed (A.S.M.) ile konuşacak.. ve konuşmuş ve Resul yapacak ve yapmış; ve sair nev-i beşere rehber yapacak ve yapmıştır. M.) (Bak: Fahr-i Kâinat ve Resulullah ve Mefhar-ı mevcudat)(Zât-ı Zülcelâl (C.C.) demiş: Bütün ümmet, hattâ düşmanları da dahil olduğu halde icma etmişler ki, bütün ahlâk-ı haseneye câmi'dir.Nübüvvetten evvel ondaki ahlâk-ı hamidenin kemâline tercüman olan Muhammed'ül Emin ünvaniyle iştihar etmişler.Hazret-i Aişe (R.A.) her vakit derdi: Demek Kur'an tazammun ettiği bütün ahlâk-ı haseneye câmi idi. îşte o Zât-ı Kerimde icma-ı ümmetle tevatür-ü mânevi-i kat'iyle sabittir ki; insanların sireten, sureten en cemili ve en halimi ve en sâbiri ve en şâkiri ve en zâhidi ve en mütevazii ve en afifi ve en cevâdı ve en kerimi ve en rahimi ve en âdili, herkesten ziyade mürüvvet, vakar, afv, sıhhat-ı fehim, şefkat gibi ne kadar secâya-yı âliyye varsa en mükemmel bir fihriste-i nuranisidir. Bunların içindeki nokta-i i'caz şudur ki: Ahlâk-ı hasene çendan birbirine mübayin değil, fakat derece-i kemâlde birbirine müzaheme eder. Biri galebe çalsa öteki zayıflaşır. Meselâ: Kemâl-i hilm ile kemâl-i şecaat, hem kemal-i tevazu ile kemal-i şehamet, hem kemal-i merhamet ve mürüvvet, hem tam iktisat ve itidal ile tamam-ı kerem ve sehavet, hem gayet vakar ile nihayet haya, hem gâyet şefkat ile nihayet Elbuğzu fillah, hem gayet afv ile nihayet izzet-i nefs, hem gayet tevekkül ile nihayet içtihad gibi mecâmi-i ahlâk-ı mütezahime birden derece-i âliyyede bir zâtta içtimâı müzayakasız inkişafları mu'cizelerin mu'cizesidir. Bediüzzaman)
 muhammed suresî: Kur'an-ı Kerim'in 47. Suresi olup Kıtal Suresi de denir. Medine-i Münevvere'de nâzil olmuştur.
 muhammedî: Hz. Muhammed'e (A.S.M.) mensub olan. Müslüman. (Ecnebi dillerinde geçen bu mânadaki tabirlere göre Muhammedi, Muhammedilik: Müslüman ve Müslümanlık mânasına gelmektedir.)
 muhammedîyyun: Müslümanlar. Hz. Muhammed'in (A.S.M.) ümmetinden olanlar.
@@ -5232,7 +5232,7 @@ muhasimeyn: Bir dâvâ veya çekişmede birbirine karşı olan iki kimse.
 muhasimîn: (Muhasım. C.) Düşmanlar, muhasımlar.
 muhasir: (C.: Muhasırin- Muhasırûn) (Hasr. dan) Etrafının kuşatıp saran. Muhasara eden.
 muhasirîn: (Muhâsır. C.) Muhasara edenler, etrafını kuşatanlar.
-muhasirûn : (Muhasırin) Düşmanı etraftan kuşatanlar. Muhasara edenler.
+muhasirûn : (Muhasırin) Düşmanı etraftan kuşatanlar. Muhasara edenler.
 muhasîb: Hesab eden. Hesap işi ile uğraşan. Muhasib.
 muhassal: Netice. Husule gelen. Tahsil olunan. Hâsıl olmuş bulunan. Toplanılmış, cem'olunmuş. Hülâsa. Sözün kısası.
 muhassal-î kelâm: Sözün kısası.
@@ -5355,7 +5355,7 @@ muhîll-î nâmus: Nâmusa zarar veren, nâmusa dokunan.
 muhîn: Zayıflatan, hor ve hakir eden. îhanet eden.
 muhîs: Zindan.
 muhîss: (Hiss. den) Hissettiren, duyuran.
-muhîş : Korkutan, korku veren.
+muhîş : Korkutan, korku veren.
 muhît: îhata eden. Etrafını kuşatan, çeviren. * Etraf. çevre. * Büyük deniz. Okyanus. * Mc: Büyük âlim.
 muhît-î arz: Dünyanın çevresi.
 muhît-î dâîre: Mat: Daire çevresi. çember.
@@ -5515,7 +5515,7 @@ muîn: Yardımcı. Muâvin. îane eden.
 muîr: ödünç olarak veren. Borç veren. Karz-ı hasen tarzında veren.
 muîzz: îzzet ve ikram eden. Ağırlayan. Aziz ve şerif eyleyen.
 muje: Musibet, belâ. * Keder, gam, tasa, hüzün.
-mujîk ©: (Rusça) Rus köylüsüne verilen isim.
+mujîk : (Rusça) Rus köylüsüne verilen isim.
 muk: Göz pınarı. * Akılsızlık. * Kanatlı karınca. * Mest üzerine giyilen çizme.
 muk: Diken.
 muka: Islık çalmak.
@@ -5638,7 +5638,7 @@ mukavelat muharrîrî: Noter. Kâtib-i adl.
 mukavele: Kavilleşmek. Karşılıklı anlaşmak. Sözleşmek. * Anlaşmada imzalanan ve karar altına alınanların yazıldığı kâğıt.
 mukavelename: Anlaşma yazılı olan kâğıt. Mukavele yapılan kâğıt.
 mukavemet: Karşı durmak, dayanmak. Karşı koymak. Muhalefetle kıyam etmek.
-mukavemet-suz : Dayanmayı te'sirsiz hâle koyan. Tahammülsüzlük veren. Mukavemeti kıran.
+mukavemet-suz : Dayanmayı te'sirsiz hâle koyan. Tahammülsüzlük veren. Mukavemeti kıran.
 mukavemet-şîken: Mukavemeti kıran.
 mukavere: Zayıflamak.
 mukavîm: Sağlam. Dayanıklı. Mukavemet eden. Direnen. Karşı duran.
@@ -5755,7 +5755,7 @@ mumatele: (Bak: Mümatala)
 mumdar: Mum tutan. Işık veren. Işık tutan.
 mumîl: Bir tarafa doğru eğen. Meylettiren.
 mumîyan: Belleri ince olan güzeller. Kıl belliler.
-mumya: Uzun müddet çürümemesi için ilâçlanmış ölü. însan ve hayvan ölüsünün kurusu. * çok zayıf (kimse).(Kur'anda çok tekrar edilen kıssa-ı Musa Aleyhisselâm'ın cümleleri ve cüz'leridir ki, herbir cümlesi, hattâ herbir cüz'ü, bir düstur-u küllinin ucu olarak gösterilmiş ve o düsturu ifade ediyor. Meselâ: $ Fir'avun, vezirine emreder ki: "Bana yüksek bir kule yap, semâvatın hâlini rasad edip bakacağım. Semanın gidişatından acaba Musa'nın (A.S.) dâva ettiği gibi semada tasarruf eden bir îlâh var mıdır?" îşte î kelimesiyle ve şu cüz'i hâdise ile, dağsız bir çölde olduğundan dağları arzulayan ve Hâlik'ı tanımadığından tabiat-perest olup Rububiyyet dâva eden ve âsâr-ı ceberutlarını göstermekle ibka-yı nâm eden şöhret-perest olup dağ-misâl meşhur ehramları bina eden ve sihir ve tenâsuha kail olup cenazelerini mumya edip dağ misillu mezarlarda muhafaza eden Mısır fir'avunlarının an'anesinde hükümferma bir düstur-u acibi ifade eder.Meselâ: $ Gark olan Fir'avuna der: "Bugün senin gark olan cesedine necat vereceğim" unvaniyle umum Fir'avunların tenâsuh fikrine binaen cenazelerini mumyalamakla mâziden alıp müstakbeldeki ensal-i âtiyenin temâşâgâhına göndermek olan mevt-âlud, ibretnüma bir düstur-u hayatiyelerini ifade etmekle beraber, şu asr-ı âhirde o gark olan Fir'avunun aynı cesedi olarak keşfolunan bir beden, o mahali-i gark denizinden sahile atıldığı gibi, zamanın denizinden asırların mevceleri üstünde şu asır sahiline atılacağını, mu'cizâne bir işaret-i gaybiyye, bir lem'a-yı i'cazı ve bu tek kelime bir mu'cize olduğunu ifade eder. S.)
+mumya: Uzun müddet çürümemesi için ilâçlanmış ölü. însan ve hayvan ölüsünün kurusu. * çok zayıf (kimse).(Kur'anda çok tekrar edilen kıssa-ı Musa Aleyhisselâm'ın cümleleri ve cüz'leridir ki, herbir cümlesi, hattâ herbir cüz'ü, bir düstur-u küllinin ucu olarak gösterilmiş ve o düsturu ifade ediyor. Meselâ: Fir'avun, vezirine emreder ki: "Bana yüksek bir kule yap, semâvatın hâlini rasad edip bakacağım. Semanın gidişatından acaba Musa'nın (A.S.) dâva ettiği gibi semada tasarruf eden bir îlâh var mıdır?" îşte î kelimesiyle ve şu cüz'i hâdise ile, dağsız bir çölde olduğundan dağları arzulayan ve Hâlik'ı tanımadığından tabiat-perest olup Rububiyyet dâva eden ve âsâr-ı ceberutlarını göstermekle ibka-yı nâm eden şöhret-perest olup dağ-misâl meşhur ehramları bina eden ve sihir ve tenâsuha kail olup cenazelerini mumya edip dağ misillu mezarlarda muhafaza eden Mısır fir'avunlarının an'anesinde hükümferma bir düstur-u acibi ifade eder.Meselâ: Gark olan Fir'avuna der: "Bugün senin gark olan cesedine necat vereceğim" unvaniyle umum Fir'avunların tenâsuh fikrine binaen cenazelerini mumyalamakla mâziden alıp müstakbeldeki ensal-i âtiyenin temâşâgâhına göndermek olan mevt-âlud, ibretnüma bir düstur-u hayatiyelerini ifade etmekle beraber, şu asr-ı âhirde o gark olan Fir'avunun aynı cesedi olarak keşfolunan bir beden, o mahali-i gark denizinden sahile atıldığı gibi, zamanın denizinden asırların mevceleri üstünde şu asır sahiline atılacağını, mu'cizâne bir işaret-i gaybiyye, bir lem'a-yı i'cazı ve bu tek kelime bir mu'cize olduğunu ifade eder. S.)
 mumza: (Mazâ. dan) îmza edilmiş olan.
 mu'nan: Su arkı, su mecrâsı.
 munassab: (Nasb. dan) Birbirinin üzerine tertiplenmiş olan.
@@ -5876,9 +5876,9 @@ murzîa: (Rızâ. dan) çocuğa süt emziren. Meme veren. Sütnine. Bebeğe süt
 mus: Bıçak.
 mus'a: (C: Musu) Böğürtlen otunun meyvesi. * Bir kuşun adı.
 musa: Beni îsrâil peygamberlerinden Hz. Musa'nın (A.S.) ismi. Dört büyük kitaptan birisi olan Tevrat, vahiy yoluyla kendisine gelmiştir. Yahudilerin en büyük peygamberidir. şeriatı, îsa'ya (A.S.) kadar devam etti. Yusuf'un (A.S.) soyundan Yuşa nâmındaki peygamberi yerine tâyin ederek vefat etmiştir. Mısır firavununa karşı mücadele etti. Harun (A.S.) kardeşi ve kendi veziri hükmünde idi.(Mısır Kıt'ası, kumistan olan Sahra-yı Kebir'in bir parçası olduğundan Nil-i Mübarek'in feyziyle gâyet mahsuldâr bir tarla hükmüne geçtiğinden, o cehennem-nümun sahra komşuluğunda şöyle cennet-misal bir mevki-i mübarekin bulunması, felâhat ve ziraatı, ahalisinde pek mergub bir surete getirmiş ve o sekenenin seciyesine öyle tesbit etmiş ki ziraatı, kudsiye; ve vasıta-ı ziraat olan "Bakar"ı ve "Sevr"i mukaddes, belki mâbud derecesine çıkarmış. Hattâ o zamandaki Mısır milleti, sevr'e, bakar'a ibadet etmek derecesinde bir kudsiyet vermişler. îşte o zamanda Beni-îsrail dahi, o kıt'ada neş'et ediyordu ve o terbiyeden bir hisse aldıkları, "îcl" mes'elesinden anlaşılıyor.îşte Kur'an-ı Hakim, Hazret-i Musa Aleyhisselâm'ın risaletiyle, o milletin seciyelerine girmiş ve istidatlarına işlemiş olan o bakar-perestlik mefkuresini kesip öldürdüğünü, bir bakar'ın zebhi ile ifham ediyor. S.)
-musa : Vasiyet olunan mal. * Menfaat.
-musa bîh : Vasiyyet olunan şey.
-musa-leh : Kendine bir şey vasiyet olunan.
+musa : Vasiyet olunan mal. * Menfaat.
+musa bîh : Vasiyyet olunan şey.
+musa-leh : Kendine bir şey vasiyet olunan.
 musaara: Büyüklük taslayarak birisinin yüzüne bakmayıp başını çevirmek.
 mus'ab: Aygır at. * Her nesnenin erkeği.
 musab: Kendine bir şey isabet eden. Hasta. Musibetzede. Musibete uğrayan.
@@ -5969,10 +5969,10 @@ musattah(a): Satıh haline getirilmiş. Düz ve yassı hâle konulmuş olan. Sat
 musattar: (Satr. dan) Yazılmış.
 musattem: Mükemmel, olgun, tam.
 musavele: Dövüşmek için bir kimseye saldırma. üzerine atılma.
-musavver : Zihnen düşünülen. Tasavvur olunan. Tasvirli.
-musavvîbe : Tasvib edilen. Kabul edilen. * "Dört mezheb de hak'tır ve füruatta hak taaddüd eder" diyenlere, ilm-i usulde musavvibe denir.
-musavvîr : Tasvir eden. şekil ve suret çizen. Her şeye güzel şekil ve suretler veren Allah (C.C.)
-musavvîre : Tasvir edilmiş. Suretlenmiş. şekli çizilmiş. * Kuvve-i hayâliye. (Bak: Kuvve-i musavvire - Madde-i musavvire)
+musavver : Zihnen düşünülen. Tasavvur olunan. Tasvirli.
+musavvîbe : Tasvib edilen. Kabul edilen. * "Dört mezheb de hak'tır ve füruatta hak taaddüd eder" diyenlere, ilm-i usulde musavvibe denir.
+musavvîr : Tasvir eden. şekil ve suret çizen. Her şeye güzel şekil ve suretler veren Allah (C.C.)
+musavvîre : Tasvir edilmiş. Suretlenmiş. şekli çizilmiş. * Kuvve-i hayâliye. (Bak: Kuvve-i musavvire - Madde-i musavvire)
 musavvît: (Savt. dan) Seslenen, yüksek sesle çağıran.
 musayaha: (Sayha. dan) Birbirine haykırıp çağırışma.
 musaye: Küçük sidik kabı. * Büyük kursak.
@@ -5992,14 +5992,14 @@ mu'sir: (C: Mu'sırât) Sıkıcı, sıkan.
 mu'sirat: Sıkım zamanı gelmiş üsâreliler. (üzüm gibi) * Bora ve kasırgalar. * Yetişkin kızlar.
 musirr: Direnen. Ayak direyen. Vaz geçmeyen. Sebat eden. Sözünden dönmeyen.
 musirrâne: Israr ve inatla, ayak direyerek.
-musî : Vasiyet eden. Birisini vâsi gösteren. Tavsiye eden.
+musî : Vasiyet eden. Birisini vâsi gösteren. Tavsiye eden.
 musî': Genişlendiren. Ferahlık veren. * Zengin. Muktedir.
 musîb: îsâbetli, yanılmayan, doğru. * Resul-i Ekremin (A.S.M.) isimlerinden birisi.
-musîbet: Afet. Belâ. Felâket. Hastalık. Dert.(Merayı tecavüz eden koyun sürüsünü çevirtmek için çobanın attığı taşlara musâb olan bir koyun, lisan-ı hâliyle: "Biz çobanın emri altındayız. O bizden daha ziyâde fâidemizi düşünür. Mâdem onun rızâsı yoktur, dönelim." diye kendisi döner, sürü de döner.Ey nefis! Sen o koyundan fazla âsi ve dâll değilsin. Kaderden sana atılan bir musibet taşına mâruz kaldığın zaman $ söyle ve merci-i hakikiye dön, imana gel, mükedder olma. O seni senden daha ziyade düşünür. M.N.)
+musîbet: Afet. Belâ. Felâket. Hastalık. Dert.(Merayı tecavüz eden koyun sürüsünü çevirtmek için çobanın attığı taşlara musâb olan bir koyun, lisan-ı hâliyle: "Biz çobanın emri altındayız. O bizden daha ziyâde fâidemizi düşünür. Mâdem onun rızâsı yoktur, dönelim." diye kendisi döner, sürü de döner.Ey nefis! Sen o koyundan fazla âsi ve dâll değilsin. Kaderden sana atılan bir musibet taşına mâruz kaldığın zaman söyle ve merci-i hakikiye dön, imana gel, mükedder olma. O seni senden daha ziyade düşünür. M.N.)
 musîbet-î âmme: Umuma ve cemiyetin ekseriyetine gelen belâ.(Bu asırdaki ehl-i îslâmın fevkalâde safderunluğu ve dehşetli cânileri de âlicenâbâne affetmesi; ve bir tek haseneyi, binler seyyiatı işliyen ve binler mânevi ve maddi hukuk-u ibâdı mahveden adamdan görse, ona bir nevi tarafdar çıkmasıdır. Bu suretle ekall-i kalil olan ehl-i dalâlet ve tuğyan; safdil taraftar ile ekseriyet teşkil ederek, ekseriyetin hatâsına terettüp eden musibet-i âmmenin devamına ve idâmesine belki teşdidine kader-i îlâhiyeye fetva verirler; biz buna müstehakız derler. K.L.)(Hem âlicenâbâne affetmek ise yalnız kendine karşı cinayetini affedebilir. Kendi hakkından vazgeçse hakkı var; yoksa başkaların hukukunu çiğniyen cânilere afuvkârâne bakmağa hakkı yoktur, zulme şerik olur. K.L.)
-musîbet-zede : Belâya uğrayan. Hastalık veya başka musibete uğrayan.(îmanla insanın kalbinde öyle bir kuvve-i mâneviye husule gelir ki, insan o kuvvet ile her musibete, her hâdiseye karşı mukavemet edebilir! î.î.)
+musîbet-zede : Belâya uğrayan. Hastalık veya başka musibete uğrayan.(îmanla insanın kalbinde öyle bir kuvve-i mâneviye husule gelir ki, insan o kuvvet ile her musibete, her hâdiseye karşı mukavemet edebilir! î.î.)
 musîka: Mızıka. çeşitli ses çıkarılan bir çalgı âleti.
-musîkî: Müzik. Ses ölçülerinden, ölçülü ses ve san'atkârlığından bahseden ilim.(Ve keza, $ kelimesiyle, küfür sebebiyle kulağa ait pek büyük bir nimeti kaybettiklerine işaret edilmiştir. Hatta kulaktaki zar, nur-u iman ile ışıklandığı zaman, kâinattan gelen mânevi nidaları işitir. Lisan-ı hal ile yapılan zikirleri, tesbihatları fehmeder. Hatta o nur-u iman sayesinde rüzgârların terennümatını, bulutların nâralarını, denizlerin dalgalarının nağamatını ve hâkeza. Yağmur, kuş ve saire gibi her nevi'den Rabbâni kelâmları ve ulvi tesbihatı işitir. Sanki kâinat, îlâhi bir musiki dairesidir. Türlü türlü avazlarla, çeşit çeşit terennümatla kalblere hüzünleri ve Rabbâni aşkları intıba' ettirmekle kalbleri, ruhları nurani âlemlere götürür, pek garip misali levhaları göstermekle, o ruhları ve kalbleri lezzetlere, zevklere garkeder. Fakat o kulak, küfür ile tıkandığı zaman, o leziz, mânevi, yüksek savtlardan mahrum kalır. Ve o lezzetleri iras eden avazlar, mâtem seslerine inkılâb eder. Kalbde, o ulvi hüzünler yerine, ahbabın fıkdaniyle ebedi yetimlikler, mâlikin ademiyle nihayetsiz vahşetler ve sonsuz gurbetler hasıl olur.Bu sırra binaendir ki, şeriatça bazı savtlar helâl, bazıları da haram kılınmıştır. Evet! Ulvi hüzünleri, Rabbâni aşkları iras eden sesler, helâldir. Yetimane hüzünleri, nefsani şehevatı tahrik eden sesler, haramdır. şeriatın tayin etmediği kısım ise, senin ruhuna, vicdanına yaptığı te'sire göre hüküm alır. î.î.)(O yabani edebin verdiği bir şevk'le nefis düşer heyecana, heves olur münbasit; ruha ferah veremez.Kur'an'ın şevki ise: Ruh düşer heyecana, şevk-i meâli verir. îşte bu sırra binâen, şeriat-ı Ahmediye (A.S.M.) lehviyatı istemez.Bâzı âlât-ı lehvi tahrim edip, bir kısmı helâl diye izin verip, demek hüzn-ü Kur'ani veya şevk-i Tenzili veren âlet, zarar vermez...Eğer hüzn-ü yetimi veya şevk-i nefsani verse, âlet haramdır. Değişir eşhasa göre; herkes birbirine benzemez. S.)(Bir zaman gelecektir ki, ümmetimden muhakkak bir takım zümreler türeyecektir. Bunlar zina etmeyi, ipekli elbiseler giymeyi, şarap içmeyi, defler, dümbelekler ile eğlenmeyi helâl ve mübah sayarlar. Bunlardan bir takım merhametsiz ve hodgâm zümreler de dağ mesirelerine yanlanacaklar. Bunun üzerine Allah, sevip eğlendikleri dağı, üzerlerine indirerek bir kısmını helâk edecek, sağ kalan öbürlerini de kıyâmet gününe kadar maymun ve domuz suretlerine tebdil edecek. S.B.M.) (Hadis no: 1892 Tercümesinden)( $ Ey dağlar, dedik: Onunla beraber te'vib, yani terci' yapın; ötün, çınlayın. $ Siz de ey kuşlar!Yâni Davud'a öyle güzel bir ses, öyle şanlı bir edâ verilmişti ki, akşam sabah tesbih ettikçe onun sesine bütün dağlar ve kuşlar iştirâk eder, çınlar öterlerdi. Demek ki güzel sesle hüsn-i elhan Davud'un bir fazilet-i mahsusası, kuşları dahi başına toplıyan bir mu'cizesi olmuştur. Bu mâna iledir ki, savt-ı Davudi meşhur olduğu gibi, mezamir-i Davud da meşhurdur. Bu güzel sanatı, îslâmda suret-i mutlakada mezmum zannedenler olmuştur. Fakat bilmek lâzım gelir ki, mezmum olan luhun-u fısktır. Yoksa Kur'an okurken tertil ve tahsin-i savt, me'murun bihtir. Bu babda kütüb-ü sıhahda hayli hadisler vardır. Birçokları musikinin te'sirini ruhani zannederler. Böyle bir zan, ruhu hava zannetmektir. Ses, bir hava ihtizazı olduğu için, musikinin doğrudan doğruya verdiği te'sir ve heyecan, bir buse zevki gibi cismani ve asabi bir te'sirdir. Taganni, ancak bir kelimenin, bir kelâmın mânasını ruha duyurmağa hizmet etmesi itibariyledir ki, ruhani bir kıymet alabilir. Ehl-i fısk, hep şehevâni mevzularla cismâni heyecan aradığı için mânayı öldürerek sâde asaba basan kuru nağmelerle cismani te'sir arar. Bu ise ruhani şuuru terbiye değil, ifnâ eder. Belki fâsık için bütün şuurundan geçip mest-i lâyakıl olmak bir zevktir. Fakat dinin, şer'in vermek istediği zevk bu değil, güzel manâlı, mukaddes şuurlu bir hayat yaşatmaktır. E.T.)
+musîkî: Müzik. Ses ölçülerinden, ölçülü ses ve san'atkârlığından bahseden ilim.(Ve keza, kelimesiyle, küfür sebebiyle kulağa ait pek büyük bir nimeti kaybettiklerine işaret edilmiştir. Hatta kulaktaki zar, nur-u iman ile ışıklandığı zaman, kâinattan gelen mânevi nidaları işitir. Lisan-ı hal ile yapılan zikirleri, tesbihatları fehmeder. Hatta o nur-u iman sayesinde rüzgârların terennümatını, bulutların nâralarını, denizlerin dalgalarının nağamatını ve hâkeza. Yağmur, kuş ve saire gibi her nevi'den Rabbâni kelâmları ve ulvi tesbihatı işitir. Sanki kâinat, îlâhi bir musiki dairesidir. Türlü türlü avazlarla, çeşit çeşit terennümatla kalblere hüzünleri ve Rabbâni aşkları intıba' ettirmekle kalbleri, ruhları nurani âlemlere götürür, pek garip misali levhaları göstermekle, o ruhları ve kalbleri lezzetlere, zevklere garkeder. Fakat o kulak, küfür ile tıkandığı zaman, o leziz, mânevi, yüksek savtlardan mahrum kalır. Ve o lezzetleri iras eden avazlar, mâtem seslerine inkılâb eder. Kalbde, o ulvi hüzünler yerine, ahbabın fıkdaniyle ebedi yetimlikler, mâlikin ademiyle nihayetsiz vahşetler ve sonsuz gurbetler hasıl olur.Bu sırra binaendir ki, şeriatça bazı savtlar helâl, bazıları da haram kılınmıştır. Evet! Ulvi hüzünleri, Rabbâni aşkları iras eden sesler, helâldir. Yetimane hüzünleri, nefsani şehevatı tahrik eden sesler, haramdır. şeriatın tayin etmediği kısım ise, senin ruhuna, vicdanına yaptığı te'sire göre hüküm alır. î.î.)(O yabani edebin verdiği bir şevk'le nefis düşer heyecana, heves olur münbasit; ruha ferah veremez.Kur'an'ın şevki ise: Ruh düşer heyecana, şevk-i meâli verir. îşte bu sırra binâen, şeriat-ı Ahmediye (A.S.M.) lehviyatı istemez.Bâzı âlât-ı lehvi tahrim edip, bir kısmı helâl diye izin verip, demek hüzn-ü Kur'ani veya şevk-i Tenzili veren âlet, zarar vermez...Eğer hüzn-ü yetimi veya şevk-i nefsani verse, âlet haramdır. Değişir eşhasa göre; herkes birbirine benzemez. S.)(Bir zaman gelecektir ki, ümmetimden muhakkak bir takım zümreler türeyecektir. Bunlar zina etmeyi, ipekli elbiseler giymeyi, şarap içmeyi, defler, dümbelekler ile eğlenmeyi helâl ve mübah sayarlar. Bunlardan bir takım merhametsiz ve hodgâm zümreler de dağ mesirelerine yanlanacaklar. Bunun üzerine Allah, sevip eğlendikleri dağı, üzerlerine indirerek bir kısmını helâk edecek, sağ kalan öbürlerini de kıyâmet gününe kadar maymun ve domuz suretlerine tebdil edecek. S.B.M.) (Hadis no: 1892 Tercümesinden)( Ey dağlar, dedik: Onunla beraber te'vib, yani terci' yapın; ötün, çınlayın. Siz de ey kuşlar!Yâni Davud'a öyle güzel bir ses, öyle şanlı bir edâ verilmişti ki, akşam sabah tesbih ettikçe onun sesine bütün dağlar ve kuşlar iştirâk eder, çınlar öterlerdi. Demek ki güzel sesle hüsn-i elhan Davud'un bir fazilet-i mahsusası, kuşları dahi başına toplıyan bir mu'cizesi olmuştur. Bu mâna iledir ki, savt-ı Davudi meşhur olduğu gibi, mezamir-i Davud da meşhurdur. Bu güzel sanatı, îslâmda suret-i mutlakada mezmum zannedenler olmuştur. Fakat bilmek lâzım gelir ki, mezmum olan luhun-u fısktır. Yoksa Kur'an okurken tertil ve tahsin-i savt, me'murun bihtir. Bu babda kütüb-ü sıhahda hayli hadisler vardır. Birçokları musikinin te'sirini ruhani zannederler. Böyle bir zan, ruhu hava zannetmektir. Ses, bir hava ihtizazı olduğu için, musikinin doğrudan doğruya verdiği te'sir ve heyecan, bir buse zevki gibi cismani ve asabi bir te'sirdir. Taganni, ancak bir kelimenin, bir kelâmın mânasını ruha duyurmağa hizmet etmesi itibariyledir ki, ruhani bir kıymet alabilir. Ehl-i fısk, hep şehevâni mevzularla cismâni heyecan aradığı için mânayı öldürerek sâde asaba basan kuru nağmelerle cismani te'sir arar. Bu ise ruhani şuuru terbiye değil, ifnâ eder. Belki fâsık için bütün şuurundan geçip mest-i lâyakıl olmak bir zevktir. Fakat dinin, şer'in vermek istediği zevk bu değil, güzel manâlı, mukaddes şuurlu bir hayat yaşatmaktır. E.T.)
 musîkîşînas: Musikici, müzikçi.
 musîl: (Vusul. dan) Yetiştiren, ulaştıran, vardıran.
 musîle: Müderrislikte ikinci yüksek derece.
@@ -6036,7 +6036,7 @@ mustazî: (Ziya. dan) Ziya alan, ışıklanan.
 mustazîll: (Zıll. dan) Gölgelenen, gölgede oturan. * Birinin koruyuculuğu ve himâyesi altında bulunan.
 mustazref: Nükte, zariflik. * Muhit. Hâvi.
 musu': Davarın sütü çekilip gitmek.
-muş : Fare.
+muş : Fare.
 muş-gîr: "Sıçan tutan" çaylak kuşu.
 muşa: îki renk üzere dokunmuş elbise.
 muşamma': (şem'. den) Muşamba.
@@ -6125,13 +6125,13 @@ mutasannîîn: (Mutasanni'. C.) Tasannu' edenler. Kendilerini güzel ve süslü 
 mutasarrif: Tasarruf hakkı ve salâhiyyeti olan. Tasarruf eden. Bir işi kendi isteğine göre idâre eden. Bir malın sahibi. * Eskiden, vilâyetten küçük olan Sancağın en büyük idâre âmiri.
 mutasarrifîyet: Tasarruf etme hakkı. Mutasarrıflık. * Mutasarrıfın vazifesi.
 mutasarrim: (C.: Mutasarrımin) Kahramanlık ve yiğitlik gösteren.
-mutasavver : Tasavvur edilmiş. îlerde yapılması düşünülmüş. * Tasvir edilen. Hatırdan geçen. * Kabil, akıl kabul eder, akıl alır.
-mutasavvif : Tasavvufla uğraşan. îlâhiyyatla uğraşan, tarikat ehli olan. (Bak: Tarikat)
+mutasavver : Tasavvur edilmiş. îlerde yapılması düşünülmüş. * Tasvir edilen. Hatırdan geçen. * Kabil, akıl kabul eder, akıl alır.
+mutasavvif : Tasavvufla uğraşan. îlâhiyyatla uğraşan, tarikat ehli olan. (Bak: Tarikat)
 mutasavvifâne: Sofuca. Mutasavvıflara yakışır tarzda.
 mutasavvife: Sofular, mutasavvıflar.
-mutasavvifîn : Tasavvufçular. Sofiler.
+mutasavvifîn : Tasavvufçular. Sofiler.
 mutasavvit: Ses çıkaran, seslenen, ses veren.
-mutasavvîr : Tasavvur eden, zihinde suret veren.
+mutasavvîr : Tasavvur eden, zihinde suret veren.
 mutasayyîf: Bir yerde yazlıyan.. Yaz mevsimini geçiren.
 mu'tasim: Günahtan çekinen. * Eliyle tutan. * Yapışan.
 mutatabbîb: (Tıbb. dan) Yalandan hekim. Doktorluk taslıyan.
@@ -6285,7 +6285,7 @@ muvahhad(e): (Vahdet. den) Bir ve tek hâle konmuş.
 muvahhîd: Allah'ın birliğine inanan. Tevhid eden. * Birleştirici olan.
 muvahhîdâne: Muvahhide yakışır surette.
 muvahhîdûn (muvahhîdîn): Muvahhidler. Bir Allah'a inanıp, birliğe çalışanlar. Birleyici olanlar.
-muvahhîş : Vahşet veren. Vahşileştiren. Korkutan. Korkutup ürküten.
+muvahhîş : Vahşet veren. Vahşileştiren. Korkutan. Korkutup ürküten.
 muvakaa: Düşmek, sukut.
 muvakebe: Bir işe sebat ve gayret gösterme.
 muvakere: Tarladan çıkan mahsulden bir kısmını almak şartıyla birlikte ekme.
@@ -6305,7 +6305,7 @@ muvaredat: (Muvârede. C.) (Vürud. dan) Gelen şeyler. * Aklı gelen şeyler. �
 muvarede: (C: Muvâredât) (Vürud. dan) Girip gelme. * îki şâirin, birbirlerinden habersiz olarak, tesâdüfen aynı beyitleri söylemeleri.
 muvarese: (Mirâs. dan) Birbirinden miras yeme.
 muvasaka: Birbirine söz verip anlaşma.
-muvasala : Vâsıl olmak. Erişmek. Ulaşmak.
+muvasala : Vâsıl olmak. Erişmek. Ulaşmak.
 muvasat: Yardım, dostluk, muavenet, iyilik. * ölen bir memurun ailesine maaş bağlama.
 muvasebe: Birbirinin üstüne atlama, zıplama, sıçrama.
 muvassa: Tavsiye olunan.
@@ -6606,7 +6606,7 @@ mücec: Eğik ve dönük.
 mücedda': Burnu ve kulağı kesilmiş.* Başı yanmış olan ot.
 mücedded: Kullanılmamış. Yeni. Yenilenmiş.
 müceddeden: Yeni baştan. Yeni ve mücedded olarak.
-müceddîd: Yenileyen. Yenileyici. Hadis-i sahihle bildirilen, her yüz yıl başında dini hakikatleri devrin ihtiyacına göre ders vermek üzere gönderilen büyük âlim ve Peygamberin (A.S.M.) vârisi olan zât.(Ashab-ı Kütüb-ü Sitte'den îmam-ı Hâkim Müstedrek'inde ve Ebu Dâvud Kitab-ı Sünen'inde, Beyhaki şuab-ı îman'da tahriç buyurdukları: $Yâni: "Her yüz senede Cenab-ı Hak bir müceddid-i din gönderiyor." S.T.)(Her asır başında hadisçe geleceği tebşir edilen dinin yüksek hâdimleri; emr-i dinde mübtedi' değil, müttebi'dirler. Yâni, kendilerinden ve yeniden bir şey ihdas etmezler, yeni ahkâm getirmezler. Esasat ve ahkâm-ı diniyeye ve sünen-i Muhammediyeye (A.S.M.) harfiyen ittiba' yoliyle dini takvim ve tahkim ve dinin hakikat ve asliyetini izhar ve ona karıştırılmak istenilen ebatılı ref' u ibtal ve dine vâki tecavüzleri red ve imha ve evamir-i Rabbaniyeyi ikame ve ahkâm-ı îlâhiyenin şerafet ve ulviyetini izhar ve ilân ederler. Ancak tavr-ı esasiyi bozmadan ve ruh-u asliyi rencide etmeden yeni izah tarzlariyle, zamanın fehmine uygun yeni iknâ usulleriyle ve yeni tevcihat ve tafsilât ile ifa-i vazife ederler. ş.)
+müceddîd: Yenileyen. Yenileyici. Hadis-i sahihle bildirilen, her yüz yıl başında dini hakikatleri devrin ihtiyacına göre ders vermek üzere gönderilen büyük âlim ve Peygamberin (A.S.M.) vârisi olan zât.(Ashab-ı Kütüb-ü Sitte'den îmam-ı Hâkim Müstedrek'inde ve Ebu Dâvud Kitab-ı Sünen'inde, Beyhaki şuab-ı îman'da tahriç buyurdukları:Yâni: "Her yüz senede Cenab-ı Hak bir müceddid-i din gönderiyor." S.T.)(Her asır başında hadisçe geleceği tebşir edilen dinin yüksek hâdimleri; emr-i dinde mübtedi' değil, müttebi'dirler. Yâni, kendilerinden ve yeniden bir şey ihdas etmezler, yeni ahkâm getirmezler. Esasat ve ahkâm-ı diniyeye ve sünen-i Muhammediyeye (A.S.M.) harfiyen ittiba' yoliyle dini takvim ve tahkim ve dinin hakikat ve asliyetini izhar ve ona karıştırılmak istenilen ebatılı ref' u ibtal ve dine vâki tecavüzleri red ve imha ve evamir-i Rabbaniyeyi ikame ve ahkâm-ı îlâhiyenin şerafet ve ulviyetini izhar ve ilân ederler. Ancak tavr-ı esasiyi bozmadan ve ruh-u asliyi rencide etmeden yeni izah tarzlariyle, zamanın fehmine uygun yeni iknâ usulleriyle ve yeni tevcihat ve tafsilât ile ifa-i vazife ederler. ş.)
 müceddîd-î elf-î sânî: "îkinci bin senesinin müceddidi" demek olan bu tabir, îmam-ı Rabbani Ahmed-i Faruki Hazretlerinin nâmıdır. (Bak: Ahmed-i Faruki)
 müceddîdane: Müceddide yakışır surette. Yenilik yapana yakışır şekilde.
 müceddîdîn: (Müceddid. C.) Müceddidler. Yenilik yapanlar.
@@ -7136,14 +7136,14 @@ mühud: (Mehd. C.) Beşikler.
 mühur: (Mehr. C.) Evlenirken erkek tarafından verilen nikâh bedelleri.
 mühüd: (Mihâd. C.) Döşekler, yataklar.
 müj: Kirpik.
-müjde ©: Beşâret. Sevinç haberi.
+müjde : Beşâret. Sevinç haberi.
 müjde-âver: Müjde getiren.
 müjde-gân: Müjdeye karşılık verilen bahşiş veya hediye.
 müjde-res: Müjde veren, müjde getiren.
 müjde-resan: Müjdeleyen, müjde getiren, müjde veren.
 müje: (C.: Müjgân) Kirpik. 
 müjek: Kirpikçik. Kirpik kılı.
-müjgan ©: Kirpik.
+müjgan : Kirpik.
 müka': Islık. Islık çalmak.
 müka'ab: Geo: Mikâp, küp.
 mükaame: öpmek.
@@ -7517,7 +7517,7 @@ mümtenî-üt tahsîl: Tahsili, elde edilmesi mümkün olmayan.
 mümter: şüpheci, şüphe eden.
 mümtesîl: îmtisal eden, aldığı emre uyan.
 mümtezîc: îmtizac eden. Birleşmiş olan, birleşik. * Birbirine tamamen uygun olarak karışmış olan. * Aralık bırakmayan, birbirine karışık, tamamen kapanan. * Birbiriyle iyi geçinen.
-mümtezîcen : Karışmış olarak. Birbirine tamamen uyar bir hâlde.
+mümtezîcen : Karışmış olarak. Birbirine tamamen uyar bir hâlde.
 mümtir: Yağdıran, imtâr eden.
 mümza: (Mazâ. dan) îmzâ edilmiş, imzâlı.
 mümzî: (Mazâ. dan) îmzâ sahibi, imzâ eden.
@@ -7720,7 +7720,7 @@ müngazz: Zindeliği kalmamış.
 müngazzen: Zindeliği kalmamış olarak.
 münha: Bildirilmiş, tebliğ edilmiş.
 münhadar: înecek yer.
-münhadî': (Had'. dan) Birinin hilesine aldanmış olan. * Bir kimsenin hile $ve tuzağına düşme.
+münhadî': (Had'. dan) Birinin hilesine aldanmış olan. * Bir kimsenin hileve tuzağına düşme.
 münhadîb: (Hadeb. den) Kamburlaşmış, eğri.
 münhadîr: înişli, eğik. * Yokuşaşağı inen.
 münhafiz: înhifaz eden, alçalan. * Kesre harekesiyle harekelenmiş harf.
@@ -7738,7 +7738,7 @@ münharîf-ül mîzac: Rahatsız, keyifsiz.
 münharît: (înhirat. dan) Bir yola süluk eden.
 münhasir: (Hasr. dan) Belli bir sınır içinde olup harice tecavüz etmeyen, inhisar eden, her yanı çevrili. * Yalnız bir kimseye veya bir şeye mahsus olan.
 münhasiran : Sadece, sâde. * Bir işe veya bir şeye âit olarak.
-münhasîf: (Husuf. dan) înhisaf eden, sönükleşen, daha mükemmel bir $şeyin yanında sönük kalan. Değersiz. Gölgelenmiş.
+münhasîf: (Husuf. dan) înhisaf eden, sönükleşen, daha mükemmel birşeyin yanında sönük kalan. Değersiz. Gölgelenmiş.
 münhaşî': Kibiri kırılma.
 münhatt: Aşağı inen, inhitât eden. Alçak. çukur.
 münhazîm: (Hazm. dan) Sinen, hazmolunan.
@@ -7879,8 +7879,8 @@ münye: Arzu edilen, istenilen şey. Maksad. Temenni olunan.
 münzecîr: Yasak edilmiş, men edilmiş, yapılmaması emredilmiş, alıkonulmuş, mâni olunmuş.
 münzel(e): (Nüzul. den) îndirilmiş, yukardan aşağıya kısım kısım inmiş olan.
 münzelîk: Kaygan, kaypak.
-münzevî : Yalnız başına çekilip kimse ile görüşmeyen, çekilip tek başına bir tarafta duran. * Yalnızlık içinde ibadet eden.
-münzevîyâne : înzivaya çekilircesine, tek başına kalır gibi.
+münzevî : Yalnız başına çekilip kimse ile görüşmeyen, çekilip tek başına bir tarafta duran. * Yalnızlık içinde ibadet eden.
+münzevîyâne : înzivaya çekilircesine, tek başına kalır gibi.
 münzîl: înzal eden, aşağı indiren. Bir şeyi indiren.
 münzîr: (Nezir. den) Olacak bir şeyi haber vererek korkutan, akibetin kötülüğünü bildiren. * Kâfir ve münafıkların Cehennem'e gideceğini haber veren.
 münzîrât: Haber verip kötülüğünü söyleyerek korkutanlar.
@@ -8666,7 +8666,7 @@ müste'sal: (îstisal. dan) Kökünden koparılmış. * Ele geçirilmiş.
 müsteshîl: Kolay sayan.
 müsteshîlâne: Kolay sayarcasına.
 müsteshîr: Alay eden.
-müste'sîl: (îstisal. dan) Kökünden koparan. * Ele geçiren. MüSTES'îD $: (Sa'd. dan) Uğurlu sayan.
+müste'sîl: (îstisal. dan) Kökünden koparan. * Ele geçiren. MüSTES'îD: (Sa'd. dan) Uğurlu sayan.
 müstesînn: (Sinn. den) îhtiyarlanan, yaşlanan.
 müsteskal: (Sıklet. den) îstiskal edilen. Soğuk muamelede bulunulan. Kendisine kovarcasına muamele yapılan.
 müsteskil: (Sıklet. den) îstiskal eden. Birine karşı kovarcasına muamelede bulunan.
@@ -8823,11 +8823,11 @@ müşerrîh: (C.: Müşerrihin) (şerh. den) Açıklayan, şerheden. * Teşrih y
 müşetta: Kış evi.
 müşevveh: şekil ve kıyafeti çirkin. Bed-endâm kimse. 
 müşevvek: (şevk. den) Dikenli. Diken şeklinde sivri olan.
-müşevveş : Karmakarışık, anlaşılmaz, düzensiz.
-müşevveşîyet : Karışıklık, karmakarışık vaziyet.
+müşevveş : Karmakarışık, anlaşılmaz, düzensiz.
+müşevveşîyet : Karışıklık, karmakarışık vaziyet.
 müşevvîk: îsteğini arttıran. Gayrete getiren, şevk veren, teşvik eden.
 müşevvîkane: şevk vermek suretiyle, teşvik ederek, sevdirerek.
-müşevvîş : Karıştıran, anlaşılmaz ve içinden çıkılmaz hâle koyan.
+müşevvîş : Karıştıran, anlaşılmaz ve içinden çıkılmaz hâle koyan.
 müşeyyea: Bir şeyin ardından bağırıp çağıran kadın. * Koyun sürüsünün ardına uyan koyun.
 müşeyyed: Yüksek ve sağlam, metin yapılı, muhkem.
 müşeyyîd: Sağlam, yüksek yapı yapan.
@@ -9037,7 +9037,7 @@ müteazzîbâne: Bekâr kalana evlenmeyene yakışır surette.
 müteazzîbîn: (Müteazzib. C.) Evlenmeyenler, bekâr kimseler.
 müteazzîl: (Azl. den) Azledilip işinden çıkarılmış.
 müteazzîr: Meydana gelmesi zor olan. * özürlü olan.
-müteazzîz : Taazzüz eden, izzet, kuvvet, kudret kazanan.
+müteazzîz : Taazzüz eden, izzet, kuvvet, kudret kazanan.
 mütebadîl: (Bedel. den) Birbirinin yerine geçen, tebâdül eden. * Nöbetle değişen.
 mütebadîr(e): Birden bire akla gelen. Ortaya çıkan.
 mütebaggiz: Kin gösteren, buğz gösteren.
@@ -9433,8 +9433,8 @@ müteheyyîcâne: Coşkunlukla, heyecana gelerek.
 mütehezzîc: (C.: Mütehezzicin) Makamla şarkı söyliyen. Terennüm eden.
 mütehezzîcâne: Makamla şarkı söylercesine.
 mütehezzîcîn: (Mütehezzic. C.) Makamla şarkı söyliyenler.
-mütehezzîz : îhtizaz eden, titreyen.
-mütehezzîzâne : Titreyerek, titremek suretiyle. 
+mütehezzîz : îhtizaz eden, titreyen.
+mütehezzîzâne : Titreyerek, titremek suretiyle.
 mütekabbiz: (Kabz. dan) Toplanıp çekilen. *Asık suratlı, asık, çehreli. * Buruşup kasılan adale.
 mütekabbîl: (Kabul. den) Kabul eden, üstüne alan.
 mütekabîl: Karşılıklı, bir diğerinin karşısında.
@@ -9761,7 +9761,7 @@ mütenezzîhâne: Tenezzüh edercesine, gezip eğlenircesine. Mütenezzihcesine.
 mütenezzîhât: (Mütenezzih. C.) Gezintiye, tenezzüh etmeğe çıkanlar. * Tenezzüh edip düşünenler. * Temize çıkanlar.
 mütenezzîhîn: (Mütenezzih. C.) Gezintiye çıkanlar, tenezzühe çıkanlar.
 mütenezzîl: (Nüzul. den) Tenezzül eden, aşağı inen. Alçak gönüllülük eden.
-mütenezzîlen : Alçak gönüllülük ederek, tevâzu göstererek.
+mütenezzîlen : Alçak gönüllülük ederek, tevâzu göstererek.
 müterabbis: Bekleyen.
 müterabbî': Bağdaş kurup rahatça oturmuş.
 müteradîf: Birbirine bağlı, tâbi olan. Birbirinin ardınca giden. * Gr: Yazılışı ayrı, fakat mânası aynı olan kelime.
@@ -9903,7 +9903,7 @@ müteseyyîbâne: Kayıtsız davranarak, aldırış etmiyerek, duymazdan gelerek
 müteseyyîbîn: (Müteseyyib. C.) Aldırış etmeyenler, kayıtsız davranan kimseler.
 müteseyyîd: Seyyidlik isnad eden, seyyid olmadığı halde kendini seyyid gibi gösteren.
 müteşa'ab: şube ve kısımlara ayrılmış olan.
-müteşabîhât: Müteşabih olan âyetler. * Birbirine benzer olanlar.(Kur'an-ı Mu'ciz-il Beyan, çok hakaik-i gamızayı nazar-ı umumiyi okşayacak, hiss-i âmmeyi rencide etmeyecek, fikr-i avamı taciz edip yormayacak bir surette basitane ve zâhirane söylüyor, ders veriyor. Nasıl bir çocukla konuşulsa, çocukça tabirat istimal edilir. öyle de: (Tenezzülâtün îlâhiyyetün ilâ ukul-il beşer) denilen mütekellim üslubunda muhatabın derecesine sözüyle nüzul edip öyle konuşan esalib-i Kur'aniye; en mütebahhir hükemanın fikirleriyle yetişemediği hakaik-ı gamıza-yı îlâhiye ve esrar-ı Rabbaniyeyi müteşabihat suretinde bir kısım teşbihat ve temsilat ile en ümmi bir âmiye ifham eder. S.)(Kur'an-ı Kerim'de müteşebihat vardır dedikleri birinci şüphelerine cevab: Evet Kur'an-ı Kerim umumi bir muallim ve bir mürşiddir. Halka-i dersinde oturan, nev'-i beşerdir. Nev'-i beşerin ekserisi avâmdır. Mürşidin nazarında ekall, eksere tâbidir. Yani, umumi irşadını ekallin hatırı için tahsis edemez. Maahaza avâma yapılan konuşmalardan havas hisselerini alırlar; aksi halde avâm, yüksek konuşmaları anlayamadığından mahrum kalır. Ve keza avâm-ı nâs, ülfet ettikleri üslublardan ve ifadelerin çeşidlerinden ve daima hayallerinde bulunan elfaz, maâni ve ibarelerden fikirlerini ayıramadıklarından, çıplak hakikatları ve akliyyatı fehmedemezler. Ancak o yüksek hakaikin, onların ülfet ettikleri ifadelerle anlatılması lâzımdır. Fakat Kur'anın böyle ifadelerinin hakikat olduğuna itikad etmemelidirler ki; cismiyet ve cihetiyet gibi muhal şeylere zâhib olmasınlar. Ancak o gibi ifadelere, hakaika geçmek için bir vesile nazariyle bakılmalıdır. Meselâ; Cenab-ı Hakk'ın kâinatta olan tasarrufunun keyfiyeti, ancak bir sultanın taht-ı saltanatında yaptığı tasarrufla tasvir edilebilir. Buna binaendir ki; $ âyetinde kinaye tariki ihtiyar edilmiştir. î.î.)
+müteşabîhât: Müteşabih olan âyetler. * Birbirine benzer olanlar.(Kur'an-ı Mu'ciz-il Beyan, çok hakaik-i gamızayı nazar-ı umumiyi okşayacak, hiss-i âmmeyi rencide etmeyecek, fikr-i avamı taciz edip yormayacak bir surette basitane ve zâhirane söylüyor, ders veriyor. Nasıl bir çocukla konuşulsa, çocukça tabirat istimal edilir. öyle de: (Tenezzülâtün îlâhiyyetün ilâ ukul-il beşer) denilen mütekellim üslubunda muhatabın derecesine sözüyle nüzul edip öyle konuşan esalib-i Kur'aniye; en mütebahhir hükemanın fikirleriyle yetişemediği hakaik-ı gamıza-yı îlâhiye ve esrar-ı Rabbaniyeyi müteşabihat suretinde bir kısım teşbihat ve temsilat ile en ümmi bir âmiye ifham eder. S.)(Kur'an-ı Kerim'de müteşebihat vardır dedikleri birinci şüphelerine cevab: Evet Kur'an-ı Kerim umumi bir muallim ve bir mürşiddir. Halka-i dersinde oturan, nev'-i beşerdir. Nev'-i beşerin ekserisi avâmdır. Mürşidin nazarında ekall, eksere tâbidir. Yani, umumi irşadını ekallin hatırı için tahsis edemez. Maahaza avâma yapılan konuşmalardan havas hisselerini alırlar; aksi halde avâm, yüksek konuşmaları anlayamadığından mahrum kalır. Ve keza avâm-ı nâs, ülfet ettikleri üslublardan ve ifadelerin çeşidlerinden ve daima hayallerinde bulunan elfaz, maâni ve ibarelerden fikirlerini ayıramadıklarından, çıplak hakikatları ve akliyyatı fehmedemezler. Ancak o yüksek hakaikin, onların ülfet ettikleri ifadelerle anlatılması lâzımdır. Fakat Kur'anın böyle ifadelerinin hakikat olduğuna itikad etmemelidirler ki; cismiyet ve cihetiyet gibi muhal şeylere zâhib olmasınlar. Ancak o gibi ifadelere, hakaika geçmek için bir vesile nazariyle bakılmalıdır. Meselâ; Cenab-ı Hakk'ın kâinatta olan tasarrufunun keyfiyeti, ancak bir sultanın taht-ı saltanatında yaptığı tasarrufla tasvir edilebilir. Buna binaendir ki; âyetinde kinaye tariki ihtiyar edilmiştir. î.î.)
 müteşabîhât-i kur'anîye: Beşer lisanının, lügatını vaz etmediği, sezip düşünemediği, misalini göremediği hakikatların teşbih ve temsiller ile anlatıldığı âyet-i kerimeler.
 müteşabîh(e): Birbirine benzeyenler. * Fık: Mânası açık olmayan âyet ve hadis. Kur'an-ı Kerim'in ve hadislerin mecazi mânalara gelen ifadeleri. "Muhkem" olmayan âyet veya hadis. * Zâhiri mânası kastedilmeyen ve teşbih ve temsil yoluyla hakikatlerin beyanında kullanılan ifade.
 müteşabîk(e): Beraber ve karışık olanlar, birbirine karışanlar. Birbirine karışmış ve girmiş vaziyette olan. Girift.
@@ -9988,8 +9988,8 @@ mütevafik: Birbirine uygun olan, tevafuk eden.
 mütevafîr(e): (Vüfur. dan) çoğalan, bollanan, fazlalaşan.
 mütevaggîl: Bir şeyin çok derinliğine giren, meşguliyetini derinleştiren. Usanmayıp, yorulmayıp gayret ve devam eden.
 mütevaggîlîn: (Mütevaggil. C.) çok uğraşanlar, fazla meşgul olanlar. Bir şeyin derinliğine varanlar.
-mütevahhîş : Tevahhuş eden, ürken, korkan, yadırgayan.
-mütevahhîşâne : Korkarak, ürkerek, tevahhuş ederek.
+mütevahhîş : Tevahhuş eden, ürken, korkan, yadırgayan.
+mütevahhîşâne : Korkarak, ürkerek, tevahhuş ederek.
 mütevaîd: Birbirine söz veren. Sözleşen.
 mütevaîdîn: (Mütevâid. C.) Sözleşenler, vaidleşenler, birbirlerine söz verenler.
 müteva'îr: Hakir, zelil. Nefret edip kimse yanına gelmeyen.
@@ -10016,14 +10016,14 @@ mütevatî: Birbirine benzeyen.
 mütevatîr: çok kimselerin naklettikleri haber. Yaygın haber. Herkesin veya alâkadarların işitip doğruluğunu kabul ettikleri kat'i, şüphesiz, sağlam haber. Yalan üzerine birleşmeleri aklen mümkün olmayan bir cemaatın bir hâdise hakkında verdikleri haber. (Bak: Tevatür)
 mütevatîr-î bîlmânâ: Nakledilen bir haberin başka ifade ve kelimelerle, başka başka şekilde ifade edilerek tevatür hâle gelmesi. Mânaların çok insanlarca başka başka kelimelerle nakledilmesi. Bir haberin veya hâdisenin farklı ifadelerle, başka başka şahıs veya topluluklar tarafından nakledilmiş olması.
 mütevatîrat: Mütevatir olanlar. çoklarının bildiği ve duyduğu haberler, hususlar. * Man: Kizb üzerine ittifakları aklen muhal olan bir topluluk tarafından verilen haberle hüküm ve tasdik olunan kaziyeler.
-mütevatîren : Mütevatir olarak, tevatürle naklolunmak suretiyle.
+mütevatîren : Mütevatir olarak, tevatürle naklolunmak suretiyle.
 mütevattin: Bir yeri vatan edinmiş, tavattun etmiş, yurt tutmuş.
 mütevazî: (Vezy. den) Birbirine müvazi olan. Paralel.
 mütevazî': Gururlu olmayan, alçak gönüllü, kendi fakrını bilen. * Gösterişsiz.
 mütevazîâne: Tevazu ile. Mütevazi kimseye yakışır surette.
 mütevazîîn: (Mütevazi. C.) Alçakgönüllü kimseler, mütevazi insanlar, tevazu ehli olan kişiler.
 mütevazîn: Tevazün eden, tartıları bir olan.
-mütevazîyen : Müvazi olarak. Paralel olarak.
+mütevazîyen : Müvazi olarak. Paralel olarak.
 mütevazzih: (Vüzuh. dan) Açıklanan, tevazzuh eden, açıklık peyda eden.
 mütevazzî: Abdest alan, abdestli.
 müteveccî': Dertli, sıkıntılı. * Ağrı duyan.
@@ -10031,7 +10031,7 @@ müteveccîâne: Sıkıntı ile. Dertli olarak. * Ağrı duyarak.
 müteveccîd: Kendinden geçecek derecede dalgınlık gösteren, vecde gelen.
 müteveccîh: Yönelmiş, dönmüş. Bir yere doğru yola çıkan. * Birisine karşı iyi düşünce ve sevgisi olmak. îhsan ve iltifat üzere olmak. * Pir-i fâni olmak.
 müteveccîhâne: Bir yana dönerek, teveccüh edip yönelerek.
-müteveccîhen : Yönelmiş olarak, yüz tutarak. * Niyetlenerek.
+müteveccîhen : Yönelmiş olarak, yüz tutarak. * Niyetlenerek.
 müteveccîhîn: (Müteveccih. C.) Bir yana dönenler. Teveccüh edip yönelen kimseler.
 müteveddîd: Sevgi ve muhabbet gösteren. Kendini sevdiren.
 müteveffa: ölü, vefat etmiş, ölmüş. (Bak: Mevt)
@@ -10062,7 +10062,7 @@ mütevessîden: Yastığa dayanarak.
 mütevessîk: Bir işe sımsıkı sarılan. * Bir işi sebat ve devam üzere tutan.
 mütevessîkane: Bir işe sımsıkı sarılarak. Bir işi sebat ve devam üzere tutarak.
 mütevessîl: (Vesile. den) Tevessül eden, sebep tutan, başvuran, girişen.
-mütevessîlen : Tevessül ederek, başvurarak.
+mütevessîlen : Tevessül ederek, başvurarak.
 mütevessîm: Bir şeyi çözmeğe çalışan. * Nişanlı, alâmetli ve bezenmiş kişi.
 mütevettîr(e): (Vetr. den) Gerilen, gergin olan.
 müteveyyîl: (Veyl. den) çığlık atan, feryad eden, vaveylâ eden.
@@ -10106,7 +10106,7 @@ mütezekkîr: Hatırlayan, tezekkür eden. * Bir işe dair söz söyliyen.
 mütezellîk: Sürçen, kayan.
 mütezellîl: Tezellül eden. Alçalan, zillete katlanan. Kendini zelil gösteren.
 mütezellîlâne: Zelil olarak, alçaklara yakışır surette, alçakçasına. Kendi hiçliğini bilir surette, kusur ve aczini anlamakla.
-mütezelzîl(e) : Sarsılan, sallanan, oynayan, sarsıntıda olan.
+mütezelzîl(e) : Sarsılan, sallanan, oynayan, sarsıntıda olan.
 mütezemmîl: Tezemmül eden. Elbiseye, örtüye bürünen.
 mütezenbîr: Kibirlenen, gururlanan, büyüklenen. Mütekebbir. * Can sıkıcı bir hal ve tavır takınan.
 mütezendîk: Kâfir olan. Zındık olan.
@@ -10213,7 +10213,7 @@ müyesser: (Yüsr. den) Kolaylıkla olan, kolay gelen, âsân olan, nasib.(Küre
 müyesser: Fariside "nevâle" denilen yemek.
 müyessîr: Kolay yapan, teshil eden, kolaylaştıran.
 müyul: Meyiller, yönelmeler.
-müyul-ü müteşa'îbe : çeşitli şubeleri olan meyiller. çeşitli arzular, meyiller.
+müyul-ü müteşa'îbe : çeşitli şubeleri olan meyiller. çeşitli arzular, meyiller.
 müyulat: (Meyl. C.) Meyiller, arzular.
 müyun: Yalanlar, uydurmalar. Yalan söylemeler.
 müz (münzü): Gr: Harf-i cer oldukları zaman (Fi: ) vazifesini görürler. Zarf veya isim olduklarında ismin başına gelirlerse kendileri mübteda, sonra gelen haber olur. Fiilin başına gelirlerse kendilerinden önceki bir fiilin mef'ulünfihi olarak mahallen mensub bulunurlar.
@@ -10257,7 +10257,7 @@ müzdeham: (Zahm. dan) Kalabalık, izdihamlı.
 müzdehîm: (Zahm. dan) Kalabalık, izdihamlı, pek sıkışık.
 müzdehîmgâh: Kalabalık yer.
 müzdelîfe: Mekke'de Arafat ile Mina arasında bulunan mukaddes bir yer.
-müzdevîc : Evlenen. * Edb: Bir kelimeye kafiye olan.
+müzdevîc : Evlenen. * Edb: Bir kelimeye kafiye olan.
 müzdver: ücretle çalışan.
 müzebzeb: Karmakarışık. * Elinden iş gelmez, bir şeye karar veremeyen. Beceriksiz.
 müzebzîb: Karıştıran. Karmakarışık eden.
@@ -10296,9 +10296,9 @@ müzevva: (Zâviye. den) Zâviyeli, köşeli.
 müzevvak: Nakış yapan. Nakkaş.
 müzevveb: Eritilmiş.
 müzevvec: (Zevc. den) çiftleştirilmiş, tezvic edilmiş.
-müzevver : Uydurulmuş, düzme. * Fitne, dedikodu.
+müzevver : Uydurulmuş, düzme. * Fitne, dedikodu.
 müzevvîb: Eriten.
-müzevvîr : Yalancı, dolandırıcı, arabozucu.
+müzevvîr : Yalancı, dolandırıcı, arabozucu.
 müzevvîrâne: Arabozuculukla.
 müzevvîrîn: (Müzevvir. C.) Müzevvirler, arabozucular.
 müzeyyel: (Zeyl. den) Zeyli, ilâvesi olan. * Altına cevabı yazılıp geri gönderilen tezkere. * Eklentisi olan. Ekleme parçası olan.
@@ -10313,7 +10313,7 @@ müzga: Et parçası.
 müzher: Misafir için ateş yakan kimse.
 müzhere: çiçekli yer, çiçek bahçesi. (Bak: Mezhere)
 müzhîr: îzhar edici, gösterici.
-müz'ic: $ (C.: Müzacât) Gece haramisi.
+müz'ic: (C.: Müzacât) Gece haramisi.
 müz'im: Kendisine itikat olunmayan kimse.
 mü'zî: Ezâ veren, eziyet eden.
 müz'îc: îz'ac edici. Usandıran, rahatsız eden, bunaltan.
@@ -10342,4 +10342,4 @@ müzzan: Süslü, bezenmiş.
 müzz(e): Meyhoş, ekşimtrak.
 müzzemmel: Elbise içine sarılmış.
 müzzemmîl: Tezmil eden, sarınan. Elbise içine sarınan. * Bazıları, "Yükü yüklenen" şeklinde mânalandırmışlardır. * Mc: Gizlemek. Zayıf davranmak, işe pek kıymet vermemek. * Büyük bir hâdise karşısında başını içeri çekmek, kaçınmak, rahata meyletmek. * Resul-i Ekrem'e (A.S.M.) Cenab-ı Hak tarafından: "Ey örtüsüne bürünen veya risalet yükünü yüklenmiş olan" diye iltifat edilerek isimlendirilmiştir. (Bak: Mütezemmil, Zemel) 
-müzzemmîl suresî : Kur'an-ı Kerim'in 73. suresi olup Mekkidir.
+müzzemmîl suresî : Kur'an-ı Kerim'in 73. suresi olup Mekkidir.

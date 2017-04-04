@@ -9,7 +9,7 @@ bâ-haberan: (Bâ-haber. C.) Haberliler, haberi olanlar. Akıllı, zeki, ihtiyat
 ba-hem: Birlikte. Beraber. (Arabçadaki "Maa" mânasına)
 bâ-hîred: Akıllı, zeki.
 bâ-î cerre: Arabçada kendinden sonraki kelimeyi "esre" okutan bâ. (Bismillâhi'deki gibi).
-bâ-î kasem: Arabçada yemin maksadı ile kelime başına getirilen bâ. $ "Billâhi" gibi. * Farsçada: Bâ $ diye yazılırsa; ile, beraber, birlikte, sâhip mânalarına gelir. Arapçadaki Zû gibidir.
+bâ-î kasem: Arabçada yemin maksadı ile kelime başına getirilen bâ. "Billâhi" gibi. * Farsçada: Bâ diye yazılırsa; ile, beraber, birlikte, sâhip mânalarına gelir. Arapçadaki Zû gibidir.
 ba-jurnal: Zabıt varakası ile.
 bâ-posta: Posta ederek, posta ile.
 ba-reng: Renkli.
@@ -61,7 +61,7 @@ bâc-i kirtil: Hayvanlardan alınan vergi.
 baceng: Baca. * Ufak pencere. Tepe penceresi.
 ba'd: Zaman zarfıdır ve te'hir ifade eder. * Helâk olmak mânâsına mastardır.
 bâd: Yel. Rüzgâr. Soluk. Nefes.
-bâd: "Olsun, ola, olaydı" mânasına gelir ve kelimelerin sonuna getirilir. Meselâ: Aferin bâd $: Aferin olsun. çok yaşa. Afiyet bâd $: Afiyet olsun.
+bâd: "Olsun, ola, olaydı" mânasına gelir ve kelimelerin sonuna getirilir. Meselâ: Aferin bâd: Aferin olsun. çok yaşa. Afiyet bâd: Afiyet olsun.
 bad': Kesmek. Yarmak. * Suya kanmak.
 bad-ban: Yelken. * Gemi sereni.
 bad-baz: Yelpaze.
@@ -293,7 +293,7 @@ bahtîyarî: Bahtiyarlık, saadetlilik, mutluluk. * îran'da bulunan şöhretli 
 bahur: çok sıcak. çok sıcaklık.
 bahûr: Sıcakta yerden yükselen buhar. * Tütsü. Yakılarak güzel kokular elde edilen ot ve sâir şey.
 bahûrdân: îçinde tütsü yakılan kap.
-bahusus : Hususiyle. En çok. Hele.
+bahusus : Hususiyle. En çok. Hele.
 bahuzûr: Huzur ile. Huzuru ile.
 bahv: Hurmanın yaş olanı.
 bahye: Dikiş, teyel.
@@ -342,7 +342,7 @@ bâkîyâne: Bâki olana yakışır surette. Ebediyyete yakışır şekilde. Son
 bâkîyât: Bakiler. Devam edenler. Geri kalanlar.
 bâkîyât-i sâlîhât: înd-i îlahide ecr-i sâliha. Bâki olan sâlih ameller. * Elhamdülillah, Sübhanallah ve Allahuekber gibi kudsi kelâmlar.
 bakîyye: Artık. Geri kalan. Artan.
-bakîyye-î âsâr "": Eserlere âit geri kalan izler. Eserlerin geri kalanı.
+bakîyye-î âsâr: Eserlere âit geri kalan izler. Eserlerin geri kalanı.
 bakîyyet-üs-süyûf: Kılıçtan kurtulan kimseler. * Mc: Arta kalan kişiler.
 bakka: Sivrisinek. * Tahtabiti.
 bakkal: Sebzevât satıcı.
@@ -373,7 +373,7 @@ bâlâhîmmet: Himmeti fazla olan kimse.
 bâlâkamet: Yüksek boy. * Yüksek şeref.
 balam: Sığır.
 balanîşîn: üstte, yukarıda oturan.
-balapervaz : Yüksekten uçan. * Kendini olduğundan yüksek makamda gösterip gururlanan.
+balapervaz : Yüksekten uçan. * Kendini olduğundan yüksek makamda gösterip gururlanan.
 balapervazane: Yüksekten uçar gibi. * çok yüksek rütbelilere yakışır şekilde.
 balapûş: Palto, pardesü, manto gibi üste giyilen eşya.
 balarev: Yüksekten giden.
@@ -485,7 +485,7 @@ barîk-bîn: înce gören, dikkatle inceleyen, bir şeyi iyice gözden geçiren.
 barîk-nüma: Işıklı. Parlak.
 bârîka: (C: Berâik) üzerine biraz yağ dökülmüş olan süt. * (C.: Bevârık) Parıltı. Parıldayan.
 bârîka-âsâ: şimşek gibi.
-bârîka-î hakîkat "": Hakikatın parıltısı ve parlaklığı. Hakikat nuru.
+bârîka-î hakîkat: Hakikatın parıltısı ve parlaklığı. Hakikat nuru.
 barîkat: Fr. Bir yolu kapamak üzere, ele geçirilen her türlü eşyadan faydalanılarak meydana getirilen engel.
 barîmetre: Fr. Gürültünün şiddetini ölçmeğe yarıyan âlet.
 barîmetrî: Fr. Beden ölçümü yardımıyla hayvanların ağırlığını tayin etme.
@@ -573,7 +573,7 @@ bâşe-î felek: Nesr-i Tâir ve Vâki adı verilen iki yıldız.
 başed: Olur, ola...
 başeng: Tohumluk olmak için saklanan sarı, iri hıyar, salatalık. * Asma üzerindeki üzüm salkımı.
 başgûn: Uğursuz. * Ters, başaşağı.
-başibozuk ": t. Bir harp çıktığında orduya süvari veya piyade olarak katılan gönüllü asker. Başıbozuk tâbiri, gelişigüzel ve intizamsız idare tarzına da alem olmuştur. Bir zamanlar bu tâbir, asker olmayan siviller için de kullanılmıştır.
+başibozuk: t. Bir harp çıktığında orduya süvari veya piyade olarak katılan gönüllü asker. Başıbozuk tâbiri, gelişigüzel ve intizamsız idare tarzına da alem olmuştur. Bir zamanlar bu tâbir, asker olmayan siviller için de kullanılmıştır.
 başîk: (C.: Bevâşık) Atmaca denilen kuş.
 başîr: Müjdeci, müjde veren. * Mutlu, mesut.
 başkent: t. Başşehir. Bir devletin idare merkezi olan şehir. Devlet merkezi. Payitaht.
@@ -612,7 +612,7 @@ batîş: (Batş. dan) Sertlikle, şiddetle hareket eden. Güçlü.
 batîye: Büyük çanak.
 batman: Eski ağırlık ölçülerinden olup, iki okkadan sekiz okkaya kadar yeryer değişir. Ekseriya altı okkadır. Bu, hâlen kullanılan sekiz kilo kadardır.
 batn: îç, karın, insanın içi. Mide. * Soy, nesil. * Birbirlerine hısımlığı pek yakın olmayan küçük kabile.
-batnen ba'de batnîn ù: Nesilden nesile, soydan soya.
+batnen ba'de batnîn: Nesilden nesile, soydan soya.
 batş: şiddetle tutup kapma. Kuvvet. şiddet. * Hastalık geçtikten sonraki zayıflık.
 batt: Kaz. * Kaz şeklinde yapılmış olan sürahi, su kabı.
 battal: Boş. Hükümsüz. * îşsiz. * Metrûk. Kullanılmaz. olan. * Bâtıl. Mensuh ve mefsuh. * Faydasız. * Pek büyük. Hantal.
@@ -682,8 +682,8 @@ ba'zîyet: Bazılarına âit oluş. Herkese âit olmama. Herkesle alâkalı olma
 bazmande: Kafasız, ahmak, kabiliyetsiz. * Durmuş, geri kalmış.
 bazoka: (Bazuka) Tanklara karşı kullanılan bir çeşit silâhtır. Soba borusuna benzer, omuza konarak nişan alınıp ateşlenir.
 bazpes: Tekrar, yeniden. * Geri.
-bâzu : Kolun omuz ile dirsek arasında kalan kısmı, pazu. Adud. * Mc: Güç, kuvvet ve istidat.
-bâzubend : Pazvand. Kola bağlanan duâlı kağıt.
+bâzu : Kolun omuz ile dirsek arasında kalan kısmı, pazu. Adud. * Mc: Güç, kuvvet ve istidat.
+bâzubend : Pazvand. Kola bağlanan duâlı kağıt.
 bâzudîrâz: Kolu uzun olan. * Nüfuzlu, sözü geçer. * Müdahaleci. * Zâlim, zulmeden.
 be: Kelime başına getirilerek, Türkçedeki: "de, da, den, dan, ile, için" mânalarında kullanılır.
 be-câ: Yerinde. Yerine. Uygun. Münâsib.
@@ -787,7 +787,7 @@ bedave(t): çölde oturmak, Bedevilik. (Bak: Bedeviyet)
 bedayî': (Bedi'-Bedia. C.) Yeni ihdâs olunmuş, görülmedik şeyler. Bedi'alar.
 bedayî': (Bidâa. C.) Sermayeler, anamallar.
 bedbaht: Bahtsız, talihsiz, bahtı kara.
-bedbîn: Kötü görüşlü. ümidsiz. Her şeyin fena cihetini görmek isteyen. Bed ve fena görüp, beğenmez, istihsan etmez olan. $ sırriyle $ kaidesinin sırriyle $ gayet kısacık bir meâli: "Sözleri dinleyip en güzeline tâbi olup fenasına bakmayanlar, hidâyet-i îlâhiyeye mazhar akıl sahibi onlardır" meâlinde. Bizler için şimdi herşey'in iyi tarafına ve güzel cihetine ve ferah verecek vechine bakmak lâzımdır ki mânasız, lüzumsuz, zararlı, sıkıntılı, çirkin, geçici hâller nazar-ı dikkatimizi celbedip kalbimizi meşgul etmesin. Sekizinci Söz'de, bir bahçeye iki adam, biri çıkar biri giriyor. Bahtiyarı bahçedeki çiçeklere, güzel şeylere bakar, safa ile istirahat eder. Diğer bedbaht, temizlemek elinden gelmediği hâlde çirkin, pis şeylere hasr-ı nazar eder, midesini bulandırır. îstirahata bedel sıkıntı çeker, çıkar gider. şimdi hayat-ı içtimaiye-i beşeriyenin safhaları hususan Yusufiye Medresesi bir bahçe hükmündedir. Hem çirkin, hem güzel, hem kederli, hem ferahlı şeyler beraber bulunur. âkıl odur ki; ferahlı ve güzel şeylerle meşgul olup çirkin, sıkıntılı şeylere ehemmiyet vermez, şekva ve merak yerinde şükreder, sevinir. ş.)
+bedbîn: Kötü görüşlü. ümidsiz. Her şeyin fena cihetini görmek isteyen. Bed ve fena görüp, beğenmez, istihsan etmez olan. sırriyle kaidesinin sırriyle gayet kısacık bir meâli: "Sözleri dinleyip en güzeline tâbi olup fenasına bakmayanlar, hidâyet-i îlâhiyeye mazhar akıl sahibi onlardır" meâlinde. Bizler için şimdi herşey'in iyi tarafına ve güzel cihetine ve ferah verecek vechine bakmak lâzımdır ki mânasız, lüzumsuz, zararlı, sıkıntılı, çirkin, geçici hâller nazar-ı dikkatimizi celbedip kalbimizi meşgul etmesin. Sekizinci Söz'de, bir bahçeye iki adam, biri çıkar biri giriyor. Bahtiyarı bahçedeki çiçeklere, güzel şeylere bakar, safa ile istirahat eder. Diğer bedbaht, temizlemek elinden gelmediği hâlde çirkin, pis şeylere hasr-ı nazar eder, midesini bulandırır. îstirahata bedel sıkıntı çeker, çıkar gider. şimdi hayat-ı içtimaiye-i beşeriyenin safhaları hususan Yusufiye Medresesi bir bahçe hükmündedir. Hem çirkin, hem güzel, hem kederli, hem ferahlı şeyler beraber bulunur. âkıl odur ki; ferahlı ve güzel şeylerle meşgul olup çirkin, sıkıntılı şeylere ehemmiyet vermez, şekva ve merak yerinde şükreder, sevinir. ş.)
 bedbînâne: Kötümser şekilde. ümitsizce, bedbincesine.
 bedbînî: Bedbinlik, kötümserlik, ümitsizlik, fenâ görürlük.
 bedda': Gövdeli, şişman kadın.
@@ -824,7 +824,7 @@ bedî-î pür-maânî: çok mânâları bulunup bedi' olan. çok mânaların bed
 bedî-ül beyan: îfadesi ve beyanı görülmedik güzellik ve gariplikte olan.
 bedî-üz zaman: (Bak: Bediüzzaman)
 bedîa: Nâdide ve güzel, yeni icad edilmiş şey. Beğenilen ve takdir edilen çok yeni şey.
-bedîa-î hayalîye "": îdeal, ülkü, gaye, mefkûre.
+bedîa-î hayalîye: îdeal, ülkü, gaye, mefkûre.
 bedîd: Büyük sahra, geniş çöl.
 bedîd: Su az az akmak.
 bedîh: şanı, şerefi yüce, yüksek ve büyük olan.
@@ -849,7 +849,7 @@ bedpeyman: Verdiği sözde durmayan. Sözünün eri olmayan. Sözünü tutmayan.
 bedr: (Bedir) Dolunay. Ayın en parlak olduğu hâli. * Mekke-i Mükerreme ile Medine-i Münevvere arasında bir yer ismi. * Bir şeyin tamam olması. * Sibâk ve sür'ât etmek. * Bir işin ansızın zâhir olması.* Tam ve münasib olan âzâ. * Dolu şey. * îyi hizmet eden köle.
 bedr muharebesî: Bedir, Mekke-i Mükerreme ile Medine-i Münevvere arasında bir yer olup; Hz. Peygamber Efendimizin hicretinin ikinci senesi orada Kureyşilere karşı kazandıkları muzafferiyetle meşhurdur. Bedir, bir ovanın kenarında olup Mescid-ül Gamame isminde bir câmi ve Bedir muharebesinde şehid olan sahabelerden 13 zâtın türbeleri mevcuttur. Bedir harbi, Ramazanda Cuma günü vuku bulup Peygamber Efendimizin (A.S.M.) maiyetinde 320 kişi vardı. Bunların sekseni muhacirinden, gerisi ensardandı. Kureyş kervanı ile şam'dan dönen Ebû Süfyan'ın önüne çıkılmış iken, Ebû Süfyan haber alarak Mekke'den yardım istemiş, Ebû Cehil'in maiyetinde Mekke'den gelenlerle beraber Kureyşliler 1000 kişi kadar olmuşlardı.
 bedraka: Delil. Kılavuz. Mürşid. * Allah yolu.
-bedraka-î efkâr "": Fikirlerin mürşid ve kılavuzu.
+bedraka-î efkâr: Fikirlerin mürşid ve kılavuzu.
 bedre: (C.: Bider) Kuzu veya oğlak derisi. * îçi altun dolu olan kese. * Onbin dirhem.
 bedreka: (Bak: Bedraka)
 bedrî: Bedr'e ait ve onunla alâkalı. * Erkek ismidir. (Müennesi: Bedriye)
@@ -940,7 +940,7 @@ behreme: Saç ve sakalın kınayla boyanması. * çiçeğin göz alıcı ve câz
 behreme: Burgu, matkab.
 behremend: Nasibi olan, hissedar. * Bilen, anlayan.
 behrever: Hisse ve nasibini almış, payını zimmetine geçirmiş.
-behreyab ": Nasibi olan, hissesi olan.
+behreyab: Nasibi olan, hissesi olan.
 behs: Neşe ve güleryüzle karşılama. * Kahraman, yiğit, mert adam. * Cür'etkârlık.
 behsale: (C.: Behâsile) Etli, kısa boylu, tıknaz kadın.
 behsus: Az miktar, az şey.
@@ -991,8 +991,8 @@ bel: ökçe. Ayakkabı altının topuğa rastlayan yüksek kısmı.
 bel: t. Geminin orta kısmı. * Bedenin ortası. Göğüs ile karnın arası. * Yüksek dağın iki zirvesi arasındaki kavisli kısmı veya alçakça olan geçit ve boğazı.
 bel': Yutma. Emme. * Belirsiz etme. Ortadan kaldırma.
 bel'-î lokma: Lokmanın yutulması.
-bela: Evet. (Nefiyden sonra isbat için söylenir.) Meselâ: Kur'ân-ı Kerim'de mezkûr; Cenab-ı Hakkın ruhlara karşı, "Ben Azimüşşan sizin rabbiniz değil miyim?" diye sorduğunda, ruhlar $ Yâni: "Evet sen bizim Rabbimizsin" dediler. (Bak: Bezm-i Elest) * Farsçada "Beli" diye söylenir.
-belâ: (c.: Belâyâ) Afet. Sıkıntı. Tasa, kaygı. Musibet. Mücazat. îmtihan. Dâhiye. * Yaramaz nesne. (Bak: Sadaka)(Ey insan! Mâdem canavar sûretinde bir hayvan, insanların hânesine misafir geldiği vakit berekete medar oluyor; öyle ise, mahlukatın en mükerremi olan insan; ve insanların en mükemmeli olan ehl-i iman; ve ehl-i imanın en ziyade hürmet ve merhamete şâyan aceze, alil ihtiyareler; ve alil ihtiyarların içinde şefkat ve hizmet ve muhabbete en ziyâde lâyık ve müstahak bulunan akrabalar; ve akrabaların içinde dahi en hakiki dost ve en sadık muhib olan peder ve valide, ihtiyarlık hâlinde bir hanede bulunsa, ne derece vesile-i bereket ve vasıta-i rahmet ve $ sırriyle yâni: "Beli bükülmüş ihtiyarlarınız olmasa idi belâlar sel gibi üstünüze dökülecekti." ne derece sebeb-i def'-i musibet olduklarını sen kıyas eyle. M.)
+bela: Evet. (Nefiyden sonra isbat için söylenir.) Meselâ: Kur'ân-ı Kerim'de mezkûr; Cenab-ı Hakkın ruhlara karşı, "Ben Azimüşşan sizin rabbiniz değil miyim?" diye sorduğunda, ruhlar Yâni: "Evet sen bizim Rabbimizsin" dediler. (Bak: Bezm-i Elest) * Farsçada "Beli" diye söylenir.
+belâ: (c.: Belâyâ) Afet. Sıkıntı. Tasa, kaygı. Musibet. Mücazat. îmtihan. Dâhiye. * Yaramaz nesne. (Bak: Sadaka)(Ey insan! Mâdem canavar sûretinde bir hayvan, insanların hânesine misafir geldiği vakit berekete medar oluyor; öyle ise, mahlukatın en mükerremi olan insan; ve insanların en mükemmeli olan ehl-i iman; ve ehl-i imanın en ziyade hürmet ve merhamete şâyan aceze, alil ihtiyareler; ve alil ihtiyarların içinde şefkat ve hizmet ve muhabbete en ziyâde lâyık ve müstahak bulunan akrabalar; ve akrabaların içinde dahi en hakiki dost ve en sadık muhib olan peder ve valide, ihtiyarlık hâlinde bir hanede bulunsa, ne derece vesile-i bereket ve vasıta-i rahmet ve sırriyle yâni: "Beli bükülmüş ihtiyarlarınız olmasa idi belâlar sel gibi üstünüze dökülecekti." ne derece sebeb-i def'-i musibet olduklarını sen kıyas eyle. M.)
 belâ-cû: Belâ arayan. Belâsını istiyen.
 belâ-dîde: Belâ görmüş, belâya çatmış.
 belâ-ender-belâ: Belâ üstüne belâ. Zahmet içinde zahmet.
@@ -1032,7 +1032,7 @@ belca': Kaşları arası açık olan kadın. (Müz: Eblec)
 beldah: Kişinin kendini yere vurması.
 beldaran: Geçit yerleri muhafızlarının adı. Tanzimattan sonra bunlara zaptiye denmiştir. îkinci Meşrutiyetten beri jandarma olarak adlandırılırlar.
 belde: Memleket, şehir. * Büyük köy. * Yer, arz. * Göğüs, sadır. * îki kaş arasında kıl olmayıp açık olması.
-belde-î tayyîbe "": Güzel ve hoş belde. Medine-i Münevvere.
+belde-î tayyîbe: Güzel ve hoş belde. Medine-i Münevvere.
 belec: Zâhir ve rûşen olmak. Gözükmek.
 beled: (Belde. C.) Beldeler. Memleketler.
 beled sûresî: (El-beled) Kur'an-ı Kerim'de 90. sure olup Mekke-i Mükerreme'de nazil olmuştur.
@@ -1068,7 +1068,7 @@ belk: Kapı açmak. * Ak ile kara alaca olma. * Büyük terazi.
 belka': Tenha çöl. Harap ve boş yer. * Yazı. * Yalan yere yemin etmek. * Su, süt gibi boğaz ıslatan şeyler. * Bir hurma cinsi.
 belka': Alaca. Alaca bacaklı olan at.
 belkaa: şam vilâyetinde bir yerin adı. * Kara ile ak alaca nesne. * Parlak nesne.
-belkis: Süleyman (A.S.) zamanında, Yemen'de Sebe şehrinde hükümet süren Himyerilerden bir melikedir. Süleyman (A.S.) bunu Filistin'e çağırdı, geldi ve iman etti. (Bak: Taht-ı Belkıs)(Hz. Süleyman (A.S.) Taht-ı Belkısı yanına celb etmek için, vezirlerinden bir âlim-i ilm-i celb dedi: "Gözünüzü açıp kapayıncaya kadar sizin yanınızda o tahtı hazır ederim" olan hâdise-i harikaya delalet eden şu âyet $ ilââhir... îşaret ediyor ki: Uzak mesafelerden eşyayı aynen veya sûreten ihzar etmek mümkündür. Hem vâki'dir ki; risaletiyle berâber saltanatla müşerref olan Hz. Süleyman (A.S.) hem mâsumiyetine, hem de adaletine medar olmak için pek geniş olan aktar-ı memleketine bizzat zahmetsiz muttali olmak ve raiyetinin ahvalini görmek ve dertlerini işitmek, bir mu'cize sûretinde Cenab-ı Hak ihsan etmiştir. Demek Cenab-ı Hakk'a itimad edip Süleyman'ın (A.S.) lisan-ı ismetiyle istediği gibi, o da lisan-ı istidadiyle Cenab-ı Hak'tan istese ve kavanin-i âdetine ve inayetine tevfik-i hareket etse; ona dünya bir şehir hükmüne geçebilir. Demek taht-ı Belkıs Yemen'de iken şam'da aynıyla veyahud sûretiyle hâzır olmuştur, görülmüştür. Elbette taht etrafındaki adamların suretleriyle beraber sesleri de işitilmiştir. îşte uzak mesafede, celb-i sûrete ve savta haşmetli bir sûrette işaret ediyor. S.)
+belkis: Süleyman (A.S.) zamanında, Yemen'de Sebe şehrinde hükümet süren Himyerilerden bir melikedir. Süleyman (A.S.) bunu Filistin'e çağırdı, geldi ve iman etti. (Bak: Taht-ı Belkıs)(Hz. Süleyman (A.S.) Taht-ı Belkısı yanına celb etmek için, vezirlerinden bir âlim-i ilm-i celb dedi: "Gözünüzü açıp kapayıncaya kadar sizin yanınızda o tahtı hazır ederim" olan hâdise-i harikaya delalet eden şu âyet ilââhir... îşaret ediyor ki: Uzak mesafelerden eşyayı aynen veya sûreten ihzar etmek mümkündür. Hem vâki'dir ki; risaletiyle berâber saltanatla müşerref olan Hz. Süleyman (A.S.) hem mâsumiyetine, hem de adaletine medar olmak için pek geniş olan aktar-ı memleketine bizzat zahmetsiz muttali olmak ve raiyetinin ahvalini görmek ve dertlerini işitmek, bir mu'cize sûretinde Cenab-ı Hak ihsan etmiştir. Demek Cenab-ı Hakk'a itimad edip Süleyman'ın (A.S.) lisan-ı ismetiyle istediği gibi, o da lisan-ı istidadiyle Cenab-ı Hak'tan istese ve kavanin-i âdetine ve inayetine tevfik-i hareket etse; ona dünya bir şehir hükmüne geçebilir. Demek taht-ı Belkıs Yemen'de iken şam'da aynıyla veyahud sûretiyle hâzır olmuştur, görülmüştür. Elbette taht etrafındaki adamların suretleriyle beraber sesleri de işitilmiştir. îşte uzak mesafede, celb-i sûrete ve savta haşmetli bir sûrette işaret ediyor. S.)
 belkî: Umulur, ihtimal, olabilir. * Hattâ. * Kat'iyyetle. Dahi. şüphesiz.
 bell: Yaş etmek. Islatmak. * Ulaştırmak. * Hastanın sağlamlaşması.
 bellet: (C.: Bilel) Cisimlerin yüzeyinde olan yaşlık, ıslaklık.
@@ -1089,7 +1089,7 @@ bely: Mahvolmak. * Belirsiz olmak.
 belyad: Nakışsız, sade kostüm.
 belzî: Muhkem, güçlü, sağlam deve.
 bem: Bazı sıfatlara katılarak mübalağa beyan eder.
-bembeyaz òö: Her tarafı beyaz, çok beyaz.
+bembeyaz: Her tarafı beyaz, çok beyaz.
 ben: (Bak: Ene) t. Psk: şuurlu kişiliğimiz. Başlangıçta çocuğun benliği şuurlu değildir. Kendisini başkasından ayıramaz. Fakat canlı olarak ihtiyaç ve istekleri vardır. Benin bu şuursuz haline "alt ben" denir. Kendisi ile başkası arasındaki farkı anlamaya, münasebetler kurmaya, düşünmeğe başlayınca şuurlu kişiliği, beni ortaya çıkar. Ben, kendi menfaatına gördüğü, haz duyduğu herşeyi ister. îsteklerine kendisi için tehlikeli, acı verici gördüğü yerde, yani yine kendisi için sınır koyar. Başkalarını hesaba katmaz. Ahlâk ve din terbiyesiyle ben, her istediğini yapmaması gerektiğini öğrenir. Vicdan ve namus duygusuna sahip olur. Böylece "üst ben" mertebesine ulaşır. îsteklerini dizginlemesini öğrenir. "Alt ben"in had, sınır tanımayan arzularıyla din ve ahlâkın benliğimizdeki sesi durumunda olan "üst ben" arasında bir zıddiyet ve çatışma vardır. Ben, bu ikisi arasında ahenkle denge kurmaya çalışır. Bir suç ve günah işlediğinde benlikte suçluluk duygusu uyanır. Bundan kurtulmak için en küçük bahane ve şüphelere yapışır. Ve ahlâk ve dini esasları inkâra yönelir. Bu sebeple her günahta küfre giden bir yol açılır. îslâm terbiyesi alan bir insanın benliği meşru sınırlarda Allahın emir ve rızası dairesinde kalır. Günah sınırlarına varmaz. Benin mahiyeti hakkında felsefi ve psikolojik muhtelif görüşler vardır. Henüz benliğin mahiyeti açıklanamamıştır. îslâm açısından bu mevzuda yazılan en esaslı yazı Risale-i Nurlardan Ene ve Zerre Risalesi'dir.
 ben-van: Harman, tarla, ekin bekçisi.
 benadik: (Bunduk. C.) Yuvarlak kurşunlar. * Fındıklar.
@@ -1147,9 +1147,9 @@ benî: Oğullar, evlâtlar, çocuklar. (Aslı: Benûn-Benin)
 benî âdem: âdem oğlu. însan. âdem oğulları.
 benî beşer: însanlar.
 benî îsrâîl: îsrâil oğulları. Yahudiler. Yahudi.
-benî ümeyye ô: Emeviler.
+benî ümeyye: Emeviler.
 benîka: (C.: Benâyık) Elbisenin koltukaltı parçası.
-benîmsemek ": t. Sahip çıkmak, bir şey hakkında benimdir iddiasında bulunmak. Kabullenmek.
+benîmsemek: t. Sahip çıkmak, bir şey hakkında benimdir iddiasında bulunmak. Kabullenmek.
 benîn: (îbn. C.) Oğullar, erkek çocuklar. * Akıllı, temkinli, tedbirli kimse.
 benîyye: Kâbe-i Muazzama.
 benk: Her nesnenin aslı.
@@ -1172,7 +1172,7 @@ bepga: Papağan.
 be'r: Kuyu kazmak.
 ber': (Berâ, Bur', Bürü') Yaratmak. Halketmek. * Hastanın iyileşmesi. Sağlamlık.
 ber: üzere, üzerine, yukarı mânasına (ve Arabçadaki "Alâ" yerine edat-ı isti'lâdır) * Göğüs, sine, bağır, sadır. * Fayda. * Hamil. * Hıfz. * Yan. * Taraf. * Nâkil. Götürücü. * Meyve. * Yaprak. Varak. * Meme.* Genç kadın.* Evin kapısı.
-ber: (Burden) "Götürmek" mastarının emir köküdür. Kelimenin sonuna getirilerek terkipler yapılır. Emirber $: Emir dinleyen, emir götüren. Fermanber $: Emir veren. Emir dinleyen... gibi.
+ber: (Burden) "Götürmek" mastarının emir köküdür. Kelimenin sonuna getirilerek terkipler yapılır. Emirber: Emir dinleyen, emir götüren. Fermanber: Emir veren. Emir dinleyen... gibi.
 ber': (Berâ, Bur', Bürü') Yaratmak. Halketmek. * Hastanın iyileşmesi. Sağlamlık.
 ber-akîs: Aksine, zıddına, tersine.
 ber-aver: Yemiş ağacı.
@@ -1221,7 +1221,7 @@ beras: Leke hastalığı.
 berasîn: (Bürsün. C.) Yırtıcı hayvanların pençeleri.
 beraş: Ekseri yüzde olan küçük kara noktalar.
 berat: Nişân. Rütbe. îmtiyaz ve taltif için verilen resmi kâğıt.
-berat gecesî ": Arabi şâban ayının onbeşinci gecesi. şâban ayı mübarek şuhur-u selâseden (üç aylardan) olup, onbeşinci gecesi mahlûkatın rızıklarına, ömürlerine, amellerine dâir taraf-ı îlâhiden meleklere tâlimat verildiği hususunda rivâyât-ı sahiha vardır.(Bu gelen gece olan "Leyle-i Berât" bütün senede bir kudsi çekirdek hükmünde ve mukadderât-ı beşeriyenin programı nev'inden olması cihetiyle "Leyle-i Kadr"in kudsiyetindedir. Herbir hasenenin Leyle-i Kadirde otuzbin olduğu gibi, bu Leyle-i Beratta herbir amel-i salihin ve herbir harf-i Kur'anın sevabı, yirmibine çıkar. Sair vakitte on ise, şuhur-u selâsede yüze ve bine çıkar. Ve bu kudsi leyâli-i meşhûrede, onbinler yirmibin veya otuzbinlere çıkar. Bu geceler elli senelik bir ibadet hükmüne geçebilir. Onun için elden geldiği kadar Kur'anla ve istiğfar ve salâvatla meşgul olmak büyük bir kârdır. ş.)
+berat gecesî: Arabi şâban ayının onbeşinci gecesi. şâban ayı mübarek şuhur-u selâseden (üç aylardan) olup, onbeşinci gecesi mahlûkatın rızıklarına, ömürlerine, amellerine dâir taraf-ı îlâhiden meleklere tâlimat verildiği hususunda rivâyât-ı sahiha vardır.(Bu gelen gece olan "Leyle-i Berât" bütün senede bir kudsi çekirdek hükmünde ve mukadderât-ı beşeriyenin programı nev'inden olması cihetiyle "Leyle-i Kadr"in kudsiyetindedir. Herbir hasenenin Leyle-i Kadirde otuzbin olduğu gibi, bu Leyle-i Beratta herbir amel-i salihin ve herbir harf-i Kur'anın sevabı, yirmibine çıkar. Sair vakitte on ise, şuhur-u selâsede yüze ve bine çıkar. Ve bu kudsi leyâli-i meşhûrede, onbinler yirmibin veya otuzbinlere çıkar. Bu geceler elli senelik bir ibadet hükmüne geçebilir. Onun için elden geldiği kadar Kur'anla ve istiğfar ve salâvatla meşgul olmak büyük bir kârdır. ş.)
 berat-i cîbayet: Vergi, icâre ve resim gibi vakfa veyahut da hazineye ait olan paraları toplamak salâhiyetini veren vesika.
 berat-i hümayun: Padişahlara mahsus ferman.
 beratîl: (Birtil. C.) Hediyeler, rüşvetler.
@@ -1237,7 +1237,7 @@ berazîk: Bölük, cemaat.
 berbad: Harap. Kötü. Virâne. Bozuk. Perişan. Telef ve helâk olmuş.
 berbar(e): Evin dam kısmında bulunan oda. * çardak. * Kemeriye. * Tahtaboş. Damın düz bir kısmı ki, en çok çamaşır sermeye yarar ve çinko ile döşelidir.
 berbekan: Arapların giydiği bir elbise cinsi.
-berber òö: Tıraş eden, saç kesen. * Afrika'nın kuzeyindeki bir kavim.
+berber: Tıraş eden, saç kesen. * Afrika'nın kuzeyindeki bir kavim.
 berbere: Kızgınlık ânında söylenip çağırmak bağırmak.
 berced: Kalın kilim. * Halı.
 berceste: Sağlam ve lâtif. * Seçme. * Edb: Zahmetsizce hatıra geliveren ve fakat çok kıymetli olan söz.
@@ -1261,14 +1261,14 @@ berdîyy: Suriye'de bulunan iki nehrin, bir köyün ve Hicaz'da da bir dağın a
 bere: Fr. Sipersiz ve yumuşak olan bir çeşit başlık.
 bere: Kuzu. Koyun yavrusu.
 bere: t. Tıb: Ezilme veya kılcal damarların kopması sonunda kanın, dokular içinde birikmesi ve bundan dolayı meydana gelen morluk.
-bered òòö: Daha ziyade fırtınalı havalarda yağan dolu.
+bered: Daha ziyade fırtınalı havalarda yağan dolu.
 berede: Dolu. * çok yemekten midenin dolması.
 berehmen: (Berhemen) Puta tapan. Ateşperestlerin bilginleri ile puta tapan kimselerin papazları.
 berehne: çıplak.
 berehnegî: çıplaklık.
 berehrehe: Güzel, nâzik kadın.
 berekât: (Bereket. C.) Bereketler. Bolluklar.
-bereket: Bolluk. çokluk. Feyiz. Cenab-ı Hakk'ın lütfu, ihsanı. Uğurluluk. Meymenet, saadet.(.. Kanaat-ı kat'iye verecek derecede tecrübeler vardır ki: Nasıl çocukların aczlerine binâen rahmet tarafından rızıkları hârika bir sûrette memeler musluklarından gönderiliyor ve akıttırılıyor... öyle de, mâsumiyet kesbeden imanlı ihtiyarların rızıkları da, bereket sûretinde gönderiliyor. Hem bir hânenin bereket direği, o hanedeki ihtiyarlar olduğu; hem bir hâneyi belâlardan muhafaza edici, içindeki beli bükülmüş mâsum ihtiyarlar ve ihtiyareler bulunduğu, Hadis-i şerifin bir parçası olan $ yani: "Beli bükülmüş ihtiyarlarınız olmasaydı, belâlar sel gibi üzerinize dökülecekti." diye ferman etmekle, bu hakikatı isbat ediyor. L.)
+bereket: Bolluk. çokluk. Feyiz. Cenab-ı Hakk'ın lütfu, ihsanı. Uğurluluk. Meymenet, saadet.(.. Kanaat-ı kat'iye verecek derecede tecrübeler vardır ki: Nasıl çocukların aczlerine binâen rahmet tarafından rızıkları hârika bir sûrette memeler musluklarından gönderiliyor ve akıttırılıyor... öyle de, mâsumiyet kesbeden imanlı ihtiyarların rızıkları da, bereket sûretinde gönderiliyor. Hem bir hânenin bereket direği, o hanedeki ihtiyarlar olduğu; hem bir hâneyi belâlardan muhafaza edici, içindeki beli bükülmüş mâsum ihtiyarlar ve ihtiyareler bulunduğu, Hadis-i şerifin bir parçası olan yani: "Beli bükülmüş ihtiyarlarınız olmasaydı, belâlar sel gibi üzerinize dökülecekti." diye ferman etmekle, bu hakikatı isbat ediyor. L.)
 berem: (C.: Ebrâm) Kumar oyununa dâhil olmayan.
 berem: Asma ve kabak çardağı. * üzüm çubuklarının altına konulan çatal şeklindeki ağaç. Herek.
 berencen: Kadın bileziği.
@@ -1393,7 +1393,7 @@ berran: Kesen, kesici, keskin.
 berranî: (Berr. den) Sahra ve kıra ait. Yabani. * Hârici, zâhiri. * şer'i hükümlere uymayan.
 berrat: Bıçkı. * Törpü.
 berren: Karadan, kara yoluyla.
-berrî ò: Toprağa ait, kara ile ilgili.
+berrî: Toprağa ait, kara ile ilgili.
 berrîye: Toprağa âit. * çöl. Beyaban. Sahra. * Kara askeri. Piyade.
 berrûd: Tül ağacı.
 berrüste: Karpuz, kavun, kabak, çimen gibi dalbudak salıp da yükselmiyen nebat. * Mc: Alçak, edepsiz, rezil kimse.
@@ -1408,7 +1408,7 @@ berşem: Kederin belli oluşu. * Dikkatli nazar.
 bertal: Rüşvet almak.
 bertam: Dudağı kalın adam.
 bertame: Gadaptan müntefih olmak, hiddetlenmek.
-bertaraf ò: Bir tarafa atılan, bir yana atılmış, ortadan çıkmış, zâil olmuş.
+bertaraf: Bir tarafa atılan, bir yana atılmış, ortadan çıkmış, zâil olmuş.
 bertarum: Kubbe üzerinde. Dam üstünde.
 berter: Daha yüksek, daha üstte, âlâ.
 bertîh: Aşırma.
@@ -1472,7 +1472,7 @@ beskele: Kapı sürgüsü, kapı mandalı.
 besl: Helâk etmek. * Men'etmek.* çirkin yüzlü olmak. * Helâl ve haram.
 besm: Tebessüm etmek.
 besman: Bir muahededen, bir anlaşmadan sonra rehin olarak bırakılan şey. Kapora.
-besmele: $ in kısaltılmış ismi. Müslüman her işine Bismillah ile başlar. Yani her işi Allah adına ve Allah için yapar. Atomlardan yıldızlara kadar her varlık da Allah adına ve Allah için hareket eder. însan da Bismillah diyemiyeceği, yani Allah'ın emri ve izni olmayan bir işi ve hareketi yapmamak, onun emri dairesinde kalmakla gerçekten insan olur. Aksi halde hayvanlardan aşağı dereceye iner.
+besmele: in kısaltılmış ismi. Müslüman her işine Bismillah ile başlar. Yani her işi Allah adına ve Allah için yapar. Atomlardan yıldızlara kadar her varlık da Allah adına ve Allah için hareket eder. însan da Bismillah diyemiyeceği, yani Allah'ın emri ve izni olmayan bir işi ve hareketi yapmamak, onun emri dairesinde kalmakla gerçekten insan olur. Aksi halde hayvanlardan aşağı dereceye iner.
 besmele-hân: Besmele çeken.
 besne: Yumuşak yer.
 besnîyye: Alçak ve yumuşak yerde biten buğday. * şam diyarında belli bir yerde yetişen buğdaya da derler.
@@ -1531,7 +1531,7 @@ beşr: Eski fetva metinlerinde erkeği temsil eden isimlerden biri. (Bak: Zeyd)
 beşş: Açık yüzlü olmak.
 beşşak: Yalancı, kezzab.
 beştek: (Beştük) Zarf. Vazo. Kap. Kâse. çiniden yapılmış saksı.
-beşûş : (Bak: Beşaş)
+beşûş : (Bak: Beşaş)
 beşûşâne: Güler yüzlüce. Hoş olarak.
 beşyûn: Semiz, besili, yağlı.
 bet: çehre rengi, beniz.
@@ -1626,11 +1626,11 @@ bevn: îki şey arasındaki mesafe. Uzaklık. * Fazilet, meziyet.
 bevn-î baîd: çok açıklık, uzak mesafe.
 bevne: Küçük kız çocuğu.
 bevr: Helâk olma. Yok olma. * Sınama, deneme. * Alış-veriş sıkıntısı. * Sürülmemiş yer.
-bevs : Acele, ileri geçme, ileri gitme. * Bıktırıncaya kadar israr etme. * Bir kimseden kaçıp gizlenme. * Bir şeyin rengi.
+bevs : Acele, ileri geçme, ileri gitme. * Bıktırıncaya kadar israr etme. * Bir kimseden kaçıp gizlenme. * Bir şeyin rengi.
 bevs: Bahsetmek.
 bevs: öpmek. (Farisiden muarrebdir.)
-bevş : Her biri bir yerden gelmiş olan bir bölük cemaat.
-bevş : çalım, gösteriş, debdebe, ihtişam.
+bevş : Her biri bir yerden gelmiş olan bir bölük cemaat.
+bevş : çalım, gösteriş, debdebe, ihtişam.
 bevt: Zengin iken fakir düşme. Düşkünlük.
 bevva: Hindistan cevizi.
 bevvab: Kapıcı. * Menedici.
@@ -1638,7 +1638,7 @@ bevvab-i mî'de: Mide kapısı.
 bevvaban: (Bevvâb. C.) Kapıcılar.
 bevvabîn: (Bevvâb. C.) Kapıcılar.
 bevval: çok bevl eden, aşırı derecede işeyen.
-bevvâl-î çeh-î zemzem : Zemzem kuyusuna işeyen. * Mc: Yalnız şöhret kazanmak ve adı anılmak için uygunsuz iş yapan.
+bevvâl-î çeh-î zemzem : Zemzem kuyusuna işeyen. * Mc: Yalnız şöhret kazanmak ve adı anılmak için uygunsuz iş yapan.
 bevvan: (C.: Büven-Ebvine) çadır direği.
 bevvee: Hazırladı, yerleştirdi, sâhib kıldı (meâlinde fiil).
 bevz: Devamlı oturuş. Daimi oturma. * çillerin kaybolmasından sonra yüzün güzelleşmesi.
@@ -1682,7 +1682,7 @@ beydûdet: Mahviyet, hiçlik, yok olma.
 beygar(e): Tekdir, azarlama, çıkışma. Sövme.
 beyhakî: (Hi: 384-458) Büyük hadis ve fıkıh âlimlerinden olup asıl adı Ebubekir Ahmed bin Hüseyn'dir. îmam-ı şâfii mezhebinde sözü sened yerine geçen büyük bir hadis âlimidir. Kendisi gibi daha birçok faziletli âlimler yetiştiren Beyhak bölgesinin Hüsrevcurd köyündendir. "Kitab-ün Nusus-uş-şafii" ile "Kitab-üs-Sünen Vel'âsar" ve "Essünen-ül-Kebir" ve bir de "Delâil-ün-Nübüvve"gibi eserleri vardır. (K.S.)
 beyhan: Sır saklamıyan, aklında ve kalbinde olanları söyleyen kimse. Boşboğaz.
-beyhoş : (Bihûş) şaşkın. Akılsız. Deli. Serseri.
+beyhoş : (Bihûş) şaşkın. Akılsız. Deli. Serseri.
 beyhûc: Höyük. (Tarlada ve bostanda dikerler.)
 beyhûde: Boşuna. Boş yere. Faydasız.
 beyhuşt: Kökünden çıkarılmış, dibinden koparılmış olan şey.
@@ -1696,7 +1696,7 @@ beylek: Ferman, emir. Hüccet, vesika.
 beylem: Rende. * Kazma.* Açılmamış pamuk kozası.
 beylerbeyî: Tar: Sancak beylerinin başı. Osmanlı eyalet umumi valisi.
 beyn: Arası, arasında, aralık. îki şeyin arası. îkisinin ortası. Firkat. Ayrılık. * Burnu ve ayakları uzun karga.
-beyn-el ahalî òö: Halk arasında, ahali arasında.
+beyn-el ahalî: Halk arasında, ahali arasında.
 beyn-el akrân: Akranlar arasında.
 beyn-el guzât: Gaziler arasında.
 beyn-el mîlel: Milletler arası. (International)
@@ -1770,9 +1770,9 @@ bezaga: Kertenkele, keler.
 bezah: Büyüklenmek. Kibir, gurur.
 bezane: Esici. Esen rüzgâr.
 bezazet: Perişanlık, pejmürdelik. Kıyafetin düzgün ve intizamlı olmayışı.
-bezazet : Bezcilik. Manifaturacılık.
+bezazet : Bezcilik. Manifaturacılık.
 bezbaz: Hindistan cevizinin kabuğu.
-bezbeze : şiddetle sarsma, depretme. * Sür'atli yürüme. Kaçma.
+bezbeze : şiddetle sarsma, depretme. * Sür'atli yürüme. Kaçma.
 bezbeze: Galibiyet, zafer, galebe, üstünlük. * Sıkılma, daralma. * Kısmet, nasib, pay. Hisse.
 beze: Bez.
 beze: Miskin, zavallı.
@@ -1804,12 +1804,12 @@ bezle: Lâtife, hoşa giden kibar ve nâzik söz. şaka tarzında söylenen söz
 bezle-bâz: şakacı, lâtifeci.
 bezm: Yayın kirişini çekip, sonra salıverme. * Bir şeyi diş ucuyla ısırma.
 bezm: Sohbet meclisi. Muhabbet yeri. Yiyip içme, iş u nûş. Meclis.
-bezm-î aşk ò: Aşk meclisi.
+bezm-î aşk: Aşk meclisi.
 bezm-î cîhân: Dünya meclisi. Dünya.
-bezm-î elest ò: Cenab-ı Hak ruhları yarattığında "Ben Rabbiniz değil miyim? meâlinde: $ diye sorduğunda, ruhlar, $ "Evet Rabbimizsin" diye cevap vermeleri ânına "Elest meclisi" veya "Bezm-i elest" tabir edilir.
-bezm-î gam ò: Gam meclisi.
+bezm-î elest: Cenab-ı Hak ruhları yarattığında "Ben Rabbiniz değil miyim? meâlinde: diye sorduğunda, ruhlar, "Evet Rabbimizsin" diye cevap vermeleri ânına "Elest meclisi" veya "Bezm-i elest" tabir edilir.
+bezm-î gam: Gam meclisi.
 bezm-î hâss: Hususi meclis.
-bezm-î safâ ò: Safâ meclisi, eğlence meclisi.
+bezm-î safâ: Safâ meclisi, eğlence meclisi.
 bezme: Gündüzleyin yenilen bir öğün yemek.
 bezme: Muhabbet ve sohbet meclisinin bir köşesi.
 bezmgâh: Eğlence yeri.
@@ -1819,12 +1819,12 @@ bezr-ger: çiftçi, ekinci. Tohum serpen.
 bezr-kâr: Ekinci, çiftçi. Tohum saçan.
 bezre: Koltuk kılının az olması. Yüzük halkası.
 bezreka: (Bak: Bedraka)
-bezv : Beraberlik. * Denk, eşit, misil.
+bezv : Beraberlik. * Denk, eşit, misil.
 bezv: Et çok olmak. * Ağaçlar sık bitmek.
 bezyûn: Altın işlemesi atlas ki, adına sündüs denilir. * înce kumaş.
 bezz: Galip olmak.
 bezz: Keten veya pamuktan mamul dokuma.
-bezzaz : Bez satan. Manifaturacı.* Muhaddislerden bir zatın nâmı.
+bezzaz : Bez satan. Manifaturacı.* Muhaddislerden bir zatın nâmı.
 bezzazîstan: Esnaf çarşısı. Bedestan.
 bezze: Hor ve hakir olmak.
 bid': (Bıd'a) Geceden bir kısım. * üçten ona ve onikiden yirmiye varana kadar olan sayılar. * Cima, nikah.
@@ -1907,7 +1907,7 @@ bî-hesab: Sayısız, hesapsız.
 bî-hîcab: Hicabsız, perdesiz, âşikâr olarak.
 bî-hod: çılgın, kendinden geçmiş olan, ne yaptığının farkında olmayan. * Bayılmış.
 bî-hude: Boşuna, beyhude, boşu boşuna.
-bî-huş : Akılsız. Sersem, bunak.
+bî-huş : Akılsız. Sersem, bunak.
 bî-huzur: Rahatsız, huzursuz, tedirgin.
 bî-îdad: Sayısız. * Eşsiz, benzersiz. * Denksiz.
 bî-îhtîyar: îhtiyarsız. Elinde olmadan.
@@ -1963,7 +1963,7 @@ bî-vefa: Vefasız, dönek.
 bî-vukuf: Vukufsuz, bihaber, malûmatsız, habersiz.
 bî-zar: Bıkmış, usanmış, fütur getirmiş.* Bezginlik.
 bî-zer: Altınsız.* Cimri, hasis, pinti.
-bî-zeval : Zevâlsiz, sona ermez, bitmez, tükenmez.
+bî-zeval : Zevâlsiz, sona ermez, bitmez, tükenmez.
 bî-: Başına eklendiği kelimeyi "e" haline getirir. île, için mânâlarını vererek Farsçadaki "be" edatıyla aynı vazifeyi görür. Harf-i cerdir. Yâni; kendinden sonraki kelimeyi esre ("î" diye) okutur. Yemin için de kullanılır.
 bî-esrîhî: Hep birlikte, hep bir arada.
 bî-hakkinî: Tamamıyla, hakkıyla.
@@ -2015,10 +2015,10 @@ bîdar: Uykusuz, uyumayan. Uyanık.
 bîdar-baht: Mutlu.
 bîdar-dîl: Uyanık, aydın.
 bîdare: Tutkun, âşık, düşkün.
-bîd'at: (Bid'a) Sonradan çıkarılan âdetler. * Fık: Dinin aslında olmadığı hâlde, din namına sonradan çıkmış olan adetler. Meselâ: Giyim ve kıyafetlerde, cemiyet (toplum) hayatındaki ilişkilerde, terbiye ve ahlâk kurallarında, ibadet hayatında yani dinin hükmettiği her sahada, dine uygun olmayan şekiller, tarzlar, kurallar, âdet ve alışkanlıklardır ki, insanı sapıklığa götürür. Din âlimleri tarafından din namına beğenilen ve dinle ilgili yeni icad ve hükümlere bid'a-yı hasene; beğenilmeyip tasvib görmeyenlere de bid'a-yı seyyie denilmektedir. (Bak: Sünnet, Fitne)(Resul-i Ekrem Aleyhissalâtü Vesselâm ferman etmiş: $ Yâni $ sırrı ile: Kavaid-i şeriat-ı Garra ve desatir-i Sünnet-i Seniyye, tamam ve kemalini bulduktan sonra yeni icadlarla o düsturları beğenmemek veyahut hâşâ ve kellâ, nâkıs görmek hissini veren bid'aları icad etmek, dalâlettir, ateştir.Sünnet-i Seniyyenin merâtibi var. Bir kısmı vâcibdir, terkedilmez. O kısım, şeriat-ı Garrâ'da tafsilâtiyle beyan edilmiş, onlar muhkemattır. Hiçbir cihette tebeddül etmez. Bir kısmı da nevâfil nev'indendir. Nevâfil kısmı da, iki kısımdır. Bir kısmı, ibadete tâbi Sünnet-i Seniyye kısımlarıdır. Onlar dahi şeriat kitablarında beyan edilmiş. Onların tağyiri bid'attır. Diğer kısmı, "âdâb" tabir ediliyor ki, Siyer-i Seniyye kitablarında zikredilmiş. Onlara muhalefete, bid'a denilmez. Fakat, âdâb-ı Nebeviyeye bir nevi muhalefettir ve onların nurundan ve o hakiki edebden istifade etmemektir. Bu kısım ise (örf ve âdat) muamelât-ı fıtriyede Resul-i Ekrem Aleyhissalâtü Vesselâmın tevâtürle mâlum olan harekâtına ittiba etmektir. Meselâ: Söylemek âdâbını gösteren ve yemek ve içmek ve yatmak gibi hâlâtın âdâbının düsturlarını beyan eden ve muaşerete taalluk eden çok Sünnet-i Seniyyeler var. Bu nevi Sünnetlere "âdâb" tabir edilir. Fakat o âdâba ittiba eden, âdâtını ibadete çevirir. O âdâbdan mühim bir feyz alır. En küçük bir âdâbın mürâatı, Resul-i Ekrem Aleyhissalâtü Vesselâmı tahattur ettiriyor; kalbe bir nur veriyor. Sünnet-i Seniyyenin içinde en mühimmi, îslâmiyet alâmetleri olan ve şeâire de taalluk eden sünnetlerdir. şeâir, adeta hukuk-u umumiye nev'inden cemiyete ait bir ubudiyettir. Birisinin yapmasiyle o cemiyet umûmen istifade ettiği gibi, onun terkiyle de umum cemaat mes'ul olur. Bu nevi şeâire riya giremez ve ilân edilir. Nâfile nev'inden de olsa, şahsi farzlardan daha ehemmiyetlidir. L.)(Sünnet-i Seniyyenin herbir nev'ine tamamen bilfiil ittiba etmek, ehass-ı havassa dahi ancak müyesser olur. Ona bilfiil olmasa da, binniyyet, bilkasd tarafdarane ve iltizamkârane talib olmak, herkesin elinden gelir. Farz ve vâcib kısımlara zaten ittibaa mecburiyet var. Ve ubûdiyyetteki müstehab olan Sünnet-i Seniyyenin terkinde günah olmasa dahi, büyük sevabın zâyiatı var. Tağyirinde ise, büyük hata vardır. Adat ve muamelâttaki Sünnet-i seniyye ise, ittiba ettikçe, o âdât, ibadet olur. Etmese itab yok. Fakat, HABîBULLAH'ın âdâb-ı hayatiyesinin nurundan istifadesi azalır. Ahkâm-ı ubudiyette yeni icadlar, bid'attır. Bid'atlar ise, $ sırrına münafi olduğu için merduddur. Fakat, tarikatta evrad ve ezkâr ve meşrebler nev'inden olsa ve asılları Kitab ve Sünnet'ten ahzedilmek şartiyle ayrı ayrı tarzda, ayrı ayrı surette olmakla beraber, mukarrer olan usul ve esâsat-ı Sünnet-i Seniyeye muhalefet ve tağyir etmemek şartiyle, bid'a değillerdir. Lâkin bir kısım ehl-i ilim, bunlardan bir kısmını bid'aya dahil edip, fakat "bid'a-i hasene" namını vermiş. îmam-ı Rabbâni Müceddid-i Elf-i Sâni (R.A.) diyor ki: "Ben seyr-i sülûk-u ruhanide görüyordum ki: Resul-i Ekrem Aleyhissalâtü Vesselâmdan mervi olan kelimat, nurludur. Sünnet-i Seniyye şuaı ile parlıyor. Ondan mervi olmayan parlak ve kuvvetli virdleri ve hâlleri gördüğüm vakit, üstünde o nur yoktu. Bu kısmın en parlağı, evvelkinin en azına mukabil gelmiyordu. Bundan anladım ki: Sünnet-i Seniyyenin şuaı, bir iksirdir. Hem o Sünnet, nur isteyenlere kâfidir, hariçte nur aramağa ihtiyaç yoktur." L.)
+bîd'at: (Bid'a) Sonradan çıkarılan âdetler. * Fık: Dinin aslında olmadığı hâlde, din namına sonradan çıkmış olan adetler. Meselâ: Giyim ve kıyafetlerde, cemiyet (toplum) hayatındaki ilişkilerde, terbiye ve ahlâk kurallarında, ibadet hayatında yani dinin hükmettiği her sahada, dine uygun olmayan şekiller, tarzlar, kurallar, âdet ve alışkanlıklardır ki, insanı sapıklığa götürür. Din âlimleri tarafından din namına beğenilen ve dinle ilgili yeni icad ve hükümlere bid'a-yı hasene; beğenilmeyip tasvib görmeyenlere de bid'a-yı seyyie denilmektedir. (Bak: Sünnet, Fitne)(Resul-i Ekrem Aleyhissalâtü Vesselâm ferman etmiş: Yâni sırrı ile: Kavaid-i şeriat-ı Garra ve desatir-i Sünnet-i Seniyye, tamam ve kemalini bulduktan sonra yeni icadlarla o düsturları beğenmemek veyahut hâşâ ve kellâ, nâkıs görmek hissini veren bid'aları icad etmek, dalâlettir, ateştir.Sünnet-i Seniyyenin merâtibi var. Bir kısmı vâcibdir, terkedilmez. O kısım, şeriat-ı Garrâ'da tafsilâtiyle beyan edilmiş, onlar muhkemattır. Hiçbir cihette tebeddül etmez. Bir kısmı da nevâfil nev'indendir. Nevâfil kısmı da, iki kısımdır. Bir kısmı, ibadete tâbi Sünnet-i Seniyye kısımlarıdır. Onlar dahi şeriat kitablarında beyan edilmiş. Onların tağyiri bid'attır. Diğer kısmı, "âdâb" tabir ediliyor ki, Siyer-i Seniyye kitablarında zikredilmiş. Onlara muhalefete, bid'a denilmez. Fakat, âdâb-ı Nebeviyeye bir nevi muhalefettir ve onların nurundan ve o hakiki edebden istifade etmemektir. Bu kısım ise (örf ve âdat) muamelât-ı fıtriyede Resul-i Ekrem Aleyhissalâtü Vesselâmın tevâtürle mâlum olan harekâtına ittiba etmektir. Meselâ: Söylemek âdâbını gösteren ve yemek ve içmek ve yatmak gibi hâlâtın âdâbının düsturlarını beyan eden ve muaşerete taalluk eden çok Sünnet-i Seniyyeler var. Bu nevi Sünnetlere "âdâb" tabir edilir. Fakat o âdâba ittiba eden, âdâtını ibadete çevirir. O âdâbdan mühim bir feyz alır. En küçük bir âdâbın mürâatı, Resul-i Ekrem Aleyhissalâtü Vesselâmı tahattur ettiriyor; kalbe bir nur veriyor. Sünnet-i Seniyyenin içinde en mühimmi, îslâmiyet alâmetleri olan ve şeâire de taalluk eden sünnetlerdir. şeâir, adeta hukuk-u umumiye nev'inden cemiyete ait bir ubudiyettir. Birisinin yapmasiyle o cemiyet umûmen istifade ettiği gibi, onun terkiyle de umum cemaat mes'ul olur. Bu nevi şeâire riya giremez ve ilân edilir. Nâfile nev'inden de olsa, şahsi farzlardan daha ehemmiyetlidir. L.)(Sünnet-i Seniyyenin herbir nev'ine tamamen bilfiil ittiba etmek, ehass-ı havassa dahi ancak müyesser olur. Ona bilfiil olmasa da, binniyyet, bilkasd tarafdarane ve iltizamkârane talib olmak, herkesin elinden gelir. Farz ve vâcib kısımlara zaten ittibaa mecburiyet var. Ve ubûdiyyetteki müstehab olan Sünnet-i Seniyyenin terkinde günah olmasa dahi, büyük sevabın zâyiatı var. Tağyirinde ise, büyük hata vardır. Adat ve muamelâttaki Sünnet-i seniyye ise, ittiba ettikçe, o âdât, ibadet olur. Etmese itab yok. Fakat, HABîBULLAH'ın âdâb-ı hayatiyesinin nurundan istifadesi azalır. Ahkâm-ı ubudiyette yeni icadlar, bid'attır. Bid'atlar ise, sırrına münafi olduğu için merduddur. Fakat, tarikatta evrad ve ezkâr ve meşrebler nev'inden olsa ve asılları Kitab ve Sünnet'ten ahzedilmek şartiyle ayrı ayrı tarzda, ayrı ayrı surette olmakla beraber, mukarrer olan usul ve esâsat-ı Sünnet-i Seniyeye muhalefet ve tağyir etmemek şartiyle, bid'a değillerdir. Lâkin bir kısım ehl-i ilim, bunlardan bir kısmını bid'aya dahil edip, fakat "bid'a-i hasene" namını vermiş. îmam-ı Rabbâni Müceddid-i Elf-i Sâni (R.A.) diyor ki: "Ben seyr-i sülûk-u ruhanide görüyordum ki: Resul-i Ekrem Aleyhissalâtü Vesselâmdan mervi olan kelimat, nurludur. Sünnet-i Seniyye şuaı ile parlıyor. Ondan mervi olmayan parlak ve kuvvetli virdleri ve hâlleri gördüğüm vakit, üstünde o nur yoktu. Bu kısmın en parlağı, evvelkinin en azına mukabil gelmiyordu. Bundan anladım ki: Sünnet-i Seniyyenin şuaı, bir iksirdir. Hem o Sünnet, nur isteyenlere kâfidir, hariçte nur aramağa ihtiyaç yoktur." L.)
 bîd'at-üz zaman: Zamanın bid'ası. Yeni çıkan harikulâde şey. Zamanın acib ve garibi.
 bîdâyet: Başlangıç. îlk önce. Evvel ve ibtida. îlk olarak.
-bîdayet mahkemesî ": Bu tâbir eskiden Asliye Mahkemeleri için kullanılırdı.
+bîdayet mahkemesî: Bu tâbir eskiden Asliye Mahkemeleri için kullanılırdı.
 bîdâyeten: îlk olarak.
 bîdde: Derman, tâkat, güç, kuvvet.
 bîdevlet: Mutsuz, zavallı.
@@ -2083,7 +2083,7 @@ bîlâ-bedel: Bedelsiz. ücretsiz, meccanen.
 bîlâ-faîz: Fâizsiz.
 bîlâ-fasila: Fâsılasız, aralıksız, durmadan.
 bîlâ-îstîsna: îstisnâsız, ayırt etmeksizin.
-bîlâ-kayd u şart : Kayıtsız şartsız.
+bîlâ-kayd u şart : Kayıtsız şartsız.
 bîlâ-sebeb: Sebepsiz.
 bîlâ-teemmül: Düşünmeden. Düşünmeksizin. Dikkatli olmadan.
 bîlâ-tevakkuf: Durmadan, tereddüt etmeden.
@@ -2154,7 +2154,7 @@ bînâenalâhaza: Bundan dolayı. Buna binaen.
 bînâenaleyh: Bunun üzerine, ondan dolayı.
 bînaguş: Kulak tozu. * Kulak memesi.
 bînavend: Mâni, engel.
-bînbaşi «: Ask: Bin kişiye yakın olan bir tabur askere kumanda eden subay; yarbayın bir alt, yüzbaşının bir üst derecesidir.
+bînbaşi : Ask: Bin kişiye yakın olan bir tabur askere kumanda eden subay; yarbayın bir alt, yüzbaşının bir üst derecesidir.
 bînc: Her nesnenin aslı ve kökü.
 bîncîşk: şerçe kuşu.
 bînefsîhî: Bizzat, kendisi, kendisi ile.
@@ -2163,7 +2163,7 @@ bînende: Görücü, gören. * Tedbirli, ilerisini düşünen, akıllı.
 bînevend: Mâni, engel.
 bînî: Burun. (însan ve deniz için kullanılır.) * Dağ tepesi. * Zirve, uç nokta. * Yayın ele alınan kısmının ucu. * Görürlük, görmeklik.
 bînîş: Basiret, görüş, görme kabiliyeti. * Mülâkat.
-bînnetîce ò: Neticede, netice olarak.
+bînnetîce: Neticede, netice olarak.
 bînnîhaye: Sonuna kadar. Sonsuz.
 bînnîyet: Kastederek. Niyetle.
 bînsar: (Binsır) Serçe parmakla orta parmak arasındaki parmak. Yüzük parmağı.
@@ -2176,7 +2176,7 @@ bînt-ül-fîkîr: Düşünce mahsulü.
 bî'r: Kuyu.
 bîr gûna: Hiçbir suretle. Bir suretle. Bir türlü.
 bî'r-î muattal: Suyu kesilmiş kuyu. Susuz kuyu.
-bî'r-î zemzem : Zemzem kuyusu.
+bî'r-î zemzem : Zemzem kuyusu.
 bîra: (Felemenkçe) îçinde alkol bulunan ve bu sebeple haram olan bir cins içki.
 bîrabbî: Rabbimle, Rabbime.
 bîrad: îhtiyar, pir. Dermansız, güçsüz kimse.
@@ -2218,7 +2218,7 @@ bîsat-i arz: Yeşillik, çimen.
 bî'se: Ne fena, ne kötü, ne çirkin mânâlarına gelir. Ve birleşik kelimeler yapılır.
 bîselamet-îl-emr: îşin kolaylıkla ve zahmetsiz yapılması.
 bîser(e): Atmaca cinsinden, zaganos denilen bir nevi avcı kuşu.
-bî'set: Gönderilme. însanları hak ve doğru yola sevk için gönderilen Cenab-ı Peygamberimiz Resül-i Ekrem'in (A.S.M.) nübüvvetinin başlangıç zamanı, nübüvvetinin bidayeti.(Nasârâ ulemâ-yı benâmından îbn-ül Alâ, bi'setten ve Peygamber'i görmeden evvel haber vermiş. Sonra gelmiş. Hz. Peygamber'i (A.S.M.) görmüş, demiş: $ Yani: "Ben senin sıfatını încil'de gördüm. îman ettim. îbn-i Meryem, încil'de senin geleceğini müjde etmiş." M.)
+bî'set: Gönderilme. însanları hak ve doğru yola sevk için gönderilen Cenab-ı Peygamberimiz Resül-i Ekrem'in (A.S.M.) nübüvvetinin başlangıç zamanı, nübüvvetinin bidayeti.(Nasârâ ulemâ-yı benâmından îbn-ül Alâ, bi'setten ve Peygamber'i görmeden evvel haber vermiş. Sonra gelmiş. Hz. Peygamber'i (A.S.M.) görmüş, demiş: Yani: "Ben senin sıfatını încil'de gördüm. îman ettim. îbn-i Meryem, încil'de senin geleceğini müjde etmiş." M.)
 bî'set-î nebevîye: Allah tarafından Peygamberin gönderilmesi.
 bîsînoz: yun. Pamuk işçilerinde görünen, pamuk tozlarının sebebiyet verdiği bir akciğer hastalığı.
 bîsmark: (Bak: Prens Bismark)
@@ -2226,7 +2226,7 @@ bîsmîhî: Onun adı ile, onun namına. * Allah'ın adıyla.
 bîsmîl: Boğazlanmış, kesilmiş.
 bîsmîl-gâh: Hayvan kesilen yer, salhâne.
 bîsmîl-şüde: Boğazlanmış, kesilmiş.
-bîsmîllah ú: Allah namına, Allah için, Allah'ın adı ve izni ile.(Esbab-ı zâhiriye eliyle gelen nimetleri, o esbab hesabına almamak gerektir. Eğer o sebep ihtiyar sahibi değilse -meselâ hayvan ve ağaç gibi- doğrudan doğruya Cenab-ı Hak hesabına verir. Mâdem o, lisan-ı hâl ile Bismillâh der, sana verir. Sen de Allah hesabına olarak Bismillâh de, al. Eğer o sebep ihtiyar sâhibi ise; o Bismillâh demeli, sonra ondan al, yoksa alma. çünkü $ âyetinin mânâ-yı sarihinden başka bir mânâ-yı işârisi şudur ki: "Mün'im-i Hakiki'yi hatıra getirmiyen ve onun nâmıyla verilmiyen nimeti yemeyiniz" demektir. O hâlde hem veren Bismillâh demeli, hem alan Bismillâh demeli. Eğer o bismillâh demiyor, fakat sen de almağa muhtaç isen sen bismillâh de, onun başı üstünde rahmet-i ilâhiyenin elini gör, şükür ile öp, ondan al. Yâni: Nimetten in'âma bak, in'âmdan Mün'im-i Hakiki'yi düşün. Bu düşünmek bir şükürdür. Sonra o zâhiri vasıtaya istersen dua et. çünki o nimet onun eliyle size gönderildi. L.)(Kur'an-ı Kerim nimetleri, âyetleri, delilleri tâdad ederken $ âyet-i celilesi tekrar ile zikredilmekte olduğundan şöyle bir delâlet vardır ki: Cin ve insin en çok isyanlarını, en şedit tuğyanlarını, en azim küfranlarını tevlid eden şöyle bir vaziyetleridir ki, nimet içinde in'âmı görmüyorlar. în'âmı görmediklerinden Mün'im-i Hakiki'den gaflet ederler. Mün'imden gafletleri saikasıyla, o ni'metleri, esbaba veya tesadüfe isnad ederek, Allah'tan o nimetlerin geldiğini tekzib ediyorlar. Binaenaleyh, herbir nimetin bidâyetinde, mü'min olan kimse Besmele'yi okusun. Ve o nimetin Allah'tan olduğunu kasdetmekle, kendisi ancak Allah'ın ismiyle, Allah'ın hesabına aldığını bilerek, Allah'a minnet ve şükranla mukabelede bulunsun. M.N.)
+bîsmîllah ú: Allah namına, Allah için, Allah'ın adı ve izni ile.(Esbab-ı zâhiriye eliyle gelen nimetleri, o esbab hesabına almamak gerektir. Eğer o sebep ihtiyar sahibi değilse -meselâ hayvan ve ağaç gibi- doğrudan doğruya Cenab-ı Hak hesabına verir. Mâdem o, lisan-ı hâl ile Bismillâh der, sana verir. Sen de Allah hesabına olarak Bismillâh de, al. Eğer o sebep ihtiyar sâhibi ise; o Bismillâh demeli, sonra ondan al, yoksa alma. çünkü âyetinin mânâ-yı sarihinden başka bir mânâ-yı işârisi şudur ki: "Mün'im-i Hakiki'yi hatıra getirmiyen ve onun nâmıyla verilmiyen nimeti yemeyiniz" demektir. O hâlde hem veren Bismillâh demeli, hem alan Bismillâh demeli. Eğer o bismillâh demiyor, fakat sen de almağa muhtaç isen sen bismillâh de, onun başı üstünde rahmet-i ilâhiyenin elini gör, şükür ile öp, ondan al. Yâni: Nimetten in'âma bak, in'âmdan Mün'im-i Hakiki'yi düşün. Bu düşünmek bir şükürdür. Sonra o zâhiri vasıtaya istersen dua et. çünki o nimet onun eliyle size gönderildi. L.)(Kur'an-ı Kerim nimetleri, âyetleri, delilleri tâdad ederken âyet-i celilesi tekrar ile zikredilmekte olduğundan şöyle bir delâlet vardır ki: Cin ve insin en çok isyanlarını, en şedit tuğyanlarını, en azim küfranlarını tevlid eden şöyle bir vaziyetleridir ki, nimet içinde in'âmı görmüyorlar. în'âmı görmediklerinden Mün'im-i Hakiki'den gaflet ederler. Mün'imden gafletleri saikasıyla, o ni'metleri, esbaba veya tesadüfe isnad ederek, Allah'tan o nimetlerin geldiğini tekzib ediyorlar. Binaenaleyh, herbir nimetin bidâyetinde, mü'min olan kimse Besmele'yi okusun. Ve o nimetin Allah'tan olduğunu kasdetmekle, kendisi ancak Allah'ın ismiyle, Allah'ın hesabına aldığını bilerek, Allah'a minnet ve şükranla mukabelede bulunsun. M.N.)
 bîsr: Vücudu sivilceli olan kişi.
 bîsre: Sivilce, siğil.
 bîssüyûf: Kılıçlarla ve kuvvet ile.
@@ -2269,7 +2269,7 @@ bîtevî: (Biteviye) t. Sürekli, durmadan. * Bütün yekpare.
 bîtke: Kesinti. * Kesilen bir nesnenin ufak parçaları, cüz'leri.
 bîtlab: Hurma çiçeğinin tomurcuğu.
 bîttahrîk: Hareket ettirerek, oynatarak. * Kışkırtarak, teşvik ederek.
-bîttasavvur : Tasavvur ile, niyet ederek, düşünerek. (Bak: Tasavvur)
+bîttasavvur : Tasavvur ile, niyet ederek, düşünerek. (Bak: Tasavvur)
 bîttedrîc: Yavaş yavaş.
 bîtüm: Yerin altında bulunup sıvı ve sarımtırak veyahut katı ve kara bir durum ve renkte olan maddedir ki, asfalt yol yapılırken kullanılır.
 bîtyar(e): Elem, keder, tasa, sıkıntı.
@@ -2311,7 +2311,7 @@ blok: Fr. Birbirine bitişik yapılar. * Büyük ve ağır yığın. * Resim ka�
 blöf: ing. Karşısındakini yanıltmak veya yıldırmak için aslı olmayan şeyleri gerçekmiş gibi göstermek.
 bobîn: Fr. Tel veya iplik sarılmaya mahsus silindir şeklinde makara.
 bodur: Enine göre boyu kısa ve tıknaz olan.
-bolşevîklîk : (Bolşevizm) Rusya'da kanlı komünizm ihtilalini yapan ve bütün hür dünya milletlerinin de aynı ihtilal metotlarıyla komünizmin hâkimiyeti altına gireceğini savunan Marksist Leninist siyasi görüş. Bu görüşün temsilcileri önce Rus halkını aldattılar, onlara en çok özledikleri şeyleri va'dederek onları aldatıp kendilerine bağladılar ve cinayetlerine ortak ettiler. Sonra da va'dettiklerinin tam tersini uygulıyarak halkı köleleştirdiler. Daha sonra gerçeklerden habersiz başka milletlerin gençlerini ve işçilerini aldatarak memleketlerini komünizmin esaretine soktular. Bugün memleketimizde ve başka ülkelerde anarşizmin kaynağı bolşevizm (Komünizm)dir. Allah'ı, peygamberi, âhireti inkâr eden,vatan millet tanımayan, inançsız ve acımasız, insanları âlet olarak kullanarak milletleri içten yıkmak ve sonra hâkim olarak onları sömürmek isteyen bolşevizme ve komünizme karşı en büyük silâh Allah'a iman ve îslâmiyet'tir. Bolşevizm ve komünizm gibi üvey kardeşleri olan kapitalizm ve faşizm de insanlığa kan ve acıdan başka birşey vermemişlerdir. Gafletten uyanan insanlar, îslâmiyet'in yegâne kurtarıcı olduğunu anlamaya başlamışlardır. îstikbal îslâmındır ve îslâm'ın olacaktır. (Bak: Komünizm)
+bolşevîklîk : (Bolşevizm) Rusya'da kanlı komünizm ihtilalini yapan ve bütün hür dünya milletlerinin de aynı ihtilal metotlarıyla komünizmin hâkimiyeti altına gireceğini savunan Marksist Leninist siyasi görüş. Bu görüşün temsilcileri önce Rus halkını aldattılar, onlara en çok özledikleri şeyleri va'dederek onları aldatıp kendilerine bağladılar ve cinayetlerine ortak ettiler. Sonra da va'dettiklerinin tam tersini uygulıyarak halkı köleleştirdiler. Daha sonra gerçeklerden habersiz başka milletlerin gençlerini ve işçilerini aldatarak memleketlerini komünizmin esaretine soktular. Bugün memleketimizde ve başka ülkelerde anarşizmin kaynağı bolşevizm (Komünizm)dir. Allah'ı, peygamberi, âhireti inkâr eden,vatan millet tanımayan, inançsız ve acımasız, insanları âlet olarak kullanarak milletleri içten yıkmak ve sonra hâkim olarak onları sömürmek isteyen bolşevizme ve komünizme karşı en büyük silâh Allah'a iman ve îslâmiyet'tir. Bolşevizm ve komünizm gibi üvey kardeşleri olan kapitalizm ve faşizm de insanlığa kan ve acıdan başka birşey vermemişlerdir. Gafletten uyanan insanlar, îslâmiyet'in yegâne kurtarıcı olduğunu anlamaya başlamışlardır. îstikbal îslâmındır ve îslâm'ın olacaktır. (Bak: Komünizm)
 bombardiman: Fr. Bomba, top gibi ağır silahlarla yapılan hücum.
 bonkör: Fr. Hulus-i kalb. Kalb temizliği. îyilik.
 bono: îtl. Ticaret senedi. Muayyen bir va'denin sonunda belirli bir paranın belli bir kimseye ödeneceğini bildiren senet.
@@ -2321,8 +2321,8 @@ bornuz: Başlıklı ve kollu hamam havlusu.
 borsa: (Ticarette) Vasıfları belli ölçülere uyan yani standartlaştırılabilen malların örnekleri üzerinden alım satımının yapıldığı devlet kontrolü altında teşkilâtlanmış pazar yeri.
 bostan: (Bustan) Ağacı, çiçeği, yeşilliği çok olan yer, kokulu yer. Sebze bahçesi. * Kavun, karpuz.
 bostan-i hudâ: Huda'nın, Allah'ın bostanı meâlinde olup, îlâhi güzellikleri ve tecelli-i îlâhinin aksettiği yer mânâsında kullanılır. "Vahidiyet mertebesi" diye de söylenmiştir.
-boşanmak : t. Eşi ile olan nikâh bağını bozmak. Eşinden ayrılmak.(Medeni kanun, boşama yetkisini mahkemeye bırakmıştır. îslâm dini evlenmeyi Allah'ın emirleri dahilinde karşılıklı rızaya bağlı hür bir sözleşme olarak gördüğünden kadınla erkek boşanma yetkisinin kimde olacağını da kararlaştırabilirler. îsterlerse mahkemeyi, isterlerse velilerini, isterlerse eşlerden birini yetkili kılabilirler. Görülüyor ki, îslâm dini insanlara medeni kanundan daha çok hak ve hürriyet tanımıştır. îslâmiyet evleneceklerde denkliği, (küfüv) (din ve ahlâkta denklik) şart koşar. Evlendikten sonra bazı bakımlardan anlaşamamazlıklar çıkarsa karşılıklı birbirine katlanmalarını ve sabırlı olmalarını tavsiye eder. Boşanma son çaredir. Eğer istek erkek tarafından geliyorsa mehir denilen tazminatı kadına ödemek zorundadır. Görülüyor ki, îslâmiyet, kadın haklarının korunmasını istemektedir.) (Bak: Aile)
-boşboğaz : t. Yerli yersiz mutlaka bir şey söylemeden içi rahat etmiyen. Saklanması gereken şeyleri söyleyiveren, sır saklamayan.(Eşyada olan asvat, birer savt-ı vücuddur: "Ben de varım" derler. O kâinat-ı sâkit birden söze başlıyor. "Bizi câmid zannetme ey insân-ı boşboğaz!" S.)
+boşanmak : t. Eşi ile olan nikâh bağını bozmak. Eşinden ayrılmak.(Medeni kanun, boşama yetkisini mahkemeye bırakmıştır. îslâm dini evlenmeyi Allah'ın emirleri dahilinde karşılıklı rızaya bağlı hür bir sözleşme olarak gördüğünden kadınla erkek boşanma yetkisinin kimde olacağını da kararlaştırabilirler. îsterlerse mahkemeyi, isterlerse velilerini, isterlerse eşlerden birini yetkili kılabilirler. Görülüyor ki, îslâm dini insanlara medeni kanundan daha çok hak ve hürriyet tanımıştır. îslâmiyet evleneceklerde denkliği, (küfüv) (din ve ahlâkta denklik) şart koşar. Evlendikten sonra bazı bakımlardan anlaşamamazlıklar çıkarsa karşılıklı birbirine katlanmalarını ve sabırlı olmalarını tavsiye eder. Boşanma son çaredir. Eğer istek erkek tarafından geliyorsa mehir denilen tazminatı kadına ödemek zorundadır. Görülüyor ki, îslâmiyet, kadın haklarının korunmasını istemektedir.) (Bak: Aile)
+boşboğaz : t. Yerli yersiz mutlaka bir şey söylemeden içi rahat etmiyen. Saklanması gereken şeyleri söyleyiveren, sır saklamayan.(Eşyada olan asvat, birer savt-ı vücuddur: "Ben de varım" derler. O kâinat-ı sâkit birden söze başlıyor. "Bizi câmid zannetme ey insân-ı boşboğaz!" S.)
 botanîk: Bitkileri inceleyen biyoloji ilmi. (Bak: Biyoloji)
 boykot: (Boykotaj) Fr. Bir şahıs veya devlete karşı alış-verişi, münasebetleri kesmek. Bir ülkeyi, bir topluluğu veya bir şahsı zarara sokmak maksadıyla onunla her türlü ilgiyi kesme. * Bir işten geçici olarak çekilme; işe, çalışmaya hep birlikte katılmama.
 boylam: t. Yer yüzünde bir yerin başlangıç dairesine olan uzaklığının açı cinsinden değeri. (Bak: Tul)
@@ -2401,7 +2401,7 @@ burcas: Hedef. Yüksek bir yerde bulunan nişangâh.
 bu're: çukur. * çölde çukur tarzında yapılan ocak.
 burhan: (Bak: Bürhan)
 burîya: Hasır.
-burjuva ©: Fr. Orta halli olup, ne çok zengin ve ne de çok fakir olan halk. Eskiden Avrupa'da köylü ve asilzade olmayıp şehirde yaşayan halka denirdi. Kendi başına işi ve malı olan, ücretle çalışmayan, ferde bağlı iş hayatını güden sınıftan olan.
+burjuva : Fr. Orta halli olup, ne çok zengin ve ne de çok fakir olan halk. Eskiden Avrupa'da köylü ve asilzade olmayıp şehirde yaşayan halka denirdi. Kendi başına işi ve malı olan, ücretle çalışmayan, ferde bağlı iş hayatını güden sınıftan olan.
 burjuvazî: Fr. Burjuvaların meydana getirdiği içtimai (sosyal) sınıf. Avrupa'da burjuvazi, ticaret ve sanayi ile zenginleşti. Soylular sınıfı ile mücadele ederek Fransız îhtilali ile iktidara geldi. îhtilalde işçilerin, köylülerin, fakir halk tabakalarının desteğini sağladı. Onlara eşitlik, hürriyet, adalet vaad etti. îktidara gelince menfaatlerinin bu çalışan sınıflarınkiyle çatıştığını görerek vaadini yerine getirmedi. Buna karşılık olarak işçiler arasında sosyalizm fikriyle teşkilâtlanma başladı. Bu yeni hareket de yalan sözlerle köylülerin desteğini de sağlıyarak Rusya'da 1917'de kanlı bir ihtilalle iktidarı ele geçirdi. Burjuvaziyi ortadan kaldırdı, o da vaatlerini yerine getirmedi. Burjuvazi, mülkiyeti, kişinin hakkı saydı ve kişi tahakkümünü getirdi. Sosyalizm, mülkiyeti cemiyetin ortak hakkı saydı ve cemiyet adına bir azınlığın elinde bulunan devlet tahakkümünü getirdi. Siyasi, hukuki bütün kuvvetleri elinde bulunduğu için devlet tahakkümü çok daha şiddetli, insafsız, zalim ve kanlı olmuştur. îslâm dini mülk sahibi olarak Allah'ı kabul ettiği için kişi tahakkümünü de, devlet tahakkümünü de reddeder. Bu sebeple insanlık için tek kurtuluş yolu îslâm'dır.
 burkat: Sanem, heykel, put.
 burku': (Berku') Kadınların yüz örtüsü, peçe. * Kâbe örtüsü. * Yedinci kat gök.
@@ -2409,11 +2409,11 @@ burs: Fr. Devlet veya bazı müessese yahut şahıslarca tahsil veya ilmi tetkik
 buruc: (Burc. C.) Burçlar, hisarlar, kuleler. (Bak: Büruc)
 burut: Bıyık.
 burzag: şişmanca, etine dolgun delikanlı. * Delikanlılık çağındaki neşe.
-bus: "öpen" mânasına gelerek birleşik kelimeler yapılır. Meselâ: Damen-bus $: Etek öpen.
+bus: "öpen" mânasına gelerek birleşik kelimeler yapılır. Meselâ: Damen-bus: Etek öpen.
 busa: Bir gemi cinsi.
 busak: Ağız suyu.
 busat: (Bisat. C.) Bisatlar, döşekler, kilimler, minderler, keçe yaygıları.
-busayrî : (şeref-üd-din) (Mi: 1213-1295) Busayr'da doğdu. Meşhur Arap şair ve hattatıdır. "Kaside-i Bürde" sahibidir. Esas ismi "El-Kevakib-üd-Dürriyye fi Medh-i Hayrilberiyye" olan kasidesine; tutulmuş olduğu hastalıktan, rü'yasında Resûlullah'ın hırkasını (bürde) üzerine örtüp şifa bulması sebebiyle "Kaside-i Bürde" ismini vermiştir.
+busayrî : (şeref-üd-din) (Mi: 1213-1295) Busayr'da doğdu. Meşhur Arap şair ve hattatıdır. "Kaside-i Bürde" sahibidir. Esas ismi "El-Kevakib-üd-Dürriyye fi Medh-i Hayrilberiyye" olan kasidesine; tutulmuş olduğu hastalıktan, rü'yasında Resûlullah'ın hırkasını (bürde) üzerine örtüp şifa bulması sebebiyle "Kaside-i Bürde" ismini vermiştir.
 buse: öpme.
 buse-câ: öpecek yer.
 buse-çîn: öpücük alan, öpücük toplayan.
@@ -2426,7 +2426,7 @@ busîden: öpmek.
 bûsîş: şapırtılı öpüş.
 bustan: çiçek ve gül kokularının çok olduğu yer, bahçe.
 bustan-bân: Bahçıvan.
-busula : Pusula.
+busula : Pusula.
 bu'susa: Küçük canavar.
 bu'sut: Derenin ortası.
 butakat: (C.: Bevatık) Pota dedikleri kap ki içinde maden eritirler.
@@ -2570,7 +2570,7 @@ bünyad: Temel, esas. Yapı, binâ.
 bünyamîn: Yakup Aleyhisselâm'ın en küçük oğlu.
 bünyan: Yapı. Bina. Duvar. Esas. Yapı yapmak.
 bünyan-i kavî: Sağlam bina.
-bünyan-i mersus : Kaynaşmış sağlam bina. Birbirine kurşunla kenetlenmiş sağlam yapı.
+bünyan-i mersus : Kaynaşmış sağlam bina. Birbirine kurşunla kenetlenmiş sağlam yapı.
 bünye: Bir şeyin vücut yapısı. Vücut, beden. Fıtrat. * şekil, tarz, sûret.
 bünye-hîz: Vücudu canlandıran, bünyeyi kaldıran.
 bür': (Büru') Hastanın iyileşmeğe başlaması. * Kurtulmak. * Fazilette ve bilgide üstünlük. (Bak: Ber')
@@ -2642,7 +2642,7 @@ bürt: Nebat şekeri. Zelil, aşağılık kimse. * Balta.
 bürtule: (C.: Bürtul) Kalpak dedikleri keçe takke. * Rüşvet.
 büru': Fazilet, ilim ve iyilikte benzerlerine olan üstünlük. * (Hasta) iyiliğe yüz tutma.
 büruc: (Burc. C.) Burç, aslında âşikar şey mânasına gelir. Her bakanın gözüne çarpacak şeklide zâhir olan yüksek köşk mânasına da kullanılmıştır. * Bunlara teşbihen veya zuhur mânâsıyla semâdaki bir kısım yıldızlara veya bazı yıldızların toplanmasından meydana gelen şekillere ve farazi suretlere burc denilmiştir. Bilindiği gibi yıldız kümelerini felekiyatçılar muayyen bâzı suretlere benzeterek her mevsim ve ayda göründükleri şekillere göre isimlendirmişlerdir.Bunların altısı şimal (kuzey) altısı cenub (güney) cihetinde olarak oniki burç kabul edilmiştir. Bu burçların bulundukları sahaya da mıntıkat-ül burûc ismi verilmiştir. Burçların isimleri Hamel, Sevr, Cevzâ, Seretan, Esed, Sünbüle, Mizan, Akrep, Kavs, Cedi, Delv ve Hut'tur.
-büruc suresî ": Kur'an-ı Kerim'in 85. suresi olup Mekke-i Mükerreme'de nazil olmuştur.
+büruc suresî: Kur'an-ı Kerim'in 85. suresi olup Mekke-i Mükerreme'de nazil olmuştur.
 bürûd: Berd, soğuk. * îşten soğuma, bıkma.
 bürudet: Soğukluk. Soğuk olmak. Hararetsizlik. * Mc: Münasebetteki soğukluk. Münaferet. Muhasama.
 bürudet-î muamele: Yapılan muamelenin soğukluğu.
