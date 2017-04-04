@@ -16,6 +16,7 @@
     Word *selectedWord;
     IBOutlet UITableView *table;
     BOOL isSearchActive;
+    IBOutlet UISearchBar *searchBar;
 }
 
 @end

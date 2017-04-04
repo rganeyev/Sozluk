@@ -127,7 +127,7 @@ static NSString *segueID = @"detailSegue";
 }
 
 - (void)initArray {
-    indexArray = @[@"a", @"b", @"c", @"ç", @"d", @"e", @"f", @"g", @"h", @"ı", @"i", @"j", @"k", @"l", @"m", @"n", @"o",
+    indexArray = @[@"{search}", @"a", @"b", @"c", @"ç", @"d", @"e", @"f", @"g", @"h", @"ı", @"i", @"j", @"k", @"l", @"m", @"n", @"o",
             @"ö", @"p", @"r", @"s", @"ş", @"t", @"u", @"ü", @"v", @"y", @"z"];
     //@"ı": 9
     //@"ş": 21
@@ -186,7 +186,12 @@ static NSString *segueID = @"detailSegue";
     if (isSearchActive) {
         return -1;
     }
-    return index;
+    
+    if (index == 0) {
+        [tableView scrollRectToVisible:searchBar.frame animated:NO];
+        return -1;
+    }
+    return index - 1;
 }
 
 
