@@ -36,6 +36,19 @@ def search_word(word):
     return result
 
 
+def process_definition(definition):
+    array = definition.split('*')
+    if len(array) == 1:
+        return definition.strip()
+    i = 1
+    result = ''
+    for item in array:
+        result += str(i) + ') ' + item.strip() + '\n'
+        i += 1
+
+    return result
+
+
 def jsonify():
     letters = ['a', 'b', 'c', 'ç', 'd', 'e', 'f', 'g', 'h', 'ı', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'ö', 'p', 'r', 's',
                'ş', 't', 'u', 'ü', 'v', 'y', 'z']
@@ -53,7 +66,7 @@ def jsonify():
             # print(line)
             index = line.index(':')
             word = line[0:index].strip()
-            definition = line[index + 1:].strip()
+            definition = process_definition(line[index + 1:])
             search = search_word(word).strip()
             result = {'word': word, 'definition': definition, 'search': search}
             f.write(json.dumps(result, ensure_ascii=False))
