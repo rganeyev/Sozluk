@@ -46,7 +46,7 @@ def jsonify():
         lines = f.readlines()
         f.close()
 
-        filename = letter + '.json'
+        filename = '../Lugat Sozluk/SozlukIOS/' + letter + '.json'
         f = codecs.open(filename, 'w', 'utf-8')
 
         for line in lines:
