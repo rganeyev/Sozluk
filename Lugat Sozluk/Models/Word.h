@@ -14,7 +14,7 @@
 @property (nonatomic, strong) NSString *word;
 @property (nonatomic, strong) NSString *definition;
 @property (nonatomic, strong) NSString *all;
-@property (nonatomic, strong) NSString *lowercaseWord;
+@property (nonatomic, strong) NSString *search;
 
 + (Word *)wordWith:(NSString *)jsonString;
 

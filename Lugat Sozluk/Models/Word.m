@@ -14,7 +14,7 @@
 @synthesize all;
 @synthesize word;
 @synthesize definition;
-@synthesize lowercaseWord;
+@synthesize search;
 
 
 + (Word *)wordWith:(NSString *)jsonString {
@@ -23,7 +23,7 @@
     NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:[jsonString dataUsingEncoding:NSUTF8StringEncoding] options:NSJSONReadingAllowFragments error:&error];
     result.word = [dict objectForKey:@"word"];
     result.definition = [dict objectForKey:@"definition"];
-    result.lowercaseWord = [dict objectForKey:@"search"];
+    result.search = [dict objectForKey:@"search"];
     result.all = [NSString stringWithFormat:@"%@: %@", result.word, [result.definition stringByReplacingOccurrencesOfString:@"\n" withString:@" "]];
     
     return result;
@@ -69,15 +69,15 @@
     return [self compareSymbolAtIndex:0 With:symbol];
 }
 
--(NSComparisonResult)compareSymbolAtIndex:(NSUInteger)index With:(unichar)symbol {
-    return ([Word convertSymbol:[lowercaseWord characterAtIndex:index]] - [Word convertSymbol:symbol]);
+- (NSComparisonResult)compareSymbolAtIndex:(NSUInteger)index With:(unichar)symbol {
+    return ([search characterAtIndex:index] - [Word convertSymbol:symbol]);
 }
 
 - (NSComparisonResult)compareWith:(NSString *)searchWord {
     NSUInteger len = searchWord.length;
 
     for (NSUInteger i = 0; i < len; ++i) {
-        if (i >= word.length)
+        if (i >= search.length)
             return NSOrderedDescending;
         NSComparisonResult res = [self compareSymbolAtIndex:i With:[searchWord characterAtIndex:i]];
         if (res != NSOrderedSame) {

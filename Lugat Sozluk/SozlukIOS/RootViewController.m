@@ -147,29 +147,11 @@ static NSString *segueID = @"detailSegue";
         Word *word = [arr objectAtIndex:0];
         if ([word compareSymbolWith:[searchText characterAtIndex:0]] != NSOrderedSame)
             continue;
-
-        NSUInteger left = 0;
-        NSUInteger right = arr.count;
-        while (left < right - 1) {
-            NSUInteger mid = (left + right) / 2;
-            word = [arr objectAtIndex:mid];
-            NSComparisonResult result = [word compareWith:searchText];
-            if (result == NSOrderedDescending) {
-                left = mid;
-            } else {
-                right = mid;
-            }
+        
+        for (Word *temp in arr) {
+            if ([temp compareWith:searchText] == NSOrderedSame)
+                [searchList addObject:temp];
         }
-
-        while (left < arr.count) {
-            word = [arr objectAtIndex:left];
-            NSComparisonResult result = [word compareWith:searchText];
-            if (result == NSOrderedSame) {
-                [searchList addObject:word];
-            }
-            ++left;
-        }
-
 
     }
 }
