@@ -24,8 +24,8 @@
     result.word = [dict objectForKey:@"word"];
     result.definition = [dict objectForKey:@"definition"];
     result.lowercaseWord = [dict objectForKey:@"search"];
-    result.all = [NSString stringWithFormat:@"%@: %@", result.word, result.definition];        
-
+    result.all = [NSString stringWithFormat:@"%@: %@", result.word, [result.definition stringByReplacingOccurrencesOfString:@"\n" withString:@" "]];
+    
     return result;
 
 }
