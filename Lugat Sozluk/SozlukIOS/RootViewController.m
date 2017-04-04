@@ -113,7 +113,7 @@ static NSString *segueID = @"detailSegue";
 
     wordList = [[NSMutableArray alloc] init];
     for (NSString *letter in indexArray) {
-        NSString *fileRoot = [[NSBundle mainBundle] pathForResource:letter ofType:@"txt"];
+        NSString *fileRoot = [[NSBundle mainBundle] pathForResource:letter ofType:@"json"];
         NSString *fileContents = [NSString stringWithContentsOfFile:fileRoot encoding:NSUTF8StringEncoding error:nil];
         NSArray *allWords = [fileContents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]];
         NSMutableArray *letterArray = [[NSMutableArray alloc] init];

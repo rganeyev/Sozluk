@@ -16,7 +16,7 @@
 @property (nonatomic, strong) NSString *all;
 @property (nonatomic, strong) NSString *lowercaseWord;
 
-+ (Word *)wordWith:(NSString *)string;
++ (Word *)wordWith:(NSString *)jsonString;
 
 - (NSComparisonResult)compareWith:(NSString *)searchWord;
 - (NSComparisonResult)compareSymbolWith:(unichar)symbol;

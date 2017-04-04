@@ -17,33 +17,14 @@
 @synthesize lowercaseWord;
 
 
-+ (Word *)wordWith:(NSString *)string {
++ (Word *)wordWith:(NSString *)jsonString {
     Word *result = [[Word alloc] init];
-    
-    NSRange range = [string rangeOfString:@":"];
-    if (range.location != NSNotFound) {
-        result.word = [string substringToIndex:range.location];
-        result.definition = [string substringFromIndex:range.location + 1];
-        result.lowercaseWord = result.word.lowercaseString;
-        
-        NSString *temp = [string substringFromIndex:range.location + 1];
-        NSArray *arr = [temp componentsSeparatedByString:@"*"];
-        if (arr.count == 1) {
-            result.definition = temp;
-            result.all = [NSString stringWithFormat:@"%@: %@", result.word, result.definition];
-        } else {
-            NSMutableString *tempDefinition = [[NSMutableString alloc] init];
-            NSMutableString *allDefinition = [[NSMutableString alloc] init];
-            unsigned int i  = 0;
-            for (NSString *str in arr) {
-                NSString *trimmedStr = [str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
-                [tempDefinition appendFormat:@"%u) %@\n", ++i, trimmedStr];
-                [allDefinition appendFormat:@"%u) %@ ", i, trimmedStr];
-            }
-            result.definition = tempDefinition;
-            result.all = [NSString stringWithFormat:@"%@: %@", result.word, allDefinition];
-        }
-    }
+    NSError *error;
+    NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:[jsonString dataUsingEncoding:NSUTF8StringEncoding] options:NSJSONReadingAllowFragments error:&error];
+    result.word = [dict objectForKey:@"word"];
+    result.definition = [dict objectForKey:@"definition"];
+    result.lowercaseWord = [dict objectForKey:@"search"];
+    result.all = [NSString stringWithFormat:@"%@: %@", result.word, result.definition];        
 
     return result;
 
