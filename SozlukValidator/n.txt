@@ -79,7 +79,7 @@ na-mağlub: Yenilmez, mağlub edilmez.
 na-mahdud: Hudutsuz, sınırsız, sonsuz.
 na-mahrem: Aralarında evlenmeğe mâni olacak kadar yakınlık bulunmayan. şer'an evlenmeğe mâni akrabalığı olmayan erkek veya kadın. * Yabancı.
 na-mahremîyet: Namahremlik.
-na-mahsur : Sonu olmayan, sınırlanmamış, sonsuz.
+na-mahsur : Sonu olmayan, sınırlanmamış, sonsuz.
 na-makbul: Makbule geçmez, kabul olmayan. Kabul edilmeyen.
 na-marzî: Beğenilmeyen, arzu ve isteğe uygun olmayan.
 na-matbu: Basılmamış, tab edilmemiş yazı.
@@ -494,7 +494,7 @@ nakkal: (Nakl. dan) Nakledici. * Hikâyeci. Hikâye anlatan.
 nakkar: Müzik, çalgı. * Gagalıyan. * Ağaç, taş ve madeni eşyayı oyarak ve çukurlaştırıp kabartarak ona mücessem şekiller veren sanatkârlar.
 nakkare: (Bak: Nakare)
 nakkaş: Nakış yapan. Duvar nakışları yapan usta. Süsleme san'atkârı.
-nakkaş-i ezelî : Ezeli Nakkaş. Ezeli olup her şeyin nakşını yapan. Allah (C.C.)
+nakkaş-i ezelî : Ezeli Nakkaş. Ezeli olup her şeyin nakşını yapan. Allah (C.C.)
 nakkaşe: Nakış yapan kadın. Nakışçı.
 nakl: Bir şeyi başka bir yere götürmek, taşımak, yer değiştirmek. * Anlatmak, duyduğu bir şeyi başkasına hikâye etmek, rivâyet etmek. * Bir dilden başka dile çevirmek, terceme etmek. * Eski mest ve çizme. * Yırtık elbiseyi yamamak.
 nakl-bend: Hikâyeci. Masal uyduran.
@@ -699,7 +699,7 @@ nasr suresî: Kur'an-ı Kerim'deki 110. Sure. îza-câe veya Tevdi' Suresi de de
 nasranî: Hristiyanlıkla alâkalı ve ona mensub olan. Hristiyanlardan olan. (Bak: Nasara)
 nasranîyet: Hristiyanlık.(Nasraniyet, ya intifa veya ıstıfa edip îslâmiyete karşı terk-i silâh edecektir. Nasraniyet, bir kaç defa yırtıldı, protestanlığa geldi. Protestanlık da yırtıldı, tevhide yaklaştı. Tekrar yırtılmağa hazırlanıyor, ya intifa bulup sönecek veya hakiki Nasraniyetin esasını câmi' olan Hakaik-ı îslâmiyeyi karşısında görecek, teslim olacaktır.îşte bu sırr-ı azime Hz. Peygamber (A.S.M.) işaret etmiştir ki; "Hz. îsa nâzil olup gelecek, ümmetimden olacak, şeriatımla amel edecektir." M.)
 nasreddîn: (Nasr-üd din) Dine yardımı dokunan.
-nasreddîn hoca : (Mi: 1208 -1284) Mizahlı, güldürücü sözleri ile meşhur bir zâttır. Akşehir, Sivrihisar Medreselerinde okumuş, Selçuklular zamanında yaşamıştır.
+nasreddîn hoca : (Mi: 1208 -1284) Mizahlı, güldürücü sözleri ile meşhur bir zâttır. Akşehir, Sivrihisar Medreselerinde okumuş, Selçuklular zamanında yaşamıştır.
 nasrullah: Allah'ın yardımı.
 nass: Kat'ilik, kesinlik, açıklık. Te'vile ihtimali olmayan söz veya delil. * Kur'ân-ı Kerim veya Hadis-i şerifde bir iş ve mes'ele hakkında olan açıklık ve bu şekilde açık olan kelâm ve âyet. Akide. * Bir haberi kimden aldığını söyleyerek, en nihayet o haberi ilk söyleyene kadar nakledilişi isbat etmek.Bazılarınca istihraç ve izhar mânâlarından me'huzdur. Bir şeyin belâğ ve nihayetine denir. Bundan başka: Delil, haber, seyr-i şedid, ref', hüccet, bürhan, zuhur mânalarına da gelir.
 nass-i hadîs: Hadisin açık, gerçek ifadesi. Muhtemeli olmayan sağlam mânaya delâlet eden lâfız. Delil mânâsına olan "Nass-ül fukaha" bundan alınmıştır.
@@ -708,10 +708,10 @@ nassah: Terzi, hayyat.
 nassî: Nass'a ait. Her türlü şübhe ve tereddüdün ve tenkidin üstünde tutulacak şekilde olan kesinlik, kat'ilik, açıklık. Bedahet. * âyet ve hadisle doğruluğu sâbit olan.
 nassîye: (yun: Dogmatizm) Fls: Bir görüşün doğruluğuna peşin olarak inanan ve bu inanışlarını tenkide tabi tutmayanların düşünüş tarzı. Son heceleri .. izm ile biten görüşler, taraftarlarınca peşin olarak kabul edildiklerinden birer dogmatik görüş örneğidir. Meselâ; komünizm, materyalizm, darvinizim, birer dogmatizm mâhiyetindedirler. îslâmda zorlama yoktur, inanç için bilgi ve tefekkür esastır. Hakiki düşünce hürriyeti îslâmda vardır. îslâm dışında ...izmle biten görüşler önderlerini tartışılmaz otorite olarak kabul eder ve karşı görüşte olanlara her türlü baskı ve zulmü reva görürler.
 nast: Sükut. Konuşurken dinlemek için susmak.
-nasuh : Hâlis. Temiz. Kesin, kat'i. * çok nasihat eden.
+nasuh : Hâlis. Temiz. Kesin, kat'i. * çok nasihat eden.
 nasuhî: (Nasuhiyye) Bozulmaz şekilde tövbe eden.
 nasur: Göz pınarında, mak'at havâlisinde ve diş etlerinde olur bir hastalık.
-nasus : (Bak: Nass)
+nasus : (Bak: Nass)
 nasut: însanlık. însanlar ve onlarla alâkalı şeyler.
 nasutî: Dünya ile ilgili, insanlığa ait, insanlıkla ilgili.
 nasutîyân: însanlar.
@@ -727,7 +727,7 @@ naşîr: Neşreden, yayan. * Bir müellifin eserini bastırıp çıkartan. Edit�
 naşîre: (C.: Nevâşir) Kolu açan adale. * Kuruyup yağmurdan yeşeren ot.
 naşîtat: Meleklerden bir tâife.
 naşîz: Karısına karşı çok zâlim olan koca. * (Kalb) heyecanla coşma. * Kalkmış, kabarmış, atan (damar).
-naşîze : Kocasının hanesinden, izni olmaksızın çıkıp kendisini kocasından haksız yere men'eden kadın. Bu çıkış hakikaten olabileceği gibi, hükmen de olabilir. * Kabarmış, şişmiş.
+naşîze : Kocasının hanesinden, izni olmaksızın çıkıp kendisini kocasından haksız yere men'eden kadın. Bu çıkış hakikaten olabileceği gibi, hükmen de olabilir. * Kabarmış, şişmiş.
 na't: Medih ve senâ ederek, vasıflarını göstererek bir şeyi anlatmak. * Peygamberimiz Aleyhissalâtü Vesselâmı medhederek yazılan kaside.
 nat' (nata'-nit'): (C.: Nütu'-Entâ') Sahtiyan döşek. * Zahir olmak, âşikâre olmak, görünmek.
 nat'-i zemîn: Yer yüzü. Sath-ı Arz.
@@ -1124,7 +1124,7 @@ neffase: (C: Neffâsât) Büyücü kadın.
 neffata: Neft yağı çıkan pınar.
 nefh: Rüzgâr esmek. * Güzel kokunun yayılması. Kokmak. * Vurmak. * Def'etmek, kovmak. * Vuruşmak, kat'etmek.
 nefh: üflemek, şişmek, üfürük. * Kaba kuşluk vaktine varmak.
-nefh-î sur : îsrafil Aleyhisselâm'ın Kıyamet gününde "Sur' denilen boruyu üflemesi. * Kıyamet kopması. (Bak: Acbüzzeneb)
+nefh-î sur : îsrafil Aleyhisselâm'ın Kıyamet gününde "Sur' denilen boruyu üflemesi. * Kıyamet kopması. (Bak: Acbüzzeneb)
 nefha: üfürmek. üfürük. * şişmek. * Kabarık olan.
 nefha: Koku. Rüzgârın hafif esişi. Azıcık koku.
 nef'î: Menfaat ile alâkalı, faydacı. * Sihâm-ı Kaza nâmındaki hicivli şiirleri ile meşhur Erzurum - Hasankale'li olup îstanbul'da yaşamış bir şâirin adıdır. 1634'de 4. Murad devrinde bir hicviyesinden dolayı boğdurulup denize atılmıştır.
@@ -1318,7 +1318,7 @@ nekmet: (Bak: Nikmet)
 nekr: Zeki, akıllı kimse. Pek zeyrek olan. * Dehâ, fetânet.
 nekre: Belirsiz olan. * çıban ve yaradan çıkan kan ve irin. * Garip ve gülünç fıkralar. * Hoş sohbet ve hazır cevap kimse. * Gr: Belirtilmemiş isim, neye delâlet ettiği belli olmayan (harf-i tarifsiz) isim.
 nekre-gû: Tuhaf hikâyeler fıkralar anlatan. Gülünç sözler söyleyen.
-nekre-î mevsule : îki kelime veya mânâyı birbirine bağlayan kelime.
+nekre-î mevsule : îki kelime veya mânâyı birbirine bağlayan kelime.
 nekre-î tâmme: Mübhem mânâ ifade eden kelime.
 neks: Sözünden dönmek. * Bozmak. çözmek. * üzmek. * Dağıtmak. * Münhal ve muhtel olmak.
 neks: çok çekinmek, kaçınmak.
@@ -1533,8 +1533,8 @@ neşl: Taan etmek. * Cezbetmek, kendine çekmek.
 neşm: Zerdali ağacı gibi bir ağaç. * Bir çiçek cinsi.
 neşneşe: Koyun derisini yüzmek. * Zırh sesi. * Su kaynarken ötüp ses çıkmak.
 neşr: Neşretmek, yaymak, bir haberi fâşetmek, herkese duyurmak, şâyi kılmak. * Başıboş cemaat. * Bulutlu günde yel esmek. * îzhar etmek. * Katetmek. * Mecnun veya hastaya duâ yazmak veya okumak.
-neşr-î suhuf : Sahifelerin neşri. * Haşirde, insanların hesab görülmek için dirildiklerinde amel defterlerinin meydana çıkarılıp herkesin amelinin belli oluşu.( $ kelimesiyle ifade eder ki: Haşirde herkesin bütün a'mâli bir sahife içinde yazılı olarak neşrediliyor. şu mes'ele kendi kendine çok acib olduğundan akıl ona yol bulamaz. Fakat, surenin işaret ettiği gibi, haşr-i baharide başka noktaların naziresi olduğu gibi, şu neşr-i suhuf naziresi pek zâhirdir. çünki: Her meyvedar ağaç ve çiçekli bir otun da amelleri var, fiilleri var, vazifeleri var. Esmâ-i îlâhiyyeyi ne şekilde göstererek tesbihat etmiş ise ubudiyetleri var. îşte onun bütün bu amelleri tarih-i hayatlariyle beraber umum çekirdeklerinde, tohumcuklarında yazılıp başka bir baharda, başka bir zeminde çıkar. Gösterdiği şekil ve suret lisaniyle gayet fasih bir surette analarının ve asıllarının a'mâlini zikrettiği gibi dal, budak, yaprak, çiçek ve meyveleriyle sahife-i a'mâlini neşreder. îşte gözümüzün önünde bu Hakimâne, Hafizâne, Müdebbirâne, Mürebbiyâne, Lâtifâne şu işi yapan O'dur ki, der: $Başka noktaları buna kıyas eyle. Kuvvetin varsa istinbat et. S.)
-neşren : Yayılmak suretiyle, neşir yoluyla. Yazarak, dağıtarak.
+neşr-î suhuf : Sahifelerin neşri. * Haşirde, insanların hesab görülmek için dirildiklerinde amel defterlerinin meydana çıkarılıp herkesin amelinin belli oluşu.( $ kelimesiyle ifade eder ki: Haşirde herkesin bütün a'mâli bir sahife içinde yazılı olarak neşrediliyor. şu mes'ele kendi kendine çok acib olduğundan akıl ona yol bulamaz. Fakat, surenin işaret ettiği gibi, haşr-i baharide başka noktaların naziresi olduğu gibi, şu neşr-i suhuf naziresi pek zâhirdir. çünki: Her meyvedar ağaç ve çiçekli bir otun da amelleri var, fiilleri var, vazifeleri var. Esmâ-i îlâhiyyeyi ne şekilde göstererek tesbihat etmiş ise ubudiyetleri var. îşte onun bütün bu amelleri tarih-i hayatlariyle beraber umum çekirdeklerinde, tohumcuklarında yazılıp başka bir baharda, başka bir zeminde çıkar. Gösterdiği şekil ve suret lisaniyle gayet fasih bir surette analarının ve asıllarının a'mâlini zikrettiği gibi dal, budak, yaprak, çiçek ve meyveleriyle sahife-i a'mâlini neşreder. îşte gözümüzün önünde bu Hakimâne, Hafizâne, Müdebbirâne, Mürebbiyâne, Lâtifâne şu işi yapan O'dur ki, der: $Başka noktaları buna kıyas eyle. Kuvvetin varsa istinbat et. S.)
+neşren : Yayılmak suretiyle, neşir yoluyla. Yazarak, dağıtarak.
 neşrî: Neşir ile alâkalı.
 neşrîyât: Gazete, kitap, radyo ve sâir vasıtalarla neşrolunmuş, yayılmış şeyler.
 neşrîyât-i kâzîbe: Yalandan, uydurma sözler.
@@ -1548,7 +1548,7 @@ neşter: Ameliyat bıçağı. Hekim bıçağı.
 neşur: Ziyadesiyle neşreden. Fazla yayan. Dağıtan.
 neşut: Bir balık cinsi. * Kovası katı çekilmeyince su çıkmayan kuyu.
 neşv: Canlıların büyümesi, yetişmesi, boy atması. * Yeniden hayata gelmek.
-neşv ü nema : Büyümek ve gelişmek. 
+neşv ü nema : Büyümek ve gelişmek.
 neşvan: Sarhoş.
 neşvar: Davar gevişi.
 neşvat: (Neşvet. C.) Keşifler, neş'eler, sevinçler.
@@ -1650,7 +1650,7 @@ nevaz: Okşayıcı, taltif edici, iyi edici. (Bak: Nüvaz)
 nevazende: Okşayan, okşayıcı.
 nevazic: (Nâzıc. C.) Kıvama gelmişler, olgunlaşmışlar.
 nevazîl: Nezleler. * Hâdiseler. Belâlar.
-nevazîş : (Nüvaziş) Okşayış, iltifat.
+nevazîş : (Nüvaziş) Okşayış, iltifat.
 nevazîşgâr: Gönül alan, okşayan. îltifat eden.
 nevazîşgârane: Gönül alarak, okşayarak, iltifat ederek.
 nevb: Yakınlık. * îsabet.
@@ -2065,7 +2065,7 @@ nîşad: Bir kimseye yemin vermek.
 nîşande: Hedef. Nişan olarak dikilmiş şey. 
 nîşan(e): îz. Nişan. Alâmet. îşaret. * Yara izi. * Hedef, vurulması istenen nokta. * Hâtıra için dikilen taş. * Taltif için verilen madalya. * Evlenmeden önceki anlaşma ve karar işareti veya merasim. * Tuğra. * Ferman.
 nîşane: (Bak: Nişan)
-nîşane-î tasdîk : Kabul edildiğine dâir işaret, tasdik işareti. * Mu'cizeler.(Kabir, ehl-i iman için bu dünyadan daha güzel bir âlemin kapısı (olduğunu) ihbar eden 124 bin muhbir-i sâdık, ellerinde nişane-i tasdik olan mu'cizeler bulunan enbiyalar ve o enbiyaların haber verdikleri aynı haberleri, keşif ve zevk ve şuhud ile tasdik eden ve imza basan 124 milyon evliyanın aynı hakikata şehadetleri ve hadd ü hesaba gelmeyen muhakkiklerin kat'i delilleriyle o enbiya ve evliyanın aklen ilmelyakin derecesinde isbat ettikleri ve yüzde doksandokuz ihtimal-i kat'i ile "idam ve zindan-ı ebediden kurtulmak ve o yolu saadet-i ebediyeye çevirmek, yalnız iman ve itaatledir" diye ittifaken haber veriyorlar. S.) (Bak: Muhbir-i sâdık)
+nîşane-î tasdîk : Kabul edildiğine dâir işaret, tasdik işareti. * Mu'cizeler.(Kabir, ehl-i iman için bu dünyadan daha güzel bir âlemin kapısı (olduğunu) ihbar eden 124 bin muhbir-i sâdık, ellerinde nişane-i tasdik olan mu'cizeler bulunan enbiyalar ve o enbiyaların haber verdikleri aynı haberleri, keşif ve zevk ve şuhud ile tasdik eden ve imza basan 124 milyon evliyanın aynı hakikata şehadetleri ve hadd ü hesaba gelmeyen muhakkiklerin kat'i delilleriyle o enbiya ve evliyanın aklen ilmelyakin derecesinde isbat ettikleri ve yüzde doksandokuz ihtimal-i kat'i ile "idam ve zindan-ı ebediden kurtulmak ve o yolu saadet-i ebediyeye çevirmek, yalnız iman ve itaatledir" diye ittifaken haber veriyorlar. S.) (Bak: Muhbir-i sâdık)
 nîşangâh: Hedef yeri. Nişan tahtası. * Silâh namlusunun üstünde bulunan, nişan almağa yarayan kısım.
 nîşde (nîşdân): Talep etmek, istemek. * Söz vermek, and vermek.
 nîşdet: Araştırıp sorma. * Kaybolan bir şeyi arama.
@@ -2208,7 +2208,7 @@ nukta: (C.: Nukat-Nukut-Nikât) Nokta.
 nukud: (Nakid. C.) Nakidler, paralar, akçeler, madeni paralar.
 nukud-i mevkufe: Vakfedilen paralar.
 nukul: Nakiller, rivâyetler. Başkasından anlatılanlar. Hikâyeler.
-nukuş : Resimler, nakışlar.
+nukuş : Resimler, nakışlar.
 nukz: (C.: Enkâz) Binâ yıkıntısı.
 nul: Kuş gagası.
 nu'm: Sürur, neşe, sevinç, neşat.
@@ -2256,7 +2256,7 @@ nussah: (Nâsih. C.) Nasihat edenler, öğüt verenler.
 nussar: (Nâsır. C.) Yardımcılar.
 nusu': çok beyaz olmak. * Hâlis olmak.
 nusul: Huruç etmek, çıkmak. * Dühul etmek, girmek. (Ezdaddandır) * (Nasl. C.) Mızrakların uçlarındaki sivri demirler. Temrenler.
-nusus : (Nass. C.) Nasslar. (Bak: Nass)
+nusus : (Nass. C.) Nasslar. (Bak: Nass)
 nuş: îçen, içici. * Tatlı şerbet gibi içilecek şey. * Zevk ve safâ.
 nuşa nuş: îçtikçe içerek, tekrar tekrar içerek, defalarca içerek, içe içe.
 nuşadur: Nişadır.
@@ -2450,8 +2450,8 @@ nüşur: Neşirler. * Yaymalar, dağıtmalar. * öldükten sonraki dirilmeler.(N
 nüşus (neşs): Yüksek olmak, yücelmek. * Nefret etmek. 
 nüşut: Tohumun baş vermesi, uç göstermesi.
 nüşuta: Devenin ayağındaki ilmikli düğüm. (îcabına göre çekip uzatılarak çözülür.)
-nüşuz : Yüksek olmak, yücelmek. * Kadının, erkeğinden kaçıp nefret etmesi.
-nüşuze : Kadının, kocasından nefret edip kaçması. * Fık: Kocasına karşı üstünlük iddia eden kadın.
+nüşuz : Yüksek olmak, yücelmek. * Kadının, erkeğinden kaçıp nefret etmesi.
+nüşuze : Kadının, kocasından nefret edip kaçması. * Fık: Kocasına karşı üstünlük iddia eden kadın.
 nütac: Doğurmak. * Gebe devenin karnındaki yükü.
 nütu: Yumru, çıkıntı. * Yumruluk.
 nütuc: Doğurucu hayvan. * Doğurması yakın olan.

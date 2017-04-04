@@ -18,21 +18,21 @@ def main():
     words = f.readlines()
     f.close()
     cur = 0
-    wordsCount = len(words)
+    words_count = len(words)
 
     for letter in letters:
-        list = []
-        while cur < wordsCount:
+        letter_list = []
+        while cur < words_count:
             word = words[cur]
-            lowerWord = word.lower()
+            lower_word = word.lower()
             print(word)
-            ch = symbol(lowerWord[0])
+            ch = symbol(lower_word[0])
             if ch != letter:
                 break
-            list.append(word)
+            letter_list.append(word)
             cur += 1
         outfile = codecs.open(letter + '.txt', 'w', 'utf-8')
-        outfile.write("".join(list))
+        outfile.write("".join(letter_list))
         outfile.close()
 
 

@@ -305,7 +305,7 @@
 îcaz: (îycâz) Edb: Az söyle çok şey anlatmak. Sözü muhtasar söylemek. çok mânaya gelen kısa cümlenin hâli. Mâruf ve müteârif olan cümleden kısa bir cümle ile maksadı ifâde san'atı.Böyle sözlere mucez, veciz veya vecize denilir.
 îcaz: Kadın eşarbı. Baş örtü.
 îcaz-i bîttakdîr: Maksadı az sözle ifade etmekle beraber fazla olan etraflı mânaların zuhurudur.
-îcaz-i hasr : Lafzan hiçbir hazf olmadığı halde, ibârenin mânaca zengin olmasıdır.
+îcaz-i hasr : Lafzan hiçbir hazf olmadığı halde, ibârenin mânaca zengin olmasıdır.
 îcaz-i hazf: Mânâya halel gelmemek şartı ile ve lâfzi veya akli karine delâleti ile cümleyi tamamlayanlardan birinin hazfıdır.
 îcaz-i makbul : Tazammun ve hazf ile olan icaz.
 îcaz-i muhîll: Sözün istenilen mânayı ifadeye kifayet etmemesi yüzünden mânanın bozulması halidir.
@@ -810,7 +810,7 @@
 îgtîsab: Gasb etmek. Başkasının malını zorla elinden almak.
 îgtîsabat: (îgtisab. C.) Gasbetmeler, başkasının malını elinden zorla almalar.
 îgtîsal: Yıkanmak. Gusletmek. (Bak: Gusül)
-îgtîşaş : Karışıklık. Kargaşalık. Karmakarışık olmak. * Birisinin fena telkinini kabul etmek.
+îgtîşaş : Karışıklık. Kargaşalık. Karmakarışık olmak. * Birisinin fena telkinini kabul etmek.
 îğtîşaşat: (îgtişaş. C.) Karışıklıklar, kargaşalıklar, fenâlıklar.
 îğtîta': örtünme, bir şeye sarınma.
 îgtîyab: Gıybet etmek. Zemmetmek. Yermek.
@@ -955,7 +955,7 @@
 îhsanperver: îhsan edici. îyiliği çok sever.(îhsan ihsandır, eğer nev'e olsa veya muhtaca ve fakire olsa. Sehavet o vakit tam sehavettir, eğer millet için olsa, yahut milleti tazammun eden bir ferde olsa güzeldir. şayet muhtaç olmayan şahsa olsa, şahsı tembel eder. çingeneliğe alıştırır. Elhasıl, millet bâkidir, fert fâni!) (Münazarat)
 îhsar: (Hasr. dan) Birisini işinden alıkoymak. * Fık: Hac için ihrama girmiş bir zâtın, Arafat'ta durmakla ziyaret tavafından; ve umre için ihrama girmiş bir kimsenin de tavaftan men edilmesi. Böyle men edilen zâta "muhsar" denir. * Kısaltma, kısalma. * Sıkıştırma.
 îhsas: Hissetmek. Hissettirmek. Açık anlatmadan kapalıca bahsetmek. * Bulmak. Görmek. Bilmek. Zannetmek. îdrak etmek. Duyurmak.
-îhsas : (Hisse. den) Pay ayırmak. Hisse vermek. * Azletmek.
+îhsas : (Hisse. den) Pay ayırmak. Hisse vermek. * Azletmek.
 îhsas: Kandırmak, tergib, teşvik etmek.
 îhsas: Aşağılık işler yapma. * Cimrilik, pintilik, hasislik.
 îhsas-i ganaîm: Düşmandan ele geçirilen ganimet mallarını paylaşma.
@@ -1076,7 +1076,7 @@
 îhtîsam: (Husumet. den) Düşmanlık, husumet, muhâsame.
 îhtîsar: îcmâl etmek. Sözün kısaltılması. Kısaltmak. * Mat: Sadeleştirme, basitleştirme. Hesapta bir tenasübü en küçük haddine indirme.
 îhtîsaren: îhtisar suretiyle, muhtasar olarak, kısaltarak, tafsilâtsız, kısaca.
-îhtîsas : (Husus. dan) Kendine mahsus kılmak. Bir kimsenin dünyevi veya uhrevi, Kur'âni, îslâmi, imâni bir mesleğe, fen veya san'ata hasr-ı mesâi etmesi; yalnız onunla meşgul olması. (Bu metot insanı muvaffakiyete eriştiren en birinci ve en büyük bir âmildir. Bir kimse yaktığı bir meş'aleyi parlatabilmesi ve bâkileştirebilmesi için o meş'alenin, o nurun pervanesi olması gerekir.) Zübeyir Gündüzalp (R.Aleyh)* Gr: Mütekellim veya muhatab zamiri olan mübtedanın haberinin hükmünü bir isme âit (mahsus) kılma. Bu isim zamiri tâkibeder.(Bir fennin veya bir san'atın medar-ı münakaşa olmuş bir mes'elesinde, o fennin ve o san'atın hâricindeki adamlar ne kadar büyük ve âlim ve san'atkâr da olsalar, sözleri onda geçmez. Hükümleri hüccet olmaz; o fennin icmâ-i ulemâsına dâhil sayılmazlar. Meselâ; büyük bir mühendisin, bir hastalığın keşfinde ve tedavisinde bir küçük tabib kadar hükmü geçmez. Ve bilhassa, maddiyatta çok tevaggul eden ve gittikçe maneviyattan tebaud eden ve nura karşı gabileşen ve kabalaşan ve aklı gözüne inen en büyük bir feylesofun münkirâne sözü maneviyatta nazara alınmaz ve kıymetsizdir.Acaba yerde iken arş-ı azamı temaşa eden, hârika bir dehâ-yı kudsi sahibi olan ve doksan sene maneviyatta terakki edip çalışan ve hakaik-i imaniyeyi ilmelyakin, aynelyakin hattâ hakkalyakin suretinde keşfeden şeyh Geylâni (K.S.) gibi yüzbinler ehl-i hakikatın ittifak ettikleri tevhidi ve kudsi ve manevi mes'elelerde, maddiyatın en dağınık ve kesretin en cüz'i teferruatına dalan ve sersemleşen ve boğulan feylesofların sözleri kaç para eder ve inkârları ve itirazları, gök gürültüsüne karşı sivrisineğin sesi gibi sönük olmaz mı? ş.)
+îhtîsas : (Husus. dan) Kendine mahsus kılmak. Bir kimsenin dünyevi veya uhrevi, Kur'âni, îslâmi, imâni bir mesleğe, fen veya san'ata hasr-ı mesâi etmesi; yalnız onunla meşgul olması. (Bu metot insanı muvaffakiyete eriştiren en birinci ve en büyük bir âmildir. Bir kimse yaktığı bir meş'aleyi parlatabilmesi ve bâkileştirebilmesi için o meş'alenin, o nurun pervanesi olması gerekir.) Zübeyir Gündüzalp (R.Aleyh)* Gr: Mütekellim veya muhatab zamiri olan mübtedanın haberinin hükmünü bir isme âit (mahsus) kılma. Bu isim zamiri tâkibeder.(Bir fennin veya bir san'atın medar-ı münakaşa olmuş bir mes'elesinde, o fennin ve o san'atın hâricindeki adamlar ne kadar büyük ve âlim ve san'atkâr da olsalar, sözleri onda geçmez. Hükümleri hüccet olmaz; o fennin icmâ-i ulemâsına dâhil sayılmazlar. Meselâ; büyük bir mühendisin, bir hastalığın keşfinde ve tedavisinde bir küçük tabib kadar hükmü geçmez. Ve bilhassa, maddiyatta çok tevaggul eden ve gittikçe maneviyattan tebaud eden ve nura karşı gabileşen ve kabalaşan ve aklı gözüne inen en büyük bir feylesofun münkirâne sözü maneviyatta nazara alınmaz ve kıymetsizdir.Acaba yerde iken arş-ı azamı temaşa eden, hârika bir dehâ-yı kudsi sahibi olan ve doksan sene maneviyatta terakki edip çalışan ve hakaik-i imaniyeyi ilmelyakin, aynelyakin hattâ hakkalyakin suretinde keşfeden şeyh Geylâni (K.S.) gibi yüzbinler ehl-i hakikatın ittifak ettikleri tevhidi ve kudsi ve manevi mes'elelerde, maddiyatın en dağınık ve kesretin en cüz'i teferruatına dalan ve sersemleşen ve boğulan feylesofların sözleri kaç para eder ve inkârları ve itirazları, gök gürültüsüne karşı sivrisineğin sesi gibi sönük olmaz mı? ş.)
 îhtîsas: Hissetmek. Sezmek. Duymak. Duygulanmak. Hislenmek.
 îhtîsasîyyun: îhtisas sâhibi kimseler, mütehassıslar.
 îhtîsat: îtibar gösterme, rağbet etme.
@@ -1303,7 +1303,7 @@
 îktîsam: (Kısım. dan) Bölüşmek, paylaşmak.
 îktîsar: (Kasr. dan) Sözü kısa kesmek. Kısaltmak.
 îktîsar: (Kesir. den) Paralamak. Kırılmak.
-îktîsas : Birinin izinden, ardından gitmek. * Kısas istemek. întikam almak. * Kıssa. * Hikâyeyi veya bir haberi doğruca söylemek.
+îktîsas : Birinin izinden, ardından gitmek. * Kısas istemek. întikam almak. * Kıssa. * Hikâyeyi veya bir haberi doğruca söylemek.
 îktîsas: çekip koparma veya koparılma.
 îktîta': Almak. Bir şeyin bir kısmını koparıp almak.
 îktîtab: Yazılmış olan bir şeyin kopyasını çıkarma, suretini alma.
@@ -1461,7 +1461,7 @@
 îlm-î ruh: Ruh ilmi. Psikoloji.
 îlm-î tabakat-ül arz: Arzın tabakalarından bahseden ilim. Jeoloji.
 îlm-î tevhîd: Allah'ın varlığı ve birliğini isbat ve izah etme ilmi. * Akaide müteallik hadis-i şeriflere ehl-i hadis ıstılahında îlm-i Tevhid tabir edilir.
-îlm-î usul : Delillerden hüküm nasıl çıkarıldığını öğreten ilim. (Usul-ü fıkıh, Usul-ü şeri'at veya hikmet-i teşriiye de denir.)
+îlm-î usul : Delillerden hüküm nasıl çıkarıldığını öğreten ilim. (Usul-ü fıkıh, Usul-ü şeri'at veya hikmet-i teşriiye de denir.)
 îlm-î usul-üd dîn: (Bak: îlm-i Kelâm)
 îlma: çalma, hırsızlama, sirkat.
 îlma': Parlatma. * îşaret etme.
@@ -1571,7 +1571,7 @@
 îmam-i alî riza: (Hi: 153 de Medine-i Münevvere'de doğmuştur.) Eimme-i îsnâ Aşer'in yedincisidir. îmam-ı Musa Kâzım'ın oğludur. Tus; yani Meşhed'de medfun olup kabri ziyaretgâhtır. (R.A.)
 îmam-i beyhakî: (Bak: Beyhaki)
 îmam-i buharî: (Bak: Buhari.)
-îmam-i busîrî : (Mi: 1213-1295) îmam-ı Muhammed bin Said "Busayri" diye bilinir. Kaside-i Bür'e ve Hemziyesi ile meşhur üstün bir îslâm şâiridir.
+îmam-i busîrî : (Mi: 1213-1295) îmam-ı Muhammed bin Said "Busayri" diye bilinir. Kaside-i Bür'e ve Hemziyesi ile meşhur üstün bir îslâm şâiridir.
 îmam-i ca'fer-î sâdik: (Hi: 83-148) Hazret-i Ali'nin (R.A.) torununun torunudur. Medine-i Münevvere'de yaşamıştır. Annesi, Hazret-i Ebu Bekir'in soyundandır. Mânevi nüfuzu çok ileri idi, dine büyük hizmetleri görüldü. Demiştir ki: "Kim nefsi için nefsi ile mücâhede ederse, keramete kavuşur, kim de Allah için nefsi ile mücâhede ederse, Allah'a kavuşur." Eimme-i îsnâ Aşerin altıncısıdır. (K.S.)
 îmam-i ebu yusuf: (Hi: 113-182) îmam-ı A'zam'ın fıkha dair eserlerini te'lif etmiştir. Fıkıh sahasının büyük imamlarındandır. Dedesi Sahabe-i Kiramdan Sa'd'dır. (R.A.) îmam-ı Muhammed'le ikisine Fıkıh kitablarında "îmameyn" denir. (K.S.)
 îmam-i gazalî: Ahirete irtihâli Hi: 505 dir. "Hüccet-ül îslâm îmam-ı Muhammed Gazali" diye anılır. O zamanın felsefesinin bâtıl akidelerini red ve cerh ederek Kur'anın eşsizliğini ve hakkaniyet ve mu'cizeliğini isbat etmiş pek çok eserler vermiştir. (K.S.)
@@ -1648,7 +1648,7 @@
 îmsak: Kendini tutmak. Bir şeyden el çekme. * Oruca başlama zamanı. * Hapsetmek. * şer'an müftirat denen şeylerden (orucu bozan şeylerden) nefsi hakikaten veya hükmen men' etmek. * Yemez içmez adamın hâli. Cimrilik, hasislik, pintilik.
 îmsakîye: Ramazanda imsak vakitlerini gösteren cetvel.
 îmsal: Boşuboşuna sarfetme, lüzumsuz yere harcama. Har vurup harman savurma.
-îmsas : (Mass. dan) Emdirme, emdirilme. * Tıb: Suda erimiş ilâcı şırınga etmek.
+îmsas : (Mass. dan) Emdirme, emdirilme. * Tıb: Suda erimiş ilâcı şırınga etmek.
 îmsas: Değdirmek. Elle tutmak. Meshetmek.
 îmşeb: Bu gece.
 îmtar: Yağdırma veya yağdırılma.
@@ -1678,7 +1678,7 @@
 îmtîsal: Nümune kabul etme. * Uymak. Ayrılmamak üzere inkıyad etme. * Mesel ve kıssa söyleme. * Bir şeyin suretine girme. * Muvafakat ve mutabakat etme. * Katili kısas etme. (Bak: Dimağ)
 îmtîsalen: Bağlı olarak, imtisal ederek, uyarak, tâbi olarak.
 îmtîsar: (Bak: îmmisar)
-îmtîsas : Emerek çekilmek, emmek, emilmek. Hazmolunmuş olan maddelerin, damarlar tarafından emilmesi.
+îmtîsas : Emerek çekilmek, emmek, emilmek. Hazmolunmuş olan maddelerin, damarlar tarafından emilmesi.
 îmtîşat: Tarama. Saç veya sakal tarama.
 îmtîyaz: Diğerlerinden ayrılmak. Farklı olmak, benzerlerinden ayrılmak. * Resmi veya hususi izin. * Masraflı veya mes'uliyetli bir işin başkaları yapmamak üzere bir şahıs veya şirket yahut da bir hey'ete tahsis edilmesi.
 îmtîyaz madalyasi: 2. Abdülhamid'in 11/10/1885 tarihli emriyle devlet ve memleket yararına hizmet edenlere, vazifeyle gönderildikleri yerde başarı gösterenlere verilmek üzere çıkarılan madalya. Altun ve gümüşten olmak üzere iki çeşit olan bu madalyaların ön yüzünde II. Abdülhamid'in "Elgazi" tuğrası, bunun altında saltanat arması yer alır. Arka yüzünde: "Devlet-i Osmaniye uğrunda fevkalâde ibraz-ı sadakat ve şecaat edenlere mahsus madalyadır" yazısı altında madalyayı alacak olanın adının yazılacağı boş bir bölüm vardır. En altta 1300 rakamı okunmaktadır.
@@ -2046,7 +2046,7 @@
 înşak: Koklatma. Buruna kokulu bir şey çektirme. * Tuzağa veya ağa iliştirme.
 înşar: ölüyü diriltme. (Bu fiil, Allah'a mahsus olmak kaydiyle: înşar-ı emvat denir.)
 înşat: Ferahlandırma. Neş'elendirme. Sürurlandırma.
-înşaz : Yükseltme.
+înşaz : Yükseltme.
 înşîab: şubelendirme. Ayırma. şubelere ayrılma. * Bölük bölük olma. * Dalbudak verme.
 înşîal: Alevlenme, şulelenme.
 înşîbab: Gençleşme, delikanlı olma.
@@ -2055,7 +2055,7 @@
 înşîhab-i dem: Kanın fışkırması.
 înşîkak: îkiye ayrılma. çatlama. Yarılma.
 înşîkak suresî: Kur'an-ı Kerim'in 84. Suresi olup înşakkat suresi de denir. Mekki'dir.
-înşîkak-i asâ : Değneğin kırılması. * Mc: îhtilaf, karışıklık, ikilik. Birliğin bozulması.
+înşîkak-i asâ : Değneğin kırılması. * Mc: îhtilaf, karışıklık, ikilik. Birliğin bozulması.
 înşîkak-i kamer: Ay'ın parçalanması. Peygamberimiz Hazret-i Muhammed Aleyhissalâtü vesselâmın mu'cizesi eseri olarak gökte ay'ın en parlak olduğu bir zamanda ikiye ayrılması. (...Hem Resul-i Ekrem'in (A.S.M.) mütevatir ve kat'i bir mu'cize-i kübrası "şakk-ı Kamer" dir. Evet, şu "înşikak-ı Kamer" çok tariklerle mütevatir bir surette, îbn-i Mes'ud, îbn-i Abbas, îbn-i ömer, îmâm-ı Ali, Enes, Huzeyfe gibi pek çok eâzım-ı sahâbeden müteaddid tariklerle haber verilmekle beraber, Nass-ı Kur'an ile $ âyeti, o mu'cize-i kübrâyı âleme ilân etmiştir. O zamanın inatçı Kureyş müşrikleri, şu âyetin verdiği habere karşı inkâr ile mukabele etmemişler, belki yalnız "sihirdir" demişler. Demek kâfirlerce dahi Kamerin inşikakı kat'idir. M.)
 înşîlal: şiddetle dökülerek akma. * (Su) uçurumdan dökülerek şelâle meydana getirme.
 înşîmar: Sallana sallana yürüme.
@@ -2550,7 +2550,7 @@
 îsmetmeâb: îsmetlü. Günahsız. Haramdan ve nâmusa dokunur hâllerden çekinen.
 îsmetpenah: îsmetlü, ismetmeâb.
 îsmî: (îsmiyye) îsme mensub, isimle alâkalı. îsmen olup aslen olmayan, varlığı isimden ibâret olan. îsim cinsinden. * Arabçadan iki isimden, yani; müsned ile müsned-i ileyhten mürekkep cümle.
-îsmî ve sifatî : îsme ve sıfata ait.
+îsmî ve sifatî : îsme ve sıfata ait.
 îsmîd: Sürme taşı. * Cenab-ı Peygamber'in kullandığı ve tavsiye ettiği bir cins kırmızı sürme.
 îsmîrar: (Semrâ. dan) Esmerleşme, kara olma, kararma.
 îsmîyyet: îsim olma hâli, isimlilik.
@@ -2709,7 +2709,7 @@
 îstî'fa: Affını, azlini, bağışlanmasını istemek. * Kendisinin memuriyetten affını taleb etmek.
 îstîfa: Alacağını borçludan tamam olarak almak. * Kabz-ı ruh etmek.
 îstî'fa-yi kusur: özür dileme.
-îstîfa-yi kisas : Kısas hakkının bilfiil yerine getirilmesi. Câni hakkında kısas cezasının tatbik edilmiş olması.
+îstîfa-yi kisas : Kısas hakkının bilfiil yerine getirilmesi. Câni hakkında kısas cezasının tatbik edilmiş olması.
 îstîfade: Faydalanmak. Faydalanmağa çalışmak. * Anlayıp öğrenmek. * Tahsil etmek.
 îstî'faf: Kötü şeylerden çekilmek. * îffetlilik iddia etmek.
 îstîfaka: Hastalıktan kurtulup iyileşme. * Sarhoşluktan ayılma.
@@ -3017,7 +3017,7 @@
 îstîs'ad: (Sa'd. dan) Uğurlu sayma. Mes'ud nazarıyla bakma.
 îstîsak: Bir kimseden itimad edilir bir vesika veya senet alma.
 îstîs'al: (Suâl. den) Soruşturma, tahkik etme, araştırma.
-îstîsal : (Asl. dan) Kökten koparıp çıkarmak. * Tıb: Bedenden kesilmesi veya koparılması istenen bir parçayı, uru kökünden koparmak.
+îstîsal : (Asl. dan) Kökten koparıp çıkarmak. * Tıb: Bedenden kesilmesi veya koparılması istenen bir parçayı, uru kökünden koparmak.
 îstî'sam: îsmetli olmayı istemek. Temizlik istemek. Günah ve ayıplardan temiz olmak.
 îstî'sar: Bir işin güç olmasını arzulama.
 îstî'sar: Seçme, ayırma, intihab etme. * Seçip benimseme.
@@ -3126,7 +3126,7 @@
 îsvîdad-i cîld: Cildin kararması, esmerleşmesi.
 îsyan: îtaatsizlik. Emre karşı gelmek. Ayaklanmak.
 îş: Yaşayış. Yaşamak. Zevk u safa sürmek. * Hayata medar olan ve geçinilen şeyler. * Ekmek. Gıda.
-îş u nûş : Yiyip içme. Sefahet. îşret ve eğlence.
+îş u nûş : Yiyip içme. Sefahet. îşret ve eğlence.
 î'şa': Akşam yemeği verme.
 îş'a': Güneş, ışığını dağıtma. şuâlanma.
 îşa: (Ağaç) çiçek açma.
@@ -3176,20 +3176,20 @@
 îşhaz: Keskinleştirme, bileme.
 îşhaz-i seyf: Kılınç bileme.
 îşka': şaki ve bedbaht eylemek.
-îşka' «: şikâyet ettirme. * întikam alma, öç alma. * Darıltma, gücendirme.
+îşka' «: şikâyet ettirme. * întikam alma, öç alma. * Darıltma, gücendirme.
 îşkâl: Güçleştirme, müşkilleştirme. * Zorlaştırma. * şüpheli ve karışık olma. 
 îşkampavîya: îtl. Harp gemilerinden asker naklinde kullanılan en büyük filika. îşkampaviya'lar sandal büyüklüğünde, yalnız ondan daha geniş ve yüksekti. Karaya asker sevkiyatında, gemiye erzak ve levâzım alınmasında kullanıldığı gibi eskiden donanmaya su alınacağı zaman su ile doldurulur, diğer bir filika yedeğinde geminin bordasına götürülerek geminin tulumbasıyla içindeki su nakledilirdi. (O.T.D.S.)
 îşkâr: Av. * Avlama.
 îşkembe: Geviş getiren hayvanların midesinin en büyük kısmı. * Karın.
 îşkence: Eziyet, azab.
 îşkeste: Kırık, bitik. Kırılmış.
-îşkîl : şüphe, vesvese. Vehimlenmek. * Hile, tezvir. * Sağ ön ayağı ve sol arka ayağı beyaz olan at.
+îşkîl : şüphe, vesvese. Vehimlenmek. * Hile, tezvir. * Sağ ön ayağı ve sol arka ayağı beyaz olan at.
 îşküfe: çiçek.
 îşkünc: çimdik.
 îşlek: t. çok işler, fazlaca işlenen. * Tecrübeli, idmanlı, alışık.
 îşmam: Hafif olarak duyurmak, koklatmak. Hissettirmek. * Kibirden dolayı başı dik yürümek. * Tecvidde: Bir harfe zamme veya kesre vermek ve bunu hafifçe hissettirmek. Harfin sesini genizden hissettirmek, biraz duyurmak, harfi çıtlatmak.
 îşmar: Göz kırpma, işaret.
-îşmî'zaz : Can sıkma, üzülme, yüzünü ekşitme. * Titreyip ürperme.
+îşmî'zaz : Can sıkma, üzülme, yüzünü ekşitme. * Titreyip ürperme.
 îşnuşe: Aksırık.
 îşpîhte: Su sızıntısı. * Yayılmış, saçılmış.
 îşporta: (Arnavutça) Seyyar satıcı tezgahı. * Yayvan yemiş sepeti.

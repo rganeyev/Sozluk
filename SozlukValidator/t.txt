@@ -127,7 +127,7 @@ tab'an: Yaratılıştan. Doğuştan. Huy ve tabiat itibariyle.
 taban: Işıklı. Parlak. * Parlayan güneş.
 tabançe: El ayası, avuç içi.
 tabankeş: Yaya yürüyen piyade.
-tabasbus : Yaltaklanmak. Kendini küçülterek riyakârlıkla kendini beğendirmeğe çalışmak.
+tabasbus : Yaltaklanmak. Kendini küçülterek riyakârlıkla kendini beğendirmeğe çalışmak.
 tabasbusât: (Tabasbus. C.) Tabasbuslar, alçakça yalvarmalar, yaltaklanmalar.
 tabassur: (Basar. dan) Dikkatle bakıp, esasını kavrama. Dikkatle gözetiş.
 tabaşîr: "Hind hıyarı" denilen bir deva.
@@ -310,7 +310,7 @@ tafra: Yukarıya sıçrama atlama. * Yukarıdan atıp tutma. * îlmiye sınıfı
 tafs (tufus): ölüm, mevt.
 tafsîl: Etraflı olarak bildirmek. * Açıklamak, şerh ve beyan etmek. îzah etmek.
 tafsîlât: (Tafsil. C.) Açıklamalar, izahlar.
-tafsîlen : Uzun uzadıya, tafsilâtlı olarak.
+tafsîlen : Uzun uzadıya, tafsilâtlı olarak.
 tafsîye: Halâs etmek, kurtarmak.
 tafşele: Kaygana aşı. * Baklava.
 taftaf: Yumuşak taze ot. * Ağacın çevresi.
@@ -366,7 +366,7 @@ tagrîr: (C.: Tagrirât) (Gurur. dan) Müşteriyi aldatma. Gurur verip aldatma. 
 tagrîs: (Gars. dan) Yere dikme.
 tagrîs: Aç etmek.
 tagrîz: Batırmak. * çekirgenin kuyruğunu yere batırması.
-tagşîş : (Gışş. dan) Karıştırmak saflığını gidermek. Değerli bir şeyi değeri olmayan şeylerle karıştırmak. * Aklı gidermek. * Hayran etmek.
+tagşîş : (Gışş. dan) Karıştırmak saflığını gidermek. Değerli bir şeyi değeri olmayan şeylerle karıştırmak. * Aklı gidermek. * Hayran etmek.
 tagşîye: (Gışâ. dan) örtmek, örtünmek. Bürünmek. * (Gaşi. den) Kendinden geçirilmek.
 tagtîye: örtme, örtülme.
 tagun: Azgın kimseler. * Cenab-ı Hakk'ın emir ve kanunlarından gaflet edip haksızlık edenler, zulüm edenler.
@@ -497,7 +497,7 @@ tahassul: Hâsıl olmak. üremek. Husule gelmek. Bir araya birikip sâbit ve bâ
 tahassun: Bir kaleye kapanmak. Korunmak. îstihkâma çekilmek. Tahkim edilmiş bir yere sığınmak.
 tahassungâh: Sağlam korunulacak yer. Sağlam sığınak.
 tahassur: Eli böğüre koymak.
-tahassus : (Husus. dan) Hususi ve mahsus olmak. Bir kimseye mahsus kılınmak.
+tahassus : (Husus. dan) Hususi ve mahsus olmak. Bir kimseye mahsus kılınmak.
 tahassün: (Bak: Tahassun)
 tahassür: Pıhtılaşmak. Kanın pıhtılaşması.
 tahassür: (Hasret. den) Hasret çekmek. Elde edilmesi istenilen ve ele geçirilemeyen şeye üzülmek.
@@ -637,7 +637,7 @@ tahlîlat: (Tahlil. C.) Tahliller, analizler.
 tahlîm: (Hilm. den) Kızgınlığını ve öfkesini giderme. Sâkinleştirme, yumuşatma, teskin etme.
 tahlîs: Kurtarmak. Halâs etmek. * Bir şeyin özünü, hülâsasını almak.
 tahlîs-î gîrîban: Yakayı kurtarma, kurtarılma.
-tahlîsen : Hülâsa ederek. özünü söyleyerek.
+tahlîsen : Hülâsa ederek. özünü söyleyerek.
 tahlîsîyye: Can kurtaran.
 tahlît: (Halt. dan) Karıştırma. Karıştırılma. Bozma. Saflığını giderme. Fâsid etme.
 tahlîye: (Haly. den) Süslemek. Donatmak. Donatılmak. * Tatlılandırmak. * Kim: Bir madde içine hassasını veya kokusunu değiştirmek için şeker, baharat ve benzeri gibi şeyleri katmak.
@@ -729,10 +729,10 @@ tahsîr: Hasret bırakma. Hasret etme. * Kuşun tüyünü bırakması, dökmesi.
 tahsîr: (Hasar. dan) Zarara sokma, ziyana uğratma.
 tahsîr: înce belli etmek.
 tahsîs: Rağbet ettirmek. Meylettirmek, yöneltmek.
-tahsîs : (Husus. dan) Belli bir gaye için kullanmak. * Bir şey veya bir kimse için ayırmak. * Kredi. Tazminat.
-tahsîsat : Bir kimse veya bir daire için ayrılmış para veya mal.
+tahsîs : (Husus. dan) Belli bir gaye için kullanmak. * Bir şey veya bir kimse için ayırmak. * Kredi. Tazminat.
+tahsîsat : Bir kimse veya bir daire için ayrılmış para veya mal.
 tahsîsat-i mesture: (Bak: Mesture)
-tahsîsen : Tahsis suretiyle. * Hele, en çok.
+tahsîsen : Tahsis suretiyle. * Hele, en çok.
 tahşîd: Yığma. Toplama. Biriktirme. Yığınak. * Bir mevzu hakkında çok izah ve konuşmalar.
 tahşîdât: Birikmeler. Toplamalar. Yığınaklar. * Konuşarak fazla üzerinde durma.
 tahşîm: öfkelendirme, kızdırma, gazablandırma.
@@ -1167,7 +1167,7 @@ tanne: Balçığı çok olan yer.
 tansîb: Yükseğe kaldırma.
 tansîf: (Nısıf. dan) Yarı yarıya bölmek. Ayırmak.
 tansîr: Hristiyanlaştırma.
-tansîs : Tetkikten sonra karar vermek. * Bir mes'eleyi ve hükmü, şer'i delillere isnad etmek.
+tansîs : Tetkikten sonra karar vermek. * Bir mes'eleyi ve hükmü, şer'i delillere isnad etmek.
 tansîyon: Fr. Tıb: Kanın damarlara içerden yaptığı tazyik, basınç.
 tantana: çok lüks içinde olmak. Gösteriş. Gürültü patırtı.
 tantîf: Kulağına küpe geçirmek.
@@ -1306,7 +1306,7 @@ tarsîf: Birbirine bitiştirip kuvvetlendirme, sağlamlaştırma.
 tarsîg: Vüs'at vermek, genişlik vermek.
 tarsîn: Sağlamlaştırmak. Bir şeyi tahkik etmek. * Bilmek. * Metanet ve cesaret vermek.
 tarsînât: (Tarsin. C.) Sağlamlaştırmalar.
-tarsîs : (Rasas. dan) Kurşunla perçinleme, kurşunlaştırma, sağlamlaştırma. * Kadının sadece gözleri görünecek şekilde örtünmesi.
+tarsîs : (Rasas. dan) Kurşunla perçinleme, kurşunlaştırma, sağlamlaştırma. * Kadının sadece gözleri görünecek şekilde örtünmesi.
 tartabe: Keçiyi sağmak için çağırmak.
 tartîb: Islatma, rutubetlendirme. Islatılma. * Tâzelik verme. * Hoşlandırılma. * Hurmanın rutubetli olması.
 tartîb-î lîsan: Güzel bir söz söyleyerek dili mânen tatlılaştırma.
@@ -1364,12 +1364,12 @@ tasavîr: (Tasvir. C.) Tasvirler, resimler.
 tasavül: Karşılıklı hamle etmek.
 tasavün: Hıfzetmek, korumak.
 tasavvu': Ayrılmak, perâkende olmak.
-tasavvuf : Kalbi dünyanın fâni işlerinden ayırıp Allah (C.C.) sevgisi ile bağlamak. Tarikat ehli olmak. (Bak: Tarikat)(îmam-ı Gazali, îmam-ı Rabbani gibi muhakkıkin-i ehl-i tarikat derler ki: "Birtek Sünnet-i Seniyyeye ittiba' noktasında hâsıl olan makbuliyet, yüz âdâb ve nevâfil-i hususiyeden gelemez! Bir farz, bin sünnete müreccah olduğu gibi; bir Sünnet-i Seniyye dahi, bin âdâb-ı tasavvufa müreccahtır!" demişler. M.)
+tasavvuf : Kalbi dünyanın fâni işlerinden ayırıp Allah (C.C.) sevgisi ile bağlamak. Tarikat ehli olmak. (Bak: Tarikat)(îmam-ı Gazali, îmam-ı Rabbani gibi muhakkıkin-i ehl-i tarikat derler ki: "Birtek Sünnet-i Seniyyeye ittiba' noktasında hâsıl olan makbuliyet, yüz âdâb ve nevâfil-i hususiyeden gelemez! Bir farz, bin sünnete müreccah olduğu gibi; bir Sünnet-i Seniyye dahi, bin âdâb-ı tasavvufa müreccahtır!" demişler. M.)
 tasavvufî: Tasavvufla alâkalı. Tasavvufa ait.
 tasavvuh: Yaş otun üstü sıcaktan kurumak.
-tasavvur : Bir şeyi zihinde şekillendirmek. Tasarlamak. * Düşünce, tasarı. Arzu. (Bak: Dimağ)
+tasavvur : Bir şeyi zihinde şekillendirmek. Tasarlamak. * Düşünce, tasarı. Arzu. (Bak: Dimağ)
 tasavvur-u şahsî: şahsi düşünce. şahsa ait tasavvur. (Bak: Himmet)
-tasavvurat : (Tasavvur. C.) Tasavvurlar.
+tasavvurat : (Tasavvur. C.) Tasavvurlar.
 tasavvurî: Tasavvurla alâkalı. Tasavvura ait.
 tasavvün: Kendini sakınmak.
 tasaykul: Pürüzsüzlük.
@@ -1437,7 +1437,7 @@ tasrîd: Azaltmak.
 tasrîf: îstediği şekilde idare etmek. Maslahatta tasarrufa izin vererek mutasarrıf kılmak. * Bir şeyi bozup değiştirerek türlü şekillere koymak, evirip çevirmek. * Gr: Bir kelimenin veya fiilin çeşitli zamanlara göre sıra ile söylenişi. Sarf kaidesi üzere kelimenin şeklini başka kelimelere tebdil eylemek. Meselâ: Türkçe'de bir fiilin tasrifi: Hal sigasına göre: Gelmek fiilinin şekli: Geliyorum, geliyorsun, geliyor, geliyoruz, geliyorsunuz, geliyorlar gibi.
 tasrîh: Belirtmek. Açık açık anlatmak. Zâhir ve ayân kılmak.
 tasrîhat: (Tasrih. C.) Açık açık anlatmalar. îzah etmeler.
-tasrîhen : Açık olarak, açıktan bildirerek.
+tasrîhen : Açık olarak, açıktan bildirerek.
 tasrîye: Koyunun sütü çoğalsın diye birkaç gün sağmayıp bırakmak.
 tass: (Tasse) Oğlancıklar oyunundan bir oyun.
 tass (tasse): (C.: Tâs-Tusûs-Tassât) Tas, çukurca kap.
@@ -1445,14 +1445,14 @@ tassuc: (C: Tasâsic) Cânip. Nâhiye. îki tane.
 tast: (C.: Tısâs-Tısât) Büyük tas.
 tastîm: Tamamlamak. Tekmil etmek. * Muhkem etmek, sağlamlaştırmak.
 tastîr: (Satr. dan) Yazı yazma. Satırlar meydana getirme.
-tasvîb : Münasib görmek. Uygun ve doğru bulmak. * Aşağı indirmek.
+tasvîb : Münasib görmek. Uygun ve doğru bulmak. * Aşağı indirmek.
 tasvîbât: (Tasvib. C.) Tasvib edilip uygun görülen şeyler.
 tasvîben: Doğru bularak, tasvib ederek, münâsib görerek.
 tasvîbkerde: Doğru bulunmuş, tasvib edilmiş, münasib görülmüş.
 tasvîg: (C.: Tasvigat) (Siga. dan) Kalıp şekline koymak. Eritip kalıba dökme. * Batırmak. * Kuyumculuk yapmak.
-tasvîr : Hiss ve mahsusata münhasır olan ifâde. * Bir şeyi söz veya yazı ile anlatmak. Resim yapmak. * Bir şeye şekil ve suret vermek. Resim. * Edb: Görebildiğimiz ve hissedebildiğimiz şeyleri bize gösterebilecek veya hariçte vücudu olmayan fakat hissedilen şeyleri duyurabilecek meleke.
-tasvîrat : (Tasvir. C.) Tasvirler.
-tasvîrî : Tasvire dair, tasvirle ilgili.
+tasvîr : Hiss ve mahsusata münhasır olan ifâde. * Bir şeyi söz veya yazı ile anlatmak. Resim yapmak. * Bir şeye şekil ve suret vermek. Resim. * Edb: Görebildiğimiz ve hissedebildiğimiz şeyleri bize gösterebilecek veya hariçte vücudu olmayan fakat hissedilen şeyleri duyurabilecek meleke.
+tasvîrat : (Tasvir. C.) Tasvirler.
+tasvîrî : Tasvire dair, tasvirle ilgili.
 tasvît: (Savt. dan) Seslendirme, seslenme, ses çıkarma.
 tasy: Sütü ve suyu çok içmekten dolayı vücudun ağırlaşması. * Süst olmak, zayıflamak.
 tasyîr: Bir surete koyma. Bir şekle vardırma.
@@ -1604,7 +1604,7 @@ tavr-i bâtil: Bâtıl, kötü hal ve vaziyetler.
 tavrî: Vahşi adam veya kuş. * Ehad, vâhid, bir.
 tavs: örtmek.
 tavsîb: Tenbellik ve süstlük.
-tavsîf : Vasıflarını söylemek. Bir şeyin iç yüzünü, ne ve nasıl bir şey olduğunu anlatmak. Vasıflandırmak. * Bilgi, ilim.
+tavsîf : Vasıflarını söylemek. Bir şeyin iç yüzünü, ne ve nasıl bir şey olduğunu anlatmak. Vasıflandırmak. * Bilgi, ilim.
 tavsîf-î bî-l-fezaîl: Faziletlerini zikrederek tavsif etmek.
 tavsîfât: (Tavsif. C.) Tavsifler. Vasıflandırmalar.
 tavsîl: (Vasl. dan.) Ulaştırma, vardırma.
@@ -2689,7 +2689,7 @@ tehvîm: (C.: Tehvimât) Hafif uyku.
 tehvîn: (Hevn. den) Kolaylaştırma. * Ucuzlatma. Ucuzlatılma. * Alçaltma. Alçaltılma. * Cevr ve hakaret eylemek. Saymamak. Hakir görmek.
 tehvîr: Suyu veya diğer sıvıları döktürmek.
 tehvîs: Yedirmek, yemek yedirmek.
-tehvîş : Karma karışık etme. * Bir yere toplama.
+tehvîş : Karma karışık etme. * Bir yere toplama.
 tehvîye: (Hevâ. dan) Havalandırma.
 tehyî': (Tehyie - Tehiyye) (C.: Tehiyyât) Hazırlama, hazırlanma.
 tehyîb: (C.: Tehyibât) Heybetli gösterme, heybetli gösterilme.
@@ -3852,7 +3852,7 @@ tesaüb: Esneme. * Gaflette bulunma. Boş bulunma.
 tesaül: Birbirine sual etme, soru sormak.
 tesavî: îki şeyin birbirine denk olması. Birbirine müsavi ve misil olmak. îki taraf da aynı ve bir derecede bulunmak (Tesâvi-i tarafeyn de denir.)
 tesavî-î kuvâ: Kuvvetlerin müsaviliği, eşitliği.
-tesavîr : (Tasvir. C.) Tasvirler.
+tesavîr : (Tasvir. C.) Tasvirler.
 tesavüb: Esnemek. * Gafil olmak, gaflette bulunmak.
 tesavüb: Sövmek, sövüşmek.
 tesavük: Yürek zayıflığından eğilip sendelemek.
@@ -4066,7 +4066,7 @@ teşaff: Kap içinde olan suyu içmek.
 teşahh: Bahillik edişmek.
 teşahhub: Akmak, seyelan etmek.
 teşahhum: (şahm. dan) Yağlanma, semirme, şişmanlama.
-teşahhus : (C.: Teşahhusât) şahıslanma, belirlenme. Tarif edilebilir hâle gelme.
+teşahhus : (C.: Teşahhusât) şahıslanma, belirlenme. Tarif edilebilir hâle gelme.
 teşahus: Deprenmek. Muhtelif etmek, çeşitli yapmak.
 teşahüd: Hazır olmak.
 teşakî: (şekvâ. dan) Birbirinden şikâyet etme. * Dertleşme.
@@ -4078,7 +4078,7 @@ teşam: Yılışmak, gülüşmek. * Koklaşmak.
 teşamuh: (şemh. den) Yüce, büyük, yüksek olmak. Yükselmek.
 teşanü': Buğz edişmek, kin gütmek.
 teşarük: Ortaklık etme. Birbirine ortak olma.
-teşa'şu' : şaşaalanma, parıldama.
+teşa'şu' : şaşaalanma, parıldama.
 teşatüm: (şetm. den) Sövüşme.
 teşa'u': Fiz: Işığın merkezden etrafa doğru dalgalanması.
 teşa'ub: Perâkende ve kol kol olup bölükler ve şubeler sahibi olma. * Bozuk bir şeyin düzelmesi. * Iraklaşmak.
@@ -4152,7 +4152,7 @@ teşe'ub: Budaklanmak. * Perâkende olmak, dağılmak, saçılmak.
 teşe'üm: Kötüye yorma. Uğursuz sayma. Bu anlayış dinimizde men edilmiştir. * Sola dönme. * Sola yatma.
 teşevvuk: şevklenme, istek gösterme, arzu etme, sevinme.
 teşevvüh: çirkinlik.
-teşevvüş : Karma karışık olma. * Bulanıklık, karışıklık.
+teşevvüş : Karma karışık olma. * Bulanıklık, karışıklık.
 teşeytun: Yaramazlık etmek.
 teşeyyu': şiilik taslamak. şii olma. (Bak: şia) * Vedalaşmak. * Ardınca ve peşinden gitmek.
 teşeyyuh: şeyh olduğunu iddia etmek. şeyhlik taslama. * îhtiyarlama, yaşlanma.
@@ -4169,7 +4169,7 @@ teşhîr: Göz önüne serme, gösterme. Sergi serip âleme ilân etme. * Meşhu
 teşhîr-î sîlâh: Silâh çekme.
 teşhîrgâh: Sergi yeri, herkese gösterme yeri.
 teşhîrgâh-i enâm: Mahlukatın herkese gösterildiği yer, dünyâ.
-teşhîs : şahıslandırma. şekil ve suret verme. Seçme, ayırma, ne olduğunu anlama. Tanıma. * Hastalığın ne olduğunu anlayıp bilmek. * Edb: Canlılandırmak, suretlendirmek. * Eşyaya şahsiyet vermek.
+teşhîs : şahıslandırma. şekil ve suret verme. Seçme, ayırma, ne olduğunu anlama. Tanıma. * Hastalığın ne olduğunu anlayıp bilmek. * Edb: Canlılandırmak, suretlendirmek. * Eşyaya şahsiyet vermek.
 teşhît: Kana bulaştırmak.
 teşhîye: "Gönlün ne isterse sana vereyim" demek.
 teşhîz: (C.: Teşhizât) (şahz. dan) Sivriltme, keskinleştirme. * Bileme. * Gücünü, kuvvetini artırma. *Uyandırma.
@@ -4212,7 +4212,7 @@ teşrîh: Bir kitap veya ibareyi anlaşılır şekilde açıklamak, tafsilât ve
 teşrîhat: Açıklamak, tafsilât vermek, inceden inceye araştırmak.
 teşrîhat-i hîkemîye: Hikmet ve felsefe nazarıyla yapılan araştırma, açıklama.
 teşrîî: (Teşriiye) şeriatla, kanun ile, kanun yapma ile alâkalı, şeriata müteallik, kanuna dair.
-teşrîî masunîyyet : (Masuniyyet-i teşriiye) Milletvekillerinin Meclis'te izhar ettikleri fikir ve verdikleri reylerden, mes'uliyete tâbi olmamaları.
+teşrîî masunîyyet : (Masuniyyet-i teşriiye) Milletvekillerinin Meclis'te izhar ettikleri fikir ve verdikleri reylerden, mes'uliyete tâbi olmamaları.
 teşrîk: Güneşlendirme. Güneşte kurutma. * Eti parçalayıp güneşte kurutma. * Doğu tarafına gitme.
 teşrîk: Ortak etme. îştirak ettirme.
 teşrîk tekbîrlerî: Zilhiccenin dokuzuncu günü, yani Kurban Bayramının arefe günü, sabah namazından başlayarak, bayramın dördüncü günü ikindi namazına kadar olan, her farz namazın selâmından sonraki alınan tekbirler.
@@ -4233,8 +4233,8 @@ teşvîk: şevklendirme. şevke getirme. Kışkırtma. Kaldırma. Cesaret verme.
 teşvîk: Diken bitmek. * Ağacın dikenli olması.
 teşvîkat: (Teşvik. C.) îsteklendirmeler, şevke getirmeler. Kışkırtmalar.
 teşvîr: îçinde bulunma. îçine alma, içine alıp gizleme. * Satılık olan hayvanı pazara çıkarıp gösterme.
-teşvîş : Karıştırma. Karma karışık etme. Bulandırma.
-teşvîşîyyet : Karışıklık, bozukluk.
+teşvîş : Karıştırma. Karma karışık etme. Bulandırma.
+teşvîşîyyet : Karışıklık, bozukluk.
 teşvît: Tüyü ve kılı gitsin diye ateşe tutmak.
 teşvîye: Kebap yapmak. Kebap vermek.
 teşyî': Uğurlamak. Gideni selâmetlemek. Yolcu etmek. * Cesaretlendirmek.
@@ -4308,7 +4308,7 @@ tevagguz: çok sıcak olmak.
 tevahhî: Daha çabuk, acele, sür'atli.
 tevahhî: Talep etmek, istemek.
 tevahhud: Vahid, tek olmak.
-tevahhuş : Korkmak. ürkmek. Kaçmak. * Hâli, tenhâ ve ıssız olmak.
+tevahhuş : Korkmak. ürkmek. Kaçmak. * Hâli, tenhâ ve ıssız olmak.
 tevahuk: Cemaat olup gitmek. Topluluk hâlinde gitmek.
 tevaîf: (Bak: Tavaif)
 tevak: îstekli kimse.
@@ -4336,9 +4336,9 @@ tevarüd: Vârid olma, gelme. Yetişme, vâsıl olma. * Arka arkaya gelmek. * Ed
 tevarüs: Mirasa konmak, birisine diğerinden irsen geçmek. Miras yemek.
 tevarüsât: (Tevarüs. C.) Tevarüsler, mirasa konmalar. * îrsen geçmeler, irsi olarak geçmeler.
 tevasî: (Vasiyet. den) Vasiyetleşme. Birbirine tavsiye etme.
-tevassul : Ulaşma, kavuşma, bitişme. * Nikâh yolu ile hısımlık, münasebet peydâ etme.
+tevassul : Ulaşma, kavuşma, bitişme. * Nikâh yolu ile hısımlık, münasebet peydâ etme.
 tevasuk: (Vusuk. dan) Birbiriyle andlaşma. Birbirine güvenip itimad ederek andlaşma.
-tevasül : Birbirine ulaşma.
+tevasül : Birbirine ulaşma.
 tevatür: Kuvvetli haber. * Müteaddid şeyler birbiri ardınca zâhir olmak. * Bir hususun söylenmesi hemen herkesin ağzında olup, gezmek. şâyia. * Fık: îçinde yalan ihtimali olmayan ve bir cemâate dayanan kuvvetli haber, ferdi olmayıp cemaate ait olan sağlam haber.(Mâlumdur ki; üç dört muhtelif yoldan gelenler, aynı bir hâdiseyi söyleseler, yakini ifâde eden tevâtür derecesinde o hadisenin kat'i vukuuna delâlet eder.îşte, meşrebce ve meslekce ve isti'dâdca ve asırca gayet muhtelif ayrı ayrı bütün muhakkikinin muhtelif tabakatından ve evliyânın muhtelif turuklarından ve asfiyanın muhtelif mesleklerinden ve hükema-i hakikiyenin muhtelif mezheblerinden olan bütün ehl-i keşif ve zevk ve şuhud ile ittifak etmişler ki: kâinat mezâhirinde ve mevcudat âyinelerinde görülen mehâsin ve kemâlât, bir tek Zât-ı Vâcib-ül Vücud'un tecelliyat-ı kemalidir ve cilve-i cemal-i esmasıdır. S.)(...Sahabeler, Kur'anın ve âyetlerin hıfzından sonra en ziyade, Resul-ü Ekrem'in (A.S.M.) ef'al ve akvalinin muhafazasında, bâhusus ahkâma ve mu'cizata dair ahvâline bütün kuvvetleriyle çalıştıklarını ve sıhhatlerine pek çok dikkat ettiklerini, tarih ve siyer şehadet ediyor. Resul-ü Ekrem'e (A.S.M.) ait en küçük bir hareketi, bir sireti, bir hali ihmal etmemişler. Ve etmediklerini ve kaydettiklerini, kütüb-ü ehadisiyye şehâdet ediyor. Hem asr-ı saâdette, mu'cizatı ve medar-ı ahkâm ehadisi, kitabetle çoklar kaydedip yazdılar. Hususan Abadile-i Seb'a kitabetle kaydettiler. Hususan Tercüman-ül Kur'an olan Abdullah îbn-i Abbas ve Abdullah îbn-i Amr îbn-i As, bahusus otuz kırk sene sonra, Tabiinin binler muhakkikleri, ehadisi ve mu'cizatı yazı ile kaydettiler. Daha ondan sonra, başta dört imam-ı müçtehid ve binler muhakkik muhaddisler naklettiler, yazı ile muhafaza ettiler. Daha hicretten ikiyüz sene sonra başta Buhari, Müslim, Kütüb-ü Sitte-i Makbule, vazife-i hıfzı omuzlarına aldılar. îbn-i Cevzi gibi şiddetli binler münekkidler çıkıp; bazı mülhidlerin veya fikirsiz veya hıfızsız veya nâdanların karıştırdıkları mevzu ehadisi tefrik ettiler, gösterdiler. Sonra ehl-i keşfin tasdikiyle; yetmiş defa Resul-ü Ekrem'in (A.S.M.) temessül edip, yakaza halinde Onun sohbetiyle müşerref olan Celâleddin-i Süyuti gibi allâmeler ve muhakkikler, ehadis-i sahihanın elmaslarını, sair sözlerden ve mevzuattan tefrik ettiler. îşte bahsedeceğimiz hâdiseler, mu'cizeler; böyle elden ele (kuvvetli, emin, müteaddit ve çok, belki hadsiz ellerden) sağlam olarak bize gelmiş.îşte buna binaen; "Bu zamana kadar uzun mesafeden gelen, şu zamandan tâ o zamana kadar bu hâdiseleri nasıl bileceğiz ki, karışmamış ve sâfidir?" hatıra gelmemelidir. M.)(Naklolunan haberler eğer tevatür suretinde olsa, kat'idir. Tevatür iki kısımdır. Biri: "Sarih Tevatür" biri: "Manevi Tevatür" dür. Manevi tevatür de iki kısımdır. Biri: "Sükûti" dir. Yâni, sükût ile kabul gösterilmiş. Meselâ: Bir cemaat içinde bir adam, o cemaatin nazarı altında bir hâdiseyi haber verse, cemaat onu tekzib etmezse, sükût ile mukabele etse, kabul etmiş gibi olur. Hususan haber verdiği hâdisede cemaat onunla alâkadar olsa, hem tenkide müheyya ve hatâyı kabul etmez ve yalanı çok çirkin görür bir cemaat olsa, elbette onun sukûtu o hâdisenin vukuuna kuvvetli delâlet eder. îkinci kısım tevatür-ü manevi şudur ki: Bir hâdisenin vukuuna, meselâ "Bir kıyye taam, ikiyüz adamı tok etmiş." denilse; fakat onu haber verenler, ayrı ayrı surette haber veriyor... biri bir çeşit, biri başka bir surette, diğeri başka bir şekilde beyaân eder.. fakat umumen, aynı hâdisenin vukuuna müttefiktirler. îşte, mutlak hâdisenin vukuu; mütevatir-i bilmânadır, kat'idir. îhtilâf-ı suret ise, zarar vermez. M.)
 tevatürât: (Tevatür. C.) Tevatürler, ağızdan ağıza dolaşıp yayılan haberler.
 tevatüren: Ağızdan ağıza yayılarak. Tevatür suretiyle.
@@ -4354,9 +4354,9 @@ tevazzu': Konulma, konulmuş. Bir şeyin bir yere konuşu.
 tevazzuh: (Bak: Tavazzuh)
 tevbe: (Tövbe) Yaptığı fenalığa pişman olmak. Allah'dan afv dilemek. Bir daha işlememeye azmetmek. Estağfirullah deyip, pişmanlık duymak. (Bak: Afv)
 tevbe suresî: Kur'an-ı Kerim'in 9. suresidir. Berae Suresi de denir. Medenidir.
-tevbe-î nasuh : Sâdık tevbe. Nasuh tevbesi. Rücu' ettiği günaha bir daha dönmemek veya tevbe eylediği günahı bir daha yapmamak için kasd ve niyet etmek ve bunda tam kararlı olmak.
+tevbe-î nasuh : Sâdık tevbe. Nasuh tevbesi. Rücu' ettiği günaha bir daha dönmemek veya tevbe eylediği günahı bir daha yapmamak için kasd ve niyet etmek ve bunda tam kararlı olmak.
 tevbekâr: Tevbeli, yaptığına pişman olmuş olan.
-tevbeşîken : Tevbesini bozan.
+tevbeşîken : Tevbesini bozan.
 tevbîh: Azarlama. Levm etme.
 tevbîhat: (Tevbih. C.) Azarlamalar, tekdirler.
 tevbîhat-i şedîde: şiddetli tekdir ve azarlamalar.
@@ -4416,7 +4416,7 @@ teverrüs: (Veraset. den) Mirasçı olma. Vâris olma.
 tevessu': (Bak: Tevessü')
 tevessuh: (Vesah. dan) Paslanma, kirlenme.
 tevessuk: (Vüsuk. dan) înanıp güvenerek ve itimad ederek dayanma.
-tevessul : (Bak: Tevassul)
+tevessul : (Bak: Tevassul)
 tevessü': (C.: Tevessüât) Genişleme, yayılma. Vüs'at bulma. * Zahmetsiz herkese yer bulunma.
 tevessüât: (Tevessü'. C.) Genişlemeler.
 tevessüb: (Vesb. den) Atlama, sıçrama.
@@ -4425,10 +4425,10 @@ tevessüen: Genişleme suretiyle. Tevessü ederek.
 tevessül: Allah'ın dergâhına yaklaştıracak amel işlemek. * Sarılmak. * Baş vurmak. * înanmak. * Sebeb tutmak. * Hırsızlık.
 tevessülen: Başvurarak, girişerek. Sebep tutarak.
 tevessüm: Bir şeyin işaretlerine bakarak iyice anlamak.
-teveşşî : Saç ve sakalı kır olmak, alacalanmak.
+teveşşî : Saç ve sakalı kır olmak, alacalanmak.
 teveşşuh: (C.: Teveşşuhât) Süslenme, takıp takıştırma. * Kadın gerdanlığını takma.
 tevettür: Gerginleşme, gerilme.
-tevettür-ü a'sab : Sinirlerin gerilmesi, sinirlenme. (Bak: Tevtir)
+tevettür-ü a'sab : Sinirlerin gerilmesi, sinirlenme. (Bak: Tevtir)
 tevettür-ü habl: îpin gerilmesi.
 teve'ur: Bir şeyin güçlenerek halli ve yenilmesi müşkil olması. * Bir hususta çetin zorlukla karşılaşmak. * Konuşanın çapraşık söylemesinden ve anlaşılmadığından dolayı, dinleyenin hayrette kalması.
 teveyyül: (C.: Teveyyülât) Vâveylâ etme. çığlık koparma.
@@ -4448,13 +4448,13 @@ tevgîr: (Mübalağa ile) Sıcaklatmak.
 tevhîd: Birleme. Bir Allah'tan başka îlâh olmadığına inanma. Lâ ilahe illallah sözünü tekrarlama. Her yerde ve her şeyde Allah'tan başkasının te'sir hâkimiyeti olmadığını anlamak, bilmek ve bilerek yaşamak. * Edb: Allah'ın varlığına ve birliğine dair yazılan manzume.însanlar, Allah'ın birliğine inananlar ve birliğine inanmayanlar olarak ikiye ayrılır. Allah'a inanmayanlar sözü, aslında Allah'ın birliğine ve sıfatlarına inanmayanlar sözünün kısaltılmış şeklidir. çünkü insanı ve kâinatı kim yaratmıştır? Sorusuna inananlar da inanmıyanlar da cevap vermektedir. înanmayanların verdikleri cevaplardan "kendi kendine olmuştur" sözü hem mantıksızlık, hem de varlığı bir ilâh gibi tasavvur ettiklerinden kâinatta mevcut varlıklar kadar ilâh edinmiş olurlar. "Muhtelif sebepler ve şartların bir araya gelmesiyle yaratılmıştır" diyenler, sebepleri ilâh olarak kabul etmiş ve kendisine kâinattaki sebeplerin sayısı kadar ilâhlar edinmiş olur. "Tabiat yaratmıştır" diyenlere gelince: Tabiattaki varlıklar atomlardan meydana geldiğinden hem atomu bir ilâh yerine koymuş olur ve atomlar sayısınca ilâh edinmiş olur. Demek ki Allah'ın birliğine inanmayan inkârcılar, kendi düşüncelerinin ürünü olan ilâhlara tapan putperestlerden başka birşey değildir.(Kur'an-ı Mu'ciz-ül Beyan, tevhid ve ferdiyeti pek çok tekrar ile, kuvvetli bir hararetle, yüksek bir halâvetle ders verdiği gibi, bütün enbiyâ ve asfiyâ ve evliyâ en büyük zevklerini ve saadetlerini kelime-i tevhid olan Lâ ilahe illallah'da buluyorlar. L.)(Arkadaş! Tevhid iki çeşit olur: Birisi âmiyâne tevhiddir ki, -Allah'ın şeriki yok ve bu kâinat Onun mülküdür - der. Bu kısım tevhid sahiplerinin fikirce gaflet ve dalâlete düşmeleri korkusu vardır. îkincisi hakiki tevhiddir ki, -Allah birdir, mülk onundur, vücud onundur. Her şey Onundur der. Lâyetezelzel bir itikada sahiptirler. Bu kısım tevhid sahipleri her şeyin üstünde Cenab-ı Hakk'ın sikkesini görür ve her şeyin cephesinde bulunan mührünü, damgasını okur. Ve bu sâyede huzuri bir tevhid melekesi mâliki olurlar ki, dalâlet ve evhamın taarruzundan kurtulurlar. M.N.)(Tevhid, yalnız tasavvurdan ibaret bir marifet değildir. Belki îlm-i Mantık'ta, tasavvura mukabil ve marifet-i tasavvuriyeden çok kıymettar ve bürhanın neticesi olan ve ilim denilen tasdiktir. Ve tevhid-i hakiki öyle bir hüküm ve tasdik ve iz'an ve kabuldür ki; her bir şeyle Rabbini bulabilir ve her şeyde Hâlıkına giden bir yolu görür ve hiç bir şey huzuruna mâni olmaz. ş.)
 tevhîd suresî: Kur'an-ı Kerim'in 112. Suresidir. îhlâs Suresi gibi çok isimleri de vardır. (Bak: îhlâs Suresi)
 tevhîd-î kible: Sadece bir yere müteveccih olmak. Bir kıbleden başka kıble kabul etmemek. * Mc: Sadece bir üstad kabul etmek.
-tevhîd-î şuhud : Her nereye bakılırsa Allah'ın birliğini anlamak, hissetmek. * Görüş birliği. 
+tevhîd-î şuhud : Her nereye bakılırsa Allah'ın birliğini anlamak, hissetmek. * Görüş birliği.
 tevhîden : Birleştirerek, tevhid olarak.
 tevhîf: Sopa ile vurmak.
 tevhîm: (C.: Tevhimât) (Vehm. den) Vehme düşürme. Vehimlendirme.
 tevhîm: Bir nesneye gönül vermek. * Hâmile olmak ricâsını etmek.
 tevhîn: (Vehn. den) Zayıf kılmak, zâfiyete duçâr eylemek veya edilmek. * Zayıfa nisbet etmek veya edilmek.
-tevhîş : ürkütme, kaçırma, korkutma.
+tevhîş : ürkütme, kaçırma, korkutma.
 tevhîşât: (Tevhiş. C.) ürküp kaçmasına sebep olmalar, ürkütmeler.
 tevhîye: Acele etmek.
 te'vîb: Tesbih etmek. * Sabahtan akşama kadar seyretmek.
@@ -4762,7 +4762,7 @@ tirs: (C.: Etrâs) Kâğıt, sahife.
 tisyar: Arslan. * Sivri sinek.
 tişe: Ufak çocuk.
 tival: Uzun olanlar.
-tival-i mufassal : Kur'an-ı Kerim'de 49'uncudan 85'inciye kadar olan sureler.
+tival-i mufassal : Kur'an-ı Kerim'de 49'uncudan 85'inciye kadar olan sureler.
 tiybe: Helâl. * Güzel, temiz.
 tiyere: şom ve yaramaz görmek.
 tiyn: çamur. Balçık.
@@ -5001,7 +5001,7 @@ tura: (Aslı: Tuğra) t. Topuz gibi yapılmış mendil, kuşak gibi oyun âleti.
 turab: Toprak, toz.
 turame: Dişte olan kamaşma.
 turan: Eski îranlılar tarafından Türkistan ve Tataristan taraflarına verilen isimdir. Turan, eskidenberi Türklerin oturduğu yerlere denirdi. "Türk" ile "Tur" kelimeleri arasındaki benzerlik de bu iki ismin bir asıldan ibaret olduğunu gösteriyor.
-turbuş : Takke, külah. Başa giyilen örtü. Fes.
+turbuş : Takke, külah. Başa giyilen örtü. Fes.
 turfanda: Mevsiminden önce yetiştirilen meyve veya sebze.
 turfe: (C.: Etrâf) Nâziklik, yumuşaklık. * Nimet. * Güzel yemek. * Zarif, iyi nesne. * üst dudağın ortasında fazlalık olarak yumru et olması. (O kişiye "etref" derler.
 turfe: Görülmemiş, tuhaf, yeni şey. şaşılacak şey.
@@ -5027,7 +5027,7 @@ turuş: Ekşi.
 tus: Tabiat. * Asıl.
 tusen: Serkeş ve sert at.
 tusu': Dokuz bölükte bir bölük.
-tuşe : Azık. ölmeyecek kadar yenecek şey.
+tuşe : Azık. ölmeyecek kadar yenecek şey.
 tuşe-î râh: Yol azığı, yol yiyeceği.
 tut: Dut.
 tutanak: (Bak: Zabıt)

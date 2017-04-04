@@ -238,9 +238,9 @@ fasîs: Seyelan etmek, akmak.
 fasît daîre: (Bak: Fâsid daire)
 fasl: (Fasıl) îki şey arasındaki ek yeri. Mafsal. * Hak söz. Hak ile bâtılın arasını fark ve temyiz ile olan hüküm ve kaza. (Buna "Faysal" da denir) Halletmek. Ayrılma. çözme. * Bölüm. * Mevsim. * Aynı makamda çalınan şarkı. * çocuğu memeden kesmek. * Birini zemmetmek. Gıybet.
 fasl-i bahar: îlkbahar.
-fasl-i gül ô: Gül mevsimi, ilkbahar.
+fasl-i gül ô: Gül mevsimi, ilkbahar.
 fasl-i harîf: Güz mevsimi.
-fasl-i hazân : Sonbahar, güz.
+fasl-i hazân : Sonbahar, güz.
 fasl-i hîtâb: îki söz arasını ayıran kelime veya isimlerden biri. önsözden sonra asıl maksada giriş. * Fık: şahitlerin gösterdiği delil veya yeminlerinden sonra hâkimin hükmetmesi. * Hakkı bâtıldan ayırarak, nizaı ayırt edip kesmek ve halletmek. Herşeyi kemal-i vüzuh ile fasledip hakikatını göstermek.
 fasl-i şîtâ: Kış mevsimi.
 fasl-i zamanin sahîfe-î selâsesî: Geçmiş, şimdiki ve gelecek zaman. * Asr-ı saadetten evvelki devir, Asr-ı saadet ve ondan sonraki zamanlar.
@@ -248,7 +248,7 @@ fasm: Bir şeyi tam kesmeyip ilişik bırakmak.
 fass: Yüzük taşı. * Kemiğin oynak yeri. * Meyve içi. Lüb. * Kitabın bend ve mebhası. * Mektup ve emsâlinin mühürünü açmak. * Mc: Gözbebeği.
 fassad: (Fasd. dan) Kan alıcı, kan alan. * Cerrah.
 fassal: Dedikoducu. Herkesin kusurunu sayıp döken. * însanları medh ü sena eden kimse.
-fassas : Yüzük taşı yapan kimse.
+fassas : Yüzük taşı yapan kimse.
 fasur: Gümüş tabak.
 fasye: Darlıktan ve belâdan kurtulmak.
 faş: Meydana çıkmış. Yayılmış. * Anlaşılmış olan.
@@ -267,7 +267,7 @@ fâtir-üs semâvât: Gökleri yaratan, Allah.
 fâtîh: Açan, fetheden. Teshir eden, zapteden. * Kapıları selâmet üzere açan, Cenab-ı Hak.
 fâtîh sultan mehmed han: (1432 - 1481) En meşhur Osmanlı Padişahlarındandır. ll. Murat Han'ın oğlu ve ll. Bayezid Han'ın babası ve 7. pâdişahtır. Edirne'de doğmuş ve Gebze'de vefat etmiştir. Resul-i Ekrem'in (A.S.M.) medhine mazhar olmuştur. Peygamberimiz "îstanbul mutlak fetholunacaktır." müjdesini vermişti ve onu feth eden kumandan ve askerlerini medh ü senâ etmişti. Dört-beş lisan bilen Sultan Fâtih, saltanatı boyunca büyüklü küçüklü 17 devleti aldığı gibi 29 Mayıs 1453 Salı günü îstanbul'u fethederek îslâma kazandırdı ve orta çağa son verdi. En eski ve büyük Bizans Kilisesi olan Ayasofya'yı putlardan temizledi ve orasını sâdece Cenab-ı Hakk'a ibadet edilen camiye çevirdi ve kıyamete kadar câmi' kalmasını yazılı vasiyet ile vakfeyledi, Müslüman Türk milletine bıraktı. (R. Aleyh)(Meşhur îslâm seyyahı ve tarihçisi Evliya çelebi, Seyahatnâme'sinde diyor ki: "îlk îstanbul kadısı (hâkimi) olan Hızır Bey çelebi'nin huzurunda, haşmetli padişah Fâtih ile bir Rum mimarı arasında şöyle bir muhakeme cereyan eder:Büyük bir âbidenin inşasında kullanılacak iki mermer sütunu Fâtih, bir Rum mimarına teslim eder. Mimar da, Fâtih'in arzusunun hilâfına olarak, bu sütunları üçer arşın kesip kısaltır. Fâtih, cezaen Rum mimarının elini kestirir. Rum mimarı da, Fâtih aleyhine dâva açar. Bunun üzerine mahkemeye celb edilen Büyük Padişah, baş köşeye geçmek istemiş. Birden bire, hâkimin şu ihtariyle karşılaşmış: - Oturma Beyim! Hasmınla mürafaa-i şer'i olacaksın; ayakta beraber dur!Hızır Bey çelebi; bu koca şanlı padişah-ı maznuna, haksız el kestirdiği için, kendisinin de kısasa tâbi olduğunu ve elinin kesileceğni bildirir.Fakat mimar kısası istemediği için, Büyük Fâtih günde on altun tazminata mahkûm olur; ve hatta kısastan kurtulduğu için bu tazminatı kendiliğinden yirmi altuna çıkarır." îslâm mahkemesinin adâletinin şanlı misallerinden biri olan şu misal, bize en haşmetli hükümdarlarla en âciz ferdlerin huzur-u mahakimde müsavi olduğunu gösteriyor. î.î.)
 fâtîha: Bir şeyin başlangıcı, ibtidası. * Mübaşeret. Başlamak. * Karar vermek. * Bir duânın sonunda veya duâya başlarken Fâtiha Suresini okumayı hatırlatan ifade. * Kur'an-ı Kerim'in birinci suresi. (Bak: Seb'ul mesâni)
-fâtîha-î kelâm ¯¯: Sözün başlangıcı.
+fâtîha-î kelâm "": Sözün başlangıcı.
 fatîk: (C: Fitâk) çeri ve öncü olan kimse.
 fatîk(e): (C.: Futtâk-Fevatik) Eline fırsat geçtikçe adam öldüren kimse.
 fatîm: Sütten kesilmiş çocuk.
@@ -314,10 +314,10 @@ fazîh: Hurma koruğundan yapılan şarap.
 fazîh(a): çirkin, fena. * Utanmaz, rezil.
 fazîha: (C: Fazayıh) Alçaklığı, edebsizliği gerektiren iş veya şey.
 fazîlet: Değer. Meziyet, iyilik, ilim ve iman, irfan itibarı ile olan yüksek derece. Dini ve ahlâki vazifelere riayet derecesi. Fazl ve hüner cihetiyle olan yüksek derece. Bir şeyin başka şeylerden cemal ve kemal ve fayda cihetiyle üstünlüğü, müreccah olmasına sebep olan keyfiyet. (Zâta mahsus hasletin cem'i "fazâil" dir. şecaat, in'am ve ihsan gibi, müteaddid meziyete dair faziletlerin cem'i "fevâzıl"dır.)
-fazîletfüruş  : Kendini faziletli göstermeğe çalışan. Fazilet satan.
+fazîletfüruş  : Kendini faziletli göstermeğe çalışan. Fazilet satan.
 fazîletmeâb: Faziletin sığınağı olan kimse, yâni çok faziletli.
-fazîletmend ¯: Faziletli, iyi huylu.
-fazîletperver ¯: Fazilet sahibi, faziletsever.
+fazîletmend ": Faziletli, iyi huylu.
+fazîletperver ": Fazilet sahibi, faziletsever.
 fazîr: Kırmızı, büyük karınca. * Geniş, bol nesne.
 fazîz: Meni denilen sıvı.
 fazîz: Tatlı su.
@@ -348,7 +348,7 @@ fecîa: (C.: Fecâyi') Belâ, felâket, âfet, musibet, fâcia.
 fecîr: (Bak: Fecr)
 fecm: Geniş. * Bevletmek, işemek.
 fecr: Tan yerinin ağarması. şafak. Sabah vakti, güneş doğmadan evvel şarkta hâsıl olan kızıllık. * Bir şeyi genişçe ikiye ayırmak. * Günah işlemek. Fücur ve fısk işlemek. Yalan söylemek. * Tekzib eylemek. * îsyan ve muhalefet eylemek. * Haktan sapmak. Meyletmek. * Söğmek. * Bühtan eylemek. * Su akıp gitmek. * Karışmak. (L.R.)
-fecr suresî ¯: Kur'an-ı Kerim'in 89. suresi.
+fecr suresî ": Kur'an-ı Kerim'in 89. suresi.
 fecr-î âtî: Gelecekteki fecr. 1908 meşrutiyet inkılâbından sonra Servet-i Fünun mecmuası etrafından toplanan bir kısım gençlerin kurmak istedikleri ekolün (cemiyetin) adıdır.
 fecr-î kâzîb: (Bak: Fecr-i sâdık)
 fecr-î sâdik: Sabaha karşı şark ufkunda yayılmaya başlayan beyaz bir aydınlık. Bunun mukabili birinci fecirdir ki, bir aydınlıktan sonra tekrar aydınlık gider. Bu birinci aydınlığa fecr-i kâzib denir. Sabah namazının vakti, fecr-i sâdıkta başlar.
@@ -446,13 +446,13 @@ felah-yab: Kurtulan, kurtuluşa eren, felah bulan.
 felahan: Sapan. Taş atmaya mahsus âlet.
 felahat: çiftçilik, ekincilik, ziraat, haraset. (Bak: Filahet)
 felak: Tan zamanı, subh, fecir. * îki tepe arasındaki düzlük. * Bütün mahlukat. * Suçlunun ayağına vurulan tomruk, falaka. * Cehennem.
-felak suresî ¯: Kur'an-ı Kerim'de 113. suredir. Nâs Suresiyle beraber ikisine Muavvezeyn; îhlâs suresi ile beraber olursa üçüne Muavvezât adı verilir. (Bak: Muavvezetan)
+felak suresî ": Kur'an-ı Kerim'de 113. suredir. Nâs Suresiyle beraber ikisine Muavvezeyn; îhlâs suresi ile beraber olursa üçüne Muavvezât adı verilir. (Bak: Muavvezetan)
 felaket: Belâ, musibet, âfet, dâhiye. Bedbahtlık.
 felaketdîde: Felakete düşmüş. Felâket görmüş olan.
 felaketzede: Belâya uğramış, bir musibete düşmüş, acınacak hale gelmiş olan.
 felan: însanlar içinde alem isimlerden kinâye bir isim.
 felasîfe: Felsefeciler. Filozoflar, felsefe ile uğraşanlar. * Düşüncesiz, kaygısız, rahat yaşayanlar. * Dinsizler.
-felasîfe-î yunan ¯¯: Yunan feylesofları.
+felasîfe-î yunan "": Yunan feylesofları.
 felat: Sahrâ, çöl. şenliksiz yer.
 felc: Nüzul, inme. Vücudda bir kısmın veya çok kısımların hareket etmekten âciz kalışı. * îki kısma yarılmak. * Küçük nehir. * Fevz, zafer.
 felces: Haris kimse. * Baldırı ve mak'adı zayıf olan kadın.
@@ -490,7 +490,7 @@ fellaz: Bostancı.
 felluce: (C: Felâlic) Ziraate müsait yer.
 fels: (Füls) (C: Fülüs) Pul, Bakır para. * Balık pulu.
 felsefe: Yunanca (Philosophos)dan Arapçalaşmış. Feylesofların mesleği. * îlm-i hikmet. * Maddeyi, hayatı ve bunların çeşitli tezâhürlerini, sebeblerini, ilk unsurları ve gaye cihetinden inceleyen fikri çalışma ve bu çalışmaların neticelerini toplayan ilim. * Herkesin hususi fikri. Mantık. * Bir ilmin prensipleri. * Marifet ve hikmet sevgisi. * Meşhur bir feylesofa göre olan hususi prensipler, nazariyeler. * Tabiat, huy ve mizaç sakinliği; rahatlık. (Bak: Hikmet, Nokta-i nazar)(Hikmet-i felsefe ile hikmet-i Kur'aniyenin hayat-ı içtimaiye-i beşeriyeye verdiği terbiyeler: Amma hikmet-i felsefe ise hayat-ı içtimaiyede nokta-i istinadı, "kuvvet" kabul eder. Hedefi, "menfaat" bilir. Düstur-u hayatı, cidal tanır. Cemaatlerin râbıtasını "Unsuriyet, menfi milliyeti" tutar, Semerâtı ise, "Hevesât-ı nefsaniyeyi tatmin ve hâcât-ı beşeriyeyi tezyid"dir. Halbuki: Kuvvetin şe'ni, "Tecavüz" dür. Menfaatın şe'ni, her arzuya kâfi gelmediğinden üstünde "Boğuşmaktır." Düstur-u cidâlin şe'ni, "çarpışmaktır." Unsuriyetin şe'ni, başkasını yutmakla beslenmek olduğundan; "Tecavüz"dür. îşte bu hikmettendir ki; beşerin saadeti selb olmuştur.Amma hikmet-i Kur'aniye ise, nokta-i istinadı, kuvvete bedel "hakk"ı kabul eder. Gayede menfaate bedel, "fazilet ve rızâ-yı îlâhi"yi kabul eder. Hayatta düstur-u cidal yerine, "düstur-u teavün" ü esas tutar. Cemaatlerin rabıtalarında: unsuriyet, milliyet yerine "râbıta-i dini ve sınıfi ve vatani" kabul eder. Gayâtı, hevesât-ı nefsaniyenin tecavüzâtına sed çekip, ruhu maaliyâta teşvik ve hissiyât-ı ulviyesini tatmin eder ve insanı kemâlât-ı insaniyeye sevkedip insan eder... Hakkın şe'ni, "ittifak"tır. Faziletin şe'ni, "tesanüt"tür. Düstur-u teavünün şe'ni, "birbirinin imdadına yetişmek"tir. Dinin şe'ni, "uhuvvet" tir, "incizab" dır. Nefsi gemlemekle bağlamak, ruhu kemâlâta kamçılamakla serbest bırakmanın şe'ni, "saadet-i dâreyn" dir... S.)(Dinsiz felsefe, hakikatsız bir safsatadır ve kâinata bir tahkirdir. S.)
-felsefe-î beyan ¯¯: Beyan îlmindeki kaidelerin vaz'ediliş sebeb ve gayelerinin açıklanması.
+felsefe-î beyan "": Beyan îlmindeki kaidelerin vaz'ediliş sebeb ve gayelerinin açıklanması.
 felsefe-î tarîhîyye: Târih felsefesi.
 felsefî: Felsefeye mensub ve felsefe ile alâkalı.
 felsefîyyat: Felsefe ile ilgili bilgi ve düşünceler, hikmet bilgileri.
@@ -533,8 +533,8 @@ fenn-î bedî': (Bak: îlm-i bedi')
 fenn-î beyan: (Bak: îlm-i beyan)
 fenn-î hîkmet: Felsefe bilgisi. (Bak: Hikmet)
 fenn-î hîkmet-ül eşya: Tabiat bilgisi. Eşyadaki intizam, mükemmellik ve insanlara olan faydaları ve onlardan faydalanmak hakkında bilgi veren ilim kolu.
-fenn-î îâşe : însanlar ve hayvanların besleniş ve yaşayışları hakkında bilgi veren ilim dalı.
-fenn-î înşa : Yazı yazma san'atı. (Bak: înşa)
+fenn-î îâşe : însanlar ve hayvanların besleniş ve yaşayışları hakkında bilgi veren ilim dalı.
+fenn-î înşa : Yazı yazma san'atı. (Bak: înşa)
 fenn-î kiraat: Okuma bilgisi. Okumanın çeşitli usûllerini öğreten ilim dalı. (Bak: Kıraat)
 fenn-î kîmya: Kimya ilmi.
 fenn-î kîtabet: çeşitli yazı usûl ve şekillerini öğreten ilim.
@@ -587,7 +587,7 @@ ferâîz: (Farize. C.) Allah'ın farz kıldığı ibadetler, yapılması mecburi
 ferâîz-î dînîyye: Dinin farzları.
 ferak: (C: Efrâk) Korku. * Büyük ölçek.
 feramîn: (Fermân. C.) Buyruklar, fermanlar.
-feramuş : Unutma, hatırdan çıkarma.
+feramuş : Unutma, hatırdan çıkarma.
 ferancemşek: Reyhan karanfili.
 feraset: (Bak: Firâset) Anlayışlılık, çabuk seziş. (Aslı firâsettir)
 feraset: Binicilik, süvarilik, yiğitlik.
@@ -788,12 +788,12 @@ feth-î kelâm: Söze başlama.
 feth-î kostantînîyye: îstanbul'un Fatih Sultan Mehmed Han tarafından fethi.
 feth-î meyyît: ölüm sebebini anlamak için cesedin açılarak muâyene edilmesi, otopsi.
 feth-î mübîn: Açık ve parlak zafer. Hakkı, bâtılın tahakkümünden kurtaran veya birbirine zıd olan hak ile batılın karışıklığını ayırarak hakkı galip kılan feth ve zafer Bu zafer, harp ile olabileceği gibi harpsiz de olur. (Hakikatın ve ilmin galebesi gibi.)Fetih suresinin birinci âyetinde geçen "Feth-i mübin"in ifade ettiği manâlardan biri: Sahih-i Buhari muhtasarının beyanına göre çok îslâmi fetihlerin mebdei olan Hudeybiye sulhudur. Ulemanın ekserisine göre ise; Biat-ı Rıdvan'dır.Kur'anın hitabı umum asırlara baktığı için, bu gibi fetih ve zafer manâlarından her asırdaki âlem-i îslâm hissedardır.
-feth-î suver : Suretlerin meydana çıkışı. Her mahlûkun Allah'ın ilim, irade ve kudretiyle en münasib şekilde suretlerinin açılışı.
+feth-î suver : Suretlerin meydana çıkışı. Her mahlûkun Allah'ın ilim, irade ve kudretiyle en münasib şekilde suretlerinin açılışı.
 fetha: Gr. Arabçada harfleri (E, A) diye okutan işâret, üstün.
 fetha (fetaha): (C.: Füteh-Fütuh-Fethât) Kaşı olmayan halka yüzük. * Büyük yüzük. * Tavşancıl kuşu.
 fethî: Fetih ile alâkalı. Fethe âit. * Ferahlık verici.
 fetîh: (Bak: Feth)
-fetîh suresî ¯: Kur'an-ı Kerim'in 48. suresi.
+fetîh suresî ": Kur'an-ı Kerim'in 48. suresi.
 fetîk: Dülger. * Sabah. * Parlayıcı nesne, parlak olan şey.
 fetîl(e): Yaralara konulan tiftik. * Lâmba fitili. * Deriden çıkan kir. * örgü.
 fetîr: Taze nesne. * Cıvık hamur. * Acele anlaşılan.
@@ -821,7 +821,7 @@ fetva: Bir hâdise, bir muâmele hakkındaki hükm-ü şer'iyi ehli olanın habe
 fetva emînî: şeyhülislâm kapısındaki Fetvahane'nin başında bulunan zata verilen ünvandır. şeyhülislâma sorulan şer'i meselelerin fetvalarını hazırlamak, istida ile vukubulan suallere cevap vermek ve şer'iyye mahkemelerinden verilen ilâmları tetkik etmek vazifeleriyle mükellefti. Maiyyetinde Fetvaemini muavini, îlâmat müdür ve mümeyyizi, başmüsevvit, müsevvit gibi ulema ve fukahadan müteaddit memurlar vardı.Fetva eminleri, en yüksek ilim sahipleriyle beraber memuriyetlerinin unvanlarına münasib olarak emin, fakih ve müteşerri' kimseler arasından seçilirlerdi. Fetva eminlerinden, şeyhülislâm olanlar da vardır.Fetva eminliği Kanuni Sultan Süleyman'ın saltanatından sonra ihdas edilmiştir. îstanbul'un fethinden evvel, Bursa Kadıları bu işi gördükleri gibi, îstanbulun fethinden sonra îstanbul Kadısı olan Hızır Bey, fetva eminliği vazifesini görürdü. Bu müessese Osmanlı saltanatının sonuna kadar devam etmiştir. (O.T.D.S.)
 fetva-penah: "Fetvaya sığınan" şeyhülislâm.
 fe'v (fe'y): Yarmak. * Koparmak. * îki dağ aralığı.
-fevahîş : (Fâhiş. C.) Fâhiş işler. Bozuk işler. Kötü ve haram olan işler, ameller.
+fevahîş : (Fâhiş. C.) Fâhiş işler. Bozuk işler. Kötü ve haram olan işler, ameller.
 fevâîd: (Fayda. C.) Faydalar. Faydalı şeyler.
 fevâîd-î me'mule: Umulan faydalar.
 fevaîh: (Fâih. C.) Meyve ve çiçek kokuları.
@@ -829,7 +829,7 @@ fevaît: (Fevt. C.) Fevt olmuş şeyler. * Vaktinde kılınmamış namazlar.
 fevak (füvâk): îki sağım arasında devenin memesinde sütün birikmesi. * Rahat. * Rücu. * Uzun boyunlu bir nevi su kuşu.
 fevakîh: (Fâkihe. C.) Meyveler, yemişler, fâkiheler.
 fevarîs: (Fâris. C.) Atlılar, biniciler.
-fevasil : (Fâsıla. C.) Fâsılalar. (Bak: Fâsıla)
+fevasil : (Fâsıla. C.) Fâsılalar. (Bak: Fâsıla)
 fevatîh: (Fâtiha. C.) Fâtihalar. Başlangıçlar. * Son vermeler. * Bir kitabın mukaddemeleri.
 fevazil: (Fâzıla. C.) (Bak: Fâzıl)
 fevc: Dalga. Bölük. însan kalabalığı. Cemaat. Takım. * Koşmak. Sür'at etmek. * îyi kokunun dağılıp yayılması.
@@ -852,7 +852,7 @@ fevha: (C.: Fevehât) Güzel koku.
 fevhed: Semiz oğlan, şişman çocuk.
 fevk: üst. üst taraf. Yüksek derece. Yukarı.
 fevkalâde: âdetin fevkinde. Ayrıca, hususi surette. Bilinenlerin üstünde. Müstesna ve yüksek bir surette.
-fevkalbeşer : (Fevk-al beşer) însan gücünün üstünde, insanüstü.
+fevkalbeşer : (Fevk-al beşer) însan gücünün üstünde, insanüstü.
 fevkalgaye: Son derecede.
 fevkalhad: (Fevk-al had) Huduttan ileride. Sınırsız. Hudutsuz.
 fevkalkanun: Kanun üstü. Kanunun kabul etmediği. Kanunun karışmadığı.
@@ -970,9 +970,9 @@ firat: ön Asya'nın en büyük nehridir. Diyadin civarında çıkar, Anadolu'nu
 firfira: Topaç.
 firişka: Bütün yelkenleri camadana vurmaksızın kullanabilmeğe münasib olan rüzgâr hakkında söylenilen bir tabirdir. Bu rüzgârın, saniyedeki sür'ati 5-12 metredir.
 firka: Parti. însan grubu. Kısım olmak ve ayrılmak. Bölük. * Tümen.
-firka-î askerîye ¯¯: Askeri fırka, tümen.
+firka-î askerîye "": Askeri fırka, tümen.
 firka-î nâcîye: Kur'an-ı Kerim'e ve Sünnet-i Seniyeye sıkı sıkıya bağlı olup Ehl-i Sünnet ve Cemaat yolundan ayrılmayan müslümanlar. Bunlar kıyamete kadar lütf-u îlahi ile devam eder.
-firka-î sîyasîye ¯¯: Siyasi parti.
+firka-î sîyasîye "": Siyasi parti.
 firsat: (Bak: Fursat)
 firtina: şiddetli rüzgârla denizin dalgalanıp karışması. * Rüzgârın çok şiddetli esmesi.
 fisad: Kan alma, hacamet.
@@ -1017,7 +1017,7 @@ fîda: Dağıtmak. * Atâ etmek. Hediye veya bahşiş olarak vermek. * Bedel ver
 fîdam: (Feddâm): Su kabının üzerine koydukları süzgeç. * Mecusilerin ağızlarını bağlamakta kullandıkları bez.
 fîdre: Et parçası.
 fîdye: Herhangi bir farzından birini yerine getirmeye gücü olmayan bir kimsenin Cenâb-ı Hak'tan özür dilemek kasdı ile, verdiği para veya sadaka. * Esir veya kölelikten kurtulmak için verilen para. * Fık: Fakirin sabahlı akşamlı bir günlük yiyeceği.
-fîdye-î necat ¯¯: Bir kimsenin esirlikten veya başına gelen bir belâdan kurtulmak için, kendisi veya kendi namına başkası tarafından mecburen verilen para vesaire hakkında kullanılan bir tabirdir. Tabirin karşılığı, can kurtarma akçası demektir.
+fîdye-î necat "": Bir kimsenin esirlikten veya başına gelen bir belâdan kurtulmak için, kendisi veya kendi namına başkası tarafından mecburen verilen para vesaire hakkında kullanılan bir tabirdir. Tabirin karşılığı, can kurtarma akçası demektir.
 fîe: Kalabalık, topluluk, cemaat.
 fîf: (C: Efyâf- Füyuf) Düz yer.
 fîgân: Ağlayıp sızlama, bağırıp çağırma.
@@ -1052,7 +1052,7 @@ fîkrî: (Fikriye) Fikir cinsinden, fikirle alâkalı. Fikre âit ve müteallik.
 fîkrîyyat: Fikir ve düşünce ile olan işler.
 fîl: (C.: Efyal-Füyul) Daha ziyade Hindistan ve Asya gibi yerlerde bulunan iri vücudlu, hortumlu bir hayvan.
 fîl suresî: Kur'an-ı Kerim'de 105. sure olup Mekke-i Mükerreme'de nâzil olmuştur.
-fîl vak'asi ¯: (Bak: Ebrehe)
+fîl vak'asi ": (Bak: Ebrehe)
 fî'l-î basît: Gr: Basit fiil, tek kökten yapılan fiil. Meselâ: Gitmek, gelmek, olmak gibi.
 fî'l-î hîkâye: Gr: Geçmiş zamanda olmuş fakat konuşan kimsenin görmüş olduğu bir işi anlatan fiil. Meselâ: Okumuş idi, yazmış idi, vurdu gibi.
 fî'l-î kiyasî: Gr: Kurallı ve kaideli fiil. (îş'ten: işlemek; ateşten: Ateşlemek gibi)
@@ -1096,10 +1096,10 @@ fîrarî: Kaçkın, kaçak.
 fîras: çok fazla kırmızı nesne.
 fîraset: Zihin uyanıklığı. Bir şeyi çabukça anlayış kabiliyeti. Bir kimsenin ahlâk ve istidadını yüzünden anlamak. Firasetin bir nev'i, sebebini anlamadan ve ilham eseri olarak vücuda gelen seziştir. Diğer nev'i ise kesbidir. Muhtelif huy ve tabiatları bilmek neticesinde hâsıl olur. (L.R.) * Yiğitlik. * Binicilik.
 fîraş: Döşek. Yatak. Yere serilen şey. Minder. şilte.
-fîraş-i îstîrahat : Rahat döşeği.
+fîraş-i îstîrahat : Rahat döşeği.
 fîraş-i kavî: Fık: Evli kadının firaşı mânâsına gelir bir tabirdir. (Bununla bilâdavet neseb sabit olup, nefy ile neseb nefy olunmayıp, lâkin laan ile nefy olunur.) (O.T.D.S.)
 fîraş-i mütevassit: Fık: ümmü veledin firaşı mânâsına gelen bir tabirdir. Firaş-ı mütevassıtta bilâ davet neseb sahih olmaz.
-fîraş-i sahîh : Fık: Nikâh ve mülk-i yemine müstenid bulunan istifraş. Mülk-i yemin, bir kimsenin temellükünde bulunan cariye demektir. Binaenaleyh bu iki şarta dayanan istifraştan, meydana gelecek çocuk, varis addolunur. Ancak, cariyeyi istifraşta husule gelen çocuğun kendisinden olduğunu müstefrişin söylemesi lâzım gelirdi. (O.T.D.S.)
+fîraş-i sahîh : Fık: Nikâh ve mülk-i yemine müstenid bulunan istifraş. Mülk-i yemin, bir kimsenin temellükünde bulunan cariye demektir. Binaenaleyh bu iki şarta dayanan istifraştan, meydana gelecek çocuk, varis addolunur. Ancak, cariyeyi istifraşta husule gelen çocuğun kendisinden olduğunu müstefrişin söylemesi lâzım gelirdi. (O.T.D.S.)
 fîraş-i zaîf: Fık: Cariyenin firaşı. (Bununla neseb sâbit olur) (O.T.D.S.)
 fîraşîyet: Karılık. * Fık: Birisinin karısı oluş. Zevciyet.
 fîravan: Bol, çok, ziyade, aşırı, fazla.
@@ -1165,7 +1165,7 @@ fîtne-âmîz: Fitne çıkaran, fesat karıştıran.
 fîtne-cîhan: Fitne koparan, fesat karıştıran, bozgunculuk yapan.
 fîtne-cu: Fesat arayan.
 fîtne-engîz: Fitne çıkaran.
-fîtne-î âhîrzaman ¯¯: âhirzamandaki fitne. Deccal fitnesi.(Rivayette var ki: "Fitne-i âhirzaman o kadar dehşetlidir ki, kimse nefsine hâkim olmaz. " Bunun için binüçyüz sene zarfında emr-i Peygamberiyle bütün ümmet o fitneden istiaze etmiş, azâb-ı kabirden sonra $ vird-i ümmet olmuş. Allahu a'lem bissavab, bunun bir te'vili şudur ki: O fitneler nefisleri kendilerine çeker, meftun eder. însanlar ihtiyarlarıyla, belki zevkle irtikâb ederler. Meselâ: Rusya'da hamamlarda, kadın erkek beraber çıplak girerler ve kadın kendi güzelliklerini göstermeğe fıtraten çok meyyal olmasından seve seve o fitneye atılır, baştan çıkar ve fıtraten cemalperest erkekler dahi, nefsine mağlup olup o ateşe sarhoşane bir sürur ile düşer, yanar. îşte dans ve tiyatro gibi o zamanın lehviyatları ve kebâirleri ve bid'aları, birer câzibedarlık ile pervane gibi nefisperestleri etrafına toplar, sersem eder. Yoksa cebr-i mutlak ile olsa ihtiyar kalmaz, günah dahi olmaz. ş.)
+fîtne-î âhîrzaman "": âhirzamandaki fitne. Deccal fitnesi.(Rivayette var ki: "Fitne-i âhirzaman o kadar dehşetlidir ki, kimse nefsine hâkim olmaz. " Bunun için binüçyüz sene zarfında emr-i Peygamberiyle bütün ümmet o fitneden istiaze etmiş, azâb-ı kabirden sonra $ vird-i ümmet olmuş. Allahu a'lem bissavab, bunun bir te'vili şudur ki: O fitneler nefisleri kendilerine çeker, meftun eder. însanlar ihtiyarlarıyla, belki zevkle irtikâb ederler. Meselâ: Rusya'da hamamlarda, kadın erkek beraber çıplak girerler ve kadın kendi güzelliklerini göstermeğe fıtraten çok meyyal olmasından seve seve o fitneye atılır, baştan çıkar ve fıtraten cemalperest erkekler dahi, nefsine mağlup olup o ateşe sarhoşane bir sürur ile düşer, yanar. îşte dans ve tiyatro gibi o zamanın lehviyatları ve kebâirleri ve bid'aları, birer câzibedarlık ile pervane gibi nefisperestleri etrafına toplar, sersem eder. Yoksa cebr-i mutlak ile olsa ihtiyar kalmaz, günah dahi olmaz. ş.)
 fîtne-kâr: Ortalığı bozmağa çalışan. Fitneci. Fesâd verici. Fitne çıkarmak isteyen.
 fîtnet-üd dehma: (Fitnetüddehmâ) Küfürde olmak, kara fitne. Rezil olmak.
 fîtrak: Atın terkisi, terki kayışı, eyerin ardındaki tasma.
@@ -1201,7 +1201,7 @@ fuhş: Edeb ve terbiyeye uymayan hareket. * Haddini aşmak. çirkin, kötü. î�
 fuhşîyyat: (Fuhş. C.) çok çirkin işler, günahlar.
 fuhul: (Fahl. C.) Büyük âlimlerin ileri gelenleri. Emsalinden üstün olanlar. (Bak: Fahl)
 fuhul-î müfessîrîn ô: Tefsircilerin en ileri gelenleri, müfessirlerin en önde olanları.
-fuhul-î şuara ô: şâirlerin en üstünleri.
+fuhul-î şuara ô: şâirlerin en üstünleri.
 fuhul-î ulema: îlim ve faziletçe emsallerinden üstün olan âlimler.
 fukaha: (Fakih. C.) Fakihler. Fıkıh âlimleri. (Bak: Fıkıh)
 fukara: (Fakir. C.) Yoksullar, fakirler.
@@ -1224,12 +1224,12 @@ fursat-yâb: Eline fırsat geçen, fırsat bulan.
 furude: Alçaklık, âdilik, hasislik. * Kavrulmuş, yanmış. * Alçak, âdi, deni, hasis.
 fusaha: (Fasih. C.) Fasih kimseler. Güzel ve usule uygun konuşabilenler. Güzel söz söyleme kabiliyetinde olanlar.
 fussîlet: (Fasıl. dan) Ayırd edilmiş, izâh ve tafsil edilmiş.
-fussîlet suresî : Kur'an-ı Kerim'in 41. suresidir. Mekki'dir. Secde, Sure-i Akvat ve Mesabih Suresi de denir.
+fussîlet suresî : Kur'an-ı Kerim'in 41. suresidir. Mekki'dir. Secde, Sure-i Akvat ve Mesabih Suresi de denir.
 fustat: (Fistat) Göçebelerin kıldan yapılan çadırı. Büyük çadır. * Kapıya asılan perde. * Cemaat.
 fus'ul: Akrep. Yaramaz, kötü kimse.
-fusul : (Fasıl. C.) Fasıllar. Mevsimler. Bölükler. Kısımlar.
-fusul-ü erbaa : Dört fasıl olan, ilkbahar, yaz, sonbahar, kış mevsimleri.
-fusus : (Fass. C.) Yüzük taşları. (Bak: Fass)
+fusul : (Fasıl. C.) Fasıllar. Mevsimler. Bölükler. Kısımlar.
+fusul-ü erbaa : Dört fasıl olan, ilkbahar, yaz, sonbahar, kış mevsimleri.
+fusus : (Fass. C.) Yüzük taşları. (Bak: Fass)
 futa: Hamamlarda kullanılan bir kumaş cinsi. * Peştemal. Havlu.
 futr: (Fitre) Yaratmak, halk.
 futunc: Yarpuz denilen ot.
@@ -1303,7 +1303,7 @@ füruhtar: Satıcı.
 füruk: (Fark. C.) Farklar. Ayırma vasıfları. Alâmetler.
 fürun: Ekmekçi fırını.
 fürusî: îyi binici, ata iyi binen.
-füruş : Satan. Satıcı.
+füruş : Satan. Satıcı.
 füruş: (Firaş. C.) Döşemeler. Yerlere serilen örtüler. * Yataklar.
 fürut: (C: Efrât) Haddini tecavüz eden. * îsraf. * Zayi. * Yüksek mevzi.
 füruz: Parlatan. Nurlandıran.

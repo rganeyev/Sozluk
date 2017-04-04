@@ -40,9 +40,9 @@ paderhava: (Pâ-der-hava) Ayağı havada. * Mc: Temelsiz, çürük.
 paderîkal: (Pâ-der-ikal) Ayağı köstekli, ayağı bağlı, hareketsiz.
 paderpa: (Pâ-der-pâ): Ayak ayağa. Yanyana.
 padgâne: Yüksek dam. * Kapı içinde olan pencere.
-padîşah : (Pâdşâh) Büyük hükümdar, sultan. Cihan sahibi. Zararı def' eden, ıslah eden, muslih.
+padîşah : (Pâdşâh) Büyük hükümdar, sultan. Cihan sahibi. Zararı def' eden, ıslah eden, muslih.
 padîşah-i sânî: îkinci padişah. 
-padîşahî : Padişahla ilgili, padişaha ait.
+padîşahî : Padişahla ilgili, padişaha ait.
 padzehr: Panzehir.
 pafersud: (Pâ-fersud) Ayağı incinmiş, aşınmış olan.
 pagande: Atılmış pamuk. * Atılmış pamuktan yapma yumak.
@@ -52,7 +52,7 @@ pajîr: Panzehir.
 pak: Temiz, saf, katıksız. Hep, tamam, mübarek, kudsi.
 pak-baz: (C.: Pâk-bâzân) Temiz oynayan. * Mc: Sadakatli âşık.
 pak-damenî: "Eteği temiz oluş" * Mc: Namusluluk.
-pak-meşreb : Gidişi, yaratılışı temiz. îyi huylu olan.
+pak-meşreb : Gidişi, yaratılışı temiz. îyi huylu olan.
 pak-zad: Temiz asıllı. Aslı temiz olan.
 pakan: (Pâk. C.) Temizler, pâklar. * Mc: Veliler, evliya.
 pakâr: Tahsildar.
@@ -137,7 +137,7 @@ pasuh: Karşılık, cevap.
 pasuhgüzar: Cevap veren, karşılık veren.
 pasuhşînev: Cevabı dinleyen.
 pasvan: Gece bekçisi.
-paş : "Serpen, saçan, dağıtan" mânâsında birleşik kelimeler yapılır.
+paş : "Serpen, saçan, dağıtan" mânâsında birleşik kelimeler yapılır.
 paş paş: Parça parça, ufak ufak. * Dağınık.
 paşa: Sivillerle askerlerin ileri gelenlerinin bir kısmına verilen resmi ünvandı. Osmanlıların ilk devirlerinde bu ünvan, hânedân mensublarıyla yalnız bir kısım idare adamlarına verilirken sonradan askeriden "mir-i liva" ve daha yüksek rütbede olanlarla; mülkiyeden vezir, beylerbeyi, mir-i miran ve mir-ül ümera rütbelerine tahsis edilmiştir. Damat Paşa, Ağa Paşa, Vali Paşa o cümledendir.Paşa kelimesinin aslı hakkında pek çok ihtilâf vardır. Lügat erbabının bazıları, Farsça "Pây-i şah" lâfzından değiştirilmiş olduğunu; bâzıları da Türkçede büyük birâder mânasına gelen "Beşe" kelimesinin telâffuzunun zamanla "paşa"ya değiştiğini; bir kısmı da evin, ailenin büyüğü, reisi anlamına gelen "Baş ağa" dan tahrif edildiğini yazarlar. Ayrıca Türklerde büyük evlâda da paşa derler. Paşa tâbiri, hürmet ifadesi olarak, ulema ve meşâyihten bazılarına da verilmiştir. Bugün dilimizde generâl anlamına kullanılır. (O.T.D.S.)
 paşali: Paşa ünvanını alan vezir ve beylerbeyi gibi büyük devlet adamlarının hizmetinde bulunan gedikli ağalar.
@@ -317,8 +317,8 @@ perestar-i hayâl: şâir, ozan.
 perestarân: (Perestar. C.) Kullar, köleler. * Hizmetçiler. * Dalkavuklar, yaltakçılık yapanlar. * Tapanlar, tapıcılar.
 perestarî: Hizmetçilik. * Kulluk. * Tapıcılık. * Dalkavukluk.
 perestîde: Sevgili, mahbub, sevilen.
-perestîş : Pek çok sevmek. Bendelik etmek. îbâdet etmek.
-perestîşkâr : îbâdet edercesine seven, çok ileri sevgi ve hürmet besleyen.
+perestîş : Pek çok sevmek. Bendelik etmek. îbâdet etmek.
+perestîşkâr : îbâdet edercesine seven, çok ileri sevgi ve hürmet besleyen.
 pergâl: Pergel.
 pergâle: Kaba iplikten yapılan bir cins dokuma. * Parça.
 pergâm: Döl yatağı. Rahim.
@@ -344,7 +344,7 @@ perî-ru: Peri gibi güzel yüzlü.
 perîde: Uçmuş. *Solmuş, soluk.
 perîdereng: Rengi uçmuş, solmuş.
 perîr: Evvelki gün.
-perîşan : Dağınık, karışık. * Bozuk, tertibsiz, düzensiz. * Kederli, hüzünlü, kaygılı. 
+perîşan : Dağınık, karışık. * Bozuk, tertibsiz, düzensiz. * Kederli, hüzünlü, kaygılı.
 perîşanhâtir: Dalgın, düşünceli.
 perîşanî: Perişanlık, dağınıklık. * Düzensizlik, bozgunluk. * Yoksulluk, fakirlik.
 perîz: Haykırma, bağırma. Feryâd. * Su kenarlarında yetişen yeşil saz, ot.
@@ -411,7 +411,7 @@ peşîmanî: Pişmanlık, nedamet.
 peşîn: Nakdi para. * önceden, önce.
 peşînât: Peşin verilen paralar.
 peşîz: (Peşize) Akçe, mangır. Pul. * Balık pulu.
-peşkeş : (Pişkeş) Başkasının malını birine bağışlamak. Verilmemesi lâzım olan şeyi başkasına vermek. Karşılıksız vermek.(Bir şeyde mehâsin ve şeref hâsıl oldukça, havassa peşkeş ederler; seyyiât olsa, avâma taksim ederler! M.)
+peşkeş : (Pişkeş) Başkasının malını birine bağışlamak. Verilmemesi lâzım olan şeyi başkasına vermek. Karşılıksız vermek.(Bir şeyde mehâsin ve şeref hâsıl oldukça, havassa peşkeş ederler; seyyiât olsa, avâma taksim ederler! M.)
 peşleng: Geri kalan, geri kalmış.
 peşm: Yapağı, yün. * Keten helvası.
 peşmîn: (Peşmine) Yünden yapılmış. Yapağıdan yapılma. * Sâde ve süssüz elbise.
@@ -527,7 +527,7 @@ pîse: Saksağan. * Alaca renk.
 pîstan: Meme.
 pîste: Fıstık.
 pîster: Yatak, döşek.
-pîş : Huzur, ön, ileri taraf.
+pîş : Huzur, ön, ileri taraf.
 pîş-geh: ön, huzur.
 pîş-gîr: Havlu, peşkir.
 pîş-î nazar: Göz önü.
@@ -539,8 +539,8 @@ pîşan: En ön, en ileri.
 pîşanî: Alın, cebin.
 pîşanîdâr: Yüzsüzlük yaparak işini beceren.
 pîşbîn: îlerisini gören. Basiretli, ihtiyatlı.
-pîşdar : öncü. Harpte ileriden düşmana gönderilen askerler. * önde giden. önayak olan. * San'at, meslek. * Kumandan. * Mc: Yüzsüz. Yüzsüzlükle iş beceren.
-pîşe : îş, kâr. Meşguliyet. * Alışkanlık, huy, âdet. * Meslek, san'at. * "Huy edinmiş, alışmış" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Hasenât-pişe $: îyi şeyleri âdet edinmiş olan.
+pîşdar : öncü. Harpte ileriden düşmana gönderilen askerler. * önde giden. önayak olan. * San'at, meslek. * Kumandan. * Mc: Yüzsüz. Yüzsüzlükle iş beceren.
+pîşe : îş, kâr. Meşguliyet. * Alışkanlık, huy, âdet. * Meslek, san'at. * "Huy edinmiş, alışmış" anlamlarına gelir ve birleşik kelimeler yapılır. Meselâ: Hasenât-pişe $: îyi şeyleri âdet edinmiş olan.
 pîşegâh: îş yeri. Fabrika.
 pîşegân: (Pişe. C.) Meslekler, san'atlar. îşler. * Huylar, âdetler, tabiatlar.
 pîşeger: San'atkâr işçi.
@@ -548,8 +548,8 @@ pîşekâr: Sanatkâr, oyuncu.
 pîşever: Sanat ehli, işçi.
 pîşhane: Balkon. * Bir yere gidileceği zaman önceden gönderilen çadır ve yol eşyası.
 pîşhayme: Pâdişah veya vezirlerin divan çadırı.
-pîşî : îlerleme, üstünlük, tefevvuk. * önünü gören, ileri görüşlü.
-pîşîgâh : Huzur.
+pîşî : îlerleme, üstünlük, tefevvuk. * önünü gören, ileri görüşlü.
+pîşîgâh : Huzur.
 pîşîn: Peşin, önce, önden. * Evvelki, eski. * önden verilen.
 pîşînî: (C.: Pişiniyan) Evvel zaman adamı.
 pîşkeş: Hediye, armağan, hibe.
@@ -609,11 +609,11 @@ pur-î duht: Hemşirezâde, yeğen.
 purân: (Pur. C.) Oğullar, veledler.
 purmend: Evlâd sahibi.
 pusîde: çürümüş, paslanıp çürümüş, çürük.
-puş : "örten, giyen, giyinmiş" mânasına birleşik kelimeler yapılır. * örtü, elbise, zırh.
+puş : "örten, giyen, giyinmiş" mânasına birleşik kelimeler yapılır. * örtü, elbise, zırh.
 puşe: (Bak: Puşide)
 puşende: örten. örtücü.
 puşende-î hatâ: Ayıp örten.
-puşîde : (Puşe) örtülmüş. * örtü. * örtülü, gizli.
+puşîde : (Puşe) örtülmüş. * örtü. * örtülü, gizli.
 puşîde-çeşm: örtünecek, giyilecek şey. * örtü.
 puşîde-raz: Sırrı gizli.
 puşîdenî: örtünecek, giyilecek şey. örtü.
@@ -661,7 +661,7 @@ pür-nur: (Bak: Pür-envar)
 pür-paye: Kırkayak.
 pür-sâle: Yaşlı. Yaşı dolgun.
 pür-suz: çok yakıcı. çok yanık.
-pür-şa'şaa : çok gösterişli, şa'şaa dolu.
+pür-şa'şaa : çok gösterişli, şa'şaa dolu.
 pür-temkîn: çok ağır başlı. çok temkinli.
 pürsan: (Pürsâ) Soran, sorucu.
 pürsîş: Soruş, sorma, sual ediş.
@@ -669,7 +669,7 @@ pürsîş-î hâtir: Hatır sorma.
 püryan: (Bak: Biryan)
 püsender: üvey oğul. üvey evlâd.
 püser: (C.: Püserân) Erkek çocuk, oğul.
-püşt : Sırt, arka.
+püşt : Sırt, arka.
 püşt-pa: Ayak tabanı.
 püşte: Tepe, yığın.
 püşte-î bağ: çimenlik, çayırlık.

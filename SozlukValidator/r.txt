@@ -197,7 +197,7 @@ rahlâ': Arkası beyaz, diğer yerleri siyah olan dişi koyun. * Yalnız arkası
 rahle: Küçük masa.
 rahle-î tedrîs: üzerine ders verilen veya alınan rahle. * Bir âlimden alınan ders.
 rahm: Acıma, koruma, esirgeme, şefkat etmek. * Hısımlık, karabet, akrabalık.
-rahm ü şefkat : Merhamet ve şefkat etmek.
+rahm ü şefkat : Merhamet ve şefkat etmek.
 rahma': Başı beyaz olan dişi koyun.
 rahman: Bütün yaratıklara rızıklarını veren, her an bütün mahlukat hakkında hayır ve rahmet irade buyuran, bütün mahlukatına sayısız nimetler veren. Nizam ve adâlet sâhibi. (Allah)
 rahman suresî: (Errahman Suresi de denir.) Kur'an-ı Kerim'in 55. suresidir. Bu sureye Arus-ül Kur'an da denilmiştir. Mekkidir.
@@ -358,7 +358,7 @@ rasafe: (C.: Risâf) Ok üstüne sarılan kiriş.
 rasafet: Dayanıklılık, sağlamlık.
 ra'san: Yorgunluktan dolayı yab yab yürümek.
 rasanet: Sağlamlık, dayanıklık. * Sabit, muhkem, metin.
-rasas : Kurşun, kalay, lehim.
+rasas : Kurşun, kalay, lehim.
 rasas-i müzab: Eritilmiş kalay.
 rasasî: Kalaycı. * Kurşun renginde olan.
 rasd (rusud): Yol gözlemek.
@@ -444,7 +444,7 @@ ravîye: Su taşıyan hayvan.
 ravuk: Süzek, süzgeç.
 ravvah: Rahat ettirmek. (Bak: Ravh)RAVZ: Bahçeler. Ağaçlık ve çimenlik yerler.
 ravza: Sulu yer, bahçe, bostan, çimenlik yer.
-ravza-î cînân : Cennet bahçeleri. Cennetlere giden yol.
+ravza-î cînân : Cennet bahçeleri. Cennetlere giden yol.
 ravza-î mutahhara: Fahr-i Kâinat Aleyhi Efdal-üs-Salavat ve Efdal-üt-tahiyyât Efendimizin Kabr-i şerifiyle Minberin arasındaki saha.
 ravza-î ridvân: Cennet.
 ravzat: (Ravza. C.) Bahçeler. çimenlik ve ağaçlık yerler.
@@ -842,7 +842,7 @@ resane: Teessüf. * Hasret.
 resanehâr: Hasret çekici.
 resanende: Ulaştırıcı, getirici.
 resanet: (Bak: Rasanet)
-resas : (Bak: Rasas)
+resas : (Bak: Rasas)
 resaset: Eskilik, köhnelik. Yıpranmış olma.
 resatîk: (Rustâk. C.) Köyler, çiftlikler.
 resd: Eşyaları birbiri üstüne yığmak.
@@ -902,8 +902,8 @@ reşahat-î kalem: Kalem sızıntısı, kalemden dökülen fikirler, yazılar.
 reşak: Helâk etmek. * Atmak.
 reşakat: Bel inceliği. * Davranma ve kımıldanıştaki incelik ve hoşluk.
 reşaş: (Reşâşe) Serpinti ve toz gibi ince yağmur.
-reşaşat : Su sızıntıları, serpintiler.
-reşaşet : Su serpintisi. * Emmek, emerek içmek.
+reşaşat : Su sızıntıları, serpintiler.
+reşaşet : Su serpintisi. * Emmek, emerek içmek.
 reşat: (Bak: Reşad)
 reşed: Hayır. Rahmet. Hidayet.
 reşehat: (Reşha. C.) Reşhalar, damlalar, sızıntılar. 
@@ -999,7 +999,7 @@ revhanîyet: Gönül açıcılık, güzel görünüşlülük.
 revhat: öğlen vaktinden akşama kadar gitmek.
 revhullah: (Bak: Ravhullah)
 revîr: Alm. Okul, kışla gibi yerlerde ufak hastalıkları olanların yatırıldıkları hasta odası, ilk bakım yeri. * Bölge, mıntıka.
-revîş : Gidiş, hal, tavır. * Tutum, yol.
+revîş : Gidiş, hal, tavır. * Tutum, yol.
 revîy: Edb: Kafiye olan kelimenin son harfi. şiirde kafiye harfi.
 revîyyet: (C.: Reviyyât) Bir işin her cihetini iyice düşünme.
 revk: (C.: Ervâk) Perde, hicâb. * Boynuz. * Ev önü. * Saf, hâlis, katıksız.
@@ -1255,7 +1255,7 @@ rîş: Yara. * Yaralı. * Tüy. Kıl. Kuş kanadı. * Sakal.
 rîş (rîyâş): çok pahalı elbise.
 rîşa: (Rişvet. C.) Rüşvetler.
 rîşa': (C.: Erşiye) Kuyudan su çekmekte kullanılan urgan. * Menazil-i Kamer'den "Balık karnı" dedikleri menzilin adı.
-rîşaş(e) : Döküntü, serpinti.
+rîşaş(e) : Döküntü, serpinti.
 rîşbüz: Keçi sakalı gibi sivri olan sakal.
 rîşdar: Sakallı.
 rîşdet: Doğruluk, dürüstlük. Temizlik.
@@ -1281,7 +1281,7 @@ rîvad: Talep etmek, istemek, arzulamak.
 rîvak: (Bak: Revak)
 rîvayat: (Rivâyet. C.) Rivayetler.
 rîvayet: Hikâye edilen hâdise veya söz. * Bir hâdisenin başkalarına anlatılması. * Peygamberimiz'den (A.S.M.) işittiklerini veya sahabeden duyduklarını birisinin başkasına anlatması. * Kuyudan halk için su çekmek.(Eğer denilse: Resül-i Ekrem Aleyhissalâtü Vesselâm'ın her hal ve hareketini kemal-i ihtimam ile Sahabeler muhafaza ederek nakletmişler. Böyle mu'cizat-ı azime, neden on-yirmi tarik ile geliyor? Yüz tarik ile gelmeli idi. Hem neden Hazret-i Enes, Câbir, Ebu Hüreyre'den çok geliyor; Hazret-i Ebu Bekir ve ömer az rivayet ediyor?Elcevab: Nasılki insan, bir ilâca muhtaç olsa, bir tabibe gider; hendese için mühendise gider, mühendisten nakleder; mes'ele-i şer'iyye, müftüden haber alınır ve hâkezâ.. öyle de, sahabe içinde, ehadis-i Nebeviyeyi, gelecek asırlara ders vermek için, ulemâ-i sahabeden bir kısım, ona mânen muvazzaf idiler. Bütün kuvvetleriyle ona çalışıyorlardı. Evet Hazret-i Ebu Hüreyre, bütün hayatını, hadisin hıfzına vermiş; Hazret-i ömer, siyaset âlemiyle ve hilafet-i kübra ile meşgul imiş. Onun için, ehâdisi, ümmete ders vermek için, Ebu Hüreyre ve Enes ve Câbir gibi zatlara itimad edip; ondan, rivayeti az ederdi. Hem mâdem sıddık, saduk, sâdık ve musaddak bir sahabenin meşhur bir namdarı, bir tarik ile bir hâdiseyi haber verse; yeter denilir, başkasının nakline ihtiyaç da kalmaz. Onun için bâzı mühim hâdiseler, iki-üç tarik ile geliyor. M.)
-rîvayet-î sâdika : Senet ve delillerle sâbit, şüphesiz, doğru rivâyet.
+rîvayet-î sâdika : Senet ve delillerle sâbit, şüphesiz, doğru rivâyet.
 rîvayetkerde: Söylenilen. Rivayet edilen.
 rî'y: Hey'et. * Güzel halet, iyi hal. * Güzel elbise.
 rîya: özü sözü bir olmamak. înandığı gibi hareket etmeyiş. îki yüzlülük etmek. Gösteriş için yapılan hareket. (Bak: îhlâs)
@@ -1384,7 +1384,7 @@ rugerdan: Yüz döndüren, yüz çeviren.
 rugl: Bir acı ot. * Sünnetsizlik. * Bol olmak, bolluk.
 ruh: Yanak, yüz, çehre. * Arabçada: Efsânevi bir kuş. (Bak: Ruhsâr)
 ruh: Can, nefes, canlılık. * öz, hülâsa, en mühim nokta. * His. * Kur'an. * îsa (A.S.). * Cebrail (A.S.). * Korkmak. (Bak: Vicdan)(Ruh, bir kanun-u zivücud-u haricidir. Bir namus-u zişuurdur. Sabit ve dâim fıtri kanunlar gibi, ruh dahi âlem-i emirden, sıfat-ı iradeden gelmiş, kudret ona vücud-u hissi giydirmiştir. Bir seyyale-i lâtifeyi o cevhere sadef etmiştir. Mevcud ruh, mâkul kanunun kardeşidir. îkisi hem dâimi, hem âlem-i emirden gelmişlerdir. şâyet, nevilerdeki kanunlara kudret-i ezeliye bir vücud-u harici giydirseydi, ruh olurdu. Eğer ruh, şuuru başından indirse yine lâyemut bir kanun olurdu. H.)(Ruha bir derece müşabih ve ikisi de âlem-i emirden ve iradeden geldiklerinden masdar itibariyle ruha bir derece muvafık, fakat yalnız vücud-u hissi olmayan nevilerde hükümran olan kavânine dikkat edilse ve o namuslara bakılsa görünür ki: Eğer o kanun-u emri, vücud-u harici giyse idi, o nevilerin birer ruhu olurdu. Halbuki o kanun dâima bakidir. Dâima müstemir, sabittir. Hiçbir tegayyürat ve inkılâbat, o kanunların vahdetine te'sir etmez, bozmaz. Meselâ: Bir incir ağacı ölse, dağılsa; onun ruhu hükmünde olan kanun-u teşekkülâtı, zerre gibi bir çekirdeğinde ölmeyerek baki kalır. îşte madem en âdi ve zaif emri kanunlar dahi böyle beka ile devam ile alâkadardır. Elbette ruh-u insani, değil yalnız beka ile, belki ebed-ül âbâd ile alâkadar olmak lâzım gelir. çünki: Ruh dahi Kur'an'ın nassı ile: $ ferman-ı celili ile âlem-i emirden gelmiş bir kanun-u zişuur ve bir namus-u zihayattır ki: Kudret-i Ezeliyye, ona vücud-u harici giydirmiş. Demek, nasılki sıfat-ı iradeden ve âlem-i emirden gelen şuursuz kavânin, dâima veya ağleben baki kalıyor. Aynen onların bir nevi kardeşi ve onlar gibi sıfat-ı iradenin tecellisi ve âlem-i emirden gelen ruh, bekaya mazhar olmak daha ziyade kat'idir, lâyıktır. çünki: Zivücuddur, hakikat-ı hariciye sahibidir. Hem onlardan daha kavidir, daha ulvidir. çünki: Zişuurdur. Hem onlardan daha daimidir, daha kıymetdardır. çünki: Zihayattır. S.)
-ruh-bahş : Ruh veren, ruh bahşeden.
+ruh-bahş : Ruh veren, ruh bahşeden.
 ruh-efza: Cana can katan. Canlılık veren. (Ruhfeza da denir)
 ruh-u revan: Ruhun zuhuru. Ruhun ferahlığı. Ruhun akışı.
 ruh-ül emîn (ruh-ül kudüs): Cebrail Aleyhisselâm'ın iki ayrı ismi. Emin ve mukaddes ruh. * Allah'ın ism-i azamı. * încil. * Kur'an.
@@ -1447,12 +1447,12 @@ rusta: Köy, karye.
 rustaî: Köylü.
 rustak: (C.: Resâtik) Köy, karye. çiftlik.
 rustakî: Köylü.
-ruşen : Parlak, aydın. Belli, âşikâr.
+ruşen : Parlak, aydın. Belli, âşikâr.
 ruşenbeyan: Fasih konuşan. Açık ifadeli.
-ruşendîl : Kalbi nurlanmış. Kâmil ve çok temiz dindar.
+ruşendîl : Kalbi nurlanmış. Kâmil ve çok temiz dindar.
 ruşengîr: Cilâcı, parlatıcı.
 ruşenî: Açıklık, aydınlık. * Belli olma.
-ruşenzamîr : Hakikatları bilen. Kalbi, gönlü hakikatlara vakıf olan.
+ruşenzamîr : Hakikatları bilen. Kalbi, gönlü hakikatlara vakıf olan.
 rutab: Hurma.
 rutb: Yaş ot.
 rutebî: Rütbelere ait.
@@ -1477,7 +1477,7 @@ ruz: Gün, 24 saatlik müddet. * Gündüz.
 ruz u şeb: Gece ve gündüz.
 ruz-efzun: Uzun ömürlü.
 ruz-î ceza: Kıyamet günü. * Haşir günü.
-ruz-î haşîr : (Ruz-i hesab) Kıyamet günü. * âhiretteki toplanma günü. Haşir günü. Dirilip toplanıp hesap görülecek gün. (Bak: Yevm)
+ruz-î haşîr : (Ruz-i hesab) Kıyamet günü. * âhiretteki toplanma günü. Haşir günü. Dirilip toplanıp hesap görülecek gün. (Bak: Yevm)
 ruzaa': (Razi. C.) Süt emen çocuklar. * Süt kardeşler.
 ruzan: (Ruz. C.) Günler. Gündüzler. 
 ruzane: Gündelik. Yevmiye.
@@ -1582,7 +1582,7 @@ rüsvayî: Rezillik, itibarsızlık, haysiyetsizlik.
 rüsve: Muhkem ve sağlam olmak. * Sâbit olmak.
 rüşa: (Rişvet. C.) Rüşvetler.
 rüşd: Doğru yol bulup bağlanmak. Hak yolunda salabet, metanet ve kemal-i isabetle dosdoğru gitmek. * Hayra isabet etmek. * Büluğa ermek. * îstikamette olmak. Dinine ve malına zarar gelecek şeyi bilmek, doğru düşünmek. * Kişinin akıl ve idraki kavi ve tedbiri metin olmak. (Bak: îrşâd)
-rüşd ü îrşad : Rüşd ve irşad. Doğru yola sevketmenin mükemmeliyeti. îslâmiyeti en mükemmel şekilde öğretmek.
+rüşd ü îrşad : Rüşd ve irşad. Doğru yola sevketmenin mükemmeliyeti. îslâmiyeti en mükemmel şekilde öğretmek.
 rüşdî: Rüşdle ilgili. Olgunluğa dair.
 rüşdîye: Eskiden orta tahsil derecesindeki mektep. * Rüşde dair.
 rüşeda: (Reşid. C.) Reşid olanlar. Rüşd, olgunluk sâhibleri.

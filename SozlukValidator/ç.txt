@@ -74,7 +74,7 @@
 çar-zeban: Geveze, çenesi düşük, lüzumsuz olarak konuşan.
 çâre: Neticeye varmak üzere maniaları kaldırmak için tutulması icabeden çıkar yol. Kurtuluş yolu. Tedbir, yardım, yol. * Hile. * Bir def'a. * Ayrılık.
 çâre-cu: çâre arıyan.
-çare-î halâs ¯¯: Kurtuluş çaresi.
+çare-î halâs "": Kurtuluş çaresi.
 çâre-sâz: çâre bulan.
 çarh: çark, tekerlek. * Felek, gök, sema. * Ok yayı. * Elbisede yaka. * Tef.* Devreden, dönen. * çakır doğan. * Talih.
 çarh-i ahdar: Gök kubbe.

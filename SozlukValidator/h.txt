@@ -465,7 +465,7 @@ hâfiz: Kur'ân-ı Kerim'i tamamen ezbere okuyan. * Kur'an-ı Kerim'in mânası 
 hâfiz: Alçaltıcı. * însana haddini bildiren. * Rahatta olan.
 hâfiz-i hakîkî: Hakiki ve tam muhafaza eden. (Allah)
 hâfiz-i kütüb: Kitabları hıfzeden, saklayan. Kütüphane me'muru, kütüphaneci.
-hâfiz-i şîrazî : (Bak: Sa'd-ı şirazi) 
+hâfiz-i şîrazî : (Bak: Sa'd-ı şirazi)
 hâfiza: Muhafaza eden. Ezberleme kuvvesi. Kuvve-i hâfıza.
 hâfiza-pîrâ: Hafızayı süsleyen. * Uğur sayılarak ezberlenen şey.
 hafî: Gizli. Açıkta olmayan. Saklı. * Fık: Sigasından dolayı değil, bir ârızadan dolayı mânası kapalı kalan lafız.
@@ -528,7 +528,7 @@ hahem: (Hâsten) mastarından, "îsterim" mânasına fiildir.
 haher: Kızkardeş. Hemşire.
 haher-zade: Hemşirezade, kızkardeş çocuğu. Yeğen.
 haherî: Hemşirelik, kızkardeşlik.
-hâhîş : Fazla arzu, isteyiş.
+hâhîş : Fazla arzu, isteyiş.
 hâhîş-î vîcdanî: Vicdani isteyiş ve arzu.
 hâhîşger (hâhîşker): Arzulayan. îsteyen. îstekli.
 hâhîşgeran (hâhîşkerân): Hâhişgerler, istekliler, tâlibler.
@@ -864,7 +864,7 @@ hall: Sağlamlaştırmak. * Dostluk, sadâkat. * Fakir, hastalıklı, nahif insa
 hall: Giren, dâhil olan. înen.
 hall: çözme. çözülme. Karışık bir mes'elenin içinden çıkma. * Anlayıp karar vermek. Neticelendirmek. * Susam yağı. * Ezmek. * Açmak. * Dühul etmek, girmek.
 hall ü akd: çözme ve düğümleme. îdame etme. Müşkül mes'eleleri ve işleri halledip neticeye bağlama.
-hall ü fasl : çözme ve ayırma. Açıklayarak bitirme. Bir mes'eleyi müsbet bir neticeye bağlama.
+hall ü fasl : çözme ve ayırma. Açıklayarak bitirme. Bir mes'eleyi müsbet bir neticeye bağlama.
 hall-î mes'ele: Mes'elenin halledilmesi.
 hall-î müşkîlât: Müşkilâtın yenilmesi, zorlukların çözülmesi.
 hallac: Pamuk atan. Pamuğu didik didik eden.
@@ -1051,9 +1051,9 @@ hamule: Yük. Yük taşıyan nakil vasıtalarının yükü.
 hamulî: Tahammüllülük, sabırlılık, dayanıklılık.
 hamum: îç yağı.
 hamun: Bozkır. Büyük sahra, düz ova.
-hamus : Sâkin olmak, susmak.
-hamuş : Susmuş. Sessiz. Sâkit.
-hamuş : Sivrisinek.
+hamus : Sâkin olmak, susmak.
+hamuş : Susmuş. Sessiz. Sâkit.
+hamuş : Sivrisinek.
 hamuşan: Mevlevi tâbirlerindendir. Konya'da Mevlâna'nın türbesi haricinde ve kıble cihetindeki büyük kabristana verilen isimdir. * Sessizler, susmuş olanlar, uykuda olanlar.
 hamuşane: Sessizce, ses çıkarmadan. Sessizliği andırır bir şekilde.
 hamuşî: Susma, sükut etme. Sessizlik, sükunet.
@@ -1378,7 +1378,7 @@ harîka: Acı, sızı. * Bulâmaç. Yulaf lâpası.
 hârîka: îmkânların üstünde olan şey, hayret uyandıran, hayranlık vren. Büyük ve görülmedik eser. Görülmedik derecede kıymetli.
 hârîka: Ateş, nâr, od.
 hârîka-î sevdâ: Aşk ateşi.
-hârîka-pîşe : Hârikalı. Hârika işler yapan.
+hârîka-pîşe : Hârikalı. Hârika işler yapan.
 hârîkat: (Hârika. C.) şaşılacak şeyler, hârikalar. însanda hayret uyandıran şeyler.
 hârîkavî: Harika cinsinden, harika gibi.
 hârîkulâde: Fevkalâde, âdetin hâricinde bulunan şey, eser. Görülmedik derecede. Son derece kıymet ve ehemmiyeti hâiz olan şey.
@@ -1494,7 +1494,7 @@ hasafe: (C.: Hasif) Hurma yaprağından örülen kap. * Hurma yaprağı.
 hasafet: Rey sağlamlığı. Hükümde kuvvet ve olgunluk.
 hasaîl: (Haslet. C.) Hasletler. (Bak: Haslet)
 hasaîs: (Hasise. C.) Kötü huylar, fena tabiatlar.
-hasâîs : Bir şeye, birine has olan keyfiyetler.
+hasâîs : Bir şeye, birine has olan keyfiyetler.
 hasâîs-î însânîyye: însanlık hassaları.
 hasak: Büyük bir kuşun adı. (çin'de, Babil'de ve Türk vilâyetlerinde olur.)
 hasal: Yüreğin ağrıması.
@@ -1514,7 +1514,7 @@ hasaret: Cıvık ve sulu şeyin koyulaşıp katılaşması. * Dahâmet peyda etm
 hasas: Başta saçın az olması.
 hasasa: (C.: Hasâs) Fakirlik. * Hali yaramaz olmak. * Küçük delik. * îki kişinin arasındaki açıklık.
 hasase(t): Tamahkârlık. Cimrilik. Alçaklık. Hasislik.
-hasaset : îhtiyaç. Yoksulluk. Züğürtlük. * Rahne. * Kalbur ve elek gibi şeylerdeki küçük delik, gedik.
+hasaset : îhtiyaç. Yoksulluk. Züğürtlük. * Rahne. * Kalbur ve elek gibi şeylerdeki küçük delik, gedik.
 hasât: Küçük taş parçası. çakıl. * Tıb: Sidik yolunda taş peyda olmak.
 hasât-i bevlîyye: Tıb: Sidik yollarında ve böbreklerde meydana gelen taş.
 hasât-i mesane: Tıb: Sidik kesesinde meydana gelen taş.
@@ -1612,7 +1612,7 @@ hâsîrîn: (Hâsir. C.) Zarar görmüş olanlar, ziyana uğramış kimseler.
 hâsîrun: Zarar ve ziyana uğrayanlar. Eli boş kalanlar.
 hasîs: çabuk. çok aceleci. * Ayartılan, tergib ve teşvik edilen.
 hasîs: Gizli ses. Ateş gürültüsü. * Fitil.
-hasîsa : Bir şeye mahsus hal. Kendine mahsus olup başkasında bulunmayan keyfiyet, karakter.
+hasîsa : Bir şeye mahsus hal. Kendine mahsus olup başkasında bulunmayan keyfiyet, karakter.
 hasîs(e): (Hisset. den) Kötü huy, fena tabiat. * Ufak, değersiz. * Tamahkâr, cimri.
 hasîyy: Hayası çıkarılmış, hadım edilmiş, burulmuş (insan veya hayvan).
 hasîyyet: (Hassiyet) Hususi fayda, kuvvet ve menfaat, tesir, keyfiyet.
@@ -1697,7 +1697,7 @@ hasud: çok hased eden.
 hasudane: Kıskançlıkla, hasetçilikle, hasud olan kimseye benzer surette.
 hasudî: Kıskançlık, çekememezlik, hasetçilik.
 hasun: Serçe gibi küçük ve alaca renkli bir kuş.
-hasur : Mânevi mücahededen dolayı kadınlara yaklaşmaya rağbet etmeyen. * Sır saklayan. Keder ve üzüntüden gönlü daralan, tasadan içi sıkılan. * çok bahil kimse. (Halkla yer ve içer, birşey vermez) * Oğlu ve kızı olmayan. * Avrete cimâ edemeyen. * îhlili dar olan deve.
+hasur : Mânevi mücahededen dolayı kadınlara yaklaşmaya rağbet etmeyen. * Sır saklayan. Keder ve üzüntüden gönlü daralan, tasadan içi sıkılan. * çok bahil kimse. (Halkla yer ve içer, birşey vermez) * Oğlu ve kızı olmayan. * Avrete cimâ edemeyen. * îhlili dar olan deve.
 hasus: Katı, şedid, şiddetli.
 hasv: Men etmek, engel olmak.
 hasv: Toprak saçmak. * Az birşey vermek.
@@ -1734,7 +1734,7 @@ haşene: (Haşin. C.) Sert, katı ve kalb kırıcı olanlar.
 haşerat: (Haşere. C.) Küçük zararlı böcek, akrep ve yılan gibi hayvanlar. * Mc: Zararlı ve kıymetsiz kimseler.
 haşere: Yabani arı, böcek, akrep ve yılan gibi zararlı mahluk.
 haşhaş: Kapsüllerinden uyuşturucu bir madde olan afyon; tohumlarından da yağı çıkarılan bir bitki. * Hazırlıklı. * Silâhlı ve zırhlı topluluk.
-haşhaşa : Silah sesi, yüksek ses. * Silâh. * Kuru ot. * Yeni kaftan.
+haşhaşa : Silah sesi, yüksek ses. * Silâh. * Kuru ot. * Yeni kaftan.
 haşir: Toplayan, cem'eden, haşreden.
 haşî: Kuru, yâbis.
 haşî': Huşu içinde olan, alçak gönüllülük eden. * Kusurlarını düşünerek, ürpererek Cenâb-ı Hakka niyâz edip yalvaran.
@@ -1768,7 +1768,7 @@ haşmetmeab: Haşmetli, haşmet sahibi mânâlarına gelir ve eskiden padişahla
 haşna': Saliha kadın.
 haşr: (Haşir) Toplanmak, bir yere birikmek. * Toplama, cem'etmek. * Kıyametten sonra bütün insanların bir yere toplanmaları. Allahın, ölüleri diriltip mahşere çıkarması. Kıyamet. * Bir tohumun içinden büyük ağaçlar çıktığı gibi, her bir insanın acb-üz zeneb denilen bir nevi çekirdeğinden diriltilerek bütün insanların Haşir Meydanında toplanmaları. (Bak: Acb-üz Zeneb)(Surenin başında, küffar, Haşri inkâr ettiklerinden Kur'ân onları Haşrin kabulüne mecbur etmek için şöylece bast-ı mukaddemât eder; der: "Ayâ, üstünüzdeki semâya bakmıyor musunuz ki: Biz ne keyfiyyette, ne kadar muntazam, muhteşem bir surette bina etmişiz. Hem görmüyor musunuz ki; nasıl yıldızlarla, Ay ve Güneş ile tezyin etmişiz, hiç bir kusur ve noksaniyet bırakmamışız. Hem görmüyor musunuz ki; zemini size ne keyfiyyette sermişiz, ne kadar hikmetle tefriş etmişiz. O yerde dağları tesbit etmişiz, denizin istilâsından muhafaza etmişiz. Hem görmüyor musunuz o yerde ne kadar güzel, rengâ-renk her bir cinsten çift hadrevâtı, nebâtâtı halkettik. Yerin her tarafını o güzellerle güzelleştirdik. Hem görmüyor musunuz, ne keyfiyyette sema cânibinden bereketli bir suyu gönderiyoruz. O su ile bağ ve bostanları, hububatı, yüksek leziz meyveli hurma gibi ağaçları halkedip ibâdıma rızkı onunla gönderiyorum, yetiştiriyorum. Hem görmüyor musunuz, o su ile, ölmüş memleketi ihya ediyorum. Binler dünyevi haşirleri icad ediyorum. Nasıl bu nebâtatı, kudretimle bu ölmüş memleketten çıkarıyorum; sizin haşirdeki hurucunuz da böyledir. Kıyamette arz ölüp, siz sağ olarak çıkacaksınız." îşte şu âyetin isbat-ı haşirde gösterdiği cezalet-i beyaniye-ki, binden birisine ancak işaret edebildik - nerede, insanların bir dâva için serdettikleri kelimat nerede? S.) (Bak: Hudus)
 haşr suresî: Kur'an-ı Kerim'in 59. suresi olup Medine-i Münevvere'de nâzil olmuştur.
-haşr u neşr : Toplanıp dağılmak, yayılmak.
+haşr u neşr : Toplanıp dağılmak, yayılmak.
 haşr-î a'zam: Kıyamet koptuktan sonraki en büyük haşir, içtimâ.
 haşr-î cîsmanî: Cisimle, cesedle dirilme. Bedenlerin ve vücudların haşri. (Sual: Kusurlu, noksaniyetli, mütegayyir, kararsız, elemli cismaniyetin ebediyetle ve cennetle ne alâkası var? Madem, ruhun âli lezaizi vardır; ona kâfidir. Lezaiz-i cismaniyye için bir haşr-ı cismani neden icabediyor?Elcevab: çünki: Nasıl, toprak; suya, havaya, ziyaya nisbeten kesafetli, karanlıklıdır... fakat, masnuat-ı îlâhiyyenin bütün envaına menşe' ve medar olduğundan bütün anâsır-ı sairenin mânen fevkine çıktığı gibi.. hem kesafetli olan nefs-i insaniyye: sırr-ı câmiiyyet itibariyle, tezekki etmek şartiyle bütün letâif-i insaniyyenin fevkine çıktığı gibi.. öyle de, cismaniyyet en câmi', en muhit, en zengin bir âyine-i tecelliyat-ı Esmâ-i îlâhiyyedir. Bütün hazâin-i rahmetin müddeharatını tartacak ve mizana çekecek âletler, cismaniyettedir. Meselâ: Dildeki kuvve-i zâika, rızk zevkinde envâ-i mat'umat adedince mizanlara menşe' olmasaydı; herbirini ayrı ayrı hissedip tanımazdı, tadıp tartamazdı. Hem, ekser Esmâ-i îlâhiyyenin tecelliyatını hissedip bilmek, zevkedip tanımak cihazatı, yine cismaniyettedir. Hem, gayet mütenevvi ve nihayet derecede ayrı ayrı lezzetleri hissedecek istidatlar, yine cismaniyettedir. Madem şu kainatın Sânii, şu kâinatta bütün hazâin-i rahmetini tanıttırmak ve bütün tecelliyat-ı esmâsını bildirmek ve bütün enva-ı ihsânatını tattırmak istediğini; kâinatın gidişatından ve insanın câmiiyyetinden, Onbirinci Söz'de isbat edildiği gibi kat'i anlaşılıyor. Elbette şu seyl-i kâinatın bir havz-ı ekberi ve bu kâinat tezgâhının işlediği mahsulâtın bir meşher-ı a'zamı ve şu mezraa-i dünyanın bir mahzen-i ebedisi olan dar-ı saadet, şu kâinata bir derece benziyecektir. Hem cismani, hem ruhani bütün esasatını muhafaza edecektir. Ve O Sâni-i Hakim ve o âdil-i Rahim; elbette cismani âletlerin vezaifine ücret olarak ve hidematına mükâfat olarak ve ibadat-ı mahsusalarına sevab olarak, onlara lâyık lezaizi verecektir. Yoksa hikmet ve adalet ve rahmetine zıt bir hâlet olur ki, hiç bir cihetle Onun cemal-i rahmetine ve kemal-i adaletine uygun değildir; kabil-i tevfik olamaz. S.)
 haşr-î emvât: ölenlerin dirilerek bir araya toplanmaları.
@@ -1938,7 +1938,7 @@ hatt-i îctîma-î mîyâh: Suların toplandığı hat. Dere, çay, nehir.
 hatt-i îstîvâ: Dünyanın kuzey ve güney kutuplarına aynı uzaklıkta olduğu ve dünyayı iki müsavi parçaya böldüğü farzedilen dâire çizgisi. * Ekvator. * Mevlevi semahânesinde, şeyhin oturduğu post ile meydan kapısı ortasında farzolunan çizgi.
 hatt-i mevhum: Hayali çizgi.
 hatt-i mîsmarî: çivi yazısı.
-hatt-i muvâsala : Erişme ve vâsıl olma yolu. Birbirine kavuşup buluşma ve birleşme yeri. Birbirine münasebet kurabilme yolu.
+hatt-i muvâsala : Erişme ve vâsıl olma yolu. Birbirine kavuşup buluşma ve birleşme yeri. Birbirine münasebet kurabilme yolu.
 hatt-i müdâfaa: Savunma hattı, müdafaa hattı.
 hatt-i münhanî: Eğri çizgi. Eğilen hat.
 hatt-i münkesîr: Geo: Kırık çizgi.
@@ -2009,7 +2009,7 @@ havas: (C.: Ahvâs) çukur ve kısık gözlü olmak.
 havasib: (Hâsıb. C.) şiddetli rüzgârlar, fırtınalar.
 havasin: (Hâsına. C.) Namuslu kadınlar.
 havass: (Hasse. C.) Hasseler. Duygular.
-havâss : (Hâss - Hâssa. C.) Hâslar. Hâssalar. Keyfiyetler. Hususlar. * Dindarlık ve doğruluğu ile, ilmiyle âmil olup mâneviyat mertebelerinde yükselmekle makbul ve muteber olan zatlar. * Zenginler sınıfı. * Kur'ani ve manevi sırlara ve hususlara vâkıf bulunan, ilim, ibadet, tâat ve takva yolunda yükselerek mümtaz olan Evliyâullah. Herkesin hürmet ettiği büyük zevât. * Manevi te'sir için okunan duâlar.
+havâss : (Hâss - Hâssa. C.) Hâslar. Hâssalar. Keyfiyetler. Hususlar. * Dindarlık ve doğruluğu ile, ilmiyle âmil olup mâneviyat mertebelerinde yükselmekle makbul ve muteber olan zatlar. * Zenginler sınıfı. * Kur'ani ve manevi sırlara ve hususlara vâkıf bulunan, ilim, ibadet, tâat ve takva yolunda yükselerek mümtaz olan Evliyâullah. Herkesin hürmet ettiği büyük zevât. * Manevi te'sir için okunan duâlar.
 havâss u avâm: îleri gelen kimseler ve halk.
 havass-i (hamse-î) bâtina: Kalbe bağlı beş duyğu: Hiss-i müşterek (hayâl kuvveti), müdrike (akıl), vehim (vâhime), hâfıza, mutasarrıfa (meydana getirici hayal kuvveti).
 havass-i (hamse-î) zâhîre: Zâhiri beş duygu: Tatmak, görmek, işitmek, koklamak, dokunup duymak.
@@ -2091,10 +2091,10 @@ havreme: Burun ucu.
 havs: Geceleyin istemek.
 havs: Ayrılmak. * "Haysü" mânâsına zarf-ı mekân için lügattır.
 havsa: Bağır. * Bağırın yanındakiler.
-havsa' : Bir gözü beyaz, bir gözü siyah olan koyun.
+havsa' : Bir gözü beyaz, bir gözü siyah olan koyun.
 havsa': Karnı sarkık olan kadın. (Müz: Ahves)
 havsal: Havuzun kenarında suyun durulduğu yer.
-havsala : Zihnin bir şeyi kavrama derecesi. Anlayış. Akıl. * Tıb: Kuş kursağı. Karın boşluğu. Cevf. * Mide.
+havsala : Zihnin bir şeyi kavrama derecesi. Anlayış. Akıl. * Tıb: Kuş kursağı. Karın boşluğu. Cevf. * Mide.
 havsala-suz: Takati kaldıran, tahammülü mahveden.
 havsere: Araptan bir kabile.
 havşeb: Köstek yeri.
@@ -2254,7 +2254,7 @@ hays: Az, kalil.
 hays: Karıştırmak, halt.
 haysal: Patlıcan.
 hayse: Hurmayı yağla ve keşle karıştırmak.
-hayse-beyse : îleri gidip geri gelmek, bir halde durmak. * Karışıklık. * şiddet ve darlık.
+hayse-beyse : îleri gidip geri gelmek, bir halde durmak. * Karışıklık. * şiddet ve darlık.
 haysefuce: Gemi dümeni.
 haysîyet: îtibar. şeref. Değer. Kıymet. Derece. Câh. Mesned. Mertebe.
 haysîyet-şîken: Haysiyet kıran.
@@ -3074,7 +3074,7 @@ heyha: Deveyi yulafa çağırmak.
 heyhat: Teneffür ve tehassür ifâde eder; "sakın, savul, yazıklar olsun, uzak ol" mânalarına geldiği gibi, daha ziyade; Eyvah, yazık, ne yazık, ne kadar uzak... gibi mânalar için söylenir.
 heyî: Varlık, madde.
 heykel: Taş, tunç, kil ve alçı gibi maddelerden yontularak, kalıba dökülerek veya yoğurulup, pişirilerek yapılan insan, hayvan vs. şekli. * Büyük bina, anıt, büyük ve yüksek yapı, âbide. * Mc: Soğuk ve duygusuz kimse. * Güzel ve yakışıklı kişi.
-heykeltraş «: Heykel yapan kimse.
+heykeltraş «: Heykel yapan kimse.
 heyl: Dökmek. * Bir şeyi ölçüsüz def'etmek.
 heylele: "Lâ ilâhe illâllah" demek.
 heyleman: çok, kesir.
@@ -3384,7 +3384,7 @@ hisan: Aygır, at.
 hisan: (Hasna. C.) Güzel kadınlar veya kızlar.
 hisan: Mümtaz kimseler, seçkin kişiler.
 hisane: Berklik, sağlamlık, sertlik, muhkemlik.
-hisas : Hisseler. Paylar. Nasipler. * Kıssadan alınan dersler.
+hisas : Hisseler. Paylar. Nasipler. * Kıssadan alınan dersler.
 hisase (hisse): Kabahat. * Alçaklık, denâet.
 hisb: Ucuzluk, bolluk.
 hisb: Yay avazı. Ok atma sırasında yaydan çıkan ses.
@@ -3653,7 +3653,7 @@ hîkmet-amuz: Hikmetli. * Hikmet öğreten.
 hîkmet-eda: Hikmetli. 
 hîkmet-enduz: Hikmet kazanan.
 hîkmet-feşan: Hikmet neşreden, hikmet yayan.
-hîkmet-füruş  : Hikmet bildiğini iddia eden, hikmet satan.
+hîkmet-füruş  : Hikmet bildiğini iddia eden, hikmet satan.
 hîkmet-î amelîye: Pratik bilgi.
 hîkmet-î âmme: Her şeyin alakâlı olduğu îlâhi gaye. Her şeyi kanun ve nizamına itaat ettiren umumi faydalar. Yaratılıştaki, kâinattaki umumi ve ilâhi gaye.
 hîkmet-î atîka: Eski hikmet.
@@ -3690,7 +3690,7 @@ hîlâl-ebru: Kaşı ay gibi olan. Hilâl kaşlı. Yeni ay gibi kaşı olan.
 hîlâl-î ahdar: Yeşilay.
 hîlâl-î ahmer: Kırmızı ay. Kızılay'ın önceki ismi.
 hîlâl-î îd: Bayram hilali. Bayram edileceğinin anlaşılmasına sebeb olan hilâl.
-hîlâl-î savm : Oruç hilâli. Ramazanın geldiği kendisi görünmekle bilinen hilâl.
+hîlâl-î savm : Oruç hilâli. Ramazanın geldiği kendisi görünmekle bilinen hilâl.
 hîlal-î sütur: Satırların aralığı. Satırlar ortası.
 hîlâle: Ay ağılı, hâle.
 hîlalet: Samimi dostluk.
@@ -3859,8 +3859,8 @@ hîss-î sâdîs: Altıncı hiss, altıncı duygu.(Kalb ile vicdan, mahall-i ima
 hîss-î selîm: Selim his. Her çeşit zarar verebilecek olan, müsbet olmayan ve şerre giden şeylerden kendini koruma hissi. * Sağlam ve insanı yanıltmayan his.
 hîsse: Pay. Nasip. Kısmete düşen kısım. Vârise intikal eden kısım.
 hîsse senedî: Sermayesi paylara bölünebilen ticaret şirketlerinde, ortalıkdan doğan hakları ve sermaye payını temsil eden değerli evrak.
-hîsse-î müfreze : Fık: Bir toprağın taksiminde vârislerden her birisinin hissesine isabet eden yer.
-hîsse-î şâyîa : Fık: Müşterek bir malın her bir cüz'üne sirayet eden hisse, pay. * Ortaklar arasında taksim edilmemiş olan müşterek mal. Meselâ: Bir kitaba, bir kaç kişi ortak ve taksim de mümkün değil ise; her hissedarın kitabın umumuna sahip olması.
+hîsse-î müfreze : Fık: Bir toprağın taksiminde vârislerden her birisinin hissesine isabet eden yer.
+hîsse-î şâyîa : Fık: Müşterek bir malın her bir cüz'üne sirayet eden hisse, pay. * Ortaklar arasında taksim edilmemiş olan müşterek mal. Meselâ: Bir kitaba, bir kaç kişi ortak ve taksim de mümkün değil ise; her hissedarın kitabın umumuna sahip olması.
 hîsseçîn: Hisse alma, pay alma.
 hîssedar: Hisse sâhibi, hissesi olan.
 hîssemend: Hisseli olan. Pay alan, nasipli. * Ders alan.
@@ -3941,7 +3941,7 @@ hîzane: (Hizânet) Hazine, kıymetli mücevheratın saklandığı yer. * Hazine
 hîzaya gelmek: Yola gelmek, düzelmek.
 hîzb: Cemaat. * Takın, kısım, fırka. Parti. * âlim ve sâlih bir zâtın re'yine tâbi olup onunla bir gaye uğrunda beraber çalışanlar.
 hîzb-ül kur'an: Kur'an Cemaatı. Kur'an'a ciddi ve samimi olarak bağlanıp, ona hizmet için mücahidane bir surette çalışan ve fenâlıklardan korunan müslümanların topluluğu ve cereyanı. * Kur'an'ın bir cüz'ünün dörtte biri. * Zikir ve dua için Kur'an'dan alınmış bir kısım âyetler.
-hîzb-üş şeytan : şeytana ve nefislerine tâbi olanların grubu. Allah'ın kanun ve nizamına tâbi olmadan kafalarına güvenerek ve nefsani arzularına uyarak gitmek isteyenler. Milleti, memleketi ve mukaddesatı yıkmağa çalışan ve ahlâksızlığa alıştıranların ve dinsizlerin topluluğu ve cereyanı.
+hîzb-üş şeytan : şeytana ve nefislerine tâbi olanların grubu. Allah'ın kanun ve nizamına tâbi olmadan kafalarına güvenerek ve nefsani arzularına uyarak gitmek isteyenler. Milleti, memleketi ve mukaddesatı yıkmağa çalışan ve ahlâksızlığa alıştıranların ve dinsizlerin topluluğu ve cereyanı.
 hîzba: (C.: Hazâbi) Engebeli arazi, ârızalı toprak.
 hîzber: (Hizebr) (C.: Hezâbir) Aslan, gazanfer. * Mc: Cesur, yiğit, kahraman, yürekli adam.
 hîzbullah: Allah için din uğrunda ciddi gayret sâhibi olan ve din düşmanlarıyla aslâ hakiki dost olmayan mücahid cemaat. "Hizb-ül Kur'an" tabiri de aynı mânada kullanılır. (Kur'an-ı Kerim'de 5:56 ve 58:22 âyetlerinde zikredilir.)
@@ -3975,8 +3975,8 @@ hod-be-hod: Kendi başına, kendi kendine.
 hodara: (Hod-ârâ) Kendini süsleyen, kendini medheden, öven.
 hodbîn: Başkasına hak tanımayıp, kendi lezzet ve menfaatını tâkib eden. Bencil. Enaniyetli. Kibirli.
 hodbînî: Hodbinlik. Kendi menfaat ve lezzetini düşünmek.
-hodendîş : (Hod-endiş) Kendini düşünen. Kendi için endişe eden. Başkasının işine yaramayan.
-hodfuruş : Kendini beğendirmeğe çalışan. övünen.
+hodendîş : (Hod-endiş) Kendini düşünen. Kendi için endişe eden. Başkasının işine yaramayan.
+hodfuruş : Kendini beğendirmeğe çalışan. övünen.
 hodgâm: (Hodkâm) Kendi keyfini düşünen. Kendini beğenmiş.
 hodgeşte: Kendine dikkat etmeyen.
 hodküş: Kendini öldüren, intihar eden.
@@ -4015,26 +4015,26 @@ hospodar: Osmanlı împaratorluğunca XV. yy.dan 1866-1881'e kadar Boğdan ve Ef
 hostes: ing. Umumi taşıtlarda, daha ziyade uçaklarda yolcuları ağırlayan kız veya kadın.
 hoş: îyi, güzel. * Tatlı. * Tuhaf, garip.
 hoş-alef: çok fazla yiyen hayvan. * Mc: Helâl haram demeden her şeyi yiyen kimse.
-hoşa : Ne güzel, ne iyi, ne hoş.
-hoşab : Suyu, havası iyi olan yer. Parlak, berrak. Elmas, inci gibi şeylerin parlaklığı. * Hoşaf.
+hoşa : Ne güzel, ne iyi, ne hoş.
+hoşab : Suyu, havası iyi olan yer. Parlak, berrak. Elmas, inci gibi şeylerin parlaklığı. * Hoşaf.
 hoşafin yaği kesîlmek: Ist: Bozulmak, bir cevap bulamamak, mahcup olmak.
-hoşâmed : Hoş geldi.
-hoşâmed gû : Hoş geldin, diye söyleyen.
-hoşâmedî : Hoş geldin demek, hoş geldine gitmek.
+hoşâmed : Hoş geldi.
+hoşâmed gû : Hoş geldin, diye söyleyen.
+hoşâmedî : Hoş geldin demek, hoş geldine gitmek.
 hoşane: Güzel, iyi, lâtif.
 hoşavaz: Sesi güzel olan. Güzel sesli.
 hoşayende: (C.: Hoşâyendegân) Hoşa giden, hoşlanılan, beğenilen.
 hoşbeş: Selâmsabah, hatır sorma, birbirine rastlayan iki ahbab arasında söylenilen ilk sözler.
 hoşbu: Güzel kokulu, hoş kokan.
-hoşbude : îyi oldu, iyi olurdu.
-hoşbuyî : îyi kokulu olmak, güzel kokmak.
-hoşdîl : Memnun, neşeli. Gönlü hoş.
-hoşe-çîn : (Bak: Huşeçin) 
-hoşeda : Hareket ve davranışı hoş ve güzel olan.
+hoşbude : îyi oldu, iyi olurdu.
+hoşbuyî : îyi kokulu olmak, güzel kokmak.
+hoşdîl : Memnun, neşeli. Gönlü hoş.
+hoşe-çîn : (Bak: Huşeçin)
+hoşeda : Hareket ve davranışı hoş ve güzel olan.
 hoşelhan: Güzel ve hoş makale okuyan.
 hoşendam: Boyu bosu güzel ve düzgün olan.
 hoşgû: Hoş konuşan, tatlı dilli. Konuşmaları kırıcı olmayan.
-hoşgüvar : Hazmı kolay, tatlı, hoş, sindirici.
+hoşgüvar : Hazmı kolay, tatlı, hoş, sindirici.
 hoşgüzeşte: Hoş geçmiş tatlı zaman.
 hoşhal: Hali vakti iyi, bahtiyar, mes'ud.
 hoşhan: Okuyuşu güzel
@@ -4049,7 +4049,7 @@ hoşneva: Sesi güzel olan. Güzel sesli.
 hoşnîgâh: Güzel bakışlı.
 hoşnîhad: îyi yaradılışlı, güzel huylu.
 hoşnîşîn: (C.: Hoş-nişinân) Göçebe. * Rahat yerleşmiş.
-hoşnud : Memnun, râzı, gönlü hoş edilmiş.
+hoşnud : Memnun, râzı, gönlü hoş edilmiş.
 hoşnudluk: Memnuniyet, râzılık.
 hoşnüma: Güzel görünen.
 hoşreftar: Gidişi, yürüyüşü güzel. Güzel gidişli.
@@ -4248,7 +4248,7 @@ hulalet: Samimi dostluk arkadaşlık.
 hulam (hullân): Kurban olmayan küçük oğlak.
 hulasa: Bir şeyin, bir bahsin özü. Kısaca esası.
 hulasa-î kelâm: Sözün hülâsası. Sözün özü.
-hulasat-ül hulasa : Hulâsanın hulâsası. özünün özü. * Ayet-ül Kübrâ Risâlesinin hülâsası.
+hulasat-ül hulasa : Hulâsanın hulâsası. özünün özü. * Ayet-ül Kübrâ Risâlesinin hülâsası.
 hulasaten: Kısaca, özet olarak, hülâsa olarak, muhtasaran.
 hulave: (C.: Halâvi) Kafanın ortası.
 hulb: Domuz kılı. Kalın kıl. Yele kılı. * Kıldan yapılmış kalem, kıl fırça.
@@ -4303,11 +4303,11 @@ hulul: Girme. Dâhil olma. îçine gizlice giriş. * Birinin veya birkaç kimsen
 hulul-î ramazan: Ramazan ayının gelmesi.
 hulul-î şîta: Kış mevsiminin gelmesi.
 hulule: Dostluk.
-hulus : Hâlislik. Saflık. * Samimiyet. Hâlis dostluk. îçden davranmak. Her hayırlı işi ve ameli Allah rızâsını niyet ederek yapmak.
-hulus-î kalb : Kalbden, gönülden, içten samimiyet.
+hulus : Hâlislik. Saflık. * Samimiyet. Hâlis dostluk. îçden davranmak. Her hayırlı işi ve ameli Allah rızâsını niyet ederek yapmak.
+hulus-î kalb : Kalbden, gönülden, içten samimiyet.
 hulus-î nîyet: Niyetin hâlis olması.
-hulusî : Samimi, candan. Hâlis ve içi temiz olan.
-hulusîyyet : Hâlislik. Samimi dostluk.
+hulusî : Samimi, candan. Hâlis ve içi temiz olan.
+hulusîyyet : Hâlislik. Samimi dostluk.
 huluskâr: Bir insana karşı samimi muhabbeti olan. * Dalkavuk. Menfaati için sevgi ve iyi muamele gösteren.
 huluskârâne: Samimi muhabbet ve sevgi ile. * îkiyüzlülükle, dalkavuklukla.
 hulusname: Yalnız muhabbet, alâka ve bağlılığı göstermek üzere sunulan mektub.
@@ -4493,7 +4493,7 @@ hursendane: Kanaatkârâne, tokgözlülükle.
 hursendî: Tokgözlülük, kanaat edicilik. Göz tokluğu.
 hursî: Ev eşyası. * Her nesnenin fenâsı.
 hursîs: Metâ, mal. Kumaş.
-hurşîd : Güneş. Afitab. Hur. Mihr. şems.
+hurşîd : Güneş. Afitab. Hur. Mihr. şems.
 hurşun: (C.: Harâşın) Ufacık bıtırak. (Davarların tüyüne yapışır.)
 hurt: (C.: Hurut-Ahrât) Balta. îğne deliği, balta deliği, kulak deliği.
 hurtum: (C.: Harâtim) Burun. * şarap.
@@ -4502,11 +4502,11 @@ hurub: (Harb. C.) Harpler, savaşlar, muharebeler.
 hurub: Keçiboynuzu adı verilen yemiş.
 huruc: çıkma. Dışarı çıkma, çıkış. * Ayaklanma, isyan etmek.
 huruc alessultan: Meşru hükümete karşı kıyam ve isyan etme.
-huruc-î bîsun'îhî : Namazdan kendi isteği ile çıkmak.
-huruc-î fâhîş : Haddini aşmak. * Büyük isyan hareketinde bulunmak.
+huruc-î bîsun'îhî : Namazdan kendi isteği ile çıkmak.
+huruc-î fâhîş : Haddini aşmak. * Büyük isyan hareketinde bulunmak.
 huruf: (Harf. C.) Harfler. îsim ve fiil olmayan kelimeler. (Bak: Harf)
 huruf-u âlîyat: Tas: Gayb ve gaybilikte olan Cenab-ı Hakka mahsus şuunat. 
-huruf-u aslîye : (Bak: Harf-i asli)
+huruf-u aslîye : (Bak: Harf-i asli)
 huruf-u câzîme: Cezmeden harfler: lem, lemmâ, lâm-ül-emir, lâ-ün-nâhiye (nehyeden lâ edatı). şart edatları da câzimdir. (Bak: Câzim)
 huruf-u cerre: (Bak: Harf-i Cer)
 huruf-u halk: Sesi boğazdan çıkan harfler. (Hâ, hı, ayn, gayn, he, hemze gibi) 
@@ -4531,14 +4531,14 @@ hurufîye: Fazlullah-ı Hurufi adında birinin kurduğu bâtıl bir meslektir. H
 hurum: îhram.
 hurur: Düşmek, sukut.
 hurus: Horoz.
-huruş : Coşma. Gürültü. şamata. Telâş.
-huruşan : çağlıyarak, coşarak, * Coşan, çağlayan.
+huruş : Coşma. Gürültü. şamata. Telâş.
+huruşan : çağlıyarak, coşarak, * Coşan, çağlayan.
 hury: Değirmen deliği.
 hurz: Oranlamak, yâni tahminle bir şeyin miktarını söylemek.
 hurze: (C.: Hurez) Dikiş.
 hus: Bir kavim üzerine nâzil olan umur.
-hus : Dikmek. * Darlık vermek. * îki şeyi bir araya getirmek.
-husa : Hurma yaprağı.
+hus : Dikmek. * Darlık vermek. * îki şeyi bir araya getirmek.
+husa : Hurma yaprağı.
 husa: (Husye. C.) Erkeklik bezleri, hayalar.
 husaf: Hasad, hasad mevsimi. * Ekin biçme.
 husafe: Düşmanlık, adavet. Gizli kin, hased.
@@ -4561,29 +4561,29 @@ husr: Tıb: Peklik, kabızlık, inkıbaz. * îdrar tutulması.
 husran: Mahrumiyet. Kayıp. çok büyük ziyan.
 husrev: Hükümdar, şah.
 huss: Karışmadık, sâfi olan. * Ayrı bir kavim.
-huss : Za'feran. * Hurma yaprağı. * Eğrelti otu.
+huss : Za'feran. * Hurma yaprağı. * Eğrelti otu.
 huss: (C.: Husas) Kamıştan yapılmış ev.
 hussad: Hased edenler. Kıskananlar.
 husser: Cübbesi ve zırhı olmayanlar. çıplak kimseler.
 husuf: Ay tutulması. Perdelenmek. Dünya gölgesinin ay üzerine gelmesi. * Bir şeyin nuru ve ışığı gitmesi.
 husuf-î cüz'î: Ayın bir kısmının tutulması.
 husuf-î küllî: Ayın tamamen tutulması.
-husul : Peydâ olma. Hasıl olma. Meydana gelmek. üremek, türemek.
+husul : Peydâ olma. Hasıl olma. Meydana gelmek. üremek, türemek.
 husul-pezîr: Hâsıl olmuş, meydana gelmiş.
 husul-yâfte: Husule gelmiş, meydana çıkmış, hâsıl olmuş.
 husum: (Hasim. C.) Uğursuzluk. * îdman. Birbiri ardınca devam üzere olmak. * Bir şeyi kökünden kesip dağlayanlar. * Fırtına.
-husum : (Hasım. C.) Hasımlar, düşmanlar.
-husumet : Düşmanlık. Hasımlık. Kincilik. Zıddiyet. çekişmek. Dâvacı olmak.
-husun : (Hısn. C.) Kaleler. Korunacak sağlam yerler.
+husum : (Hasım. C.) Hasımlar, düşmanlar.
+husumet : Düşmanlık. Hasımlık. Kincilik. Zıddiyet. çekişmek. Dâvacı olmak.
+husun : (Hısn. C.) Kaleler. Korunacak sağlam yerler.
 husun-î refîa: Yüksek kaleler.
 husur: Yorulmak. * încinmek.
 husure: Yoğunluk, kalınlık. Sütün yoğurt olması.
-husus : îş. Mevzu. Yol. Usul. Keyfiyet. Madde. şey. Bir şeyin sairlerinden ayrıldığını ve temyizini bildiren cihet ve keyfiyet.
+husus : îş. Mevzu. Yol. Usul. Keyfiyet. Madde. şey. Bir şeyin sairlerinden ayrıldığını ve temyizini bildiren cihet ve keyfiyet.
 hususa: Ayrıca, hususen, başkaca.
 hususat: (Husus. C.) Hususlar, bakımlar, işler. Tarzlar, şekiller. Mes'eleler. Maddeler.
-hususen : Bilhassa. Ayrıca. Başkaca. Buna mahsus olarak.
-hususî : Bir şeye aid olan. Herkese âid olmayan.
-hususîyat : Hususi olan şeyler. Hususiyyetler.
+hususen : Bilhassa. Ayrıca. Başkaca. Buna mahsus olarak.
+hususî : Bir şeye aid olan. Herkese âid olmayan.
+hususîyat : Hususi olan şeyler. Hususiyyetler.
 hususîyet: Ahbaplık, tanışıklık, yakınlık. * Hususilik.
 husve: Kap içinde bir içim su.
 husve: Topraklı yer.
@@ -4591,15 +4591,15 @@ husve: Haya, husye.
 husye: Erkeklik bezi. Haya. Erkeğin yumurtalığı.
 husyet-üs semek: Balık yumurtası.
 husyetan: Hayalar, çift haya. Erkeklik bezlerinin her ikisi.
-huş : Akıl, fikir, zekâ, iyi ile kötüyü ayırma hissi. * Ruh, can. * ölüm, * Zehir.
-huş : Vahşi hayvanlar.
+huş : Akıl, fikir, zekâ, iyi ile kötüyü ayırma hissi. * Ruh, can. * ölüm, * Zehir.
+huş : Vahşi hayvanlar.
 huş'a: Alçak küçük tepe.
 huşam: Kalın burunlu. * Uzun dağ burnu.
 huşar: Avaz, ses.
 huşare: Bir yere giderken bırakılan faydasız şeyler. * Her şeyin kötüsü.
-huşdar : Akıllı, uslu.
+huşdar : Akıllı, uslu.
 huşe: Salkım. * Başak, sümbül.
-huşe çîn : Başak toplayan. Salkım toplayan.
+huşe çîn : Başak toplayan. Salkım toplayan.
 huşe-çîn: Başak toplayan.
 huşe-î engur: üzüm salkımı.
 huşe-î hurma: Hurma salkımı.
@@ -4629,7 +4629,7 @@ huşuf: (C.: Huşef) Seri, eli çabuk, hızlı. * Geceleyin yola giden deve.
 huşunet: Kabalık, sertlik, inatçılık.
 huşunet-î mîzâc: Mizâc sertliği, huy ve tabiat sertliği.
 huşunet-î tab': Tabiat ve huy kabalığı.
-huşyar : (Bak: Hüşyar)
+huşyar : (Bak: Hüşyar)
 hut: Balık. Büyük balık. * şubat ayı içinde güneşin girdiği ve semanın cenub yarısındaki burcun ismi.
 hutab: (Hutbe. C.) Hutbeler.
 hutae: f (C.: Hatâit) Kısa boylu kimse.
@@ -4658,7 +4658,7 @@ hutun: (Hutunet) Evlenme, tezevvüc, teehhül. * Damatlık, damat olma.
 hutur: Akla gelmek. Hatırlamak.
 hutur etmek: Hatıra gelmek.
 hutut: (Hatt. C.) Yazılar. çizgiler * Yollar.
-hutut-u şemsîye : Işıklı güneş yolu.
+hutut-u şemsîye : Işıklı güneş yolu.
 hutuvat: (Hutvât-Hutevat) (Hutve. C.) Adımlar. îzler. Yollar. Eserler. * şeytanın aldatmaları.
 hutuvat-i sîtte: Altı adım. (Kur'an-ı Kerim'deki "Hutuvat-üş şeytan" tabirinden istifaze ile, şeytanların ve onların insi mümessilleri olan şerir insanların fitnekâr ve dalâlete sevkedici adımları, izleri ve desiseleri gibi mânalarla alâkalı olarak "bir mühim eser"e verilen isim) şeytanın altı desisesi.
 hutve: Adım atıldığı zaman iki ayak arasındaki mesafe. * îz. (Bak: Hatve)
@@ -4806,7 +4806,7 @@ hükle: Dil tutukluğu, kekemelik.
 hükm: (Hüküm) Karar. Emir. Kuvvet. Hâkimlik. Amirlik. * îrade. Kumanda. Nüfuz. * Kadılık etmek. * Tesir. Cari olmak. * Makam. * Bir dâvanın veya bir meselenin tedkik edilmesinden sonra varılan karar. * Man: Fikirler ve tasavvurlar arasındaki râbıtayı tasdik veya inkâr etmek.
 hükm-î âdîl: Huk: Adalet üzere verilmiş olan hüküm.
 hükm-î giyabî: Huk: Taraflardan biri hazır olmadığı halde verilen hüküm.
-hükm-î karakuşî : Karakuş hükmü. * Mc: Hesaba kitaba gelmiyen, mantığa uymayan hüküm.
+hükm-î karakuşî : Karakuş hükmü. * Mc: Hesaba kitaba gelmiyen, mantığa uymayan hüküm.
 hükm-î kaza: Allah tarafından evvelce verilmiş olan hüküm.
 hükm-î şer'î: Kur'an-ı Kerim'e ve Din-i îslâm'a uygun kanun ile verilen karar. şeriatın hükmü.
 hükm-î tecrübî: Tecrübe ile elde edilen hüküm. * Tecrübe neticesi hâsıl olan karar.
@@ -4817,7 +4817,7 @@ hükm-î zimnî: Fık: Zımnen vaki olan hüküm. (Bir kimse diğer bir kimse al
 hükmberdar: Hükme muti olan, itaat eden, boyun eğen.
 hükmen: Hüküm yoluyla, hükmünde ve değerinde olarak.
 hükmî: Hükme dair. Hükme âit ve müteallik. Bir karara dayanan, itibâri olan.
-hükmî şahis : şahıs gibi muamele gören cemiyet, şirket gibi birlik teşkil eden müessese.
+hükmî şahis : şahıs gibi muamele gören cemiyet, şirket gibi birlik teşkil eden müessese.
 hükmkeş: Emre itaat eden, hükme boyun eğen.
 hükre: Cem'olmak, toplanmak, birikmek. * Yiyecek maddelerini, pahalanacak diye saklamak. * Azlığından bir yerde toplanan su.
 hüku': Sâkin olmak.
@@ -4964,7 +4964,7 @@ hüsr: Ziyan, kayıp, zarar.
 hüsran: ümit edilenin elde edilememesinden duyulan elem. Mahrumiyet acısı. * Zarar, ziyan, kayıp.
 hüsrev: (Bak: Husrev)
 hüşad: Suyu emmeyen sert arâzi.
-hüşdar : (Bak: Huşdar)
+hüşdar : (Bak: Huşdar)
 hüşyar: Uyanık, akıllı, zeki. Ayık. Uslu.(...îstikbal karanlığı içinde saadet-i ebediyyeye giden nurani yolu olan sırat-ı müstakime hidayeti istemek.. hem şimdi yatmış nebatat, hayvanat gibi gizlenmiş güneşler, hüşyar yıldızlar, birer nefer misillü emrine müsahhar ve bu misafirhane-i âlemde birer lâmbası ve hizmetkârı olan Zât-ı Zülcelal'in kibriyasını düşünüp Allahü Ekber deyip rükua varmak... S.)
 hüşyarane: Akıllıcasına.
 hüşyarî: Hüşyarlık, akıllılık.

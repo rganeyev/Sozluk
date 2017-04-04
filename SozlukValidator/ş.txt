@@ -6,7 +6,7 @@
 şab: (Bak: şap)
 şab-hane: şap çıkarılan yer.
 şa'ban: (şâbân) Arabi ayların sekizincisi. Mübârek şuhur-u selâsenin (üç ayların) ikincisi.
-şabaş : Alkış etme, alkışlama. Aferin deme. Bir hareketi güzel bulmaktan dolayı alkışlamak veya hediye vermek.
+şabaş : Alkış etme, alkışlama. Aferin deme. Bir hareketi güzel bulmaktan dolayı alkışlamak veya hediye vermek.
 şabaşhân: Beğenip alkışlayan.
 şabb: Genç, delikanlı, yiğit.
 şabb-i emred: Bıyığı, sakalı henüz çıkmış delikanlı.
@@ -60,16 +60,16 @@
 şahane: şah gibi, şaha yakışır bir surette.
 şahb: Yaradan kan akmak. * Emzikten süt akmak. * Rengin değişmesi.
 şahbal: (şehbal) Kuş kanadının en uzun tüyü.
-şahbaz : îri ve beyaz doğan kuşu. * Mc: çevik ve becerikli. Yiğit, şanlı, kahraman.
+şahbaz : îri ve beyaz doğan kuşu. * Mc: çevik ve becerikli. Yiğit, şanlı, kahraman.
 şahbeyt: Edb: Bir şiirin en güzel beyti. Gazelde matla'dan sonraki beyt.
 şahdane: îri inci tanesi. * Kenevir tohumu.
 şahdar: Dallı, budaklı ağaç. * Dallı boynuzlu hayvan.
-şahenşah : Pâdişahlar pâdişahı. şâhlar şâhı. En büyük pâdişah.
+şahenşah : Pâdişahlar pâdişahı. şâhlar şâhı. En büyük pâdişah.
 şaheser: üstün ve büyük eser. Eserin şâhı. * Yüksek değerde olan.
 şahet-îl vücuh: "Yüzleri, bahtları kara oldu, yüzleri kararsın..." meâlinde.
-şahis : (şahs. dan) ölçmek için dikilen ve işaret tutulan nişan. * Belirten.
-şahis : (C.: Eşhâs) Kişi, kimse. însanın cismani hey'eti. * însanın uzaktan görülen karaltısı.
-şahis zamîrî : îsim yerine kullanılan ve insanlara işaret eden kelimeler.Farsçada: $ (Men: ben), $ (Tu: sen), $ (U: o), $ (Mâ: biz), $ (şümâ: siz), (îşân: onlar). Bunlar gayr-ı muttasıl (bitişik olmayan) zamirlerdir.Arapçada; gayr-ı muttasıl zamirler: $ (Ene: ben), $ (Ente-sen), $(Entümâ: ikiniz), $ (Hu: O), $ (Entüm: siz), (Entünne: siz) (Müennes), $ (Nahnu: biz), $ (Hüm: Onlar) (müzekker) $ (Hünne: Onlar) (müennes).
+şahis : (şahs. dan) ölçmek için dikilen ve işaret tutulan nişan. * Belirten.
+şahis : (C.: Eşhâs) Kişi, kimse. însanın cismani hey'eti. * însanın uzaktan görülen karaltısı.
+şahis zamîrî : îsim yerine kullanılan ve insanlara işaret eden kelimeler.Farsçada: $ (Men: ben), $ (Tu: sen), $ (U: o), $ (Mâ: biz), $ (şümâ: siz), (îşân: onlar). Bunlar gayr-ı muttasıl (bitişik olmayan) zamirlerdir.Arapçada; gayr-ı muttasıl zamirler: $ (Ene: ben), $ (Ente-sen), $(Entümâ: ikiniz), $ (Hu: O), $ (Entüm: siz), (Entünne: siz) (Müennes), $ (Nahnu: biz), $ (Hüm: Onlar) (müzekker) $ (Hünne: Onlar) (müennes).
 şahî: şaha, hükümdara ait, şah ile ilgili. * Hükümdarlık, şahlık. * Eski topların bir çeşiti. * Nişastalı, yumurtalı bir helva. * Tar: Osmanlı Padişahlarından Yavuz Sultan Selim Han'ın bastığı altun para. (Bu ismin verilmesi, üzerinde "şah" kelimesinin yazılı bulunmasından dolayıdır.)
 şahîc: Eşek, hımar.
 şahîd: şahitlik yapan. Bilen, tanıyan. Senet yerine geçecek kadar mâkul ve mu'teber sayılan. Gören. * Resul-ü Ekrem Efendimizin (A.S.M.) bir vasfı. * Melâike-i kiram. * Hazır.
@@ -90,7 +90,7 @@
 şahkâr: En güzel eser. Baş eser. şâheser.
 şahm: Etler arasında bulunan yağ, iç yağı. Don yağı.
 şahm: Bozulmak ve değişmek. Fâsid ve mütegayyer olmak.
-şahm-pare : îç yağın bir parçası. Bir kısım iç yağı.
+şahm-pare : îç yağın bir parçası. Bir kısım iç yağı.
 şahmerdan: (şâh-ı merdan) Mertlerin şahı, Hazret-i Ali (R.A.). * Aşağı yukarı çıkan büyük demir tokmak.
 şahn: Doldurmak. * Sürüp reddetmek.
 şahna': Buğz, düşmanlık, adâvet.
@@ -99,13 +99,13 @@
 şahr (şahîr): Ağızını öttürmek. * Islık çalmak. * Sesi yükseltmek.
 şahrah: Büyük ve işlek yol, cadde. şaşırılması mümkün olmayan doğru ve işlek yol.
 şahreg: şah damar, büyük damar.
-şahs : (Bak: şahıs)
+şahs : (Bak: şahıs)
 şahs: Acı çekmek. Iztırab çekmek.
-şahs-i manevî : Bir şahıs olmayıp kendisine bir şahıs gibi muamele yapılan şirket, cemaat, cemiyet gibi ortaklıklar. Belli bir kişi olmayıp bir cemaatten meydana gelen manevi şahıs. * Bir topluluğun taşıdığı manevi kuvvet ve meziyetler.
+şahs-i manevî : Bir şahıs olmayıp kendisine bir şahıs gibi muamele yapılan şirket, cemaat, cemiyet gibi ortaklıklar. Belli bir kişi olmayıp bir cemaatten meydana gelen manevi şahıs. * Bir topluluğun taşıdığı manevi kuvvet ve meziyetler.
 şahsar: Dallı budaklı ağaçlar. Ağaçlık yer. Koruluk.
-şahsen : şahıs olarak, ferd olarak. şahısça, kendi. * Yalnız uzaktan görerek.
-şahsî : şahsa mahsus, şahsa ait, dair. Kişi ile, şahıs ile alâkalı.
-şahsîyet : Bir kimsenin kendisine mahsus ahvâli. şahıs olma. Karakter sâhibi ve makbul bir insan olma.
+şahsen : şahıs olarak, ferd olarak. şahısça, kendi. * Yalnız uzaktan görerek.
+şahsî : şahsa mahsus, şahsa ait, dair. Kişi ile, şahıs ile alâkalı.
+şahsîyet : Bir kimsenin kendisine mahsus ahvâli. şahıs olma. Karakter sâhibi ve makbul bir insan olma.
 şahsîyyat: Kişinin şahsına, kendine ait sözler. * Birinin kendine ait münasebetsiz sözleri.
 şahsüvar: (C.: şâhsüvârân) Ata iyi binen.
 şahşah: Görevli, vazifeli.
@@ -138,7 +138,7 @@
 şakî: (şekavet. den) Haydut. Yol kesen. Haylaz. * Her çeşit günahı işleyebilen.
 şakî: şekavette bulunan.
 şakî: şikâyet eden. * Ağlayan. * Hiddetli ve şevketli.
-şâkî-î sîlâh : Harp âletleri keskin ve hazır olan kimse.
+şâkî-î sîlâh : Harp âletleri keskin ve hazır olan kimse.
 şakîfe: (C.: şukuf) Su dökülmemiş saksı parçası.
 şakîk: îkiye bölünmüş bir şeyin yarısı. * öz kardeş.
 şakîka: (C.: şakayık) Yarım baş ağrısı. * Ana - baba bir olan kız kardeş. öz kız kardeş. * çatlak, yarık.
@@ -153,7 +153,7 @@
 şakk: (Meşakkat. den) Eziyetli, zahmet verici, güç.
 şakk: Yarık, çatlak. Yarılma, çatlama. * Yırtma. Kırma.
 şakk: Silahlı kişi. * şek ve şüphe eden.
-şakk-i asâ : Değneği kırmak. * Mc: îhtilâfa sebeb olmak, topluluktan ayrılmak.
+şakk-i asâ : Değneği kırmak. * Mc: îhtilâfa sebeb olmak, topluluktan ayrılmak.
 şakk-i kamer: Ayın iki parça olması mu'cizesi. (Kur'ân-ı Kerimin nass-ı kat'isi ile de sâbit olan ve mütevâtir olarak da bilinen Peygamberimiz Hazret-i Muhammed Aleyhissalâtü Vesselâmın parmağının işâreti ile ayın iki parçaya ayrıldığı hadisesi ki, büyük mu'cizelerindendir.)
 şakk-i şefe: Dudağını açıp konuşmak.
 şaklaban: şen şatır, hoppa. Avutucu, aldatıcı. Güldürücü, soytarı.
@@ -183,8 +183,8 @@
 şanî': Adavet etmek, kin tutmak mânasına "şeneân" dan ism-i fâil olup, buğz eden, kin tutan demektir. Esas murad ise; buğz edip geçmiş olan değil, buğzunda devam ve ısrar eden demektir.
 şantaj: Fr. Bir kimsenin suçunu veya yüz karasını meydana çıkarmak tehdidiyle menfaat sağlamaya çalışma.
 şantîye: Fr. Bir inşaat yerinde inşaat ve malzeme için hazırlanan yer. * Gemi tezgâhı.
-şap : (şep) Kim: Antiseptik bir cisim olup alüminyum ve potasyum sulfatından mürekkep, tadı buruk ve suda tuz gibi erir bir cisim. * Hayvanların ağız ve ayaklarında görülen ateşli, salgın bir hastalık ismi.
-şape : çığ. Yuvarlandıkça büyüyen kar topu.
+şap : (şep) Kim: Antiseptik bir cisim olup alüminyum ve potasyum sulfatından mürekkep, tadı buruk ve suda tuz gibi erir bir cisim. * Hayvanların ağız ve ayaklarında görülen ateşli, salgın bir hastalık ismi.
+şape : çığ. Yuvarlandıkça büyüyen kar topu.
 şa'r: (C.: şüur-Eşâr) Kıl. Saç. * Ateş yakmak. * Cenk koparmak, kavga çıkarmak.
 şar: şehir, belde.
 şa'ra: (C.: şüâr) çok miktar ağaç. * Bir nevi zerdali. * Kuyruğunda dikeni olan bir cins sinek.
@@ -230,9 +230,9 @@
 şast: Altmış. (60)
 şast: Okçuların baş parmaklarına taktıkları yüksük. * Balık oltası.
 şa'şa': Yıldıramak, parıldamak. * Uzun ve yeynicek olmak.
-şa'şaa : Parlama. Zahiri parlak görünüş. * Bir şeyi birbirine katıp karıştırmak. 
+şa'şaa : Parlama. Zahiri parlak görünüş. * Bir şeyi birbirine katıp karıştırmak.
 şa'şaadar: Gösterişli, şa'şaalı, parlak.
-şa'şaapaş : Parlaklık neşreden, şa'şaa saçan.
+şa'şaapaş : Parlaklık neşreden, şa'şaa saçan.
 şat: (C.: şutut) Büyük nehir.
 şat: (C.: şiyâh-şiyât) Koyun. * Vahşi sığır.
 şat': Yerden yeni çıkan taze ekin yaprağı. Ekinlerin taze çıkan filizleri, yaprağı. * Su arkı. * Cima etmek. * Bağlayıp sağlamlaştırmak.
@@ -341,7 +341,7 @@
 şebk: Karıştırmak.
 şebnem: çiğ. Rutubet. Gece nemi. Neda.
 şebpere: Yarasa.
-şebperest : (şeb-perest) Geceye ve rü'yaya ve uykuya fazla kıymet veren.
+şebperest : (şeb-perest) Geceye ve rü'yaya ve uykuya fazla kıymet veren.
 şebr: Karışlamak. * Hediye vermek, atâ etmek. * ücret. * Kira.
 şebreng: "Gece renginde olan" Siyah, kara.
 şebrev: (şeb-rev) Gece giden. Karanlıkta yürüyen. Gece yolculuğu eden.
@@ -388,7 +388,7 @@
 şedh: Tembel olmak.
 şedh: Baş yarmak. * Kırmak. * Atın yüzünde beyazlığın çok olması.
 şedîd-ül mîhal: şiddetli kuvvet. Ağır ve şiddetli azab.
-şedîd-üş şekîme : şedid-ün nefs; yani başkasına boyun eğmekten çekinen ve kibirlenen.
+şedîd-üş şekîme : şedid-ün nefs; yani başkasına boyun eğmekten çekinen ve kibirlenen.
 şedîd(e): Sert, sıkı, şiddetli. * Musibet, belâ. * Tecvidde: Rahve harflerinin zıddı olan, sükûn ile harf söylendiğinde sesin akmaması hali.
 şedîde-î mechure: Elif, cim, dal, tı, ba harfleridir. Bunların zıddı: Rehavet (rahvet) ile Beyniye sıfatıdır.
 şedîde-î mehmuse: Kaf ve tâ harfleri.
@@ -448,13 +448,13 @@
 şehazan: Karnı aç olan kimse.
 şehba': Kır renkte olan şey. * Kır katır, kır at. * Tam teçhizatlı asker birliği. * Pek kıtlık olan sene.
 şehbal: (Bak: şahbal)
-şehbaz : (Bak: şahbaz)
+şehbaz : (Bak: şahbaz)
 şehbender: Ticaret nezaretinin teşekkülünden evvel ticaret işlerine bakmak ve tüccarlar arasındaki ihtilâfları halletmekle vazifelendirilen memurun ünvanı idi.
 şehbeyt: (Bak: şahbeyt)
 şehd: Bal. Gömeç balı, asel.
 şehd-ab: (şehd-âbe) Bal şerbeti.
 şehd-amîz: Bal gibi tatlı. Balla karışık.
-şehd-î şehadet : îmanın, şehadetin verdiği saadet, tatlılık ve huzur. şehadet balı.
+şehd-î şehadet : îmanın, şehadetin verdiği saadet, tatlılık ve huzur. şehadet balı.
 şehd-kâm: Tadı damağında kalmış.
 şehdanec: încinin irisi ve iyisi. * Kendir otunun tohumu.
 şehdere: üç ile altı yaş arasında hareket eden oğlan veya kız. * îsrafçı, müsrif. * Karnı büyük kimse.
@@ -473,7 +473,7 @@
 şehlevend: Boylu boslu, güzel genç.
 şehm: Korku.
 şehname: îran şairi Firdevsi'nin destan şeklindeki eseri. * Büyük hükümdarların kahramanlık mâcerâlarını anlatan büyük manzum eser.
-şehnaz : Eski Osmanlı müziğinde meşhur bir makam ismi. * Meşhur bir dünya güzelinin ismi. * çok güzel olan.
+şehnaz : Eski Osmanlı müziğinde meşhur bir makam ismi. * Meşhur bir dünya güzelinin ismi. * çok güzel olan.
 şehnîşîn: Binanın dışarı çıkıntısı. Balkon.
 şehnîz: çörek otu.
 şehper: Kuş kanadının en uzun tüyü.
@@ -481,8 +481,8 @@
 şehr-aşub: şehri karıştıran, kargaşalık yapan.
 şehr-î âyîn: (şehrâyin) şenlik. Büyük hâkimiyet ve kuvvete ait sürur, sevinç, donanma. (îslâmda ilk şehr-i âyin Hz. Peygamber Efendimiz hicret sureti ile Medine'ye vâsıl olunca yapıldı.)
 şehr-î ramazan: Ramazan ayı. Oruç ayı.
-şehr-î savm : Oruç ayı olan mübarek Ramazan.
-şehr-î siyam : Oruç ayı, Ramazan.
+şehr-î savm : Oruç ayı olan mübarek Ramazan.
+şehr-î siyam : Oruç ayı, Ramazan.
 şehr-ül haram: Haram ayları. (Bak: Eşhür-ül hurum)
 şehreka: (C.: şühruk-şührûk-şührik) çıkrık.
 şehrî: şehirli. * îstanbul'lu, îstanbul'da doğup büyüme. * Mc: Kibar, ince.
@@ -493,9 +493,9 @@
 şehşeh: Karışmak.
 şehvanî: şehvetle ilgili, şehvete ait. * şehvete çok düşkün olan kimse.
 şehvet: Hevâ-yı nefsin meyli ve arzusu. * Bir şeyi fazla istemek. * Cinsi istek. Mahbube için olan istek, iştiha. (Yemek, içmek, uyumak da şehvetin şubelerindendir.)Kudsi Hadis'te Cenab-ı Hak buyuruyor: "Ey benim için şehvetini bırakıp gençliğini bana veren genç! Sen meleklerin bir kısmı gibisin."
-şehvet-engîz : şehvet uyandıran. Kuvve-yi şeheviyeyi tahrik eden.
+şehvet-engîz : şehvet uyandıran. Kuvve-yi şeheviyeyi tahrik eden.
 şehvet-perest: şehvetine çok düşkün. Nefsi arzularının esiri olan.
-şehzade : (Bak: şahzade)
+şehzade : (Bak: şahzade)
 şehzare: Fâhiş nesne.
 şeîle: (C.: şâil-şeâyil) Ucu yanmış fitil.
 şeka': Rezalet, rezillik, alçaklık. * Bedbahtlık, kutsuzluk.
@@ -593,7 +593,7 @@
 şemr: Yürürken sallanmak.
 şems: Güneş, âfitab.
 şems-abad: Güneşi bol yer. Günlük güneşlik yer.
-şems-î ezelî : Vâcib-ül-vücud ve ebediyyen var olan, her şeyi nurlandıran Allah (C.C.) hakkında teşbihen söylenen bir tabirdir.
+şems-î ezelî : Vâcib-ül-vücud ve ebediyyen var olan, her şeyi nurlandıran Allah (C.C.) hakkında teşbihen söylenen bir tabirdir.
 şems-î hîdayet: Hidayet güneşi. Hz. Muhammed'in (A.S.M.) bir ismi.
 şems-pare: Güneş parçası. * Mc: çok parlak.
 şems-üş şümus: Güneşlerin güneşi. En büyük güneş. çok seyyarelerin, etrafında döndüğü en büyük bir yıldız.(...Hem şemse, kendi mihveri üstünde câzibe denilen mânevi ipleri yumak yaptırmak için dolap ve çıkrık hükmünde olan güneşi, bir Kadir-i Zülcelâl'in emriyle döndürüp, o seyyârâtı o mânevi iplerle bağlayıp tanzim etmek ve güneşi bütün seyyaratı ile sâniyede beş saatlik bir mesafeyi kestirecek kadar bir sür'atle, bir tahmine göre Herkül Burcu tarafına veya şemsüş-şümus cânibine sevketmek, elbette ezel ve ebed Sultanı olan Zât-ı Zülcelâl'in kudretiyle ve emriyledir. S.)
@@ -601,7 +601,7 @@
 şemsî: Güneşe ait. Güneşle alâkalı.
 şemşelîk: Derisi ve âzâsı sarkık ve sülpük olan kadın. * Seri yürüyüşlü kadın. 
 şemşem: Ağaç üstünde kalan azıcık hurma.
-şemşîr : Kılıç.
+şemşîr : Kılıç.
 şemşîr-baz: îyi kılıç kullanan, kılıç oynatan. * Kılıçla ustalık gösteren.
 şemşîr-bedest: Elinde kılıç tutan. 
 şemşîr-ger: (C.: şemşirgerân) Kılıççı.
@@ -644,7 +644,7 @@
 şeraîf: (şerife. C.) Mutlular, kutlu kimseler.
 şeraît: (şart. C.) şartlar.
 şeraket: şeriklik, ortaklık. * Arkadaşlık, refâkat.
-şer'an : şeriatça, şeriata göre. Kanunca, kanuna göre.
+şer'an : şeriatça, şeriata göre. Kanunca, kanuna göre.
 şerar: (Bak: şerare)
 şerar: "şerir" den mastardır ve yaramazlık mânâsına gelir. * însanın yüzüne çarpan ses.
 şerarat: şerareler, kıvılcımlar.
@@ -698,7 +698,7 @@
 şerh: Her nesnenin evveli. * Her sene yeni doğan deve yavruları. * Yiğitlik. * Yarmak.
 şerha: Dilim. Kesilip dilimlenmiş şey. parça.
 şerhan: çok tamahkâr, ziyade hırs sâhibi, açgözlü, haris.
-şerhan : (şerhen) îzah etmek, açıklamak suretiyle. şerhederek.
+şerhan : (şerhen) îzah etmek, açıklamak suretiyle. şerhederek.
 şer'î: şeriata uygun, îslâmiyetçe makbul olan. îlâhi kanuna dair. Meşru'.
 şer'î takvîm: (Bak: Takvim-i Arabi)
 şerîat: Doğru yol. Hak din yolu. * Büyük ve geniş cadde. * Nur, aydınlık, ışık. * Kur'an-ı Kerim ve Hazret-i Peygamber Aleyhissalâtü Vesselâm'ın târif ettiği ve bildirdiği yol. Allah (C.C.) tarafından Peygamber Aleyhisselâm vâsıtasiyle vaz' ve tebliğ olunan hükümleri hâvi îlâhi kanunların hey'et-i mecmuası. şeriat, aynı zamanda din mânâsına müsta'meldir ki, ahkâm-ı asliye denen itikadiyâtı ve ahkâm-ı fer'iye denen ibadet, ahlâk ve muâmelât yâni, îslâm Hukukunu ihtivâ etmektedir... (Bak: Hukuk)(şeriat; insanlardan sudur eden ef'âl-i ihtiyariyeyi bir nizam ve bir intizam altına alıp tahdid eden kaidelerin hulâsasıdır veya devletin işlerini tanzim eden nizamların, düsturların, kanunların mecmuasıdır. î.î.)(şeriat ikidir. Birincisi: âlem-i asgar olan insanın ef'âl ve ahvâlini tanzim eden ve sıfât-ı kelâmdan gelen bildiğimiz şeriattır. îkincisi: însan-ı ekber olan âlemin harekât ve sekenatını tanzim eden, sıfat-ı iradeden gelen şeriat-i kübra-yı fıtriyedir ki, bazan yanlış olarak tabiat tesmiye edilir. H.)("şir'a, şeria, Meşrea"; lügatta bir ırmak veya herhangi bir su menbaından su içmek veya almak için girilen yol demektir. Bunda, insanların hayat-ı ebediyeye ve saadet-i hakikiyeye ulaşması için Allah Teâlâ'nın vaz' u teklif ettiği ahkâm-ı mahsusaya ve mezheb-i müstakime bil'istiâre ıtlak edilmiştir ki, din demektir.) (E.T.)(şeriat, din lisânında; Cenâb-ı Hakkın, kulları için vazetmiş olduğu, dini, dünyevi ahkâmın heyet-i mecmuasıdır. Bu itibarla şeriat: Din ile müradif olup, hem ahkâm-ı asliye denilen itikadiyatı, hem ahkâm-ı fer'iye-i ameliye denilen ibadet, ahlâk ve muâmelâtı ihtiva eder.şeriat, umumi mânasına nazaran bir Peygamber-i Zişân tarafından tebliğ edilmiş kanun-u îlâhi demektir. Ahkâm-ı şer'iye denilince, bundan kanun-u îlâhi hükümleri mânasını anlamak lâzımdır. Ve bununla asıl Kur'ana, Hadise, îcmaa sarahaten müstenid olan hükümler kasdedilmiş olur. Ist.K.)(Devlet ve uyruk, siyasetin ve siyasi olan hükümlerin icabına göre idare olunur ise, bu da yerilmiş olur. çünkü Allah'ın nurundan ibaret olan şeriat hükümleri ihmâl edilmiş oluyor. Beşerin bütün işi, gerek devlet işi ve gerek başka işler olsun iyiliği ve kötülüğü âhirette kendisine aittir. Yani iyi ise ecirli ve sevaplıdır, kötü ise cezaya çarptırılır. Allah Elçisi (A.S.M.): "Ancak dünyadaki iyi ve kötü bütün amelleriniz âhirette kendinize reddedilir. Yani hayır ise ecir ve sevap kazanır, kötü ise cezaya çarptırılırsınız!" der. Siyasi hükümlerde ise ancak dünyevi fayda ve maslahatlar gözönünde bulundurulur. Siyasi kanunları koyanlar, ancak dünya hayatının dış görünüşünü görür ve bilirler. şari'in maksadı ise, insanların âhiret saâdetidir. îşte bundan dolayı, bütün insanların gerek dünyevi ve gerek âhiret işlerinde şeriatlara uygun olarak görmeye sevketmek vâcibdir. Bu vazife, kendilerine şeriat indirilmiş olan peygamberlere, onlardan sonra onların yerine geçenlere (devlet başkanlarına) yükletilmelidir... Siyasetçi demek, akli delil ve hükümlere dayanarak dünya maslahat ve faidelerini elde eden, zarar ve ziyanları defetmeye sevk eden insan demektir. Halifelik ise, umumiyetle âhiret fayda ve maslahatlarını gözönünde bulundurarak şeriat ile iş görmeğe sevkeder. şari'a göre, dünya iş ve amellerinin hepsi de (sonucu bakımından) âhirete râcidir. Halifelik ise, dini korumak ve dünya siyasetini dine uygun olarak idare etmek hususunda şeriat sahibine nâiblik etmek demektir.) (Mukaddime, îbn-i Haldun, ci: 1, sh: 508-509-510, 1954, îstanbul Maarif Basımevi)
@@ -738,7 +738,7 @@
 şerye: çekirdekten biten hurma ağacı. * Az pahalı nesne.
 şerz: (C.: şerâriz-şevâriz) şiddet. * Zorluk. * Kuvvet. * Kalabalık, galizlik. Kat'etmek, kesmek.
 şerze: Kuduruk, kudurmuş.
-şerzîme : Küçük insan topluluğu. (Bak: şirzime)
+şerzîme : Küçük insan topluluğu. (Bak: şirzime)
 şesar: (şâsır) Geyik buzağısı. (Müe: şesara)
 şesasa: şiddet. * Yaramazlık. * Sığır üstüne yük vurmak. * Kuru ve sert yer. * Acele.
 şesel: Yoğunluk.
@@ -749,12 +749,12 @@
 şest: Balık oltası. * Okçuların parmaklarına taktıkları yüksük.
 şesu': Uzak. * Ayakkabısının tasması parçalanmış olan.
 şesus: (C.: şesâyıs) Sütü az olan deve.
-şeş : Altı. 6
+şeş : Altı. 6
 şeş-cîhet: Altı yön, altı cihet. (Bak: Cihat-ı sitte)
 şeş-ebrar: Altı aded hayır sahibi ki, bunlar: Hz. Ebubekir, Hz. ömer, Hz. Osman, Hz. Ali, Hz. Hasan, Hz. Hüseyin'dir (Radıyallahu anhüm).
 şeş-pa: Altı ayaklı.
 şeş-per: Altı kanat. * Eski savaş âletlerinden 6 dilimli bir topuz.
-şeşhane : Namlusunda 6 yivi bulunan tüfek veya top.
+şeşhane : Namlusunda 6 yivi bulunan tüfek veya top.
 şeşüm: Altıncı, sâdis.
 şet': Açlıktan veya hastalıktan dolayı acı duymak.
 şetame: çirkin yüzlü ve yaramaz sözlü olmak.
@@ -818,12 +818,12 @@
 şevher: Erkek eş, koca, zevc.
 şevk: Diken. * Birinin hiddet ve şevketi görünmek. * Ekin.
 şevk: çok istek, şiddetli arzu. * Neş'e. *Bir şeyi bir yere şeye sağlamca bağlama. * Memnun. şâduman. (Bak: Himmet, şavk)
-şevk u îştîyak : şevk ve arzu. şevk ve iştiyak.
+şevk u îştîyak : şevk ve arzu. şevk ve iştiyak.
 şevk-âlud: şevkli, neşeli, sevinçli, keyifli.
 şevk-âver: Neşe veren, neşe getiren, şevklendiren.
 şevk-bahş: şevk veren, şevklendiren. * Meşhur bir çeşit lâle.
 şevk-efzâ: şevklendiren, neşe artıran.
-şevk-î tenzîlî : Kur'an-ı Kerim'in ilk önceki mânâsıyla Sahabelere verdiği sevgi ve iştiyak. Kur'an-ı Kerim'in tenzil mertebesindeki mânâsının verdiği şevk. îlâhi bir makamdan inmenin verdiği şevk.
+şevk-î tenzîlî : Kur'an-ı Kerim'in ilk önceki mânâsıyla Sahabelere verdiği sevgi ve iştiyak. Kur'an-ı Kerim'in tenzil mertebesindeki mânâsının verdiği şevk. îlâhi bir makamdan inmenin verdiği şevk.
 şevkeran: Baldıran otu.
 şevket: Kudret ve kuvvetten doğma haşmet. Padişaha mahsus heybet ve saltanat. * Diken. Diken batmak.
 şevketlû: Tar: Padişahlar hakkında kullanılmış bir tâbir olup, azamet ve heybet sahibi mânalarına gelir.
@@ -847,7 +847,7 @@
 şeyd: Binayı kireçle yapmak.
 şeyda: Tutkun. Divane. * çok sevgiden hâsıl olan hal.
 şeydâî: çok fazla sevgiden hâsıl olan divanelik, şaşkınlık.
-şey'en feşey'en : Yavaş yavaş, azar azar.
+şey'en feşey'en : Yavaş yavaş, azar azar.
 şeyh: Yaşlı adam. * Bir kabilenin ileri geleni. Kabile reisi. * Tarikatta müridlerin reisi. (Bak: Müteşeyyih, Tarikat)
 şeyh saîd hadîsesî: 5 şubat 1925'de devrin hükümetine karşı şark aşiret reislerinden şeyh Said ismindeki zâtın teşebbüs ettiği bir harekettir. şeyh Said, bu hareketine yardım etmesi için Bediüzzaman Said Nursi'ye mektub yazmış, fakat Bediüzzaman bu teklifi reddetmiş ve cevaben yazdığı mektubda şöyle demiştir:(Türk milleti, asırlardan beri îslâmiyete hizmet etmiş ve çok veliler yetiştirmiştir. Bunların torunlarına kılınç çekilmez. Siz de çekmeyiniz. Teşebbüsünüzden vazgeçiniz. Millet irşad ve tenvir edilmelidir. Tr.) (Bak: Said-i Nursi)
 şeyh-ül hadîs: îkiyüz bin Hadis-i şerifi, rivayet edenleriyle birlikte ezbere bilen büyük hadis âlimi.
@@ -863,7 +863,7 @@
 şeytan: îblis. (Cenab-ı Hakk'ın emrine isyan ettiğinden rahmetinden kovulmuş, şerleri ve muzır şeyleri temsil eder ve ateşten yaratılmıştır. Bütün melekler Cenab-ı Hakk'ın emriyle Hazret-i âdem'e secde ettiği halde şeytan: "O, topraktan yaratılmıştır, ben ateşten yaratıldım. Ben ondan daha kıymetli ve yükseğim" diye kibirlenerek, Cenab-ı Hakk'ın emrine karşı gelmiş ve Hazret-i âdem'e secde etmediğinden, Allah'ın rahmetinden kovulmuştur.(Melâikelere şeytanlar musallat olmadıkları için, terakkiyatları yoktur. Makamları sâbittir, tebeddül etmez. Keza, hayvânâtın dahi, şeytanlar musallat olmadıkları için, mertebeleri sâbittir, nâkıstır. Alem-i insaniyette, ise; merâtib-i terakkiyât ve tedenniyât, nihayetsizdir. Nemrutlardan, firavunlardan tut, tâ sıddıkin-i evliya ve enbiyaya kadar gâyet uzun bir mesâfe-i terakki var.îşte kömür gibi olan ervâh-ı sâfileyi, elmas gibi olan ervâh-ı âliyeden temyiz ve tefrik için, şeytanların hilkatiyle ve sırr-ı teklif ve ba's-i enbiya ile, bir meydan-ı imtihan ve tecrübe ve cihad ve müsabaka açılmış. Eğer mücahede ve müsabaka olmasaydı, mâden-i insaniyyetteki elmas ve kömür hükmünde olan istidatlar, beraber kalacaktı. Alâ-yı illiyindeki Ebu Bekir-is Sıddık'ın ruhu, esfel-i sâfilindeki Ebu Cehil'in ruhuyla bir seviyede kalacaktı. Demek şeyatin ve şerlerin yaratılması, büyük ve külli neticeye baktığı için, icadları şer değil, çirkin değil; belki su-i istimalâttan ve kesb denilen mübaşeret-i hususiyeden gelen şerler, çirkinlikler, kesb-i insana aittir, icad-ı îlâhiye ait değildir. M.)Bu mevzuya dair tafsilât: Risale-i Nur Külliyatından "Lem'alar" adlı eserin 13. Lem'asındadır.
 şeytanet: şeytanlık. Aldatıcılık. Kurnazlık, hilekârlık.
 şeytanî: şeytanla alâkalı. şeytana yaraşır.
-şeytanî pîşe : şeytanın yolu. şeytana ait meşguliyet.
+şeytanî pîşe : şeytanın yolu. şeytana ait meşguliyet.
 şeyyad: (şeyd. den) Riyâkâr. Yüze gülen. * Sıvacı.
 şeyyebet: (şeyb. den) îhtiyarlattı (meâlinde fiildir.).şeyyebetni: Beni ihtiyarlattı, beni ihtiyar etti (mânâsında)
 şeyyîr: (C.: şiyâr) Semiz ve besili hayvan.
@@ -885,8 +885,8 @@
 şezr: Kızgınlık ve hiddetten dolayı gözucuyla bakmak.
 şezr (şezîr): Altın mâdeninden toplanan altın ufağı. * înci parçaları.
 şezre: (C.: şezerât-şüzur) îşlenmemiş ham altun. * Süs için asılan inci ve altun.
-şezre : Bir kimseye yüz yüze bakmayıp şiddet ve öfke ile yandan bakış. Hasmâne bakış. Dargın bakışı gibi bakma. Göz değdirme. * îpi soluna bükme. * Tersine bükülmüş ip, urgan. * El değirmenini sola doğru çevirme. * şiddet, suubet, zorluk.
-şezre-mezre  : Darmadağınık.
+şezre : Bir kimseye yüz yüze bakmayıp şiddet ve öfke ile yandan bakış. Hasmâne bakış. Dargın bakışı gibi bakma. Göz değdirme. * îpi soluna bükme. * Tersine bükülmüş ip, urgan. * El değirmenini sola doğru çevirme. * şiddet, suubet, zorluk.
+şezre-mezre  : Darmadağınık.
 şezz: çuval kulpuna ağaç sokmak. (O ağaca "şizâz" derler.)
 şidk: (C.: Eşdâk) Ağızın kulaktan tarafı. * Ağzın kenarı.
 şihne: Adâvet, düşmanlık. * Davar bağladıkları yer.
@@ -911,7 +911,7 @@
 şîa: Yardımcılar mânâsiyle, Alevilik, şiilik. îfrat ve tefrit ve dünyevi sebebler yüzünden Ehl-i Sünnet ve Cemaat Mezhebinden ayrılan bir fırka. Bir şahsa taraftar olmak. (çok açık mukni izâhatını Risâle-i Nur külliyatı Dördüncü Lem'adan okuyunuz.)
 şîab: (şi'b. C.) Dar yollar. Dağ yolları. Patikalar. * (şube. C.) şubeler. (Bak: şuâb)
 şîar: îz, belirti, işaret, nişan, ayırt edici iyi âdet. * üstünlük veren işaret. * însanın gömleği. * ölüm. * (şa'r. C.) Kıllar.
-şîar-i râz : Sırların şiârı, sırrı gizleyen perde, işâret.
+şîar-i râz : Sırların şiârı, sırrı gizleyen perde, işâret.
 şîare: (C.: şeâyir) Hac amelleri. * Hac nişanları. îbadet için alem kılınan her nesne.
 şî'b: (C.: şiâb) Keçiyolu, dar yol, dağ yolu.
 şîb: îniş. Aşağı doğru eğiklik.
@@ -924,8 +924,8 @@
 şîbdî': (C.: şebâdi) Akrep. * Dil, lisan. * Belâ. * şiddet.
 şîbh: Benzer. Benzeyen şey.
 şîbh-î akd: Akid benzeri. Sözleşme, sözle anlaşma benzeri.
-şîbh-î beşer : însana benzeyen şempanze, goril gibi hayvanlar.
-şîbh-î beşere : üst deriye benzer olan.
+şîbh-î beşer : însana benzeyen şempanze, goril gibi hayvanlar.
+şîbh-î beşere : üst deriye benzer olan.
 şîbh-î bîllurî: Billur gibi olan.
 şîbh-î cîld: Cilde benzeyen, cildimsi.
 şîbh-î hüsn-ü ta'lîl: Edb: Bir hâdisenin vukuuna şairane olarak ve kat'i olmayan bir sebeb göstermek.
@@ -949,7 +949,7 @@
 şîfa-î şerîf: (Bak: Kadi îyaz)
 şîfah: (şefe. C.) Dudaklar.
 şîfahane: Hastahane.
-şîfahen : Sözle, ağızdan. Konuşmak suretiyle.
+şîfahen : Sözle, ağızdan. Konuşmak suretiyle.
 şîfahî: Ağızdan, şifahen, sözlü.
 şîfahîyât: Ağızdan söylenilen, şifahi olan, sözlü ifadeler.
 şîfakâr: şifalı. şifaya sebeb olan.
@@ -986,7 +986,7 @@
 şîkembe: îşkembe.
 şîkembende: Midesine düşkün. çok yiyen.
 şîkemderd: Karın ağrısı.
-şîkemperver : Yemek tiryakisi, boğazına düşkün.
+şîkemperver : Yemek tiryakisi, boğazına düşkün.
 şîken: (şikesten mastarından) Kıvrım, büküm. * Koparan, parçalayan mânâsında birleşik kelimeler yapılır. Meselâ: Haysiyet-şiken $: Haysiyet kıran.
 şîken-î kâkül: Kıvırcık saç.
 şîkenc: Kıvrım, büklüm.
@@ -1008,7 +1008,7 @@
 şîmal: Sol, sol taraf. Sağın ve cenubun zıddı. Kuzey.
 şîmal-î garbî: Kuzeybatı.
 şîmal-î şarkî: Kuzeydoğu.
-şîmalen : Soldan, sol taraftan, şimalden, kuzey taraftan.
+şîmalen : Soldan, sol taraftan, şimalden, kuzey taraftan.
 şîmalî: şimale ait, sola ve kuzeye ait.
 şîmas: Davarın ürkek olması.
 şîme: (C.: şiyem) Huy, tabiat.
@@ -1024,7 +1024,7 @@
 şînar: Suda yüzme.
 şînar: Ayıp. * Hayâ, utanma, âr.
 şînas: Tanıyan, bilen, anlayan. Tarih-şinas $: Tarihten anlayan, tarih bilen.
-şînas : Uzun, tavil.
+şînas : Uzun, tavil.
 şînaver: Suda yüzen. Yüzgeç.
 şînev: îşiten, dinleyen.
 şînîd: îşitme. Duyma.
@@ -1033,15 +1033,15 @@
 şînvay: Kulağın işitmesi.
 şî'r: (şiir) Anlama, idrak. * Edb: Edebiyatta kıymeti olan, nazımlı ve kafiyeli şair sözü. (Bak: şiir)
 şîr: Aslan. * Süt.
-şîr-î jîyan ©: Kükremiş aslan. (Bak: Jiyan)
+şîr-î jîyan ©: Kükremiş aslan. (Bak: Jiyan)
 şîr-î mâder: Ana sütü.
-şîr-î yezdan : Hazret-i Ali Radiyallahu Anh'ın bir ismi. Allah'ın Aslanı.
+şîr-î yezdan : Hazret-i Ali Radiyallahu Anh'ın bir ismi. Allah'ın Aslanı.
 şî'ra: Koz: îki yıldızın adı.
 şîr'a: (şeria-Meşrea) Lügat mânası, bir ırmak veya herhangi bir su menbaından su içmek veya almak için girilen yol demektir. Bunda insanların, hayat-ı ebediye ve saadet-i hakikiyeye vusulü için Allah'ın vaz' u teklif ettiği ahkâm-ı mahsusaya ve mezheb-i müstakime bil'istiare ıtlak edilmiştir ki, din demektir. Ya kapalı bir şeyi yarıp açmak ve beyan etmek mânasına şer' mastarından veya birşeye duhul manasına şurû'dan alınmıştır. (E.T.) (Bak: şeriat)
 şîra: Satın alma, satın alınma.
 şîra': Yelken. Gemi yelkeni.
 şî'ra-ül yemanî: Semanın güney yarım küresinde bulunan "Kelb-i Ekber" denilen burcun ve bütün semanın görünen en parlak yıldızı. (Sirius)
-şî'ra-üş şamî : "Kelb-i Asgar" denilen burcun en parlak yıldızı.
+şî'ra-üş şamî : "Kelb-i Asgar" denilen burcun en parlak yıldızı.
 şîrad (şürud): Dağılmak. * Kaçmak.
 şîrak: (C.: şürük) Nalbant kayışı.
 şîran: (şir. C.) Aslanlar.
@@ -1049,7 +1049,7 @@
 şîrar: Ateş kıvılcımları. * şerirler. şerli kimseler.
 şîrat: Neşter.
 şîraz: Süzülmüş yoğurt.
-şîraze : Kitap ciltlerinin iki ucuna konulan ve yaprakları muntazam tutan, ibrişimden örülmüş ince şerit. * Pehlivan kispetinin paçası. * Mc: Düzen, nizam, esas.
+şîraze : Kitap ciltlerinin iki ucuna konulan ve yaprakları muntazam tutan, ibrişimden örülmüş ince şerit. * Pehlivan kispetinin paçası. * Mc: Düzen, nizam, esas.
 şîraze-bend: şiraze bağlayan. * Düzenleyen, tanzim eden, düzen veren.
 şîrb: (şürb) îçme veya içirme nöbeti. îçmek.
 şîrceng: Arslan gibi savaşan.
@@ -1082,9 +1082,9 @@
 şîs': (C.: şüsu') Nâline tasma vurmak. * Nâlin tasması.
 şîs (şîsâ'): çekirdeği katılaşmış olmayan hurma. (Hurma aşılanmasa çekirdeği katılaşmaz.)
 şîsi': Büyük ve çok mal. * Dar yer. Bir yerin uç tarafı. * Nalın kayışı. * Bir malı dikkatle bekleyip koruyan.
-şîşe : Camdan yapılmış ağzı dar uzunca kap. Lâmbaya geçirilen camdan küçük baca. * çeşitli maksatlarla çakılan çıta.
-şîşehane : şişe yapılan yer.
-şîşhane : (Aslı: şeşhane) Eskiden kullanılan namlusu altı yivli tüfek. * îstanbul'da bir semt adı.
+şîşe : Camdan yapılmış ağzı dar uzunca kap. Lâmbaya geçirilen camdan küçük baca. * çeşitli maksatlarla çakılan çıta.
+şîşehane : şişe yapılan yer.
+şîşhane : (Aslı: şeşhane) Eskiden kullanılan namlusu altı yivli tüfek. * îstanbul'da bir semt adı.
 şît: Hz. âdem'in (A.S.) oğullarından ve ondan sonra peygamber olan zât olup kendisine 50 sayfalık kitab nâzil olmuştur. Kâbe-i Mükerreme'yi ilk önce taştan bina eden zât olduğu Kısas-ı Enbiya'da mezkûrdur.
 şîta: Kış. Senenin soğuk mevsimi.
 şîtab: (şitâften: Koşmak fiilinin kökü) Seğirtmek, koşmak. çabukluk, acele etmek.
@@ -1108,7 +1108,7 @@
 şöhret: Ad yapma. ün. şân. * Hadis ilminde: Meşhur hadis mânasında kullanılır.(Ey şân ve şerefi, nam ve şöhreti isteyen adam! Gel, o dersi benden al. şöhret ayn-i riyâdır. Ve kalbi öldüren zehirli bir baldır. Ve insanı insanlara abd ve köle yapar. O belâ ve musibete düşersen $ de, o belâdan kurtul. M.N.)
 şöhret-î kâzîbe: Geçici şöhret. Yalancı dünyalık, fâni şöhret. Aldatıcı nâm.
 şöhretgîr: şöhretli, ünlü. Meşhur.
-şöhretşîâr : şöhretli. şöhret sahibi.
+şöhretşîâr : şöhretli. şöhret sahibi.
 şöhretşîâr-i âlem: âlemde şöhret ona nişan olmuş olan. çok meşhur olan.
 şua: (C.: şu') Sorgun ağacı.
 şua': Bir ışık kaynağından uzanan ışık telleri.
@@ -1142,14 +1142,14 @@
 şu'le-î cevval: Daim hareket ederek etrafına ışık saçan parıltı.
 şu'lebâr: Işıklı.
 şu'ledâr: Alevlenmiş, alevli. Işıklı.
-şu'lefeşân : Işık saçan, parlatan.
+şu'lefeşân : Işık saçan, parlatan.
 şu'legîr: Tutuşan, alevlenen, alev alan.
 şu'lenümâ: Alev gösteren, alevli.
 şu'lepâş: Işık saçan.
 şu'leperver: Işıklandıran. Alevlendirici.
 şu'lepuş: Alev içinde kalmış, alevle örtülü.
 şu'lerîz: Işıldayan, alev saçan.
-şu'm : (şum) Uğursuzluk. Meş'um olma. Uğursuz.
+şu'm : (şum) Uğursuzluk. Meş'um olma. Uğursuz.
 şum: Hayırsız kişi.
 şuma: Siz. (Bak: şahıs zamiri)
 şur: Tuzlu, kekremsi. * şamata, gürültü.
@@ -1162,7 +1162,7 @@
 şurab (şurâbe): Kirli ve acı su. * Mc: Gözyaşı. 
 şure: çorak, tuzlu, verimsiz toprak.
 şure: Heyet.
-şurezar : çorak yerler, verimsiz araziler.
+şurezar : çorak yerler, verimsiz araziler.
 şurîde: Perişan, karışık. * Tutkun, âşık, meftun.
 şurîdegî: Karışıklık, perişanlık. * Tutkunluk, düşkünlük.
 şurîstan: çorak yerler.
@@ -1194,7 +1194,7 @@
 şübban: Gençler, delikanlılar.
 şübban-i vatan: Vatanın gençleri.
 şübbut: Kalkan balığı.
-şübeh : (şübhe C.) şübheler, şekler. şübhe edilenler.
+şübeh : (şübhe C.) şübheler, şekler. şübhe edilenler.
 şübhe: (C.: şübeh - şübühât) Tereddüd. Bir şeyin doğru olup olmadığına veya var olup olmadığına dair kat'i kanaat ve bilgi sahibi olmamak hâli.
 şübhe-î târik: Zulmetten gelen şüphe belâsı.
 şübke: (C.: şübük) Yakınlık. Akrabalık, hısımlık.

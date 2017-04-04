@@ -82,7 +82,7 @@ abdar: Parlak. * Sağlam vücudlu. * Su veren hizmetçi. * Mc: Ter u tâze, tap 
 abdest-hane: Ayak yolu, helâ. * Abdest alacak yer.
 abdestan: Su ibriği, abdest ibriği.
 abdîyet: Kulluk. * Kul olduğunu bilerek dininde, emredildiği üzere ibâdet ve itaatte bulunmak.
-abdulazîz : 32. Osmanlı Padişahıdır. Hilâfeti (Hi: 1277-1293) seneleri arasındadır. Mithat Paşa ve arkadaşları tarafından bilek damarları kesilerek şehid edilmiştir.
+abdulazîz: Osmanlı Padişahıdır. Hilâfeti (Hi: 1277-1293) seneleri arasındadır. Mithat Paşa ve arkadaşları tarafından bilek damarları kesilerek şehid edilmiştir.
 abdulhamîd ii: (mi: 1842-1918) 34' üncü Osmanlı Padişâhıdır. 33 yıl saltanatta kalmış olan bu şefkatli Sultan,îslâmiyete son derece bağlı idi. Yüksek bir siyaset adamı ve devlet işlerini bizzat takibeden bir zattı. Memlekette bolluk ve refahı te'min için çalıştı. (R.Aleyh)
 abdulkadîr: Allah'ın kulu.
 abdulkadîr-î geylanî: (Bak: Geylâni)
@@ -147,7 +147,7 @@ abl: Kalın, büyük nesne. * Bükmek.
 abla': Ak nesne. * Beyaz taş.
 ablîse: Tarlaya tohum atan, ekinci.
 abluka: îtl. Etrafını sarıp hâriçle alâkasını kesme. Bahren muhasara, denizden kuşatma.
-ablukayi bozmak : Muhasara hattını yarıp geçmek.
+ablukayi bozmak: Muhasara hattını yarıp geçmek.
 ablukayi kaldirmak: Muhasarayı bırakmak.
 abone: Fr. Gazete ve dergi gibi yayınlara peşin para vererek muayyen bir zaman için müşteri olan kimse.
 abonman: Fr. Bir imalâtçı ile müşteri arasında düzenli satın alma için yapılan anlaşma.
@@ -173,7 +173,7 @@ acac: Toz. * Tütün. * Bulut. * Duman.
 ac'ace: Uzun uzun çağırmak.
 acafet: Zayıflık. çelimsizlik.
 acaîb: (Acib. C.) şaşırtacak ve hayret verici şeyler.
-acâîb-î seb'a-î âlem ¯¯: Dünyanın yedi tane şaşılacak, acaib şeyi. (çin seddi bunlardan biridir.)
+acâîb-î seb'a-î âlem "": Dünyanın yedi tane şaşılacak, acaib şeyi. (çin seddi bunlardan biridir.)
 acaîbat: Normale zıt şeyler. Acâib şeyler.
 acaîz: (Acuze. C.) Kocakarılar. îhtiyar kadınlar.
 acak: Toprak.
@@ -209,7 +209,7 @@ aceze: (âciz. C) âcizler. * Düşkünler, zayıflar.
 acîb: şaşılan ve hayret uyandıran şey. Benzeri görülmeyen. Garib. Taaccüb olunan şey.
 acîb: Hayret veren. şaşılacak şey.
 acîbe: Alışılmış surette olmayan. çok hârika. Acib ve garip, hayret verici, şaşılacak şey.
-acîbe-î hîlkat ¯¯: Her zaman yaratılan şekilden farklı olarak yaratılmış olan. (Meselâ: Normalinden çok fazla büyük cüsseli veya üç ayaklı olmak gibi)
+acîbe-î hîlkat: Her zaman yaratılan şekilden farklı olarak yaratılmış olan. (Meselâ: Normalinden çok fazla büyük cüsseli veya üç ayaklı olmak gibi)
 acîc: Sesi yükseltmek.
 acîl: Sonraya bırakılmış. Bir vâdeye bağlı. * Ahiret.
 âcîl: Aceleci. * Acele eden. Hemen. * Derhal. Peşin. * çabuk. * Fık: Dünya.
@@ -224,7 +224,7 @@ acîr: Elindekini başkasına kiralayan. Kiraya veren.
 acîş: üşüme, soğuktan üşüme.
 acîyy(e): (c: Acâyâ) Anası öldüğünden, başka kimsenin sütüyle beslenen çocuk. * Anası sütünü vermeyip yemeği öğrettiği çocuk.
 âcîz: Beceriksiz. Eli ermez. Kabiliyetsiz. Gücü yetmez olan.
-âcîzân: (âciz. C.) âcizler, beceriksizler, zayıflar, güçsüzler.
+âcîzân: (âciz. C.) âcizler, beceriksizler, zayıflar, güçsüzler.
 âcîzâne: âciz olarak. Beceriksizce. Tevâzu ile. (Alçak gönüllülük ifâdesi için söylenir) "Allah'a karşı kusurlarını bilen bir mü'min âcizâne ancak Allah'tan rahmet diler."
 âcîzîyyet: Acizlik, beceriksizlik, kabiliyetsizlik. * Fakirlik, tevâzu.
 acled: Yoğurt.
@@ -235,10 +235,10 @@ acn: Yoğurma. Ma'cun kıvamına getirme.
 a'cube: (Bak: U'cube)
 acul: çok acele eden sabırsız.
 aculâne: Acele edene yakışır suretde.
-aculîyet: Acelecilik. Sabırsızlık.
+aculîyet: Acelecilik. Sabırsızlık.
 acur: Kabakgillerden bir hıyar cinsi. üstü hafif olukludur. Bazıları tüylüce olur.
 acuz(e): çok yaşlı kadın. Kocakarı. * Kılıç. * şarap. * Sırtlan.
-acuze-î şemta¯¯: Saçı ağarmış kocakarı.
+acuze-î şemta: Saçı ağarmış kocakarı.
 acür: Yoğunluk, semizlik, besililik. * Yoğun. * Her nesnenin hacmi ve cüssesi olmak.
 acür: Kuyruk.
 acür: Kerpiç, tuğla, kiremit.
@@ -248,7 +248,7 @@ acüz: (C.: Acâz) her nesnenin dibi, kökü ve sonu. * Yay kabzası.
 acv: çocuğa süt içirmek.
 acve(t): Medine-i Münevvere hurmalarından bir çeşit, iyi hurma.
 acz: Beceriksizlik. îktidarsızlık. Kuvvetsizlik. Güçsüzlük. Yapamamak. * Zarardan korunmak gücünün olmaması. * Bir şeyin geri tarafı. (însandaki kusur sonsuz olduğu gibi, acz, fakr ve ihtiyacına da nihayet yoktur. însana tevdi edilen açlık ile nimetlerin lezzetleri tebârüz ettiği gibi: însandaki kusur, kemalat-ı Sübhâniyye derecelerine bir mirsaddır. însandaki fakr, gına-i rahmetin derecesine bir mikyastır. însandaki acz, kudret ve kibriyâsına bir mizandır. însandaki tenevvü-ü hâcat, envâ-ı niam ve ihsanatına bir merdivendir. öyle ise fıtratından gaye ubudiyettir. Ubudiyet ise, dergah-ı izzetine kusurlarını "Estağfirullah" ve "Sübhânallah" ile ilan etmektir. M.N.)
-acz-alud : âcizlik, kuvvetsizlik, güçsüzlük.
+acz-alud: âcizlik, kuvvetsizlik, güçsüzlük.
 acz-mend: Acizlik, mahviyet sâhibi.
 acz-mendî: âcizlik, iktidarsızlık. Fakr.
 acza': Dübürü büyük kadın. * Kumdan yığılmış yüksek tepe.
@@ -710,7 +710,7 @@ ahîren: En son, en son olarak. * Son zamanlarda, yakında.
 âhîrzaman: Dünyanın son zamanı ve son devresi. Dünya hayatının kıyamete yakın son devresi. (Rivayette var ki: "Fitne-i âhirzaman o kadar dehşetlidir ki, kimse nefsine hâkim olmaz." Bunun için, binüçyüz sene zarfında emr-i Peygamberiyle bütün ümmet o fitneden istiaze etmiş, azâb-ı kabirden sonra ( $ ) vird-i ümmet olmuş. Allahu a'lem bissavab, bunun bir te'vili şudur ki: O fitneler nefisleri kendilerine çeker, meftun eder. însanlar ihtiyarlarıyla, belki zevkle irtikâb ederler. Meselâ: Rusyada hamamlarda, kadın- erkek beraber çıplak girerler ve kadın, kendi güzelliklerini göstermeğe fıtraten çok meyyal olmasından seve seve o fitneye atılır, baştan çıkar ve fıtraten cemâlperest erkekler dahi nefsine mağlup olup o ateşe sarhoşane bir sürur ile düşer, yanar. îşte dans ve tiyatro gibi o zamanın lehviyatları ve kebâirleri ve bid'aları, birer câzibedarlık ile pervane gibi nefisperestleri etrafına toplar, sersem eder. Yoksa cebr-i mutlak ile olsa ihtiyar kalmaz, günah dahi olmaz. ş.)
 ahîssa: (Hasis. C.) Cimriler, pintiler, tamahkârlar.
 ahîyane: Damak. * Tıb: Boğaz.* Beyin kemiği.
-ahîyyen şerahîyyen : (Süryanice) Hannân, Mennân, Rahmân ve Rahim olan. çok çok nimet veren.
+ahîyyen şerahîyyen: (Süryanice) Hannân, Mennân, Rahmân ve Rahim olan. çok çok nimet veren.
 ahîz: (Ahz. den) Esir.
 âhîz: (âhize) Alan. Alıcı. Ahzeden. * Ses alıcı âlet. * Kabul etme, alma.
 âhîze: Fiz: Elektrik enerjisini mekanik enerjiye çeviren alet.
@@ -723,8 +723,8 @@ ahkâm: (Hüküm. C.) Hükümler. Kanunlar. Nizamlar.
 ahkâm-i adlîye: Adaletle alâkalı hükümler, emirler. * Adliye nezaretinin eski ismi.
 ahkâm-i fer'îyye: (Bak: şeriat)
 ahkâm-i fer'îyye ve ahkâm-i aslîyye: (Bak: şeriat)
-ahkâm-i kur'ânîye ¯: Kur'ân-ı Kerim'in kat'i olan hükümleri, emirleri. (Bak: Hukuk)
-ahkâm-i şahsîye : Huk: şahsın kendisini alakalandıran hükümler. (Bak: Hukuk-u şahsiye)
+ahkâm-i kur'ânîye ": Kur'ân-ı Kerim'in kat'i olan hükümleri, emirleri. (Bak: Hukuk)
+ahkâm-i şahsîye: Huk: şahsın kendisini alakalandıran hükümler. (Bak: Hukuk-u şahsiye)
 ahkar: En hakir, pek âciz ve değersiz. (Daha çok tevazu makamında söylenir.)
 ahkar-ul îbâd: Kulların en hakiri.
 ahkem: En sağlam. En kuvvetli. * En çok hükmeden. * En hakim ve akıllı.
@@ -807,7 +807,7 @@ ahsen: En güzel. çok güzel.
 ahsen-î takvîm: En güzel kıvama koyma. * Cenab-ı Hakkın her şeyi kendisine lâyık en güzel kıvam, sıfat ve surette yaratması. însanın en yüksek ve câmi isti'dâd ve kabiliyetlerde ve en güzel surette yaratıldığı.(Envâ'-ı zihayat içinde en ziyade rızkın envâına muhtaç, insandır. Cenab-ı Hak insanı bütün Esmâsına câmi' bir âyine ve bütün rahmetinin hazinelerinin müddeharâtını tartacak, tanıyacak cihâzata mâlik bir mu'cize-i Kudret ve bütün Esmâsının cilvelerinin vaziyetlerinin inceliklerini mizana çekecek âletleri hâvi bir halife-i Arz suretinde halk etmiştir. Onun için hadsiz bir ihtiyaç verip, maddi ve mânevi rızkın hadsiz envâına muhtaç etmiştir. însanı, bu câmiiyete göre en âlâ bir mevki olan ahsen-i takvime çıkarmak vâsıtası, şükürdür. şükür olmazsa, esfel-i sâfiline düşer; bir zulm-ü azimi irtikâb eder. M.)
 ahsen-ül gayât òöòô: Gayelerin en güzeli, en iyisi.
 ahsen-ül hâlikîn òöòô: Hâlıkıyyet mertebelerinin en güzel ve en münteha mertebesinde olan bir Hâlık-ı Zülcelal. Her şeyi herşeyle münasebetine lâyık bir tarzda güzel yaratan Hâlık. (C.C.)
-ahsen-ül kasas : îbret verici vakıaların en güzel şekilde nakledilişi. Kıssaların en güzeli. * Sure-i Yusuf (A.S.).
+ahsen-ül kasas : îbret verici vakıaların en güzel şekilde nakledilişi. Kıssaların en güzeli. * Sure-i Yusuf (A.S.).
 ahşa: Pek korkunç. çok korkunç. çok korkunç yer.
 ahşa': (Haşâ. C.) Vücuttaki bağırsak, ciğer gibi organlar. * Mahaller, bölgeler, cihetler.
 ahşab: Kereste. Tahta. Ağaçtan yapılan bina. * Ağaçtan olanlar.
@@ -857,8 +857,8 @@ ahva: (C.: Huvve) Kararmış nesne.
 ahval: Haller. Vaziyetler. Oluşlar.
 ahval: (Hâl. C.) Dayılar. Annenin erkek kardeşleri.
 ahval-î hayret-fezâ: Hayret verici haller.
-ahval-î sihhîye : Sağlık durumu.
-ahval-î şahsîye : Huk: Hakiki şahısların, hukuki varlıklariyle alâkalı olan hukuki durumlar. (Doğum, evlenme, boşanma, evlat edinme, ölüm hadiseleri gibi)
+ahval-î sihhîye: Sağlık durumu.
+ahval-î şahsîye: Huk: Hakiki şahısların, hukuki varlıklariyle alâkalı olan hukuki durumlar. (Doğum, evlenme, boşanma, evlat edinme, ölüm hadiseleri gibi)
 ahvas: (C.: Ehâvis, Huves) Bir gözü birinden küçük olan.
 ahvat: (Uht. C.) Kız kardeşler.
 ahvat: En ihtiyatlı, tedbirli.
@@ -892,7 +892,7 @@ ahz-i asker: Askere alma. * Askere alınma.
 ahz-i mîsak: Sözleşme. * Yemin etme.
 ahza: çok alçak, menfur kişi. Nefret edilmiş olan kimse.
 ahzab: (Hizb. C.) Hizbler, bölükler, kısımlar, gruplar. * Toprağı katı yer. * Kur'ânın kısımları. Hizbleri.
-ahzab suresî ¯: Kur'ân-ı Kerimde otuzüçüncü surenin adı olup Medine-i Münevvere'de nâzil olmuştur.
+ahzab suresî: Kur'ân-ı Kerimde otuzüçüncü surenin adı olup Medine-i Münevvere'de nâzil olmuştur.
 ahzad: Eğrilip bükülen, esnek.
 ahzan: (Hüzn. C.) Hüzünler, kederler, sıkıntılar, tasalar, gamlar.
 ahzar: (Bak: Ahdar)
@@ -915,7 +915,7 @@ aîka: (C. Avâik) Alıkoymaya ve te'hire sebep olan şey, mâni, engel.
 aîl: Ailesini geçindiren, idare eden. Kalabalık ailesi olan. Fakir.
 aîle: Erkeğin karısı. * Ev halkı. * Akraba. * Aynı işte olan, aynı gaye için çalışanların hepsi.(Kadının aile hayatında müdür-ü dahili olmak haysiyetiyle kocasının bütün malına, evlâdına ve herşeyine muhafaza memuru olduğundan en esaslı hasleti; sadakattır, emniyettir. Açık saçıklık ise, bu sadakatı kırar; kocası nazarında emniyeti kaybeder, ona vicdan azabı çektirir. Hatta erkeklerde iki güzel haslet olan cesaret ve sehâvet kadınlarda bulunsa, bu emniyete ve sadakata zarar olduğu için, ahlâk-ı seyyiedendir. Kötü haslet sayılırlar. L.)
 aîle-perver: Evine düşkün, ailesine düşkün.
-aîlevî ¯: Aile ile ilgili.
+aîlevî ": Aile ile ilgili.
 aînne: (înan. C.): Dizginler.
 aîr: Göz ağrısı.
 aîş: Yaşıyan. * Rahat yaşıyan.
@@ -1049,7 +1049,7 @@ akîb: Ayağın ökçesi. Adamın evlâdı, evlâdının evlâdı.
 akîd: Aralarında akid yapanlardan her birisi. (Bak: Akd)
 âkîd: Kuyunun çevresi, etrafı.
 akîde: înanılan ve itikad edilen esas. îmân. * Bir nevi şeker adı.
-akîde-î tevhîd ¯¯: Allah'ın bir olduğuna inanmak.
+akîde-î tevhîd "": Allah'ın bir olduğuna inanmak.
 âkîdeyn: Huk: Her akidde anlaşmayı yapan her iki taraf.
 âkîf: Devamlı ibadetle meşgul olan. * Bir şeyde sebat eden. * Teveccüh, yönelme.
 akîfan: Uzun ayaklı karınca. * Araptan bir kabile adı.
@@ -1225,7 +1225,7 @@ akva': Kuyruğu beyaz, gövdesi siyah olan dişi koyun.
 akval: (Kavl. C.) Sözler, kaviller.
 akval-î hakîmâne: Hikmet sahiblerine yakışır sözler.
 akvam: (Kavim. C.) Kavimler. Milletler. Toplumlar.
-akvâm-i beşer : însan toplumları. însan kavimleri.
+akvâm-i beşer: însan toplumları. însan kavimleri.
 akvarel: Sulu boya resim.
 akvaryum: Lat. Su hayvanlarını veya bitkilerini besleyebilecek tarzda yapılmış camdan su kabı.
 akvas: (Kavs. C.) Kavisler, yaylar. * Virajlar, büklümler.
@@ -1259,7 +1259,7 @@ akzîye: (Kaza. C.) Hükümler. Kararlar. * Tam cümleler.
 âl-î beyt: (Bak: âl)
 âl-î îbrahîm: Hz. îbrahim Peygamberin (A.S.) neslinden gelen ve onun mânevi yolunda yürüyenler. Bütün müslümanlar, Mü'minler.
 âl-î îmrân: îmran soyundan gelenler. (îmran ikidir. Birisi: Hz. Musa ve Harun'un (A.S.) babaları olan îmran ibn-i Yashür ibn-i Lâvi ibn-i Yakub ibn-i îshak ibn-i îbrahim'dir (A.S.) îkincisi: Hz. Meryemin babası olan îmran ibn-i Metan ki, bu da Süleyman ibn-i Dâvud ibn-i îşa neslinden, bunlar da Yahuda ibn-i Yakub neslindendirler. îki îmran arasında 1800 sene geçtiği söylenir.)
-âl-î îmran suresî ¯: Kur'an-ı Kerimin üçüncü suresinin ismi olup Medine-i Münevvere'de nâzil olmuştur. Bu sureye Eman, Kenz, Ma'niyye, Mücadele, îstiğfar Suresi ve Tayyibe de denilir.
+âl-î îmran suresî ": Kur'an-ı Kerimin üçüncü suresinin ismi olup Medine-i Münevvere'de nâzil olmuştur. Bu sureye Eman, Kenz, Ma'niyye, Mücadele, îstiğfar Suresi ve Tayyibe de denilir.
 a'la: Daha iyi. Pek iyi. En yüksek. Ziyâde ve mürtefi olan.
 ala: Bahşişler. Lütuflar. Nimetler. îhsanlar.
 ala: Yükseklik. Büyüklük. şeref. şan.
@@ -1284,7 +1284,7 @@ alâ-mele'în nas: Herkesin önünde. Halkın huzurunda.
 alâ-meratîbîhîm: Rütbesine ve derecesine göre sırasıyla.
 alâ-rağm-î enf-îl ye's: Ye'sin burnunu kırmak maksadiyle ve ona tahkir ile.
 alâ-rîvayetîn: Rivayet edildiği üzere. Söylenenlere bakılırsa.
-alâ-ruus-îleşhad : Aleme karşı. Herkesin gözü önünde. Halkın önünde.
+alâ-ruus-îleşhad: Aleme karşı. Herkesin gözü önünde. Halkın önünde.
 alâ-tarîk-îl îcmal: Kısaca, icmal yoluyla.
 alâ-tarîk-îl münavebe: Nöbetleşe, münâvebe yoluyla.
 alabalik: t. Akıntısı sert olan soğuk ve tatlı sularda bulunan bir cins leziz balık.
@@ -1304,7 +1304,7 @@ alak-i dem: Kan pıhtısı, pıhtılaşmış kan.
 alaka: Kan pıhtısı. Uyuşuk kan.
 alâka: îlişik, rabıta, merbutiyet. * Gönül bağlama, sevgi, münasebet, taalluk, irtibat, mâlikiyet. Tasarruf. Müdâhale hakkı. Hisse. * Edb: Bir kelimenin hakiki mânâsından mecâzi mânâsına nakledilmesinin sebebidir. (Temiz ahlâklı, güzel huylu kimselere melek denildiği gibi.)
 alâkabahş: îlgi uyandıran. Alâka uyandıran.
-alâkadar ¯: Alâkalı, münâsebetdar.
+alâkadar ": Alâkalı, münâsebetdar.
 a'lal: (îllet. C.) Hastalıklar, marazlar, illetler. * Sebepler.
 a'lam: (Alem. C.) Alemler. Alâmetler. îzler. Nişanlar. * Bayraklar. * Büyük âlimler. * Büyük dağlar.
 alam: (Elem. C.) Elemler. Kederler. üzüntüler.
@@ -1370,7 +1370,7 @@ ale-l-fevr: Birden, derhal, hemen.
 ale-l-gafle: Dalgınlığa getirerek. Dalgınlığa gelerek, boş bulunarak.
 ale-l-hadîse: Gölge hâdise. (fr. epiphenomene)
 ale-l-hesab: Hesâba sayarak.
-ale-l-husus : Hususiyle, hepsinden önce olarak. Bâhusus.
+ale-l-husus : Hususiyle, hepsinden önce olarak. Bâhusus.
 ale-l-imiya: Körü körüne, körlemeden. (Bak: Ale-l-amyâ)
 ale-l-itlak: Umumiyetle. Mutlaka. Bir suretle kayıtlı olmayarak. Mingayri tahsis.
 ale-l-îcmal: Toplu olarak, topluca.
@@ -1419,7 +1419,7 @@ a'lem-î ülemâ: Alimlerin âlimi. Alimlerin en çok bilgilisi, büyüğü.
 âlem-î menâm: Uyku âlemi, rüya âlemi.
 âlem-î mîsâl: Rüyâda görülen âlem. Dünyada mevcud bulunan bütün eşya ve zuhura gelen bütün ef'âlin aynısı ile müretteb ve mütekevvin olan bir tarzı veya âlem-i ruhâninin bir nev'i. (L.R.)(Gördüm ki: âlem-i misâl, nihâyetsiz fotoğraflar ve her bir fotoğraf, hadsiz hâdisât-ı dünyeviyeyi aynı zamanda hiç karıştırmıyarak alıyor. Binler dünya kadar büyük ve geniş bir sinema-i uhreviyye ve fâniyatın fâni ve zâil hallerini ve vaziyetlerini ve geçici hayatlarının meyvelerini sermedi temâşâgâhlarda ve Cennette Saadet-i ebediyye ashâblarına dünya macerâlarını ve eski hâtıralarını levhaları ile gözlerine göstermek için pek büyük bir fotoğraf makinesi olarak bildim. S.) (Bak: âlem-i hâb)
 âlem-î nâsut: însanlar âlemi ve dünya hayatı. Mahlukiyet. âlem-i Lâhut'un zıddı.
-âlem-î sabavet : çocukluk dünyası.
+âlem-î sabavet : çocukluk dünyası.
 âlem-î sîyaset: Siyâset dünyası, siyaset âlemi.
 âlem-î süflî: Süflilerin âlemi. Dünyâ âlemi. âlem-i şehadet, âlem-i nâsut. (Bak: Nâsut)(şu kâinata nazar-ı hikmetle bakıldığı vakit, azim bir şecere mânasında görünür. Ve şecerenin nasıl dalları, yaprakları, çiçekleri, meyveleri vardır. şu şecere-i hilkatin de bir şıkkı olan âlem-i süflinin: Anasır, dalları; nebatat ve eşcar, yaprakları; hayvanat, çiçekleri; insan, meyveleri hükmünde görünür. Sâni-i zülcelâl'in, ağaçlar hakkında câri olan bir kanunu, elbette şu şecere-i âzamda da câri olmak, mukteza-yı ism-i Hakim'dir. S.)
 âlem-î şahadet: şahâdet âlemi. Bu dünya. Cenâb-ı Hakkın âyetlerine ve emirlerine imân edenlerin, hakka, hakikate şahadette bulundukları ve Allah'a itaat ve ibadetle mükellef oldukları dünya âlemi.(âlem-i şahadet, avâlim-i guyub üstünde tenteneli bir perdedir. M.)
@@ -1444,8 +1444,8 @@ alemî: (Alem. den) Has isimle alâkalı. Aleme aid.
 âlemîn: (Bak: âlemûn)
 âlemîyan: (âlemi. C.) âleme mensub olanlar, insanlar.
 âlemnüma: Dünyayı gösteren.
-âlempesend ¯: Bütün herkesin hoşuna gidip beğendiği şey.
-âlemşümul ¯: Bütün dünyayı alâkadar eden, dünyayı kaplayan ve her yerde tanınmış olan.
+âlempesend ": Bütün herkesin hoşuna gidip beğendiği şey.
+âlemşümul ": Bütün dünyayı alâkadar eden, dünyayı kaplayan ve her yerde tanınmış olan.
 âlemûn (âlemîn): (âlem. C.) âlemler.
 alen: Aşikâr, apaçık, meydanda olma.
 alenda: (C. Alânid) çok sağlam nesne.
@@ -1550,7 +1550,7 @@ allak: Sözünde durmaz. * Hilekâr, kendisine güvenilmesi doğru olmayan.
 allâm: En çok bilen, her şeyi hakkı ile bilen. (Cenâb-ı Hakka mahsus bir sıfat olup, başka mahluka denemez.)
 allâm-ül guyub: Esma-i Hüsnadandır. Bütün gaybları, geçmişi, geleceği, hazırda olmayanı, dünyadakileri, âhirettekileri ve her şeyi bilen Cenab-ı Hak.
 allâme: çok büyük alim. Meşhur olmuş büyük mütefekkir. Her ilimde ihtisas sahibi.
-allâme-î küll ¯¯: Bir şeyin ilmine vâkıf olan. Bir hususda ihtisas sahibi olan.
+allâme-î küll "": Bir şeyin ilmine vâkıf olan. Bir hususda ihtisas sahibi olan.
 allet: Kişinin, avreti üstüne aldığı ikinci avret. * üvey ana.
 allüsînasyon: Fr. (Bak: Hallüsinasyon)
 alman: Almanyalı, Cermen.
@@ -1783,12 +1783,12 @@ an-îl-giyab: Kendisi yokken, gıyabında, arkadan.
 an-karîb: Yakından, çok zaman geçmeden.
 an-karîb-îz-zaman: Yakın vakitten.
 an-karîbîn ù: Yakın vakitlerde.
-an-kasdîn ù: Kasd ve niyet üzere, mahsusen.
-an-kasdîn ù: Kasd ve niyet üzere, mahsûsen.
+an-kasdîn ù: Kasd ve niyet üzere, mahsusen.
+an-kasdîn ù: Kasd ve niyet üzere, mahsûsen.
 an-küm: Sizden.
 an-küma: îkinizden.
 an-kümâ: îkinizden.
-an-la şey'în ù: Bilâ mucib, sebebsiz.
+an-la şey'în ù: Bilâ mucib, sebebsiz.
 an-nakdîn: Nakit para olarak.
 an-samîm-îl kalb: Derûn ve kalbden, riyâdan âri ve hâli olarak. Kalbin samimiyyeti ile.
 an-samîm-îl kalb: Can ve yürekten, kalbden.
@@ -1818,8 +1818,8 @@ anân: Bulutlar. * Gökyüzü, semâ.
 an'anât: (An'ane. C.) Rivayetler. * Gelenekler, an'aneler, âdetler, örfler.
 an'ane: âdet, örf. * Ağızdan nakledilen söz, haber. * Ist: Bir haberin veya bir hadis-i şerifin "an filân, an filan" diye râvileri bildirilmek suretiyle olan nakil. * Silsile. * Müezzin ezân okurken "teganni" ederse; ona da "An'ane" denir. (Bak: şeâir)(Ehl-i imana hücum eden ehl-i dalâlet - bu asır cemaat zamanı olduğu cihetiyle - cemiyet ve komitecilik mayesiyle bir şahs-ı mânevi ve ruh-u habis olmuş. Müslüman âlemindeki vicdan-ı umumi ve kalb-i külliyi bozuyor. Ve avamın taklidi olan itikadlarını himaye eden îslâmi perde-i ulviyeyi yırtıyor; ve hayat-ı imaniyeyi yaşatan, an'ane ile gelen hissiyat-ı mütevariseyi yandırıyor. R.N.)
 anane: Bir tek bulut.
-an'anelî sened ¯: Hadis nakledenlerin veya bir haberi söyleyenlerin bu haberi kimden kime söylendiğini belli eden "An filan, an filan" diyerek şahısların isimleriyle beraber rivâyet ve nakledilen kuvvetli ve şüphe götürmeyen sened. (Suâl: An'aneli senedin fâidesi nedir ki; lüzumsuz yerde, malum bir vâkıada "an filân, an filân, an filân" derler? Elcevab: Fâideleri çoktur. Ezcümle bir fâidesi şudur ki: An'ane ile gösteriliyor ki, an'anede dâhil olan mevsuk ve hüccetli ve sâdık ehl-i hadisin, bir nevi icmâını irae eder ve o senette dâhil olan ehl-i tahkikın, bir nevi ittifakını gösterir. Güya o senette, o an'anede dâhil olan herbir imam, herbir allâme; o hadisin hükmünü imza ediyor, sıhhatine dâir mührünü basıyor. M.)
-an'anevî ¯: An'ane ile alâkalı.
+an'anelî sened ": Hadis nakledenlerin veya bir haberi söyleyenlerin bu haberi kimden kime söylendiğini belli eden "An filan, an filan" diyerek şahısların isimleriyle beraber rivâyet ve nakledilen kuvvetli ve şüphe götürmeyen sened. (Suâl: An'aneli senedin fâidesi nedir ki; lüzumsuz yerde, malum bir vâkıada "an filân, an filân, an filân" derler? Elcevab: Fâideleri çoktur. Ezcümle bir fâidesi şudur ki: An'ane ile gösteriliyor ki, an'anede dâhil olan mevsuk ve hüccetli ve sâdık ehl-i hadisin, bir nevi icmâını irae eder ve o senette dâhil olan ehl-i tahkikın, bir nevi ittifakını gösterir. Güya o senette, o an'anede dâhil olan herbir imam, herbir allâme; o hadisin hükmünü imza ediyor, sıhhatine dâir mührünü basıyor. M.)
+an'anevî ": An'ane ile alâkalı.
 an'anevîye: An'aneciler. * An'aneden gelen.
 anarşî: yun. Başıboşluk. Din ve nizam tanımamak. Din ve nizam düşmanlığı. Birden başıboş kalmak. Başta hükümet olmamak. Hükümetinin otoritesi kalmamış olan bir milletin durumu. (Bak: Ye'cüc ve me'cüc)(Bir Müslüman mümkün değil, başka bir dine girip, ya Hiristiyan ve Yahudi, hususan bolşevik gibi olmak... çünkü; bir îsevi Müslüman olsa, îsâ aleyhisselâmı daha ziyade sever. Bir Musevi Müslüman olsa, Musa aleyhisselâmı daha ziyade sever. Fakat bir Müslüman Muhammed Aleyhissalâtü Vesselam'ın zincirinden çıksa, dinini bıraksa, daha hiçbir dine giremez, anarşist olur; ruhunda kemalâta medar hiçbir hâlet kalmaz. Vicdanı tefessüh eder, hayat-ı içtimaiyyeye bir zehir olur. R.N.)(..Hakiki bir Müslüman, samimi bir mü'min hiçbir zaman anarşiye ve bozgunculuğa tarafdar olmaz. Dinin şiddetle menettiği şey, fitne ve anarşidir. çünki, anarşi hiçbir hak tanımaz. însanlık seciyelerini ve medeniyet eserlerini canavar hayvanlar seciyesine çevirir ki, bunun âhir zamanda "Ye'cüc ve Me'cüc" komitesi olduğuna Kur'an-ı Hakim işaret buyurmaktadır. Tr.)(Hem her bir şehir kendi ahalisine geniş bir hânedir. Eğer iman-ı ahiret o büyük aile efradında hükmetmezse, güzel ahlakın esasları olan ihlâs, samimiyet, fazilet, hamiyet, fedakârlık, Rıza-yı îlâhi, sevab-ı uhrevi yerine garaz, menfaat, sahtekârlık, hodgâmlık, tasannu, riyâ, rüşvet, aldatmak gibi haller meydan alır. Zâhiri asayiş ve insaniyet altında anarşistlik ve vahşet manaları hükmeder; o hayat-ı şehriyye zehirlenir. çocuklar haylazlığa, gençler sarhoşluğa, kaviler zulme, ihtiyarlar ağlamaya başlarlar. ş.)
 anarşîst: Anarşi taraftarı. Anarşi ve karışıklık çıkaran.
@@ -2156,7 +2156,7 @@ arsa-î kâr-zâr: Muharebe alanı, savaş meydanı.
 arsat: Semer ağaçlarına çakılan ağaç mıh.
 ârsiz: Bi-ar, utanmaz, arsız.
 arş: Bağ çardağı. * Gölgelik. * Kürsü, taht, yüce makam. En yüksek gök. Allahın kudret ve saltanatının tecelli yeri. (Arş kâinatı kaplar. Allah'ın kudreti ve ilmi de herşeyi kaplar.) * Fevkiyyet, ulviyyet. * Arş-ı Alâ, Arş-ı Rahman, Arş-ı îlâhi, Arş-ı Yezdan, Felek-i Eflâk, Felek-i Atlâs, Felek-i Azâm gibi isimlerle Cenab-ı Hakkın izzet ve saltanatından kinaye olarak söylenir. (O.S) (... Arş: Zâhir, Bâtın, Evvel, âhir isimlerinin halita ve karışığıdır. Bu halitada dahil olan îsm-i Zâhir itibarı ile Arş Mülk; kevn, Melekut olur. îsm-i Bâtın itibarı ile Arş, Melekut; kevn, Mülk olur. Demek Arşa ism-i Zâhir nazarı ile bakılırsa; kendisi zarf, Kevn de mazruf olur. îsm-i Bâtın gözü ile bakılırsa; kendisi mazruf, kevn zarf olur. Ve kezâ ism-i Evvel itibârı ile $ âyetinin işâret ettiği kevnin bidayetini içine alıyor. Ve ism-i âhir itibarı ile $ hadis-i şerifinin ima ettiği kevnin nihâyetini içine alıyor. Demek Arş öyle bir halitadır ki, şu dört isimden aldığı hisseler ile kevn ve vücudun sağını, solunu, üstünü ve altını ihata etmiş olur. M.N.) (... Arş, sakf demektir ki bir binanın veya yerin muhit-i ulvisini teşkil eder. Bir eve nisbetle tavanı, tavanına nisbetle üstündeki çatısı, kubbesi, tepesindeki köşkü, tahtaboşu, cihannüması hep arş medlülünde dahildir. Buna müteferri olarak çadır ve çardak gibi yükselen ve gölge veren her şeye de ıtlak olunur.) (E.T.)
-arş u ferş : (Arş u zemin) Arş ve yeryüzü.
+arş u ferş : (Arş u zemin) Arş ve yeryüzü.
 arş u kürsî: (Arş ve Kürsi) Arş ile Kürsi.
 arş ve süllem: Delil-i Arşi ve Delil-i Süllemi'den kinâyedir. (Bak: Delil).
 arş-i a'zam: En büyük arş. Cenab-ı Hakk'ın arşı. (Bak: Arş)
@@ -2259,11 +2259,11 @@ a'sâb-i muharrîke: Hissi, duyguyu vücuttaki haber merkezine bildiren sinirler
 asabe: Kuvvet, şiddet. * Bir tek sinir. * Baba tarafından akraba olanlar. * Bir kimseye yardım ve takviye eden akrabası takımı. * Fık: Eshab-ı Feraiz, hisselerini aldıktan sonra geri kalanı, terekeyi alan kimse. (Babası ve evladı olmayan kimseye vâris olan.)
 asabî: Sinirli. öfkeli.
 asabî': (Usbu'. C.) Parmaklar.
-asabîyet-î kavmîye ò: Vatanperverlik. Menfi milliyetçilik, Asabiyet-i câhiliye, asabiyet-i milliye, asabiyet-i nev'iyye gibi tabirler de aynı mânayı ifâde eder. (Bak: Asabiyet-i Câhiliyye).
+asabîyet-î kavmîye ò: Vatanperverlik. Menfi milliyetçilik, Asabiyet-i câhiliye, asabiyet-i milliye, asabiyet-i nev'iyye gibi tabirler de aynı mânayı ifâde eder. (Bak: Asabiyet-i Câhiliyye).
 asabîyy-ül-mîzac: Yaradılışça sinirli olan kimse. Yaradılışı itibâriyle asabi, hırçın, öfkeli olan.
 asabîyyet: Sinirlilik. Fart-ı gayret. îmân ve îslâmiyeti, kendi akrabasını, vatanını, din veya milliyetini müdâfaa etmek gayreti. Hamiyyet.
 asabîyyet-î cahîlîyye: îslâmiyetten evvelki câhiliyyet asabiyyeti. Menfi milliyet. Irkçılık, yani, aşırı derecede kendi kavim ve kabilesini koruma ve iltizam gayreti.(Asabiyyet-i cahiliyye, birbirine tesanüd edip yardım eden gaflet, dalâlet, riya ve zulmetten mürekkeb bir mâcundur. Bunun için menfi milliyetçiler, milliyeti mâbud ittihaz ediyorlar. Hamiyyet-i îslâmiyye ise, nur-u imândan in'ikâs edip dalgalanan bir ziyadır. M.N.)
-asabîyyeten : Asabi olarak. Sâde kendi milliyetini, soyunu sevmekle.
+asabîyyeten : Asabi olarak. Sâde kendi milliyetini, soyunu sevmekle.
 a'sac: Saçları alnı üzerine dökülmüş.
 âsad: (Esed. C.) Esedler, arslanlar.
 asaf: Süleyman Peygamberin (A.S.) veziri. Vezir. * Bir ot ismi.
@@ -2396,29 +2396,29 @@ asgün: Hazar Denizi'ne verilen bir isim.
 ashâb: (Eshâb) (Sahib. C.) Arkadaş olanlar. Sahip olanlar, kullanma yetkisine sahip kişiler. * Halk, ahali. * Sahabeler, yani Peygamberimiz Hz. Muhammed'i (A.S.M.) görmüş ve mü'min olarak ona ve onun mesleğine bağlı kalmış olan zatlar. Bu kişiler, insanlık, doğruluk ve her türlü faziletlerde en ileri seviyede bulunan şahsiyetlerdir.Onlar Peygamberimizi (A.S.M.) her an yakın alâka ile takip ederler ve O'na, her cihetle ittibaa çalışırlardı. Dâima sıdk ve sadakatten, doğruluk ve faziletten ayrılmamak cehdi içinde idiler. îslâmiyetin neşir ve tâmimi için her çeşit fedakarlıktan çekinmezlerdi. Risale-i Nur Külliyatından Mektubat isimli eserde denildiği gibi: "âl ve Ashâb nâmında bu zevat-ı kirâm, nev-i beşerin enbiyadan sonra ferâset ve dirâyet ve kemâlâtla en meşhur, en muhterem, en nâmdar, en dindar ve en keskin nazarlı tâife-i azimesi" dirler.(R.A.)
 ashâb-i bedîr: Hz. Peygamber (A.S.M.) ile Bedir muharebesinde bulunan sahâbeler (R.A.)
 ashâb-i cennet: Cennet ehli. Cennetlik olanlar, Cennetlik oldukları ümid edilenler veya cennete gidecekleri müjdelenmiş olanlar. (Bak: Aşere-i Mübeşşere)
-ashâb-i devlet : Devlete mensub olanlar. Devlet adamları.
+ashâb-i devlet : Devlete mensub olanlar. Devlet adamları.
 ashâb-i eyke: (Ashâb-ı Leyke) şuayb'ın (A.S.) Allah tarafından kendilerine gönderildiği kavmin adı. Yerleri ağaçlı olduğundan bu isim verilmiştir.
 ashâb-i ferâîz: Mirascılar. ölen kimsenin malında hissesi olan akrabâları.
 ashâb-i fîl: îslâmiyetten önce Kâbe-i Muazzamayı tahrib için Mekke'ye hücum eden Habeş ordusunun ismi ( önlerinde fil bulunduğundan, zırhlı vasıtalar gibi ondan faydalandıklarından bu isim verilmiş olduğu nakledilir.
-ashâb-i güzîn : Mümtaz ve en meşhur sahâbeler.
+ashâb-i güzîn : Mümtaz ve en meşhur sahâbeler.
 ashâb-i kalem: Kalem ashabı. Memurlar.
 ashâb-i kalîb: Bedirde öldürülüp kuyuya atılmış olan müşrikler.
 ashâb-i kehf: Kur'ân-ı Mu'ciz-ül Beyan'da bahsi geçen ve devirlerinin zâlim padişahından gizlenerek ve onun şerrine âlet olmaktan çekinerek, beraberce bir mağaraya saklanıp, Rabb-ı Rahimlerine (C.C.) sığınan, dindar ve makbul büyük zâtlar. îsimleri rivâvette şöyle sıralanır: Yemlihâ, Mekselinâ, Mislinâ, Mernüş, Debernüş, Sâzenüş, Kefeştatâyüş. Kendilerine sâdık köpeklerinin adı da Kıtmir'dir.
 ashâb-i kîram: Hz. Muhammedin (A.S.M.) Ashabı, sahabeleri.
-ashâb-i matlub : Huk: îflâs hâlinde bulunan şahsın, kanuni alacaklılarının yekûnü.
-ashâb-i meş'eme : Uğursuz, kötü, dine muhalif olanlar.* Solak, sol tarafta, alçak mevkide bulunanlar.
+ashâb-i matlub : Huk: îflâs hâlinde bulunan şahsın, kanuni alacaklılarının yekûnü.
+ashâb-i meş'eme : Uğursuz, kötü, dine muhalif olanlar.* Solak, sol tarafta, alçak mevkide bulunanlar.
 ashâb-i meymene: Dinen ihtiram mevkiinde bulunan yüksek haysiyet sahibleri. Hayırlı kimseler.
 ashâb-i ress: Kur'anda bahsi geçen bir kavim adıdır. Kimler oldukları kati bir şekilde tesbit edilemiyor. Râvilerin ekserisi, peygamberlerine isyan eden ve onu öldürüp kuyuya atan, bundan dolayı da Cenab-ı Hakkın helâk ettiği bir kavim olduğu hakkında ittifak etmektedir. (Furkan Suresi, 38 inci Ayet)
-ashâb-i ridvân : Cenab-ı Hakkın rızâsıyla müjdelenen sahâbeler. (R.A.) (Bak: Bi'at-ı Rıdvan)
-ashâb-i suffa : Suffa ehli. Bunlar, Hz. Peygamberin (A.S.M.) mescidine bitişik üstü örtülü, etrafı açık bir yerde otururlardı ve orada yaşarlardı. Bu zatların yaşayışları ve hâlleri din hizmeti, hayatı bakımından büyük değer taşımaktadır. Bütün hayatları Peygamberimiz'in (A.S.M.) yanında bulunarak Kur'ânın en yüksek derslerini alır, öğrenirler ve öğretirlerdi. îslâmiyeti öğrenmek, öğretmek ve yaymak için her türlü şahsi menfaatlerini terkederek tam bir îslâm fedaisi olarak yaşarlardı. Bunlar evlenmezler ve dünya işleriyle uğraşmazlardı. Ashab-ı Suffa'nın bu hizmetleri sebebiyle ve bu çok büyük fedakârlıkları vesilesiyle îslâmiyet az zamanda çok yayılmış ve kökleşmiştir. Peygamberimiz'in (A.S.M.) hadis-i şerifleri mükemmel bir şekilde muhafaza altına alınmış ve zamanımıza kadar hatta kıyamete kadar sağlam bir şekilde devam etmesi sağlanmıştır.Bu Ehl-i Suffa'nın ahvâli Kur'an-ı Kerim hizmetine ilk ve en mühim başlangıç olduğu ve herkese büyük ibret ve ders teşkil edeceği için, Sahih-i Buhâri Tercemesi Yedinci Cildinin 62 ve 63 üncü sahifelerindeki alâkalı kısmı naklediyoruz: "Suffa, Kamus Müterciminin dediği gibi ve hepimizin bildiği veçhile, eski yerlerdeki "sed", "seki" gibi yüksekçe eyvana denir. Lisanımızda tahrifle "sofa" tâbir olunur. Ehl-i suffa buna izâfe edilmiştir. Ashâb-ı Suffa; aileden cüdâ, gaile-i dünyeviyeden âzâde ve bütün mânası ile feragatkâr bir hayata mâlik olan bir zümre-i mübârekenin ekseri vakitleri Resül-i Ekremin (A.S.M.) huzurunda geçerdi. Dâima Resul-i Ekrem'den (A.S.M.) ahz-ı feyz ederlerdi. Taraf-ı Peygamberiden tâyin buyurulan muallimler mârifetiyle de kendilerine Kur'ân tâlim edilirdi. Bunlardan yetişenler müslüman olan kabilelere tâlim-i Kur'ân için gönderilirdi. Bu cihetle bunlara "Kurrâ" denilirdi. Bu suffaya da "Darul-Kurrâ" demek en münâsib bir isimdir. Nur-u Kur'an'ın "lemhat-ül basar" denilebilecek derecede az bir zaman zarfında âfâk-ı âleme intişar etmesi, bu ilim ocağının yetiştirdiği güzideler sâyesinde müyesser olmuştur. Mütevâzi ve fakat çok feyyaz olan dörtyüz, beşyüz raddesinde dâimâ Kur'ân ile, icâbında gazâ ile meşgul olan bir irfân-ı Kur'ân ordusu bulunuyordu. îçlerinden teehhül edenler kadro haricine çıkardı. Fakat, yenileri ile ikmal edilirdi. Burası bütün mânası ile leyli ve meccâni bir dâr-ul-ilim idi. Müdâvimleri ne ticaretle, ne bir san'at ve harâsetle iştigal etmezdi. Maişetleri taraf-ı risâlet-penâhiden ve ağniyâ-ı ashâb tarafından te'min edilirdi. Bu hakikatı, Ehl-i Suffa'nın mübarek simâlarından birisi olan Ebu Hureyre (R.A.) kendisinin çok hadis rivâvet ettiğinden şikâyet edenlere karşı verdiği şu müskit cevabında pek güzel ifâde etmiştir: "Benim kesret-i rivâyetim çok görülmesin; muhacir kardeşlerimiz çarşıdaki, pazardaki ticaretleri ile, "Ensar" kardeşlerimiz de tarlalardaki, bahçelerdeki ziraatleri ile meşgul bulundukları sırada, Ebu Hureyre, Peygamberin (A.S.M.) mübârek nasihatlerini hıfzediyordu..." demişti.Resul-i Ekrem (A.S.M.) Ashâb-ı Suffa'nın maişeti ile, tâlim ve terbiyesi ile pek yakından alâkadar olurdu. Hattâ saadet-hâneleri ihtiyacatı ile ikinci derecede meşgul bulunurdu. Bir kerre Hz. Fâtıma (R.A.) el değirmeni ile un öğütmekten usandığından şikâyet ederek bir hizmetçi istediğinde, Resül-i Ekrem (A.S.M.) - "Kızım! Sen ne söylüyorsun?... Henüz Ehl-i Suffa'nın maişetini yoluna koyamadım" buyurmuştu.Resul-i Ekrem'in (A.S.M.) hiç bir mev'izaları, hiç bir hitâbeleri yoktur ki, bunun irâdı sırasında Ashâb-ı Suffa orada hazır bulunmasın, dinleyip, hıfzederek diğer ashâba nakletmesin... Bu suretle ahkâm-ı îslâmiyyenin hıfz ve naklinde Ehl-i suffanın pek müstesna te'sirleri görülmüştür.îçlerinde Ebu Hureyre (R.A.) gibi müstesnâlar yetiştiği gibi, ilmi varlık göstermiyenler de vardı. Fakat, hangi türlü tedris gösterilebilir ki, umumi surette böyle sihir-âmiz bir feyz verebilmiş olsun.."Hak Dini Kur'ân Dili Cilt 2, sahife: 939, 940, 941 de de şu izahat vardır:"Bir gün Resul-i Ekrem (A.S.M.) Ashâb-ı Suffa'nın başlarında durmuş, hallerini nazar-ı tetkikten geçirmişti. Fakirliklerini, çekmekte oldukları zahmetlerini gördü ve kalblerini tatyib edip onlara buyurdu ki: - "Ey Ashâb-ı Suffa! Sizlere müjdeler olsun ki; her kim şu sizin bulunduğunuz hâl-ı sıfâtta ve bulunduğu halden râzı olarak bana mülâki olursa, o benim refiklerimdendir... "
-ashâb-i suyûf : Bizzat harbe iştirak edip kılıçları ile cihad edenler.
-ashâb-i şuhûd : (Bak: Ehl-i şuhûd)
+ashâb-i ridvân : Cenab-ı Hakkın rızâsıyla müjdelenen sahâbeler. (R.A.) (Bak: Bi'at-ı Rıdvan)
+ashâb-i suffa : Suffa ehli. Bunlar, Hz. Peygamberin (A.S.M.) mescidine bitişik üstü örtülü, etrafı açık bir yerde otururlardı ve orada yaşarlardı. Bu zatların yaşayışları ve hâlleri din hizmeti, hayatı bakımından büyük değer taşımaktadır. Bütün hayatları Peygamberimiz'in (A.S.M.) yanında bulunarak Kur'ânın en yüksek derslerini alır, öğrenirler ve öğretirlerdi. îslâmiyeti öğrenmek, öğretmek ve yaymak için her türlü şahsi menfaatlerini terkederek tam bir îslâm fedaisi olarak yaşarlardı. Bunlar evlenmezler ve dünya işleriyle uğraşmazlardı. Ashab-ı Suffa'nın bu hizmetleri sebebiyle ve bu çok büyük fedakârlıkları vesilesiyle îslâmiyet az zamanda çok yayılmış ve kökleşmiştir. Peygamberimiz'in (A.S.M.) hadis-i şerifleri mükemmel bir şekilde muhafaza altına alınmış ve zamanımıza kadar hatta kıyamete kadar sağlam bir şekilde devam etmesi sağlanmıştır.Bu Ehl-i Suffa'nın ahvâli Kur'an-ı Kerim hizmetine ilk ve en mühim başlangıç olduğu ve herkese büyük ibret ve ders teşkil edeceği için, Sahih-i Buhâri Tercemesi Yedinci Cildinin 62 ve 63 üncü sahifelerindeki alâkalı kısmı naklediyoruz: "Suffa, Kamus Müterciminin dediği gibi ve hepimizin bildiği veçhile, eski yerlerdeki "sed", "seki" gibi yüksekçe eyvana denir. Lisanımızda tahrifle "sofa" tâbir olunur. Ehl-i suffa buna izâfe edilmiştir. Ashâb-ı Suffa; aileden cüdâ, gaile-i dünyeviyeden âzâde ve bütün mânası ile feragatkâr bir hayata mâlik olan bir zümre-i mübârekenin ekseri vakitleri Resül-i Ekremin (A.S.M.) huzurunda geçerdi. Dâima Resul-i Ekrem'den (A.S.M.) ahz-ı feyz ederlerdi. Taraf-ı Peygamberiden tâyin buyurulan muallimler mârifetiyle de kendilerine Kur'ân tâlim edilirdi. Bunlardan yetişenler müslüman olan kabilelere tâlim-i Kur'ân için gönderilirdi. Bu cihetle bunlara "Kurrâ" denilirdi. Bu suffaya da "Darul-Kurrâ" demek en münâsib bir isimdir. Nur-u Kur'an'ın "lemhat-ül basar" denilebilecek derecede az bir zaman zarfında âfâk-ı âleme intişar etmesi, bu ilim ocağının yetiştirdiği güzideler sâyesinde müyesser olmuştur. Mütevâzi ve fakat çok feyyaz olan dörtyüz, beşyüz raddesinde dâimâ Kur'ân ile, icâbında gazâ ile meşgul olan bir irfân-ı Kur'ân ordusu bulunuyordu. îçlerinden teehhül edenler kadro haricine çıkardı. Fakat, yenileri ile ikmal edilirdi. Burası bütün mânası ile leyli ve meccâni bir dâr-ul-ilim idi. Müdâvimleri ne ticaretle, ne bir san'at ve harâsetle iştigal etmezdi. Maişetleri taraf-ı risâlet-penâhiden ve ağniyâ-ı ashâb tarafından te'min edilirdi. Bu hakikatı, Ehl-i Suffa'nın mübarek simâlarından birisi olan Ebu Hureyre (R.A.) kendisinin çok hadis rivâvet ettiğinden şikâyet edenlere karşı verdiği şu müskit cevabında pek güzel ifâde etmiştir: "Benim kesret-i rivâyetim çok görülmesin; muhacir kardeşlerimiz çarşıdaki, pazardaki ticaretleri ile, "Ensar" kardeşlerimiz de tarlalardaki, bahçelerdeki ziraatleri ile meşgul bulundukları sırada, Ebu Hureyre, Peygamberin (A.S.M.) mübârek nasihatlerini hıfzediyordu..." demişti.Resul-i Ekrem (A.S.M.) Ashâb-ı Suffa'nın maişeti ile, tâlim ve terbiyesi ile pek yakından alâkadar olurdu. Hattâ saadet-hâneleri ihtiyacatı ile ikinci derecede meşgul bulunurdu. Bir kerre Hz. Fâtıma (R.A.) el değirmeni ile un öğütmekten usandığından şikâyet ederek bir hizmetçi istediğinde, Resül-i Ekrem (A.S.M.) - "Kızım! Sen ne söylüyorsun?... Henüz Ehl-i Suffa'nın maişetini yoluna koyamadım" buyurmuştu.Resul-i Ekrem'in (A.S.M.) hiç bir mev'izaları, hiç bir hitâbeleri yoktur ki, bunun irâdı sırasında Ashâb-ı Suffa orada hazır bulunmasın, dinleyip, hıfzederek diğer ashâba nakletmesin... Bu suretle ahkâm-ı îslâmiyyenin hıfz ve naklinde Ehl-i suffanın pek müstesna te'sirleri görülmüştür.îçlerinde Ebu Hureyre (R.A.) gibi müstesnâlar yetiştiği gibi, ilmi varlık göstermiyenler de vardı. Fakat, hangi türlü tedris gösterilebilir ki, umumi surette böyle sihir-âmiz bir feyz verebilmiş olsun.."Hak Dini Kur'ân Dili Cilt 2, sahife: 939, 940, 941 de de şu izahat vardır:"Bir gün Resul-i Ekrem (A.S.M.) Ashâb-ı Suffa'nın başlarında durmuş, hallerini nazar-ı tetkikten geçirmişti. Fakirliklerini, çekmekte oldukları zahmetlerini gördü ve kalblerini tatyib edip onlara buyurdu ki: - "Ey Ashâb-ı Suffa! Sizlere müjdeler olsun ki; her kim şu sizin bulunduğunuz hâl-ı sıfâtta ve bulunduğu halden râzı olarak bana mülâki olursa, o benim refiklerimdendir... "
+ashâb-i suyûf : Bizzat harbe iştirak edip kılıçları ile cihad edenler.
+ashâb-i şuhûd : (Bak: Ehl-i şuhûd)
 ashâb-i tahrîc: (Bak: Tahric)
-ashâb-i uhdûd : Cenab-ı Hakka imân ve itâat edenleri çukurlara doldurup yakan veya sopa ile döven, fir'avn gibi zâlim kimseler.
+ashâb-i uhdûd : Cenab-ı Hakka imân ve itâat edenleri çukurlara doldurup yakan veya sopa ile döven, fir'avn gibi zâlim kimseler.
 ashâb-i yemîn: Ahid ve yeminlerinde sebât edenler. Kendi kazançlarından ziyâde Cenab-ı Hakk'ın lütuf ve ikrâmına kavuşacakları ümid edilenler. Allah'a itâatleri ve amelleri iyi olup ahirette amel defterleri sağ taraftan verilecek olanlar. Sağcılar. Mukaddesatçılar. Kur'an ve îmân yolunda Allah (C.C.) için çalışanlar ve bunlara taraftar olanlar. Sağlam ve helâl dâiresinde çalışan kimseler. Cennetlik olanlar.
-ashâb-üş-şîmâl : Amel defterleri sol taraflarından verilecek olan cehennemlik kimseler. Solcular.
+ashâb-üş-şîmâl : Amel defterleri sol taraflarından verilecek olan cehennemlik kimseler. Solcular.
 ashame: Peygamberimizin zamanında Müslümanlığı kabul eden Habeş Necaşisinin ismi.
-ashar : Saçı kızıl adam. Kırmızı tüylü hayvan.
+ashar : Saçı kızıl adam. Kırmızı tüylü hayvan.
 ashar: (Sıhr. C.) Evlenme neticesinde akraba olan erkekler. (Kayınbiraderler, kayınpederler, güveyler.)
 asheb: Tüyünün üstü kızıl, içi beyaz olan deve.
 asifat: (Asf. C.) şiddetli rüzgârlar.
@@ -2496,11 +2496,11 @@ aslâd: Sert, katı ve düz. (çakmak taşı hakkında). Ateşsiz. * Cimri, hasi
 aslah: Kulağı hiç işitmeyen.
 aslah: En sâlih. Daha sâlih.
 aslah tarîk: En selâmetli tarz. En salih usul, yol.
-aslahakellah ú: Allah seni ıslâh etsin (meâlinde duâ).
+aslahakellah ú: Allah seni ıslâh etsin (meâlinde duâ).
 aslat: Koyu, sahin.
 asleka: Serabın fazla olması.
 aslem: Kulağı kesik olan, kesik kulaklı.
-aslen : Kök veya soy bakımından, aslında, esasında; temelden, kökten.
+aslen : Kök veya soy bakımından, aslında, esasında; temelden, kökten.
 aslî: Asla aid ve müteallik.
 aslîyyet: Asl'ın hususiyeti ve hâli. Hususilik, mümtaziyet, seçkinlik. * Başka şeyler karışmamış olan bir şeyin ilk hali.
 asm: Sargı. * Kırılmış kemiğe bağlanan ağaç.
@@ -2526,7 +2526,7 @@ asr: (Asır) Bir devrelik zaman. * îkindi vakti. * Zamanın bir cüz'ü. * Konu
 asr-i âhîr: Son asır, son devir.
 asr-i cahîlîyyet: Cahiliyyet asrı. Cahiliyyet devresi. * Arabistan'da îslâmiyet'ten önceki putperestlik ve vahşet devri.
 asr-i ehîr: Son asır.
-asr-i evvel : îlk asır. * Ist: Fey-i zevâle ilâveten, herşeyin gölgesi kendisinin bir misli daha uzadığı zamandan başlayıp, iki misli uzayıncaya kadar süren ikindi vaktidir. (Fey-i zevâl; güneş tam ortada iken, gölgenin uzunluğudur.)
+asr-i evvel : îlk asır. * Ist: Fey-i zevâle ilâveten, herşeyin gölgesi kendisinin bir misli daha uzadığı zamandan başlayıp, iki misli uzayıncaya kadar süren ikindi vaktidir. (Fey-i zevâl; güneş tam ortada iken, gölgenin uzunluğudur.)
 asr-i hâzir: şimdiki asır, yeni zaman.
 asr-i saâdet: Peygamberimiz Hz. Muhammed'in (A.S.M.) peygamber olarak dünyada bulunduğu devir. (Bu sıdk ve kizb; küfür ve iman kadar birbirinden uzak. Asr-ı Saadet'te sıdk vâsıtasıyla Muhammed'in (A.S.M.) âlâ-yı illiyyine çıkması ve o sıdk anahtarıyla hakaik-ı imaniye ve hakaik-ı kâinat hazinesi açılması sırrıyla, içtimaiyat-ı beşeriye çarşısında sıdk, en revaçlı bir mal ve satın alınacak en kıymetli bir meta' hükmüne geçmiş. Ve kizb vasıtasıyla Müseylime-i Kezzâbın emsâli, esfel-i sâfiline sukut etmiş. Ve kizb o zamanda küfriyat ve hurafatın anahtarı olduğunu o inkılâb-ı azim gösterdiğinden, kâinat çarşısında en fena, en pis bir mal olup; o malı satın almak değil; herkes nefret etmesi hükmüne geçen kizb ve yalana, elbette o inkılâb-ı azimin saff-ı evveli olan ve fıtratlarında en revaçlı ve medâr-ı iftihar şeyleri almak ve en kıymetli ve revaçlı mallara müşteri olmak fıtratında bulunan Sahabeler; elbette şüphesiz bilerek ellerini yalana uzatmazlar. Kizb ile kendilerini mülevves etmezler. Müseylime-i Kezzâb'a kendilerini benzetemezler. Belki, bütün kuvvetleriyle ve meyl-i fıtriyeleriyle en revaçlı mal ve en kıymettar meta' ve hakikatların anahtarı Muhammed'in (A.S.M.) âlâ-yı illiyyine çıkmasının basamağı olan sıdk ve doğruluğa müşteri olup, mümkün olduğu kadar sıdktan ayrılmamağa çalıştıklarından, ilm-i Hadisce ve ulema-i şeriat içinde bir kaide-i mukarrere olan "Sahabeler, daima doğru söylerler. Onlardaki rivâyet, tezkiyeye muhtaç değil. Peygamberden (A.S.M.) rivayet ettikleri Hadisler bütün sahihtir." diye ehl-i şeriat ve ehl-i hadisin ittifakına kat'i hüccet bu mezkûr hakikattır. H.)
 asr-i sânî: îkinci asır. * Ist: Fey-i zevâle ilâveten, herşeyin gölgesi kendi boyunun iki misli daha uzadığı zamandan başlayan ikindi vaktidir. (Fey-i zevâl; güneş tam ortada iken, gölgenin uzunluğudur.)
@@ -2566,23 +2566,23 @@ asûde-dîlî: Gönül rahatlığı.
 asûde-gî: Huzur, rahat, asayiş.
 asûde-hâl: Hâli rahat, sıkıntısı olmayan.
 asûde-nîşîn: Rahatça oturan. îstirahat eden.
-asuf : Hızlı ve çabuk yürüyen. * çok şiddetli rüzgar.
+asuf : Hızlı ve çabuk yürüyen. * çok şiddetli rüzgar.
 asuf: (Asf. dan) çok zulüm eden. çok zâlim.
 asul: Gururlu, mütekebbir, zâlim kimse.
 asum: Geçim derdi için çok çalışan kimse.
-asum : Obur, açgözlü, arsız.
+asum : Obur, açgözlü, arsız.
 asuman: Gökyüzü. Semâ. * Felek.
 asumanî: Beşeri olmayan. Semavi olan. Göğe âit ve müteallik.
-âsûn : (Asi. C.) îsyan edenler. Günahkârlar.
+âsûn : (Asi. C.) îsyan edenler. Günahkârlar.
 asûr: Zorluk. Güçlük.
-asûr : Eğri boyunlu.
+asûr : Eğri boyunlu.
 âsûr: (C.: Avâsir) Tuzak, ağ. * şer. * şiddet.
 asûs: Yalnız yürüyüp, otlayan deve. * Yanından insanlar uzaklaşmayınca kendini sağdırmayan deve. * Av arayan kimse.
 asüd: (Esed. C.) Arslanlar. * Yiğitler.
 asüfte: (Asügde) Ateşle islenmiş. * Hazırlanmış, hazır.
 asva: Sırtlan. * Yaşlı kadın.
 asvad: (C.: Asâvid) Büyük emir.
-asvat : (Savt. C.) Sesler.
+asvat : (Savt. C.) Sesler.
 asveb: (Sâib. den) En doğru ve iyisi. çok isabetli.
 asveb-î akvâl: Kavillerin en muhkemi, sözlerin en doğrusu.
 asvîne: (Sunvân. C.) Elbise koymaya yarayan dolaplar. Gardroplar.
@@ -2624,7 +2624,7 @@ aşevsec: Büyük karınlı iri deve.
 aşevzen(e): Galiz, katı nesne.
 aşi: Birşeyden alınıp diğer birşeye aktarılan madde. * çeşitli tehlikeli hastalıkların önünü almak için aşılanan madde. * Yabani veya cinsi âdi bir ağaca, cinsine yakın diğer iyi bir ağaçtan vurulan kalem veya yaprak aşısı.
 âşik: çok fazla seven. Mübtelâ. Birisine tutkun. * Saz şairi. * (Cümledeki yerine göre): Ahbab, hazret, ma'hut, seninki gibi mânâlara gelir. (Müennesi: Aşıka)
-âşik-i dîdâr-i pâk : Temiz yüzün âşıkı. * Edb: Evvelce ordularda, kışlalarda, köy odalarında ve mahalle kahvelerinde gerek kendinin, gerek başkalarının sözlerini sazla dile getiren kimse; halk şâiri.
+âşik-i dîdâr-i pâk : Temiz yüzün âşıkı. * Edb: Evvelce ordularda, kışlalarda, köy odalarında ve mahalle kahvelerinde gerek kendinin, gerek başkalarının sözlerini sazla dile getiren kimse; halk şâiri.
 âşikan: (âşık C.) âşıklar, tutkunlar.
 aşî: (C.: Avâş) Kastedici.
 aşî: Akşam. * Akşam yemeği. * Tavuk karasına tutulan kimse.
@@ -2648,9 +2648,9 @@ aşk-i eflâtunî: Maddeci olmayan aşk.
 aşk-i hakîkî: Hakiki aşk. Allah için sevmek. Allah sevgisi.
 aşk-i kîmyevî: Fıtri meyil ve alâka. Kimyevi unsurlar arasında birbirlerine karşı olan cazibe ve birleşme meyelanları ki; birer îlâhi emir ve kanunlardır.Fransızcası: Affinite (afinite) dir. (Sani-i Hakim, havada iki unsur halk etmiştir. Biri azot, biri müvellid-ül humuza. Müvellid-ül humuza ise: Nefes içinde kana temas ettiği vakit, kanı telvis eden karbon unsur-u kesifini kehribar gibi kendine çeker. îkisi imtizac eder. Buhari hâmız-ı karbon denilen (semli havâi) bir maddeye inkılâb ettirir. Hem hararet-i gariziyeyi te'min eder, hem kanı tasfiye eder. çünki: Sani-i Hakim, fenn-i kimyada, aşk-ı kimyevi tabir edilen bir münasebet-i şedideyi, müvellid-ül humuza ile karbona vermiş ki: O iki unsur, birbirine yakın olduğu vakit, o kanun-u îlâhi ile, o iki unsur imtizac ederler. Fennen sabittir ki: îmtizacdan hararet hâsıl olur. çünki imtizac, bir nevi ihtiraktır. şu sırrın hikmeti şudur ki: O iki unsurun, her birisinin zerrelerinin ayrı ayrı hareketleri var. îmtizac vaktinde her iki zerre, yani onun zerresi, bunun zerresiyle imtizac eder, bir tek hareketle hareket eder. Bir hareket muallâk kalır. çünkü: îmtizacdan evvel iki hareket idi. şimdi iki zerre, bir oldu. Her iki zerre, bir zerre hükmünde bir hareket aldı. Diğer hareket, Sani-i Hakim'in bir kanunu ile hararete inkılâb eder. Zaten "Hareket, harareti tevlid eder" bir kanun-u mukarreredir. îşte bu sırra binaen beden-i insanideki hararet-i gariziye, bu imtizac-ı kimyeviyye ile te'min edildiği gibi, kandaki karbon alındığı için kan dahi sâfi olur. îşte nefes dâhile girdiği vakit, vücudun hem âb-ı hayatını temizliyor. Hem nâr-ı hayatı iş'al ediyor. çıktığı vakit, ağızda, mu'cizât-ı kudret-i îlâhiye olan kelime meyvelerini veriyor. S.)
 aşk-i lâhûtî: Cenab-ı Hakk'a olan sevgi ve muhabbet. Aşk-ı îlâhi, aşk-ı hakiki, aşk-ı mânevi gibi tâbirler Cenab-ı Vacib-ül Vücud'a dâir şiddetli muhabbet ve sevgiyi ifâde eder.
-aşk-i mecazî : Fâni şeylere olan aşk. Nefis ve şehvet arzusuna dayanan aşk. * Tas: Kâmil bir zâtın Cenab-ı Hakk'a dâir şiddetli muhabbetinden evvel fani, dünyevi şeylere dair olan aşkı.(Mahbublara olan aşk-ı mecazi aşk-ı hakikiye inkılâb ettiği gibi, acaba ekser nasda bulunan dünyaya karşı olan aşk-ı mecazi dahi bir aşk-ı hakikiye inkılâb edebilir mi?Elcevab: Evet, dünyanın fâni yüzüne karşı olan aşk-ı mecazi, eğer o âşık, o yüzün üstündeki zeval ve fena çirkinliğini görüp ondan yüzünü çevirse, bâki bir mahbub arasa, dünyanın pek güzel ve âyine-i esmâ-i îlâhiye ve mezraa-i âhiret olan iki diğer yüzüne bakmağa muvaffak olursa, o gayr-i meşru mecazi aşk, o vakit aşk-ı hakikiye inkılâba yüz tutar. Fakat bir şart ile ki, kendinin zâil ve hayatiyle bağlı kararsız dünyasını, harici dünyaya iltibas etmemektir. Eğer ehl-i dalâlet ve gaflet gibi kendini unutup, âfaka dalıp, umumi dünyayı hususi dünyası zannedip ona âşık olsa, tabiat bataklığına düşer boğulur. Meğer ki hârika olarak bir dest-i inayet onu kurtarsın. şu hakikatı tenvir için şu temsile bak. Meselâ:şu güzel zinetli odanın dört duvarında, dördümüze ait dört endam âyinesi bulunsa, o vakit beş oda olur. Biri hakiki ve umumi, dördü misâli ve hususi... Herbirimiz kendi âyinemiz vasıtasiyle, hususi odamızın şeklini, hey'etini, rengini değiştirebiliriz. Kırmızı boya vursak, kırmızı; yeşil boyasak, yeşil gösterir. Ve hâkezâ... âyinede tasarrufla çok vaziyetler verebiliriz; çirkinleştirir, güzelleştirir, çok şekillere koyabiliriz. Fakat hârici ve umumi odayı ise kolaylıkla tasarruf ve tağyir edemeyiz. Hususi oda ile umumi oda hakikatta birbirinin aynı iken, ahkâmda ayrıdırlar. Sen bir parmak ile odanı harab edebilirsin, ötekinin bir taşını bile kımıldatamazsın.îşte dünya süslü bir menzildir. Herbirimizin hayatı, bir endam âyinesidir. şu dünyadan her birimize birer dünya var, birer âlemimiz var. Fakat direği, merkezi, kapısı, hayatımızdır. Belki o hususi dünyamız ve âlemimiz, bir sahifedir. Hayatımız bir kalem... onunla sahife-i a'mâlimize geçecek çok şeyler yazılıyor. Eğer dünyamızı sevdikse, sonra gördük ki: Dünyamız hayatımız üstünde bina edildiği için, hayatımız gibi zâil, fâni, kararsızdır, hissedip bildik. Ona ait muhabbetimiz, o hususi dünyamız âyine olduğu ve temsil ettiği güzel nukuş-u esma-i îlâhiyeye döner; ondan, cilve-i esmâya intikal eder. Hem o hususi dünyamız, âhiret ve Cennet'in muvakkat bir fidanlığı olduğunu derkedip, ona karşı şedit hırs ve taleb ve muhabbet gibi hissiyatımızı onun neticesi ve semeresi ve sünbülü olan uhrevi fevâidine çevirsek, o vakit o mecazi aşk, hakiki aşka inkılâb eder. Yoksa $ sırrına mazhar olup, nefsini unutup, hayatın zevâlini düşünmeyerek, hususi, kararsız dünyasını, aynı umumi dünya gibi sabit bilip kendini lâyemut farzederek dünyaya saplansa, şedit hissiyat ile ona sarılsa, onda boğulur gider. O muhabbet onun için hadsiz bela ve azaptır. çünki, o muhabbetten yetimâne bir şefkat, meyusâne bir rikkat tevellüd eder. Bütün zihayatlara acır; hatta güzel ve zevâle mâruz bütün mahlukata bir rikkat ve bir firkat hisseder; elinden bir şey gelmez, ye's-i mutlak içinde elem çeker. Fakat gafletten kurtulan evvelki adam, o şedit şefkatin elemine karşı ulvi bir tiryak bulur ki: Acıdığı bütün zihayatların mevt ve zevâlinde bir Zât-ı Bâki'nin bâki esmâsının dâimi cilvelerini temsil eden âyine-i ervahları bâki görür; şefkatı, bir sürura inkılâb eder. Hem zeval ve fenâya mâruz bütün güzel mahlukatın arkasında bir cemâl-i münezzeh ve hüsn-ü mukaddes ihsas eden bir nakş ve tahsin ve san'at ve tezyin ve ihsan ve tenvir-i dâimiyi görür. O zeval ve fenâyı, tezyid-i hüsn ve tecdid-i lezzet ve teşhir-i san'at için bir tazelendirmek şeklinde görüp, lezzetini ve şevkini ve hayretini ziyadeleştirir. M.)
+aşk-i mecazî : Fâni şeylere olan aşk. Nefis ve şehvet arzusuna dayanan aşk. * Tas: Kâmil bir zâtın Cenab-ı Hakk'a dâir şiddetli muhabbetinden evvel fani, dünyevi şeylere dair olan aşkı.(Mahbublara olan aşk-ı mecazi aşk-ı hakikiye inkılâb ettiği gibi, acaba ekser nasda bulunan dünyaya karşı olan aşk-ı mecazi dahi bir aşk-ı hakikiye inkılâb edebilir mi?Elcevab: Evet, dünyanın fâni yüzüne karşı olan aşk-ı mecazi, eğer o âşık, o yüzün üstündeki zeval ve fena çirkinliğini görüp ondan yüzünü çevirse, bâki bir mahbub arasa, dünyanın pek güzel ve âyine-i esmâ-i îlâhiye ve mezraa-i âhiret olan iki diğer yüzüne bakmağa muvaffak olursa, o gayr-i meşru mecazi aşk, o vakit aşk-ı hakikiye inkılâba yüz tutar. Fakat bir şart ile ki, kendinin zâil ve hayatiyle bağlı kararsız dünyasını, harici dünyaya iltibas etmemektir. Eğer ehl-i dalâlet ve gaflet gibi kendini unutup, âfaka dalıp, umumi dünyayı hususi dünyası zannedip ona âşık olsa, tabiat bataklığına düşer boğulur. Meğer ki hârika olarak bir dest-i inayet onu kurtarsın. şu hakikatı tenvir için şu temsile bak. Meselâ:şu güzel zinetli odanın dört duvarında, dördümüze ait dört endam âyinesi bulunsa, o vakit beş oda olur. Biri hakiki ve umumi, dördü misâli ve hususi... Herbirimiz kendi âyinemiz vasıtasiyle, hususi odamızın şeklini, hey'etini, rengini değiştirebiliriz. Kırmızı boya vursak, kırmızı; yeşil boyasak, yeşil gösterir. Ve hâkezâ... âyinede tasarrufla çok vaziyetler verebiliriz; çirkinleştirir, güzelleştirir, çok şekillere koyabiliriz. Fakat hârici ve umumi odayı ise kolaylıkla tasarruf ve tağyir edemeyiz. Hususi oda ile umumi oda hakikatta birbirinin aynı iken, ahkâmda ayrıdırlar. Sen bir parmak ile odanı harab edebilirsin, ötekinin bir taşını bile kımıldatamazsın.îşte dünya süslü bir menzildir. Herbirimizin hayatı, bir endam âyinesidir. şu dünyadan her birimize birer dünya var, birer âlemimiz var. Fakat direği, merkezi, kapısı, hayatımızdır. Belki o hususi dünyamız ve âlemimiz, bir sahifedir. Hayatımız bir kalem... onunla sahife-i a'mâlimize geçecek çok şeyler yazılıyor. Eğer dünyamızı sevdikse, sonra gördük ki: Dünyamız hayatımız üstünde bina edildiği için, hayatımız gibi zâil, fâni, kararsızdır, hissedip bildik. Ona ait muhabbetimiz, o hususi dünyamız âyine olduğu ve temsil ettiği güzel nukuş-u esma-i îlâhiyeye döner; ondan, cilve-i esmâya intikal eder. Hem o hususi dünyamız, âhiret ve Cennet'in muvakkat bir fidanlığı olduğunu derkedip, ona karşı şedit hırs ve taleb ve muhabbet gibi hissiyatımızı onun neticesi ve semeresi ve sünbülü olan uhrevi fevâidine çevirsek, o vakit o mecazi aşk, hakiki aşka inkılâb eder. Yoksa $ sırrına mazhar olup, nefsini unutup, hayatın zevâlini düşünmeyerek, hususi, kararsız dünyasını, aynı umumi dünya gibi sabit bilip kendini lâyemut farzederek dünyaya saplansa, şedit hissiyat ile ona sarılsa, onda boğulur gider. O muhabbet onun için hadsiz bela ve azaptır. çünki, o muhabbetten yetimâne bir şefkat, meyusâne bir rikkat tevellüd eder. Bütün zihayatlara acır; hatta güzel ve zevâle mâruz bütün mahlukata bir rikkat ve bir firkat hisseder; elinden bir şey gelmez, ye's-i mutlak içinde elem çeker. Fakat gafletten kurtulan evvelki adam, o şedit şefkatin elemine karşı ulvi bir tiryak bulur ki: Acıdığı bütün zihayatların mevt ve zevâlinde bir Zât-ı Bâki'nin bâki esmâsının dâimi cilvelerini temsil eden âyine-i ervahları bâki görür; şefkatı, bir sürura inkılâb eder. Hem zeval ve fenâya mâruz bütün güzel mahlukatın arkasında bir cemâl-i münezzeh ve hüsn-ü mukaddes ihsas eden bir nakş ve tahsin ve san'at ve tezyin ve ihsan ve tenvir-i dâimiyi görür. O zeval ve fenâyı, tezyid-i hüsn ve tecdid-i lezzet ve teşhir-i san'at için bir tazelendirmek şeklinde görüp, lezzetini ve şevkini ve hayretini ziyadeleştirir. M.)
 aşkar: Koyu kırmızı. * Kırmızı saçlı adam. * Doru at.
-aşkbazî : Aşk oyunu. Sever görünmek. Aşk-ı kâzib.
+aşkbazî : Aşk oyunu. Sever görünmek. Aşk-ı kâzib.
 aşknüma: Aşkını bildiren. Aşkını gösteren.
 aşkû: Tavan; kat, tabaka. * Gökyüzü. Gök.
 aşna: Yüzücü. * Yüzme. * Tanıyan, yabancı olmayan. (Bak: Aşina)
@@ -2766,9 +2766,9 @@ ateş-nâk: Ateşli.
 ateş-nîsar: Ateş saçan.* Mc: çok öfkeli, çok kızgın.
 ateş-nümâ: Ateş gösteren.
 ateş-pâ: Ateş gibi. * Mc: Atik, çevik.
-ateş-pare : Ateş parçası. Ateş gibi. * Mc: çok zeki, çok akıllı. * Durup dinlenmeyen.
+ateş-pare : Ateş parçası. Ateş gibi. * Mc: çok zeki, çok akıllı. * Durup dinlenmeyen.
 ateş-paş: Ateş saçan.
-ateş-perest : Ateşe tapan. Mecusi, müşrik.
+ateş-perest : Ateşe tapan. Mecusi, müşrik.
 ateş-reng: Ateş renginde, kızıl renkli.
 ateş-suhan: Dokunaklı, kalb kıracak şekilde ağır söz söyliyen.
 ateş-zebân: Ateş dilli. çok dokunaklı söz veya şiir söyleyen.
@@ -2917,7 +2917,7 @@ avariz-i semavîye: Delilik, küçüklük, bunaklık, ölüm gibi kesbi ve ihtiy
 avarî: (Ariyyet. C.) ödünç verilen şeyler.
 avarîf: Mârifetler. * Arifler. îşten anlar olanlar. * Güzel ahlâk.
 avasif: (Asıta. C.) Sert ve kuvvetli rüzgârlar. Fırtınalar.
-avasim : (Asıme. C.) Temiz, ismetli kimseler. * Hudut şehirleri.
+avasim : (Asıme. C.) Temiz, ismetli kimseler. * Hudut şehirleri.
 avatif: (Atıfet. C.) Atıfetler. Hediyeler. îhsanlar.
 avatik: (Atık. C.) Yaşlılar. * Genç kızlar. * Hür ve serbest olanlar. * Yavru kuşlar.
 av'ave: Havlama, köpeğin havlaması. * Mc: Hezeyan, saçma sapan konuşma.
@@ -2996,12 +2996,12 @@ a'yan-i sâbîte: Tas: îlm-i îlâhide eşyanın ezelden beri sâbit olan sûre
 a'yar: (Ayr. C.) Eşekler.
 ayar: Altın ve gümüşten yapılmış şeylerin saflık ve hafiflik derecesi. *Saadete, mutluluğa doğru gitme.
 ayar-dan: ölçüden anlar, değerbilir.
-ayasofya : îstanbul'daki bu ilk kilisenin açılış resmi Mi: 325 tarihinde yapılmıştır. 513 senesi Ocak ayının 13-14. gecesi bir yangın esnası bina kâmilen yanmış. O zaman împarator Justinyanus yeniden yaptırmış. 573 de binanın resm-i küşâdı yapılmıştır.Osmanlılarca 29 Mayıs 1453'de îstanbul fethedilince Fatih Sultan Mehmed yaya olarak Kiliseye girmiş ve müezzine ezan okutarak maiyeti ile beraber namaz kılmıştır. Ayasofyanın câmi halinde kıyâmete kadar devamını vasiyet etmiş, fakat maalesef câmi 1934 de bir müze haline getirilmiştir.
+ayasofya : îstanbul'daki bu ilk kilisenin açılış resmi Mi: 325 tarihinde yapılmıştır. 513 senesi Ocak ayının 13-14. gecesi bir yangın esnası bina kâmilen yanmış. O zaman împarator Justinyanus yeniden yaptırmış. 573 de binanın resm-i küşâdı yapılmıştır.Osmanlılarca 29 Mayıs 1453'de îstanbul fethedilince Fatih Sultan Mehmed yaya olarak Kiliseye girmiş ve müezzine ezan okutarak maiyeti ile beraber namaz kılmıştır. Ayasofyanın câmi halinde kıyâmete kadar devamını vasiyet etmiş, fakat maalesef câmi 1934 de bir müze haline getirilmiştir.
 ayastafanos: îstanbul'da Yeşilköy semtinin eski adı.
 ayastafanos muahedesî: 3 Mart 1878 Rusya ile Osmanlılar arasında ilk olarak yapılan bir anlaşmadır. (28 Safer 1295) Tarihte buna "Ayastafanos Mukaddemat-ı Sulhiyesi" denir. Anlaşma maddeleri tatbik edilememiştir.
 âyât: (âyet. C.) âyetler. * Cenab-ı Hakk'ın sıfât ve kudreti hakkında görülen âşikâr deliller, bürhanlar. * Menziller. Mekânlar.
 âyât-i kîbrîyâ: Allah'ın kibriyasını ve büyüklüğünü gösteren âyetler, deliller ve eserler.
-âyât-i kur'ânîye ¯: Kur'ânın âyetleri.
+âyât-i kur'ânîye ": Kur'ânın âyetleri.
 âyât-i mensuha: Sâbık olan, geçmişte olan hükümleri beyân eden âyetler.
 âyât-i muhkemât: Manası kat'i ve açık olan Kur'an âyetleri.
 âyât-i nâsîh: Sâbık olan şer'i hükmün kaldırıldığını beyan eden âyetler. (Bak: Nesh)
@@ -3245,7 +3245,7 @@ azm-î kat'î: Kesin karar, kat'i azim.
 azm-î kîtf: Tıb: Kürek kemiği, omuz kemiği.
 azm-î ku'bere: Tıb: Kolumuzun ön tarafında bulunan önkol kemiği. (önkol kemiğinin arkasında dirsek kemiği bulunur).
 azm-î terkova: Tıb: Köprücük kemiği.
-azm-î us'us : Tıb: Kuyruk kemiği.
+azm-î us'us : Tıb: Kuyruk kemiği.
 azm-î vecenî: Tıb: Elmacık kemiği.
 azm-î zend: Tıb: Dirsek kemiği.
 azm-î zifrî: Tıb: Tırnaksı kemik.

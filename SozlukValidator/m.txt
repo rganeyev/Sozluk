@@ -28,7 +28,7 @@ mâ-î lezîz: Lezzetli ve tatlı su.
 mâ-î magsul: (Mâ-i müsta'mel) Kullanılmış su.
 mâ-î masdarîye: Başında bulunduğu cümleyi masdar mânasına ve hükmüne sokar.
 mâ-î mevsufe: şey mânasında nekre olup bir sıfattan evvel kullanılır. $ (Nazartu ilâ mâ mu'cebin leke: Sana hoş gelen şeye baktım) cümlesindeki gibi...Bazan da sıfatsız olur. $(Ni'me-mâ: Ne güzeldir) $ (Meselen-mâ: Bir misâl olarak) kelimelerinde gördüğümüz gibi.
-mâ-î mevsule : Buna ism-i mevsul de denir. Kendinden sonra gelecek küçük cümleyi daha önce geçen cümleye bağlar. $ (Ketebtu mâ kultü: Söylediğimi yazdım, ne söyledimse yazdım) cümlesinde olduğu gibi.
+mâ-î mevsule : Buna ism-i mevsul de denir. Kendinden sonra gelecek küçük cümleyi daha önce geçen cümleye bağlar. $ (Ketebtu mâ kultü: Söylediğimi yazdım, ne söyledimse yazdım) cümlesinde olduğu gibi.
 mâ-î mukattar: înbikten geçirilmiş (damıtılmış), saf su.
 mâ-î mukayyed: Herhangi bir maddenin karışması ile yaratılmış oldukları hâlden çıkmış ve hususi bir ad almış sulardır. (Gül, çiçek, üzüm, asma, et suları gibi.)
 mâ-î mutlak: Yaratıldığı vasıf üzere duran su. (Yağmur, kar, deniz, göl, ırmak, pınar, kuyu sularıdır).
@@ -170,7 +170,7 @@ madarîb: (Madrab. C.) Darbedilecek, dövülecek yerler.
 madca': Yatılan yer. * Kabir. Mezar.
 madde: Zahir duygularla hissedilen, ruhâni olmayıp, ağırlığı olan, cismâni bulunan. * Asıl, esas, cevher, mâye. * Bend, fıkra, kısım. * îlm-i Kelâmda: His âzâmız üzerine bir takım muayyen ihtisâsât husule getiren veya getirebilen, her şey. * Tıb: çıbanın içinde hasıl olan yara.
 madde-î acînîye: Hamur gibi yoğurulmuş cisim.
-madde-î musavvîre : Tıb: Kanın küreciklerinden başka gıda maddesinden olup, azot ve sair maddeleri içine alan sulu cisim. Canlı hücrelerin vücudunu teşkil eden ve içinde çoğunun çekirdek bulunan albüminli madde. Protoplazma.
+madde-î musavvîre : Tıb: Kanın küreciklerinden başka gıda maddesinden olup, azot ve sair maddeleri içine alan sulu cisim. Canlı hücrelerin vücudunu teşkil eden ve içinde çoğunun çekirdek bulunan albüminli madde. Protoplazma.
 madde-î ulyâ: Kıymetli cevher maddesi, yüksek madde. çok kıymetli şey.
 maddeten: Cismen. Madde ve cisim olarak. * îş olarak, iş ile. * Gözle görülür ve elle tutulur şekilde.
 maddî: (Maddiye) Cismâni. Madde ile alâkalı olan. Maddeye ait. * Paraca ve malca. * Paraya ve mala fazlaca ehemmiyet veren. * Dokunma, koklama, görme, işitme, tatma ile hissedilip duyulan şeyler.
@@ -311,9 +311,9 @@ magşîyane: Bayılmış gibi, baygıncasına.
 magşîyy: Aklı gitmiş hayran kimse.
 magşîyyen: Bayılmış olarak, baygın bir halde.
 magşîyyün aleyh: Bayılmış, baygın.
-magşuş : Katışık. Karışık. Saf olmayan.
+magşuş : Katışık. Karışık. Saf olmayan.
 magşuşe: Gümüş ve bakır karışığı akçe.
-magşuşîyyet : Halis ve saf olmayış. Karışıklık.
+magşuşîyyet : Halis ve saf olmayış. Karışıklık.
 magt: çekmek.
 magtus: Su, gaz veya hava gibi şeylerin içine batırılmış.
 magtuş: Karanlık yer.
@@ -598,18 +598,18 @@ mahsubât: (Mahsub. C.) Hesab edilmiş olanlar. Hesaba dahil edilmişler.
 mahsuben: Hesaplanarak. Hesaplı olarak. Hesabına kaydedilerek.
 mahsubîyet: Mahsubluk, mensubluk.
 mahsud: Kendine hased edilen. Kıskanılan kimse.
-mahsud : Biçilmiş ekin. * Ekini biçilmiş tarla.
+mahsud : Biçilmiş ekin. * Ekini biçilmiş tarla.
 mahsuf: Husufa uğramış. Gölgelenmiş. Perdelenmiş.
-mahsul : Husul bulan. Hâsıl olan. * Elde edilen şeyler. * Toprak ve hayvanlardan elde edilen şey.
-mahsulât : (Mahsul. C.) Mahsuller. Hâsılat. Tarladan, bahçeden veya hayvanlardan elde edilen gıda maddeleri.
+mahsul : Husul bulan. Hâsıl olan. * Elde edilen şeyler. * Toprak ve hayvanlardan elde edilen şey.
+mahsulât : (Mahsul. C.) Mahsuller. Hâsılat. Tarladan, bahçeden veya hayvanlardan elde edilen gıda maddeleri.
 mahsulât-i arzîye: Toprak mahsulleri.
 mahsulât-i sinâîye: Endüstri mahsulleri.
 mahsuldar: Verimli, bereketli. Mahsul veren.
-mahsun : îstihkâmlı. Kuvvetlendirilmiş. Sarp, sağlam ve metin kılınmış.
+mahsun : îstihkâmlı. Kuvvetlendirilmiş. Sarp, sağlam ve metin kılınmış.
 mahsur: Fersiz göz. Yorulmuş, uzun uzadıya bakmaktan donuklaşmış ve göremez olmuş göz.
 mahsur: Etrafı çevrilmiş. Muhasara altına alınmış. Hasrolunmuş. Hududlanmış. Kuşatılmış.
 mahsus: Duyulmuş. Hissedilmiş. Derk olunmuş. Duyulan. * Aşikâr, belli, zâhir, meydanda.
-mahsus : Ayrılmış, tâyin edilmiş. * Herkese âit olmayıp bazılara âit olmuş olan. Yalnız birine âid olan. Hususileşmiş. Müstakil. * Bile bile, istiyerek. * Yalandan, şakadan, lâtife olarak.
+mahsus : Ayrılmış, tâyin edilmiş. * Herkese âit olmayıp bazılara âit olmuş olan. Yalnız birine âid olan. Hususileşmiş. Müstakil. * Bile bile, istiyerek. * Yalandan, şakadan, lâtife olarak.
 mahsusa: Mahsus, hususi.
 mahsusat: Gözle görülen, hisle anlaşılan şeyler. (Ma'kulât'ın zıddı)
 mahsusen: Ayrıca, bile bile, mahsus olarak.
@@ -620,8 +620,8 @@ mahşer-î acâîb: Herkesi hayrete sevkeden toplanma. Veya toplanma yeri. * Hay
 mahşub: Kesilmeye elverişli olmadan kesilen ağaç.
 mahşud: Toplanmış. Yığılmış.
 mahşur: Toplanmış.
-mahşuş : Kuru ot.
-mahşuş : (Haşşe. den) îçine girilmiş. * Buğzedilmiş. * Gizlice bir şey verilmiş. * Karalanmış.
+mahşuş : Kuru ot.
+mahşuş : (Haşşe. den) îçine girilmiş. * Buğzedilmiş. * Gizlice bir şey verilmiş. * Karalanmış.
 mahşüv: Fazla. * îçi doldurulmuş.
 maht: şiddetli.
 maht: çıkarmak. * çekmek.
@@ -752,7 +752,7 @@ makarr-i hükümet: Hükümet merkezi. Pâyitaht.
 makarr-i îdare: îdare merkezi. Pâyitaht. Hükümet merkezi.
 makarr-i saltanat: Saltanat merkezi. Hükümetin idare edildiği baş şehir.
 makasid: Maksadlar, istekler, gayeler. Niyetler.
-makasid-i aksâ : En uzak, en son ve en büyük maksadlar.
+makasid-i aksâ : En uzak, en son ve en büyük maksadlar.
 makasid-i însânîyet: însanlık maksadları. însanlığın gayeleri.
 makasîm: (Maksim. C.) Su taksim edilen yer.
 makasîr: (Maksure. C.) Bir hânedeki en mahrem taraflar. Bir evin en mahrem tarafları. * Câmilerde etrâfı parmaklıklarla çevrili yüksek yer.
@@ -846,12 +846,12 @@ maksara: (C: Mekâsır-Mekâsir) Köşk, kasr.
 maksebe: Sazlık, kamışlık.
 maksee: Hıyar tarlası.
 maksîm: (C.: Makasim) Taksim edilecek, dağıtılacak yer. * Suyun kollara ayrılma yeri. Masluk, savak.
-maksud : Kasdedilmiş. Kasdedilen. * îstenilen şey. îstek. Arzu. Gâye.
+maksud : Kasdedilmiş. Kasdedilen. * îstenilen şey. îstek. Arzu. Gâye.
 maksum: Taksim edilmiş, ayrılmış, bölünmüş. * Kısmet, nasib.
 maksur: Zoraki, cebren. Elinde ve ihtiyarında olmadan.
-maksur : (Kasr. dan) Kasrolunmuş, kısaltılmış, kasılmış, alıkonulmuş. * Mahbus. * Kasrolunmuş nesne. * Gelinin üzerine tutulan duvak. * Gr: Bir kısım arapça kelimelerin sonunda yâ şeklinde yazılan, fakat elif gibi okunan harf. (: Dâ'vâ) kelimesinde olduğu gibi. Buna, "Elif-i maksura" denir.
+maksur : (Kasr. dan) Kasrolunmuş, kısaltılmış, kasılmış, alıkonulmuş. * Mahbus. * Kasrolunmuş nesne. * Gelinin üzerine tutulan duvak. * Gr: Bir kısım arapça kelimelerin sonunda yâ şeklinde yazılan, fakat elif gibi okunan harf. (: Dâ'vâ) kelimesinde olduğu gibi. Buna, "Elif-i maksura" denir.
 maksure: (C.: Makasir) Câmilerde etrafı parmaklıkla çevrilmiş biraz yüksekçe yer.
-maksus : Kesilmiş, kırpılmış.
+maksus : Kesilmiş, kırpılmış.
 maksuv (maksiyy): Kulağının ucu kesilmiş deve veya koyun.
 maksüe: Hıyar tarlası.
 makşur: Soyulmuş, kabuğu çıkarılmış.
@@ -953,7 +953,7 @@ ma'lum: Resul-i Ekrem'in (A.S.M.) bir nâmıdır. Onun geleceği, melekler, resu
 ma'lumat: Bilinen şeyler, bilinenler. Bir iş veya mevzu hakkındaki bilgiler.
 ma'lumat-i cüz'îye: Az ve hafif bilgi. Cüz'i mâlumât.
 ma'lumat-i zarurîye: Lüzumlu ve zaruri mâlumat.
-ma'lumatfüruş : Mâlumat ve bilgi satan. Bilgiçlik taslıyan.
+ma'lumatfüruş : Mâlumat ve bilgi satan. Bilgiçlik taslıyan.
 ma'lumîyet: Ma'lumluk. Bilinme, belli olma. * Bilinen ve belli olan şeyin hâl ve sıfâtı.
 ma'ma': Kimseye birşey vermeyen kadın.
 ma'maa: (C: Meâmi) Acele etmek. * Ateşten çıkan ses. * Bahâdırların cenk içindeki haykırmaları.
@@ -1005,11 +1005,11 @@ manken: Fr. Elbiseleri prova veya teşhir etmek için terzilerin ve hazır elbis
 mansab: (Mınsab) Rütbe. (Bak: Mansıb)
 mansib: (Nasb. dan) Devlet hizmeti. * Memuriyet. * Bünyad. Merci'.
 mansibdâr: Mansıbda bulunan.
-mansub : Nasbolunmuş, me'muriyete konulmuş. * Konulmuş, dikilmiş. * Gr: Sonu fetha (üstün) kılınmış kelime. Meftuh olan.
+mansub : Nasbolunmuş, me'muriyete konulmuş. * Konulmuş, dikilmiş. * Gr: Sonu fetha (üstün) kılınmış kelime. Meftuh olan.
 mansubîn: (Mansub. C.) Memuriyette bulunanlar. Hizmette olanlar.
-mansur : Yardım edilen, yardım görmüş. * Gâlib, muzaffer. (Bak: Mensur)
+mansur : Yardım edilen, yardım görmüş. * Gâlib, muzaffer. (Bak: Mensur)
 mansurîyyet: Allah'ın (C.C.) yardımıyla muvaffak ve muzaffer olma, başarma.
-mansus : Nass ile sâbit kılınmış. âyetle tesbit edilmiş. îzhar ve beyan edilmiş. * Kur'anda açıkça anlatılmış.
+mansus : Nass ile sâbit kılınmış. âyetle tesbit edilmiş. îzhar ve beyan edilmiş. * Kur'anda açıkça anlatılmış.
 manşet: Fr. Bir gazetede ilk sayfanın en üst kısmındaki büyük puntolu başlık. * Bir gömleğin kol kısmına geçirilen ve elbisenin kolundan dışarı çıkan kumaş parçası.
 mantik: (întak. dan) Konuşturan, söyleten. * Doğru muhakeme ve doğru düşünceyi öğreten ilim. Akıl kaidesi. * Akıl, nutuk, söz.
 mantikan: Mantığa göre. Mantıkça.
@@ -1032,7 +1032,7 @@ manzud: Sık yetişmiş ağaç. * üstüste istif edilmiş.
 manzum: ölçülü, mizanlı, tertibli. * Vezni ve kafiyesi olan söz. Edebi ölçüsü olan sözler. (Kaside ve şiirler gibi). * Dizilmiş, sıralanmış, düzenlenmiş.
 manzumat: Manzumeler.
 manzume: Tertibli, ölçülü yazı, şiir. Vezinli ve kafiyeli olan söz. * Sıra, dizi. Sistem.
-manzume-î şemsîye : Güneş sistemi, güneş ve etrafında dönen seyyâreler topluluğu.(şu kâinatın lâmbası olan güneş, kâinat Sânii'nin vücuduna ve vahdâniyyetine güneş gibi parlak ve nurani bir penceredir. Evet, manzume-i şemsiye denilen küremizle beraber oniki seyyare: Cirmleri, küçüklük - büyüklük itibariyle pekçok muhtelif ve mevkileri, uzaklık - yakınlık noktasında pek çok mütefâvit ve sür'at-i hareketleri, çok mütenevvi' olduğu halde kemal-i intizam ve hikmet ile ve kemal-i mizan ile ve bir saniye kadar şaşırmıyarak hareketleri ve deveranları ve güneş ile, câzibe kanunu tâbir edilen bir kanun-u îlâhi ile bağlanmaları, yâni onlar imamlarına iktidaları, büyük bir mikyasta bir azamet-i kudret-i îlâhiyyeyi ve Vahdâniyyet-i Rabbâniyyeyi gösterir. çünki: O câmid cirmleri, o şuursuz büyük kütleleri, nihayet derecede intizam ve mizan-ı hikmet içinde muhtelif şekillerde ve muhtelif mesafelerde ve muhtelif hareketlerde döndürmek, istihdam etmek, ne derece bir kudreti ve bir hikmeti isbat ettiğini kıyas et. Bu büyük ve ağır işe zerre miktar tesadüf karışsa, öyle bir patlayış verecek ki, kâinatı dağıtacak. çünki: Bir dakika, tesadüf birisini tevkif etse, mihverinden çıkmasına sebebiyet verir, başkaları ile müsademe etmesine yol açar. Küre-i arzdan bin def'a büyük cirmlerle müsademenin ne derece dehşetli olduğunu kıyas edebilirsin.Manzume-i şemsiyenin, yâni şemsin me'mumları ve meyveleri olan oniki seyyarenin acâibini ilm-i muhit-i îlâhiye havale edip, yalnız gözümüzün önünde seyyaremiz bulunan arza bakıyoruz. Görüyoruz ki: Bu seyyaremiz bir azamet-i şevket-i Rububiyyeti ve haşmet-i saltanat-ı Uluhiyyeti ve kemâl-i rahmeti ve hikmeti gösterir bir surette Güneşin etrafında, emr-i Rabbâni ile - üçüncü Mektupta beyan edildiği gibi - pek büyük bir hizmet için bir uzun seyr ve seyahat, ona ettiriliyor. Bir sefine-i Rabbâniye olarak acâib-i masnuât-ı îlâhiye ile doldurulmuş ve zişuur ibâdullaha seyrangâh gibi bir mesken-i seyyar vaziyeti verilmiş. Ve evkat ve hesabı bildirecek saat akrebi gibi, Kamer dahi dakik hesaplarla azim hikmetlerle ona takılmış ve o Kamere başka menzillerde ayrı seyr ve seyahat verilmiş. îşte bu mübarek seyyaremizin şu halleri, küre-i arz kuvvetinde bir şehadetle, bir Kadir-i Mutlak'ın vücub-u vücudunu ve vahdetini isbat eder. Mâdem şu seyyaremiz böyledir. Manzume-i şemsiyeyi ona kıyas edebilirsin. Hem şemse, kendi mihveri üstünde cazibe denilen mânevi ipleri yumak yaptırmak için dolap ve çıkrık hükmünde olan güneşi, bir Kadir-i Zülcelâl'in emriyle döndürüp, o seyyaratı o mânevi iplerle bağlayıp tanzim etmek ve güneşi bütün seyyaratı ile saniyede beş saatlik bir mesafeyi kestirecek kadar bir sür'atle, bir tahmine göre "Herkül Burcu" tarafına veya şems-üş-şümus cânibine sevk etmek, elbette ezel ve ebed Sultanı olan Zât-ı Zülcelâl'in kudretiyle ve emriyledir. Güya haşmet-i Rububiyyetini göstermek için, bu emirber neferleri hükmünde olan manzume-i şemsiye ordusu ile bir manevra yaptırır. S.)
+manzume-î şemsîye : Güneş sistemi, güneş ve etrafında dönen seyyâreler topluluğu.(şu kâinatın lâmbası olan güneş, kâinat Sânii'nin vücuduna ve vahdâniyyetine güneş gibi parlak ve nurani bir penceredir. Evet, manzume-i şemsiye denilen küremizle beraber oniki seyyare: Cirmleri, küçüklük - büyüklük itibariyle pekçok muhtelif ve mevkileri, uzaklık - yakınlık noktasında pek çok mütefâvit ve sür'at-i hareketleri, çok mütenevvi' olduğu halde kemal-i intizam ve hikmet ile ve kemal-i mizan ile ve bir saniye kadar şaşırmıyarak hareketleri ve deveranları ve güneş ile, câzibe kanunu tâbir edilen bir kanun-u îlâhi ile bağlanmaları, yâni onlar imamlarına iktidaları, büyük bir mikyasta bir azamet-i kudret-i îlâhiyyeyi ve Vahdâniyyet-i Rabbâniyyeyi gösterir. çünki: O câmid cirmleri, o şuursuz büyük kütleleri, nihayet derecede intizam ve mizan-ı hikmet içinde muhtelif şekillerde ve muhtelif mesafelerde ve muhtelif hareketlerde döndürmek, istihdam etmek, ne derece bir kudreti ve bir hikmeti isbat ettiğini kıyas et. Bu büyük ve ağır işe zerre miktar tesadüf karışsa, öyle bir patlayış verecek ki, kâinatı dağıtacak. çünki: Bir dakika, tesadüf birisini tevkif etse, mihverinden çıkmasına sebebiyet verir, başkaları ile müsademe etmesine yol açar. Küre-i arzdan bin def'a büyük cirmlerle müsademenin ne derece dehşetli olduğunu kıyas edebilirsin.Manzume-i şemsiyenin, yâni şemsin me'mumları ve meyveleri olan oniki seyyarenin acâibini ilm-i muhit-i îlâhiye havale edip, yalnız gözümüzün önünde seyyaremiz bulunan arza bakıyoruz. Görüyoruz ki: Bu seyyaremiz bir azamet-i şevket-i Rububiyyeti ve haşmet-i saltanat-ı Uluhiyyeti ve kemâl-i rahmeti ve hikmeti gösterir bir surette Güneşin etrafında, emr-i Rabbâni ile - üçüncü Mektupta beyan edildiği gibi - pek büyük bir hizmet için bir uzun seyr ve seyahat, ona ettiriliyor. Bir sefine-i Rabbâniye olarak acâib-i masnuât-ı îlâhiye ile doldurulmuş ve zişuur ibâdullaha seyrangâh gibi bir mesken-i seyyar vaziyeti verilmiş. Ve evkat ve hesabı bildirecek saat akrebi gibi, Kamer dahi dakik hesaplarla azim hikmetlerle ona takılmış ve o Kamere başka menzillerde ayrı seyr ve seyahat verilmiş. îşte bu mübarek seyyaremizin şu halleri, küre-i arz kuvvetinde bir şehadetle, bir Kadir-i Mutlak'ın vücub-u vücudunu ve vahdetini isbat eder. Mâdem şu seyyaremiz böyledir. Manzume-i şemsiyeyi ona kıyas edebilirsin. Hem şemse, kendi mihveri üstünde cazibe denilen mânevi ipleri yumak yaptırmak için dolap ve çıkrık hükmünde olan güneşi, bir Kadir-i Zülcelâl'in emriyle döndürüp, o seyyaratı o mânevi iplerle bağlayıp tanzim etmek ve güneşi bütün seyyaratı ile saniyede beş saatlik bir mesafeyi kestirecek kadar bir sür'atle, bir tahmine göre "Herkül Burcu" tarafına veya şems-üş-şümus cânibine sevk etmek, elbette ezel ve ebed Sultanı olan Zât-ı Zülcelâl'in kudretiyle ve emriyledir. Güya haşmet-i Rububiyyetini göstermek için, bu emirber neferleri hükmünde olan manzume-i şemsiye ordusu ile bir manevra yaptırır. S.)
 manzur: Görülen, bakılan, nazar edilen. * Beğenilen.
 manzure: Belâ, musibet, felâket, âfet. * Noksan ve kusuru olan, ayıplanacak kadın.
 mar: Yılan.
@@ -1079,14 +1079,14 @@ mârr-üz zîkr: Yukarıda zikri geçmiş olan, yukarda bahsedilmiş olan.
 mârre: Fık: Herkesin gittiği umumi yoldan yürüyen.
 mârrîn: (Mâr. dan) Geçenler.
 mârrîn ü âbîrîn: Gelip geçenler. Gelen giden.
-marsus : (Bak: Mersus)
+marsus : (Bak: Mersus)
 martulos: (Martoloz) Osmanlı Devletinin teşekkülü sıralarında ve yeniçeri teşkilâtından önce, Hristiyanlardan, ordunun geri hizmetlerinde çalışmış olan teşekküllerden biridir. Silâhlanmış kişi mânasında Rumca bir kelimedir. * Eskiden Tuna gemicileri, korsanı mânasında da kullanılmıştır.
 ma'ruf: Bilinen, tanınmış. Belli, meşhur. * şeriatın makbul kıldığı veya emrettiği. * Adl, ihsan, cud, tatlı dil, iyi muamele. (Bak: Emr-i bi-l ma'ruf)
 ma'ruf-î cîhân: Dünyaca tanınan ve meşhur. Cihânın bildiği.
 ma'rufat: Bilinen şeyler. şeriatın emrettiği hususlar.
 ma'rufîyet: Ma'rufluk. ünlülük, meşhurluk, tanınmışlık.
 ma'rur: Uyuz.
-ma'ruş : üstü çardak şeklinde yapılı bina.
+ma'ruş : üstü çardak şeklinde yapılı bina.
 ma'ruz: Bir şeyin etkisine uğramak veya uğratmak. * Arzolunmuş, arzolunan. * Serilmiş, yayılmış. * Verilmiş, sunulmuş. * Anlatılmış. * Bir şeye karşı siper alan.
 ma'ruzât: (Ma'ruz. C.) Arz olunanlar. Arzedilenler, takdim edilenler. Küçükten büyüğe bildirilenler.
 marzat: Rızâ. Memnuniyet, hoşnudluk.
@@ -1133,7 +1133,7 @@ masdar-i ca'lî: (Mec'ul) yapma olan masdar. Arapçada, bazı isim ve sıfatlar�
 masdar-i merre: Fiilin bir defa yapıldığını belli eden masdar. Merre, kerre, lem'a, darbe gibi, "fa'le" vezninden gelen masdarlardır.
 masdar-i mîmî: Başında mim harfi bulunan masdar. (Ketb: Yazmak) masdarının mimisi (mekteb) olduğu gibi.
 masdu': Baş ağrısına tutulmuş olan. Başı ağrıyan.
-masduk : Doğruluğu kabul edilmiş, tasdik edilmiş.
+masduk : Doğruluğu kabul edilmiş, tasdik edilmiş.
 masduka: (C.: Masdukat) Doğru söz. Hakikat ve gerçek olan kelâm.
 masdum: çarpılmış. Kendisine vurulmuş.
 masdur: Gönderilmiş, yollanmış olan. * Göğsü incinmiş veya ağrımış olan.
@@ -1173,7 +1173,7 @@ maslahatkârâne: Maslahata, işe ve maksada uygun surette.
 maslahatşînâs: îşten anlıyan, iş bilen.
 maslak: Su yolu üzerinde bulunan su haznesi. * Dâima akan su borusu. * Büyük yalak.
 maslîye: Tarhana çorbası. * Koruk aşı.
-maslub : Salbolmuş, asılmış. Asılarak idam edilmiş.
+maslub : Salbolmuş, asılmış. Asılarak idam edilmiş.
 masluben: Asılarak, asılmış olduğu hâlde. Asılma suretiyle.
 masmasa: Ağzın önü.
 masna': (Masnaa) Su mahzeni. Sarnıç. * şimdiki Arapçada: Fabrika. * Bucak, köşe.
@@ -1181,16 +1181,16 @@ masnea: îçine yağmur suyu toplanan büyük havuz.
 masnu': (Sun'. dan) San'atla yapılan, yapılmış. Yapma, yapmacık.
 masnu-u vâhîd: Cenab-ı Hakk'ın (C.C.) (bir tek olan) san'at eseri.
 masnuat: San'atkârâne yapılan şeyler. Yapılanlar.
-masnuat-i sayfîyye : Cenab-ı Hakk'ın yaz mevsiminde yarattığı san'atlı güzel eserler.
+masnuat-i sayfîyye : Cenab-ı Hakk'ın yaz mevsiminde yarattığı san'atlı güzel eserler.
 masnuk: Nezleli kimse.
-mason : Fr. Duvarcı mânasına bir kelimeden alınmış isimdir. Dinsiz, imânsız mânâsına kullanılır. Fermeson veya farmason da denir.
+mason : Fr. Duvarcı mânasına bir kelimeden alınmış isimdir. Dinsiz, imânsız mânâsına kullanılır. Fermeson veya farmason da denir.
 masr: Parmak uçlarıyla süt sağmak. * Bir şeyi incelemek. * Az olmak. * Dağılmak. (îmtisar veya immisar ile aynı manadadır.)
 masra': çarpışma, ölme. * Güreş meydanı.
 masraf: Sarfedilen, harcanan. Gider.
 masrîf: (Sarf. dan) Sarfetme ve harcama mahalli.
 masru': Sar'a hastalığına tutulmuş, sar'alı.
 masruan: Sar'alı olarak, sar'a hastalığına tutulmuş olarak.
-masruf : Sarfolunmuş, harcanılmış olan.
+masruf : Sarfolunmuş, harcanılmış olan.
 mass: Emmek. Bir şeyi eme eme içmek.
 mass: (Mâssa) Emici, massedici.
 mass: Yakın olan. * Dokunan. Değen.
@@ -1204,11 +1204,11 @@ mastub: Damarlardan taşmış kan.
 mastur: (Satır. dan) çizilmiş, yazılmış.
 masube: îsâbet etmiş (felâket, musibet, belâ, âfet).
 masug: Kalıba dökülmüş. * örneğe uygun. * Düz.
-ma'sum : Günahsız, suçsuz.
-ma'sumâne : Günahsızcasına, suçsuz olarak.
-ma'sume : Suçsuz kadın veya kız.
+ma'sum : Günahsız, suçsuz.
+ma'sumâne : Günahsızcasına, suçsuz olarak.
+ma'sume : Suçsuz kadın veya kız.
 ma'sumîyet: Ma'sumluk, kabahatsizlik, suçsuzluk.
-masun : Korunan, mahfuz, emin, muhafaza olunan. * Sâlim, sağlam.
+masun : Korunan, mahfuz, emin, muhafaza olunan. * Sâlim, sağlam.
 masunîyet: Eminlik, sağlamlık, muhafaza altında bulunmak, dokunulmazlık.
 ma'sur: Zor, güç, zorlaştırılmış.
 ma'sur: Sıkılmış. Suyu veya yağı çıkarılmış.
@@ -1315,7 +1315,7 @@ matrud: Kovulmuş. Tardedilmiş. Uzaklaştırılmış olan.
 matrudîn: Kovulmuş olanlar. Kovulmuşlar.
 matruh: Tarh edilmiş, çıkarılmış. * Belirtilmiş, konulmuş (vergi) * Temeli atılmış (Binâ).
 matruk: Gevşek ve uyuşuk adam. * Kuruduktan sonra yine yağmurla tazelenmiş.
-matruş : Traş olmuş. Sakalsız. * Sağır kimse.
+matruş : Traş olmuş. Sakalsız. * Sağır kimse.
 matt: çekmek.
 matta: încil kitaplarından birisinin adı. Tahrif edilmiş dört yüz muhtelif încil içinden seçilen biri. (Bak: Havari)
 mattal: (Mattâle) Devamlı olarak borcunu ileri atıp geciktiren.
@@ -1762,7 +1762,7 @@ medhîye: Birini medhetmek için yazılan yazı.
 medhul: (Dahl. den) Ayıplanacak kusuru olan. * Dile düşmüş. * Kendisine birşey girmiş olan.
 medhun: Tabaklanmış deri.
 medhur: Uzaklaştırılmış veya kovulmuş olan. Tardedilmiş olan.
-medhuş : Dehşete uğramış. şaşırmış. Korkmuş.
+medhuş : Dehşete uğramış. şaşırmış. Korkmuş.
 medhuşâne: ürkmüş gibi. ürkmüş bir hâlde.
 med'î: Dâvet edilmiş, davetli. çağrılmış.
 medî: (C: Emdiye) Bir yerde birikip toplanmış su.
@@ -1859,8 +1859,8 @@ mefrugün bîh: Bir kimseye bırakılan şey.
 mefrugün leh: Kendisine bir şeyin mülkiyeti ve tasarruf hakkı bırakılmış olan kimse.
 mefruk: Bölünmüş, ayrılmış tefrik edilmiş.
 mefruk: Ovulmuş nesne. * Zâ'ferân ile boyanmış nesne.
-mefruş : Döşenmiş, ferş olunmuş, serilmiş. * Nikâhlı karı.
-mefruşat : (Ferş. ten) Ev döşemeğe yarayan şeyler. Kilim, halı v.s.
+mefruş : Döşenmiş, ferş olunmuş, serilmiş. * Nikâhlı karı.
+mefruşat : (Ferş. ten) Ev döşemeğe yarayan şeyler. Kilim, halı v.s.
 mefruşat-i beytîye: Ev eşyası.
 mefruz: îftira olunmuş, ayrılmış, bölünmüş.
 mefruz: (Farz. dan) Farz olunmuş. Farz hâline gelmiş. çok lüzumlu. Farz kabilinden olmuş. * Var sayılan.
@@ -1870,7 +1870,7 @@ mefsah: Bozma. * Feshedecek, bozacak yer.
 mefsaka: (Fısk. dan) Günah işlenen yer.
 mefsedet: Bozukluk, fenâlık, fesatçılık. Münâfıklık.
 mefsîl: (C: Mefâsıl) Her âzada olan ek yerleri. Mafsal.
-mefsud : Kendinden kan alınmış kimse.
+mefsud : Kendinden kan alınmış kimse.
 mefsuh: Hükümsüz bırakılmış. Yürürlükten kaldırılmış. Battal edilmiş.
 mefsuhîyet: Mefsuhluk. Yürürlükten kaldırılma hâli. Hükümsüzlük.
 meftah: Hazine.
@@ -2312,7 +2312,7 @@ melmusat: (Melmus. C.) El ile dokunmalar. El ile temas etmeler.
 mels: Enemek. Hayvanı iğdiş etmek, erkekliğini gidermek.
 mels: Yalan vâde, yalan söz. * Güzellik, hüsün.
 melsa': Pürüzsüz ve düz yer. * şarap.
-melsuk : Yapıştırılmış. Bitiştirilmiş.
+melsuk : Yapıştırılmış. Bitiştirilmiş.
 melsun: (C.: Melâsin) Yalancı, kezzâb.
 meltafa: Güzellik, lâtiflik yeri olan şey veya vasıf.
 meltem: Yaz mevsiminde karadan denize doğru esen rüzgâr.
@@ -2522,7 +2522,7 @@ menfîyyen: Sürgün olarak.
 menfuh: üfürülmüş. * Büyük karınlı. Nefholunmuş.
 menfur: Kendisinden nefret edilen, sevilmeyen. îğrenç. * Mebguz.
 menfus: Yeni doğmuş çocuk.
-menfuş : (Pamuk veya yün gibi) atılmış ve didilmiş. Dağılmış, didik didik edilmiş.
+menfuş : (Pamuk veya yün gibi) atılmış ve didilmiş. Dağılmış, didik didik edilmiş.
 mengene: Tazyik veya sıkıştırma için kullanılan demir veya tahta âlet.
 menguş: Küpe.
 menh: Verme, ihsan etme.
@@ -2569,8 +2569,8 @@ menkulat: Nesilden nesile veya ağızdan ağıza yayılıp duyulan. Nakle dayana
 menkur: Delinmiş. Oyulmuş.
 menkur: înkâr olunmuş.
 menkus: (Nüks. den) Tersine çevrilmiş. Baş aşağı edilmiş.
-menkus : (Naks. dan) Noksanlaştırılmış. Eksik olan.
-menkuş : (Nakş. dan) Nakşolunmuş. îşlenmiş. Nakış yapılmış. Boya ile süslenmiş.
+menkus : (Naks. dan) Noksanlaştırılmış. Eksik olan.
+menkuş : (Nakş. dan) Nakşolunmuş. îşlenmiş. Nakış yapılmış. Boya ile süslenmiş.
 menkuşe: Nakşolunmuş, işlenmiş. * Kemik çıkmış olan baş yarığı.
 menkut: (Nokta. dan) Noktalanmış. Noktalı.
 menkuz: Nakzedilmiş. Bozulmuş. Hükümsüz bırakılmış.
@@ -2593,7 +2593,7 @@ mensîm: (C.: Menâsim) Alâmet, işaret, nişân, iz, eser. * Yol, tarik. * Dev
 mensîyat: (Mensi. C.) Hatırdan çıkıp unutulmuş şeyler.
 mensîyet: Unutulma, hatırdan çıkma.
 mensîyy: Unutma yeri. * Hiç bahsedilmeyen terkedilmiş nesne.
-mensub : (Bak: Mansub)
+mensub : (Bak: Mansub)
 mensub: Bir şeye veya kimseye nisbeti olan, alâkası bulunan. Bir şeyle ilgili olan.
 mensubât: (Mensub. C.) Bir yere mensub olanlar. Bir yerin adamları.
 mensubîn: (Mensub. C.) Mensublar. Mensub ve alâkadar olanlar. Bir daire veya yerin adamları.
@@ -2603,9 +2603,9 @@ mensucât: Bez veya kumaş gibi dokumak suretiyle yapılan tezgâh veya fabrika 
 mensucât-i harîrîyye: îpek dokumalar.
 mensuh: (Nesh. den) Hükmü kaldırılmış. Nesholunmuş. Hükümsüz bırakılmış.
 mensuk: (Nesk. den) Düzgün olarak dizilmiş olan.
-mensur : (Nasr. dan) Yardım görmüş. * Muzaffer. Zafer bulmuş. * Cenab-ı Hak tarafından her işinde nusrete mazhar olduğundan Hz. Peygamber Aleyhissalâtü Vesselâm'ın bir ismi de Mensur'dur.
-mensur : (Nesr. den) Dağılmış. Saçılmış. * Gece vaktinde güzel kokan bir çiçek. * Edb: Manzum olmayan nesir halindeki yazı. Bunun mânaca çok güzel ve şiir gibi ahenkli yazılmış olanına "mensur şiir" denir.
-mensus : (Bak: Mansus)
+mensur : (Nasr. dan) Yardım görmüş. * Muzaffer. Zafer bulmuş. * Cenab-ı Hak tarafından her işinde nusrete mazhar olduğundan Hz. Peygamber Aleyhissalâtü Vesselâm'ın bir ismi de Mensur'dur.
+mensur : (Nesr. den) Dağılmış. Saçılmış. * Gece vaktinde güzel kokan bir çiçek. * Edb: Manzum olmayan nesir halindeki yazı. Bunun mânaca çok güzel ve şiir gibi ahenkli yazılmış olanına "mensur şiir" denir.
+mensus : (Bak: Mansus)
 menşar: Yayıp dağıtacak yer. * öldükten sonra dirilecek yer.
 menşat: (C: Menâşıt) Neşat, sürur, neşe.
 menşe': (Neş'et. den) Esas. Kök. Bir şeyin çıktığı, neş'et ettiği yer. Beslenip yetişilen yer.
@@ -2845,7 +2845,7 @@ merkez-î âlem: Güneş, şems.
 merkez-î arz: Arzın merkezi. Dünyanın merkezi, iç tarafı.
 merkez-î devr: Hareket eden bir cismin, etrafında devrettiği nokta.
 merkez-î siklet: Ağırlık merkezi.
-merkez-î teşrî' : Kanun yapma merkezi.
+merkez-î teşrî' : Kanun yapma merkezi.
 merkezî: (Merkeziye) Merkeze mensub. Merkezde bulunan. Merkezle alâkalı.
 merkezîyyet: îşlek yerde, merkezde bulunmuş olmak. * Bütün işlerin bir yerden idare edilir olması, merkezleştirilmesi.
 merku': Eski, yırtılmış elbise.
@@ -2879,17 +2879,17 @@ merreten ba'de uhrâ: Diğerinden sonra, tekrar.
 mers: Ekmeği suyla ıslatmak.
 mersa: (C: Merâsi) Liman. Gemilerin demir atıp barındığı yer.
 mersa-yi kostantînîyye: îstanbul limanı.
-mersad : Rasad yeri. Gözetleme yeri. (Bak: Mirsâd)
+mersad : Rasad yeri. Gözetleme yeri. (Bak: Mirsâd)
 mersed: Arslan, esed.
 mersen: Burun.
 mersîn (mersînî): Mersin ağacı.
 mersîye: Birisinin ölümü hakkında yazılan, teessürü anlatan manzume.
 mersîyehân: Ağıt okuyan. Mersiye söyliyen.
 mersîyekâr: Ağıtçı. Ağıt ve mersiye okuyan.
-mersud : Rasad olunmuş, ölçülüp biçilmiş, hesab edilmiş.
+mersud : Rasad olunmuş, ölçülüp biçilmiş, hesab edilmiş.
 mersud: Birbiri üstüne yığılmış kumaş.
 mersum: (Resm. den) Yazılmış, çizilmiş. Alâmetli, işaretli. * An'ane, gelenek, örf ü âdât. * Adı ve bahsi geçmiş. Bahsedilmiş.
-mersus : Sağlam yapı. Birbirine kenetlenmiş, kurşun veya lehim ile birbirine bağlanmış sağlam yapı.
+mersus : Sağlam yapı. Birbirine kenetlenmiş, kurşun veya lehim ile birbirine bağlanmış sağlam yapı.
 merş (marş): (C.: Müruş) Tırnak ucuyla deriyi yırtmak. * Yağmur suyunun durmayıp üzerinden çabuk geçtiği yer. * încitici söz.
 merşa': Her hayvanın yavuzu ve yırtıcısı. * Otu çok olan yer.
 merşe: Yuvarlak cisim.
@@ -2910,7 +2910,7 @@ mertus: Bir fesleğen çeşidi.
 mer'ub: (Ru'b. dan) ürkmüş, korkmuş.
 mer'uben: ürkerek, korkarak, korku ile.
 merue: Hazmetmek.
-me'ruş : Yer. Arz. Yeryüzü.
+me'ruş : Yer. Arz. Yeryüzü.
 me'ruza: Ağaç kurdunun yediği ağaç.
 merv: Bir cins güzel koku.
 mervaha: (C.: Merâvih) Ova, çöl. Her tarafından rüzgâr esen yer.
@@ -3261,7 +3261,7 @@ meşayîh: şeyhler. Pirler. îhtiyarlar.
 meşbu': Tok. Doymuş. Kanmış.
 meşbub: (C.: Meşâbib) îki ayağı beyaz olan at. * Güzel nesne.
 meşc: Karıştırmak. Haltetmek.
-meşcer : (Meşcere) Ağaçlık yer, koru, şeceristan.
+meşcer : (Meşcere) Ağaçlık yer, koru, şeceristan.
 meşcuc: Yüzü gözü yaralanmış olan.
 meşcun: Yarılmış.
 meşden: (C: Meşâdin) Buzağısı büyük olup anasından müstağni olan dişi geyik.
@@ -3316,7 +3316,7 @@ meşkul: ön ayaklarıyla arka ayağının birisi bileklerine varana kadar beyaz
 meşkur: şükre lâyık olan. Teşekküre ve kendine şükredilmeğe lâyık olan. Kendine şükür arzolunan. Az şükredene çok ihsan eden.
 meşküvv: Kendinden şikâyet olunan.
 meşlah: Meşlehe. Maşlah. Altı üstü bir olan ve kol yerine yarıkları bulunan bir çeşit elbise.
-meşmeşîye : Tas: âlem-i gaybdan veya âlem-i misalden bir âlem. Bazı evliyanın keşfen müşahede ettikleri bir yer. (Bak: Meşhudât)
+meşmeşîye : Tas: âlem-i gaybdan veya âlem-i misalden bir âlem. Bazı evliyanın keşfen müşahede ettikleri bir yer. (Bak: Meşhudât)
 meşmul: (şümul. den) Kaplanmış, şümullenmiş, etrafı çevrilmiş. * Bir şeyin içinde bulunan.
 meşmule: şarap.
 meşmum: Koklanmış. * Itır ve misk gibi güzel kokulu olan şey.
@@ -3469,7 +3469,7 @@ mevarîs: Miraslar. Verasetle nâil olunan mülk ve mallar.
 mevasîk: Mevsuk şeyler. Misaklar. Ahd ü peymanlar. Yeminler. Sözleşmeler.
 mevasîm: Mevsimler. * Pazar yerleri.
 mevasîm-î erbaa: Dört mevsim. Rebi' (îlkbahar), Sayf (Yaz), Harif (Sonbahar), şitâ (Kış).
-mevaşî : Davar, koyun, keçi, inek ve öküz gibi hayvanlar.
+mevaşî : Davar, koyun, keçi, inek ve öküz gibi hayvanlar.
 mevat: (Mevt. den) Cansız şeyler. Sürülmemiş topraklar. * Sahibsiz yerler.
 mevatin: (Mevtın. C.) Yurtlar. şenlendirilmiş ve bayındır yerler.
 mevatî: Mevâta yani cansız şeye ait, bununla alâkalı. * îşlenmemiş toprağa ait.
@@ -3571,7 +3571,7 @@ mevrusat: Mirastan gelenler.
 mevrus(e): Vereseye âit olan. Miras edilmiş. Miras edilen eşya.
 mevs: Yolmak. Traş etmek.
 mevs: Ekmeği suyla ıslatmak.
-mevs : Yıkamak.
+mevs : Yıkamak.
 mevsik: îtimad etmek. Emniyet etmek. înanmak. * Yemin. Sözleşme.
 mevsîl: (Vusul. den) Kavşak. Kavuşacak yer. * Ek yeri.
 mevsîm: (C: Mevâsim) Pazar yeri. * Arap pazargâhları. * Yılın dört kısmından biri. * Zaman. Vakit. Alâmet.
@@ -3579,13 +3579,13 @@ mevsîm be mevsîm: Zaman zaman. Mevsimden mevsime, zamanı geldikçe.
 mevsîm-î harîf: Sonbahar, güz devresi.
 mevsîm-î sayf: Yaz mevsimi, yaz devresi.
 mevsîm-î şîtâ: Kış mevsimi.
-mevsuf : Vasıflanan. Bir sıfatla tavsif edilen. * Kendisinde bir sıfat mevcud olan, kendisine bir sıfat isnad edilmiş olan.
+mevsuf : Vasıflanan. Bir sıfatla tavsif edilen. * Kendisinde bir sıfat mevcud olan, kendisine bir sıfat isnad edilmiş olan.
 mevsuk: Kendisine inanılır olan. şâyân-ı itimad olan. * Sağlam. * Vesikalı. Delile dayanan hakikat.
 mevsuk-ul kelîm: Sözlerine inanılır. Söylediği şeylere itimad edip güvenilir.
 mevsukan: Sağlam, delile dayanır, itimad edilir şekilde.
 mevsukîyet: Sağlamlık, gerçeklik. înanılır hâl.
-mevsul : Erişen. Vasıl olan. * Birleşmiş. Kendine başka şey vasıl olmuş olan. Bitirmiş. Vasledilmiş.
-mevsule : Bitiştirilmiş.
+mevsul : Erişen. Vasıl olan. * Birleşmiş. Kendine başka şey vasıl olmuş olan. Bitirmiş. Vasledilmiş.
+mevsule : Bitiştirilmiş.
 mevsum: (Vesm. den) îşaretlenmiş, damgalanmış, nişanlanmış. * Ad verilmiş, isimlendirilmiş.
 mevsume: Tamamen baştan aşağı süslü zırh. * Bahar yağmuru ile ıslanmış toprak.
 mevsut: Ortada. Vasat olan.
@@ -4416,7 +4416,7 @@ mîrre: Kuvvet. * öd. * Akıl. * Kat. * Sağlamlık.
 mîrrîd: Müfsid, kötü ve şerir kimse.
 mîrrîh: şâd, neşeli ve mesrur kimse.
 mîrrîh: Uzun ok. ("Pertev oku" derler) * Yeleği olmayan ok. * Bir yıldız adı.
-mîrsad : Gözetleme yeri. Rasad yeri. * Gözetleme âleti. * Suçluları gözleyip duran. * Pusu. * Suçlular için hazır bekleyen.
+mîrsad : Gözetleme yeri. Rasad yeri. * Gözetleme âleti. * Suçluları gözleyip duran. * Pusu. * Suçlular için hazır bekleyen.
 mîrsad: (C: Merâsıd) Geniş yol.
 mîrsad-i îbret: îbretle seyretme yeri.
 mîrsad-i tefekkür: Tefekküre sebep olan.
@@ -4933,7 +4933,7 @@ mufarakat: Ayrılık, ayrılmak.
 mufarrît: (Fart. dan) Kusur yapan, eksik işleyen. Aşırı giden.
 mufasala: Ayrılma.
 mufassal: Tafsilli, tafsilâtlı, izahlı. Geniş mâlumatlı, kısımlara ayrılıp anlatılmış.
-mufassalan : Geniş, izahlı olarak. Tafsilâtlıca. Kısımlara ayrılıp anlatılmış olan.
+mufassalan : Geniş, izahlı olarak. Tafsilâtlıca. Kısımlara ayrılıp anlatılmış olan.
 mufassil: Kısımlara ayrılan, fasıl fasıl ayıran, adalet eden.
 mufavvaz: Yapılması ısmarlanmış.
 mufavvîz: Bir kimseye bir vazifeyi veren. Yapmasını ısmarlıyan.
@@ -5232,13 +5232,13 @@ muhasimeyn: Bir dâvâ veya çekişmede birbirine karşı olan iki kimse.
 muhasimîn: (Muhasım. C.) Düşmanlar, muhasımlar.
 muhasir: (C.: Muhasırin- Muhasırûn) (Hasr. dan) Etrafının kuşatıp saran. Muhasara eden.
 muhasirîn: (Muhâsır. C.) Muhasara edenler, etrafını kuşatanlar.
-muhasirûn : (Muhasırin) Düşmanı etraftan kuşatanlar. Muhasara edenler.
+muhasirûn : (Muhasırin) Düşmanı etraftan kuşatanlar. Muhasara edenler.
 muhasîb: Hesab eden. Hesap işi ile uğraşan. Muhasib.
 muhassal: Netice. Husule gelen. Tahsil olunan. Hâsıl olmuş bulunan. Toplanılmış, cem'olunmuş. Hülâsa. Sözün kısası.
 muhassal-î kelâm: Sözün kısası.
 muhassala: (Husul. den) Elde edilen netice, hâsıl olan sonuç. * Fiz: Bileşke. 
 muhassan: (Hısn. dan) Kuvvetlendirilmiş, istihkâmlandırılmış.
-muhassas : Birine âid kılınmış. Tahsis edilmiş. Has kılınmış. Ayrılmış. Tâyin edilmiş.
+muhassas : Birine âid kılınmış. Tahsis edilmiş. Has kılınmış. Ayrılmış. Tâyin edilmiş.
 muhassasat: (Muhassas. C.) Devlet bütçesinden, devlet dâireleri için ayrılan para. * Bir kimseye verilmiş olan maaş veya tayın.
 muhassenat: (Muhassene. C.) üstünlük sebepleri. * Güzel, hayırlı ve faydalı işler.
 muhasser: Hasret kalmış, tahsir olunmuş.
@@ -5249,7 +5249,7 @@ muhassîl: Sütü çok emdiğinden hasta olan çocuk.
 muhassîn: (Hasen. den) Güzelleştiren, güzellik veren.
 muhassîr: (C.: Muhassirin) (Hasar. dan) Zarara uğratan. Hasar ve ziyan verdiren.
 muhassîrîn: (Muhassir. C.) Zarar ve ziyan verdirenler. Hasara uğratanlar.
-muhassîs : Tahsis eden. Has kılan. Hususileştiren.
+muhassîs : Tahsis eden. Has kılan. Hususileştiren.
 muhaş: Yanmış nesne.
 muhaşşa: Hâşiye yazılmış. Tahşiye olunmuş.
 muhaşşem: Sarhoş, mest.
@@ -5355,7 +5355,7 @@ muhîll-î nâmus: Nâmusa zarar veren, nâmusa dokunan.
 muhîn: Zayıflatan, hor ve hakir eden. îhanet eden.
 muhîs: Zindan.
 muhîss: (Hiss. den) Hissettiren, duyuran.
-muhîş : Korkutan, korku veren.
+muhîş : Korkutan, korku veren.
 muhît: îhata eden. Etrafını kuşatan, çeviren. * Etraf. çevre. * Büyük deniz. Okyanus. * Mc: Büyük âlim.
 muhît-î arz: Dünyanın çevresi.
 muhît-î dâîre: Mat: Daire çevresi. çember.
@@ -5375,7 +5375,7 @@ muhlîk: (Bak: Mühlik)
 muhlîs: Saç ve sakalına kır düşmüş olan kimse.
 muhlîs: Hâlis olan. îhlâsı kazanmak için gayret gösteren, samimi ve itikadı doğru olan. Her hâli içten ve riyâsız olan. Katıksız.
 muhlîsâne: Hâlisâne. Samimi olarak. Dostlukla. Riyâsızlıkla.
-muhlîsen : Hâlis olarak. Muhlis olarak.
+muhlîsen : Hâlis olarak. Muhlis olarak.
 muhmel: Tüylü ve saçaklı nesne.
 muhmîd: Ateşin alevini bastıran.
 muhnak: (C: Mehânik) Zayıflamış davar.
@@ -5876,9 +5876,9 @@ murzîa: (Rızâ. dan) çocuğa süt emziren. Meme veren. Sütnine. Bebeğe süt
 mus: Bıçak.
 mus'a: (C: Musu) Böğürtlen otunun meyvesi. * Bir kuşun adı.
 musa: Beni îsrâil peygamberlerinden Hz. Musa'nın (A.S.) ismi. Dört büyük kitaptan birisi olan Tevrat, vahiy yoluyla kendisine gelmiştir. Yahudilerin en büyük peygamberidir. şeriatı, îsa'ya (A.S.) kadar devam etti. Yusuf'un (A.S.) soyundan Yuşa nâmındaki peygamberi yerine tâyin ederek vefat etmiştir. Mısır firavununa karşı mücadele etti. Harun (A.S.) kardeşi ve kendi veziri hükmünde idi.(Mısır Kıt'ası, kumistan olan Sahra-yı Kebir'in bir parçası olduğundan Nil-i Mübarek'in feyziyle gâyet mahsuldâr bir tarla hükmüne geçtiğinden, o cehennem-nümun sahra komşuluğunda şöyle cennet-misal bir mevki-i mübarekin bulunması, felâhat ve ziraatı, ahalisinde pek mergub bir surete getirmiş ve o sekenenin seciyesine öyle tesbit etmiş ki ziraatı, kudsiye; ve vasıta-ı ziraat olan "Bakar"ı ve "Sevr"i mukaddes, belki mâbud derecesine çıkarmış. Hattâ o zamandaki Mısır milleti, sevr'e, bakar'a ibadet etmek derecesinde bir kudsiyet vermişler. îşte o zamanda Beni-îsrail dahi, o kıt'ada neş'et ediyordu ve o terbiyeden bir hisse aldıkları, "îcl" mes'elesinden anlaşılıyor.îşte Kur'an-ı Hakim, Hazret-i Musa Aleyhisselâm'ın risaletiyle, o milletin seciyelerine girmiş ve istidatlarına işlemiş olan o bakar-perestlik mefkuresini kesip öldürdüğünü, bir bakar'ın zebhi ile ifham ediyor. S.)
-musa : Vasiyet olunan mal. * Menfaat.
-musa bîh : Vasiyyet olunan şey.
-musa-leh : Kendine bir şey vasiyet olunan.
+musa : Vasiyet olunan mal. * Menfaat.
+musa bîh : Vasiyyet olunan şey.
+musa-leh : Kendine bir şey vasiyet olunan.
 musaara: Büyüklük taslayarak birisinin yüzüne bakmayıp başını çevirmek.
 mus'ab: Aygır at. * Her nesnenin erkeği.
 musab: Kendine bir şey isabet eden. Hasta. Musibetzede. Musibete uğrayan.
@@ -5969,10 +5969,10 @@ musattah(a): Satıh haline getirilmiş. Düz ve yassı hâle konulmuş olan. Sat
 musattar: (Satr. dan) Yazılmış.
 musattem: Mükemmel, olgun, tam.
 musavele: Dövüşmek için bir kimseye saldırma. üzerine atılma.
-musavver : Zihnen düşünülen. Tasavvur olunan. Tasvirli.
-musavvîbe : Tasvib edilen. Kabul edilen. * "Dört mezheb de hak'tır ve füruatta hak taaddüd eder" diyenlere, ilm-i usulde musavvibe denir.
-musavvîr : Tasvir eden. şekil ve suret çizen. Her şeye güzel şekil ve suretler veren Allah (C.C.)
-musavvîre : Tasvir edilmiş. Suretlenmiş. şekli çizilmiş. * Kuvve-i hayâliye. (Bak: Kuvve-i musavvire - Madde-i musavvire)
+musavver : Zihnen düşünülen. Tasavvur olunan. Tasvirli.
+musavvîbe : Tasvib edilen. Kabul edilen. * "Dört mezheb de hak'tır ve füruatta hak taaddüd eder" diyenlere, ilm-i usulde musavvibe denir.
+musavvîr : Tasvir eden. şekil ve suret çizen. Her şeye güzel şekil ve suretler veren Allah (C.C.)
+musavvîre : Tasvir edilmiş. Suretlenmiş. şekli çizilmiş. * Kuvve-i hayâliye. (Bak: Kuvve-i musavvire - Madde-i musavvire)
 musavvît: (Savt. dan) Seslenen, yüksek sesle çağıran.
 musayaha: (Sayha. dan) Birbirine haykırıp çağırışma.
 musaye: Küçük sidik kabı. * Büyük kursak.
@@ -5992,12 +5992,12 @@ mu'sir: (C: Mu'sırât) Sıkıcı, sıkan.
 mu'sirat: Sıkım zamanı gelmiş üsâreliler. (üzüm gibi) * Bora ve kasırgalar. * Yetişkin kızlar.
 musirr: Direnen. Ayak direyen. Vaz geçmeyen. Sebat eden. Sözünden dönmeyen.
 musirrâne: Israr ve inatla, ayak direyerek.
-musî : Vasiyet eden. Birisini vâsi gösteren. Tavsiye eden.
+musî : Vasiyet eden. Birisini vâsi gösteren. Tavsiye eden.
 musî': Genişlendiren. Ferahlık veren. * Zengin. Muktedir.
 musîb: îsâbetli, yanılmayan, doğru. * Resul-i Ekremin (A.S.M.) isimlerinden birisi.
 musîbet: Afet. Belâ. Felâket. Hastalık. Dert.(Merayı tecavüz eden koyun sürüsünü çevirtmek için çobanın attığı taşlara musâb olan bir koyun, lisan-ı hâliyle: "Biz çobanın emri altındayız. O bizden daha ziyâde fâidemizi düşünür. Mâdem onun rızâsı yoktur, dönelim." diye kendisi döner, sürü de döner.Ey nefis! Sen o koyundan fazla âsi ve dâll değilsin. Kaderden sana atılan bir musibet taşına mâruz kaldığın zaman $ söyle ve merci-i hakikiye dön, imana gel, mükedder olma. O seni senden daha ziyade düşünür. M.N.)
 musîbet-î âmme: Umuma ve cemiyetin ekseriyetine gelen belâ.(Bu asırdaki ehl-i îslâmın fevkalâde safderunluğu ve dehşetli cânileri de âlicenâbâne affetmesi; ve bir tek haseneyi, binler seyyiatı işliyen ve binler mânevi ve maddi hukuk-u ibâdı mahveden adamdan görse, ona bir nevi tarafdar çıkmasıdır. Bu suretle ekall-i kalil olan ehl-i dalâlet ve tuğyan; safdil taraftar ile ekseriyet teşkil ederek, ekseriyetin hatâsına terettüp eden musibet-i âmmenin devamına ve idâmesine belki teşdidine kader-i îlâhiyeye fetva verirler; biz buna müstehakız derler. K.L.)(Hem âlicenâbâne affetmek ise yalnız kendine karşı cinayetini affedebilir. Kendi hakkından vazgeçse hakkı var; yoksa başkaların hukukunu çiğniyen cânilere afuvkârâne bakmağa hakkı yoktur, zulme şerik olur. K.L.)
-musîbet-zede : Belâya uğrayan. Hastalık veya başka musibete uğrayan.(îmanla insanın kalbinde öyle bir kuvve-i mâneviye husule gelir ki, insan o kuvvet ile her musibete, her hâdiseye karşı mukavemet edebilir! î.î.)
+musîbet-zede : Belâya uğrayan. Hastalık veya başka musibete uğrayan.(îmanla insanın kalbinde öyle bir kuvve-i mâneviye husule gelir ki, insan o kuvvet ile her musibete, her hâdiseye karşı mukavemet edebilir! î.î.)
 musîka: Mızıka. çeşitli ses çıkarılan bir çalgı âleti.
 musîkî: Müzik. Ses ölçülerinden, ölçülü ses ve san'atkârlığından bahseden ilim.(Ve keza, $ kelimesiyle, küfür sebebiyle kulağa ait pek büyük bir nimeti kaybettiklerine işaret edilmiştir. Hatta kulaktaki zar, nur-u iman ile ışıklandığı zaman, kâinattan gelen mânevi nidaları işitir. Lisan-ı hal ile yapılan zikirleri, tesbihatları fehmeder. Hatta o nur-u iman sayesinde rüzgârların terennümatını, bulutların nâralarını, denizlerin dalgalarının nağamatını ve hâkeza. Yağmur, kuş ve saire gibi her nevi'den Rabbâni kelâmları ve ulvi tesbihatı işitir. Sanki kâinat, îlâhi bir musiki dairesidir. Türlü türlü avazlarla, çeşit çeşit terennümatla kalblere hüzünleri ve Rabbâni aşkları intıba' ettirmekle kalbleri, ruhları nurani âlemlere götürür, pek garip misali levhaları göstermekle, o ruhları ve kalbleri lezzetlere, zevklere garkeder. Fakat o kulak, küfür ile tıkandığı zaman, o leziz, mânevi, yüksek savtlardan mahrum kalır. Ve o lezzetleri iras eden avazlar, mâtem seslerine inkılâb eder. Kalbde, o ulvi hüzünler yerine, ahbabın fıkdaniyle ebedi yetimlikler, mâlikin ademiyle nihayetsiz vahşetler ve sonsuz gurbetler hasıl olur.Bu sırra binaendir ki, şeriatça bazı savtlar helâl, bazıları da haram kılınmıştır. Evet! Ulvi hüzünleri, Rabbâni aşkları iras eden sesler, helâldir. Yetimane hüzünleri, nefsani şehevatı tahrik eden sesler, haramdır. şeriatın tayin etmediği kısım ise, senin ruhuna, vicdanına yaptığı te'sire göre hüküm alır. î.î.)(O yabani edebin verdiği bir şevk'le nefis düşer heyecana, heves olur münbasit; ruha ferah veremez.Kur'an'ın şevki ise: Ruh düşer heyecana, şevk-i meâli verir. îşte bu sırra binâen, şeriat-ı Ahmediye (A.S.M.) lehviyatı istemez.Bâzı âlât-ı lehvi tahrim edip, bir kısmı helâl diye izin verip, demek hüzn-ü Kur'ani veya şevk-i Tenzili veren âlet, zarar vermez...Eğer hüzn-ü yetimi veya şevk-i nefsani verse, âlet haramdır. Değişir eşhasa göre; herkes birbirine benzemez. S.)(Bir zaman gelecektir ki, ümmetimden muhakkak bir takım zümreler türeyecektir. Bunlar zina etmeyi, ipekli elbiseler giymeyi, şarap içmeyi, defler, dümbelekler ile eğlenmeyi helâl ve mübah sayarlar. Bunlardan bir takım merhametsiz ve hodgâm zümreler de dağ mesirelerine yanlanacaklar. Bunun üzerine Allah, sevip eğlendikleri dağı, üzerlerine indirerek bir kısmını helâk edecek, sağ kalan öbürlerini de kıyâmet gününe kadar maymun ve domuz suretlerine tebdil edecek. S.B.M.) (Hadis no: 1892 Tercümesinden)( $ Ey dağlar, dedik: Onunla beraber te'vib, yani terci' yapın; ötün, çınlayın. $ Siz de ey kuşlar!Yâni Davud'a öyle güzel bir ses, öyle şanlı bir edâ verilmişti ki, akşam sabah tesbih ettikçe onun sesine bütün dağlar ve kuşlar iştirâk eder, çınlar öterlerdi. Demek ki güzel sesle hüsn-i elhan Davud'un bir fazilet-i mahsusası, kuşları dahi başına toplıyan bir mu'cizesi olmuştur. Bu mâna iledir ki, savt-ı Davudi meşhur olduğu gibi, mezamir-i Davud da meşhurdur. Bu güzel sanatı, îslâmda suret-i mutlakada mezmum zannedenler olmuştur. Fakat bilmek lâzım gelir ki, mezmum olan luhun-u fısktır. Yoksa Kur'an okurken tertil ve tahsin-i savt, me'murun bihtir. Bu babda kütüb-ü sıhahda hayli hadisler vardır. Birçokları musikinin te'sirini ruhani zannederler. Böyle bir zan, ruhu hava zannetmektir. Ses, bir hava ihtizazı olduğu için, musikinin doğrudan doğruya verdiği te'sir ve heyecan, bir buse zevki gibi cismani ve asabi bir te'sirdir. Taganni, ancak bir kelimenin, bir kelâmın mânasını ruha duyurmağa hizmet etmesi itibariyledir ki, ruhani bir kıymet alabilir. Ehl-i fısk, hep şehevâni mevzularla cismâni heyecan aradığı için mânayı öldürerek sâde asaba basan kuru nağmelerle cismani te'sir arar. Bu ise ruhani şuuru terbiye değil, ifnâ eder. Belki fâsık için bütün şuurundan geçip mest-i lâyakıl olmak bir zevktir. Fakat dinin, şer'in vermek istediği zevk bu değil, güzel manâlı, mukaddes şuurlu bir hayat yaşatmaktır. E.T.)
 musîkîşînas: Musikici, müzikçi.
@@ -6036,7 +6036,7 @@ mustazî: (Ziya. dan) Ziya alan, ışıklanan.
 mustazîll: (Zıll. dan) Gölgelenen, gölgede oturan. * Birinin koruyuculuğu ve himâyesi altında bulunan.
 mustazref: Nükte, zariflik. * Muhit. Hâvi.
 musu': Davarın sütü çekilip gitmek.
-muş : Fare.
+muş : Fare.
 muş-gîr: "Sıçan tutan" çaylak kuşu.
 muşa: îki renk üzere dokunmuş elbise.
 muşamma': (şem'. den) Muşamba.
@@ -6125,13 +6125,13 @@ mutasannîîn: (Mutasanni'. C.) Tasannu' edenler. Kendilerini güzel ve süslü 
 mutasarrif: Tasarruf hakkı ve salâhiyyeti olan. Tasarruf eden. Bir işi kendi isteğine göre idâre eden. Bir malın sahibi. * Eskiden, vilâyetten küçük olan Sancağın en büyük idâre âmiri.
 mutasarrifîyet: Tasarruf etme hakkı. Mutasarrıflık. * Mutasarrıfın vazifesi.
 mutasarrim: (C.: Mutasarrımin) Kahramanlık ve yiğitlik gösteren.
-mutasavver : Tasavvur edilmiş. îlerde yapılması düşünülmüş. * Tasvir edilen. Hatırdan geçen. * Kabil, akıl kabul eder, akıl alır.
-mutasavvif : Tasavvufla uğraşan. îlâhiyyatla uğraşan, tarikat ehli olan. (Bak: Tarikat)
+mutasavver : Tasavvur edilmiş. îlerde yapılması düşünülmüş. * Tasvir edilen. Hatırdan geçen. * Kabil, akıl kabul eder, akıl alır.
+mutasavvif : Tasavvufla uğraşan. îlâhiyyatla uğraşan, tarikat ehli olan. (Bak: Tarikat)
 mutasavvifâne: Sofuca. Mutasavvıflara yakışır tarzda.
 mutasavvife: Sofular, mutasavvıflar.
-mutasavvifîn : Tasavvufçular. Sofiler.
+mutasavvifîn : Tasavvufçular. Sofiler.
 mutasavvit: Ses çıkaran, seslenen, ses veren.
-mutasavvîr : Tasavvur eden, zihinde suret veren.
+mutasavvîr : Tasavvur eden, zihinde suret veren.
 mutasayyîf: Bir yerde yazlıyan.. Yaz mevsimini geçiren.
 mu'tasim: Günahtan çekinen. * Eliyle tutan. * Yapışan.
 mutatabbîb: (Tıbb. dan) Yalandan hekim. Doktorluk taslıyan.
@@ -6285,7 +6285,7 @@ muvahhad(e): (Vahdet. den) Bir ve tek hâle konmuş.
 muvahhîd: Allah'ın birliğine inanan. Tevhid eden. * Birleştirici olan.
 muvahhîdâne: Muvahhide yakışır surette.
 muvahhîdûn (muvahhîdîn): Muvahhidler. Bir Allah'a inanıp, birliğe çalışanlar. Birleyici olanlar.
-muvahhîş : Vahşet veren. Vahşileştiren. Korkutan. Korkutup ürküten.
+muvahhîş : Vahşet veren. Vahşileştiren. Korkutan. Korkutup ürküten.
 muvakaa: Düşmek, sukut.
 muvakebe: Bir işe sebat ve gayret gösterme.
 muvakere: Tarladan çıkan mahsulden bir kısmını almak şartıyla birlikte ekme.
@@ -6305,7 +6305,7 @@ muvaredat: (Muvârede. C.) (Vürud. dan) Gelen şeyler. * Aklı gelen şeyler. �
 muvarede: (C: Muvâredât) (Vürud. dan) Girip gelme. * îki şâirin, birbirlerinden habersiz olarak, tesâdüfen aynı beyitleri söylemeleri.
 muvarese: (Mirâs. dan) Birbirinden miras yeme.
 muvasaka: Birbirine söz verip anlaşma.
-muvasala : Vâsıl olmak. Erişmek. Ulaşmak.
+muvasala : Vâsıl olmak. Erişmek. Ulaşmak.
 muvasat: Yardım, dostluk, muavenet, iyilik. * ölen bir memurun ailesine maaş bağlama.
 muvasebe: Birbirinin üstüne atlama, zıplama, sıçrama.
 muvassa: Tavsiye olunan.
@@ -7737,7 +7737,7 @@ münharîf: (Harf. den) înhiraf eden, yoldan çıkmış. Eğilmiş, çarpık. U
 münharîf-ül mîzac: Rahatsız, keyifsiz.
 münharît: (înhirat. dan) Bir yola süluk eden.
 münhasir: (Hasr. dan) Belli bir sınır içinde olup harice tecavüz etmeyen, inhisar eden, her yanı çevrili. * Yalnız bir kimseye veya bir şeye mahsus olan.
-münhasiran : Sadece, sâde. * Bir işe veya bir şeye âit olarak.
+münhasiran : Sadece, sâde. * Bir işe veya bir şeye âit olarak.
 münhasîf: (Husuf. dan) înhisaf eden, sönükleşen, daha mükemmel bir $şeyin yanında sönük kalan. Değersiz. Gölgelenmiş.
 münhaşî': Kibiri kırılma.
 münhatt: Aşağı inen, inhitât eden. Alçak. çukur.
@@ -8760,7 +8760,7 @@ müşahere: (şehr. den) Aylıkla tutma. Aylıkla kiralama.
 müşahere-hârân: Aylıklılar.
 müşahereten: Aylıklı olarak.
 müşahha: (Müşahhat) Kavga etmek, çekişmek, niza etmek.
-müşahhas : Nev'i, cinsi anlaşılmış. * şahıs haline girmiş, şahsiyeti belli olmuş. şahıslanmış, teşhis edilmiş. (Bak: Mücerred) 
+müşahhas : Nev'i, cinsi anlaşılmış. * şahıs haline girmiş, şahsiyeti belli olmuş. şahıslanmış, teşhis edilmiş. (Bak: Mücerred)
 müşahhat: Kavga etmek, niza etmek, çekişmek.
 müşahhis: (şahs. dan) Teşhis eden, taslağın adını koyan.
 müşahîd: Gören, seyreden. Görmekle tetkik eden.
@@ -8784,7 +8784,7 @@ müşarîk: (şirket. den) Ortak, şerik. Bir işte birlikte bulunan. * Birlikte
 müşarîz: Huysuz, kavgacı, gürültücü.
 müşarün-îleyh: Kendine işaret edilen. îsmi evvelce söylenmiş olan.
 müşaş: Omuz başı. * Yumuşak kemik başları. (çiğnenmesi mümkündür). * Yumuşak yer.
-müşa'şa : (şa'şaa. dan) Parlayan, parıldayan. * Dedbedeli, gürültülü, patırtılı. * Karışmış, karışık.
+müşa'şa : (şa'şaa. dan) Parlayan, parıldayan. * Dedbedeli, gürültülü, patırtılı. * Karışmış, karışık.
 müşat: (Mâşi. C.) Yayan yürüyen kimseler.
 müşatare: Uzaklık. Iraklık. * Bir şeyi yarı yarıya bölüşme. Paylaşma.
 müşate: Saç ve sakaldan dökülen kıllar. 
@@ -8823,11 +8823,11 @@ müşerrîh: (C.: Müşerrihin) (şerh. den) Açıklayan, şerheden. * Teşrih y
 müşetta: Kış evi.
 müşevveh: şekil ve kıyafeti çirkin. Bed-endâm kimse. 
 müşevvek: (şevk. den) Dikenli. Diken şeklinde sivri olan.
-müşevveş : Karmakarışık, anlaşılmaz, düzensiz.
-müşevveşîyet : Karışıklık, karmakarışık vaziyet.
+müşevveş : Karmakarışık, anlaşılmaz, düzensiz.
+müşevveşîyet : Karışıklık, karmakarışık vaziyet.
 müşevvîk: îsteğini arttıran. Gayrete getiren, şevk veren, teşvik eden.
 müşevvîkane: şevk vermek suretiyle, teşvik ederek, sevdirerek.
-müşevvîş : Karıştıran, anlaşılmaz ve içinden çıkılmaz hâle koyan.
+müşevvîş : Karıştıran, anlaşılmaz ve içinden çıkılmaz hâle koyan.
 müşeyyea: Bir şeyin ardından bağırıp çağıran kadın. * Koyun sürüsünün ardına uyan koyun.
 müşeyyed: Yüksek ve sağlam, metin yapılı, muhkem.
 müşeyyîd: Sağlam, yüksek yapı yapan.
@@ -8856,12 +8856,12 @@ müşk-feşan: Misk saçan, misk saçıcı.
 müşk-füruş: (C.: Müşk-füruşân) Misk satan.
 müşk-sa: Misk gibi.
 müşkîl: (Müşkile) Zorluk, güçlük, zor olan iş. çetinlik. * Edb: Mânasının derinliği veya edebi bir san'atla ifade edilmiş olmasından dolayı teemmül ve tefekkürsüz anlaşılmayacak derecede hafi olan lâfızdır. Mânaca nass'ın mukabilidir.
-müşkîl-küşa : Zorluğu gideren, açan. Zor işleri halleden. çetinliği gideren.
+müşkîl-küşa : Zorluğu gideren, açan. Zor işleri halleden. çetinliği gideren.
 müşkîl-küşayân: Zorluğu gideren ve zor işleri halleden kimseler.
-müşkîl-pesend : Zorla beğenen. Her şeyi kolay kolay beğenmiyen. Zorlaştıran.
+müşkîl-pesend : Zorla beğenen. Her şeyi kolay kolay beğenmiyen. Zorlaştıran.
 müşkîl-pesendân: (Müşkil- pesend. C.) Herşeyi kolay kolay beğenmiyenler.
 müşkîl-ter: çok zor ve çetin. çok müşkil.
-müşkîl-üt tahsîl : Elde edilmesi, tahsili zor olan. Kolay tahsil edilemeyen.
+müşkîl-üt tahsîl : Elde edilmesi, tahsili zor olan. Kolay tahsil edilemeyen.
 müşkîlat: Zorluklar, çetinlikler.
 müşkîlat-i kur'anîye: Manasının incelik ve derinliği veya istiare-i bediyye ile ifade edilmiş olması gibi sebeblerden dolayı derin tetebbu ve tefekkür neticese ancak anlaşılabilen âyetler.
 müşkîle: Zor ve müşkil olan iş. 
@@ -8895,7 +8895,7 @@ müşteheyat: Lezzetli şeyler. Nefsin hoşuna giden ve iştah için yenen şeyl
 müştehî: îştihası olan, seven. Hâhişger.
 müştehîr: şöhretli. Meşhur. Namdar.
 müştehîyat: (Bak: Müşteheyat)
-müştekâ : şikâyet olunan, kendisinden şikâyet edilen.
+müştekâ : şikâyet olunan, kendisinden şikâyet edilen.
 müştekâ-anh: Kendisinden şikâyet olunan kimse.
 müştekat: Türemiş kelimeler. Bir kökten ayrılmış kelimeler.
 müştekî: şikâyette bulunan, şikâyetçi.
@@ -9057,7 +9057,7 @@ mütebalîh: Kendini ebleh gösteren. Bönlük tavrı takınan.
 mütebarek: Yüksek yer.
 mütebarîz: (Bürüz. dan) Tebarüz eden, meydana çıkan. Bâriz âşikar olan.
 mütebarîzîn: (Mütebariz. C.) Meydana çıkanlar, belirenler, tebarüz edenler.
-mütebasbis : (Basbasa. dan) Yaltaklanan, tabasbus eden.
+mütebasbis : (Basbasa. dan) Yaltaklanan, tabasbus eden.
 mütebasbisâne: Yaltaklanarak, tabasbus ederek.
 mütebasbisîn: (Mütebasbıs. C.) Yaltaklananlar, tabasbus edenler.
 mütebassir: (Basar. dan) Dikkatle bakan, ilerisini gören, iyice düşünen. Basiretli.
@@ -9368,7 +9368,7 @@ mütehasimîn: (Mütehasım. C.) çekişenler, birbirlerine düşmanlık ve husu
 mütehasîd: Birbirini kıskanan, çekemiyen. Birbirine hased eden.
 mütehassil: (Husul. den) Husule gelen, hasıl olan, vücut bulan, meydana gelen.
 mütehassin(a): (Hısn. dan) Kaleye veya istihkâmlı bir yere kapanmış.
-mütehassis : Bir işin hakikatını, içyüzünü çok iyi bilen. Bir meslekte mahir olan. * Has ve mahsus olan.
+mütehassis : Bir işin hakikatını, içyüzünü çok iyi bilen. Bir meslekte mahir olan. * Has ve mahsus olan.
 mütehassîr: (Hasr. dan) Pıhtılaşmış.
 mütehassîr: (Hasr. dan) özleyen, hasret çeken. Mahrum kalan. îsteğine erişemiyen.
 mütehassîrâne: özleyerek, hasret çekerek.
@@ -9988,8 +9988,8 @@ mütevafik: Birbirine uygun olan, tevafuk eden.
 mütevafîr(e): (Vüfur. dan) çoğalan, bollanan, fazlalaşan.
 mütevaggîl: Bir şeyin çok derinliğine giren, meşguliyetini derinleştiren. Usanmayıp, yorulmayıp gayret ve devam eden.
 mütevaggîlîn: (Mütevaggil. C.) çok uğraşanlar, fazla meşgul olanlar. Bir şeyin derinliğine varanlar.
-mütevahhîş : Tevahhuş eden, ürken, korkan, yadırgayan.
-mütevahhîşâne : Korkarak, ürkerek, tevahhuş ederek.
+mütevahhîş : Tevahhuş eden, ürken, korkan, yadırgayan.
+mütevahhîşâne : Korkarak, ürkerek, tevahhuş ederek.
 mütevaîd: Birbirine söz veren. Sözleşen.
 mütevaîdîn: (Mütevâid. C.) Sözleşenler, vaidleşenler, birbirlerine söz verenler.
 müteva'îr: Hakir, zelil. Nefret edip kimse yanına gelmeyen.
@@ -10213,7 +10213,7 @@ müyesser: (Yüsr. den) Kolaylıkla olan, kolay gelen, âsân olan, nasib.(Küre
 müyesser: Fariside "nevâle" denilen yemek.
 müyessîr: Kolay yapan, teshil eden, kolaylaştıran.
 müyul: Meyiller, yönelmeler.
-müyul-ü müteşa'îbe : çeşitli şubeleri olan meyiller. çeşitli arzular, meyiller.
+müyul-ü müteşa'îbe : çeşitli şubeleri olan meyiller. çeşitli arzular, meyiller.
 müyulat: (Meyl. C.) Meyiller, arzular.
 müyun: Yalanlar, uydurmalar. Yalan söylemeler.
 müz (münzü): Gr: Harf-i cer oldukları zaman (Fi: ) vazifesini görürler. Zarf veya isim olduklarında ismin başına gelirlerse kendileri mübteda, sonra gelen haber olur. Fiilin başına gelirlerse kendilerinden önceki bir fiilin mef'ulünfihi olarak mahallen mensub bulunurlar.

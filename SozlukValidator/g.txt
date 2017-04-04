@@ -475,7 +475,7 @@ gayr-endîş: Başkalarını düşünen, şefkatli ve cömert kimse.
 gayr-i kabîl: Mümkün ve kabil değil, imkânsız. Mümkün olmayan, olamaz.
 gayr-i ma'kul: Akıl işi olmayan, aklın kabul etmediği.
 gayr-i mahdud: Hudutsuz, uçsuz bucaksız, sonsuz.
-gayr-i mahsur : Hasrolunmamış. Sınırsız.
+gayr-i mahsur : Hasrolunmamış. Sınırsız.
 gayr-i me'luf: Alışılmamış, ülfet edilmemiş.
 gayr-i me'mul: Umulmadık. Beklenmedik. Birdenbire.
 gayr-i mebzul: çok kullanılmayan. Az bulunan şey.
@@ -733,7 +733,7 @@ gilbit: Taşsız yer.
 gildirgiç: Mücellit ıstılahlarındandır. Kitapların kenarlarını kesmeğe mahsus, rende biçiminde bir âlettir.
 gilk: Acip ve garip. * Zahmet, meşakkat, güçlük.
 gill: Düşmanlık, garaz ve adavet, gizli kin ve haset.
-gill u giş : Aklın muhtelif fikirler üzerinde kararsızlığı. * Gönül darlığı. * Kin ve hile. Hıyanet ve adavet.
+gill u giş : Aklın muhtelif fikirler üzerinde kararsızlığı. * Gönül darlığı. * Kin ve hile. Hıyanet ve adavet.
 gillîm: Cimâı şiddetle arzu eden.
 gilman: (Gulâm. C.) Bıyığı yeni bitmiş gençler. * Cennet'te hizmet gören delikanlılar. * Köleler, esirler.
 gilman ü cevarî: Köleler ve cariyeler.
@@ -1044,9 +1044,9 @@ guş: Kulak. * Mc: îşitmek.
 guş-asb: Rüya. * îhtilam. Uyurken cenabet olmak.
 guş-dar: "Kulak tutan." Sözü tam mânasıyla dinleyen, kulak veren.
 guş-hurde: Kulağı bükülmüş, terbiye edilmiş.
-guş-î can : Can kulağı.
+guş-î can : Can kulağı.
 guş-î huş: Akıl kulağı. Can kulağı.
-guş-î kabul-î can : Candan kabul ile dinlemek.
+guş-î kabul-î can : Candan kabul ile dinlemek.
 guş-var: Küpe, kadınların kulaklarına taktıkları mücevher.
 guş-zed: Kulağa çarpan, işitilen.
 guşab: Pekmez.
@@ -1057,7 +1057,7 @@ guşe-gîr: Bir köşeye çekilen.
 guşe-î dehan: Ağzın iki tarafı.
 guşe-î uzlet: Tenha ve ıssız köşe.
 guşe-nîşîn: Köşeye çekilen, münzevi, insanlardan uzaklaşan.
-guşetmek : îşitmek. Dinlemek, kulak vermek, mesmu' olmak.
+guşetmek : îşitmek. Dinlemek, kulak vermek, mesmu' olmak.
 guşîş: çabalama, uğraşma, çalışma.
 guşmal: Yola getirme, te'dib etme, kulak bükme, ihtar etme.
 guşt: Et, lahm.
@@ -1094,7 +1094,7 @@ güdazende: Eriten, eritici.
 güdazîş: Yakılma, yanma.
 güft: Dedi, söyledi. * Söz, kelâm.
 güft ü gu: Dedi kodu. Kil ü kal.
-güft ü şenîd : îşitilen şeyler, duyulan şeyler.
+güft ü şenîd : îşitilen şeyler, duyulan şeyler.
 güftar: Sözler, lâkırdılar.
 güfte: Her hangi bir makama göre bestelenen manzume. * Farsça "söylemek" demek olan "güften" mastarından gelen bu tabirin mânası, söylenmiş söz demektir.
 güher-füruş: Mücevher satan.
@@ -1264,7 +1264,7 @@ güzeran: Geçen, geçici. * Geçme. Geçiş.
 güzergâh: Geçit yeri. Geçilecek yer.
 güzername: Geçiş tezkeresi.
 güzeşt: Geçme, geçiş. Geçen. 
-güzeşte : Geçen. Geçmiş. Geçmiş olan.
+güzeşte : Geçen. Geçmiş. Geçmiş olan.
 güzeşte-gân: (Güzeşte. C.) önden gelmiş olanlar, geçmişler.
 güzîde : (Güzin) Seçilmiş. întihab edilmiş. Beğenilmiş.
 güzîde-gân: (Güzide. C.) Seçkinler, beğenilmişler, seçilmiş olanlar.

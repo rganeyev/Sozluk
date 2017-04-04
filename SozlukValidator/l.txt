@@ -710,7 +710,7 @@ levma: (C.: Levâyim) Azarlama.
 levme: Kınanmaya ve çekiştirilmeğe sebep olacak şey.
 levn: Renk, boya. Sıfat, nev', çeşit, tür. Bir şeyi diğerinden ayıran alâmet.
 levs: Pislik, murdarlık. Kir. * Zor. Kuvvet. * Tam olmayan, zayıf beyyine. * Bir şeyi ağızda öte beri gevelemek. * Deprenmek. * Bulaştırmak ve karıştırmak. Bulaşıklık. * Cerâhet, yara.
-levs : Kapı aralığından veya örtü ve perde kenarından bir nesneyi görmek.
+levs : Kapı aralığından veya örtü ve perde kenarından bir nesneyi görmek.
 levs-î fânî: Gelip geçici murdarlık, pislik. Dünyanın fâni, faydasız eğlenceleri.
 levs-ül katl: Birisini katletmekle müttehem olan şahısta, katlin nişânesi veyahut maktul ile aralarında zâhir bir düşmanlık bulunması gibi alâmet ve karineler.
 levsîyyât: Kirli ve pis şeyler.
@@ -949,7 +949,7 @@ lîzaz: Kapı ardına konulan ağaç sürgü.
 loca: îtl. Bazı toplantı yerlerinde bir veya birkaç seyirciye mahsus hususi odacıklar. * Hücre, küçük bölme. * Masonların toplandıkları yeri.
 loça: Geminin baş tarafında ve iki yanda demir zincirin geçmesine mahsus delikler.
 lodos: Güneyden esen ılık yel, rüzgâr.
-lohusa : (Bak: Lühusa)
+lohusa : (Bak: Lühusa)
 lojîstîk: Ask: Askerlik san'atının ve seferi orduların iaşe, muhabere ve sevkiyat şartları, hareket ve harb kabiliyeti bakımından en etkili durumda bulundurulması için lâzım gelen çalışmalara aid kısım.
 lokavt: ing. Bir işverenin, isteklerini kabul ettirmek gayesiyle işyerini kapaması.
 lokman hekîm: Kur'an-ı Kerim'de ismi geçen büyük zatlardan olup öğütleri ve ahlâki, tıbbi sözleri ile tanınmıştır. Peygamber Davud (A.S.) zamanında yaşadığı rivayet edilmektedir. Peygamber veya veli olduğu hususunda ihtilaf vardır.
@@ -1053,7 +1053,7 @@ lühuk: Ulaşmak. Yaklaşmak. Sonradan yetişmek.
 lühum: (Lahm. C.) Etler.
 lühum: Cömertler. îyiler. îyi insanlar.
 lühum-u lezîze: Lezzetli etler.
-lühusa : Yeni doğurmuş kadın. Henüz yataktan kalkmamış kadın. Bu hâl 9 ilâ 40 gün kadar devam eder.
+lühusa : Yeni doğurmuş kadın. Henüz yataktan kalkmamış kadın. Bu hâl 9 ilâ 40 gün kadar devam eder.
 lühve: (C.: Lühâ-Lühât) Değirmencinin, eliyle değirmenin ağzına döktüğü tane. (Daha çok hediye, atâ ve hibe mânasına kullanılmıştır.)
 lük: Kalın ve yoğun şey. * Kırmızı boya.
 lü'ka: Kaşıkla alınan şey.

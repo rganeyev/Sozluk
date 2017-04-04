@@ -190,8 +190,8 @@ dahîs: Hayvanların tırnak diplerindeki et parçası. Dolama hastalığı.
 dahîs: Kokmuş, kemiksiz et. * Semiz nesne. * çok adet, fazla miktar.
 dâhîye: Hârikulâde zekâ ve fetanet sahibi. * âfet, belâ, musibet. Kazâ. Emr-i azim. Büyük iş ve hâdise.
 dâhîye-î dehyâ: çok büyük belâ, musibet.
-dâhîye-î edeb ¯¯: Edebiyatta dâhi olan, eşine az rastlanan büyük edib.
-dâhîye-î harb ¯¯: çok becerikli büyük kumandan.
+dâhîye-î edeb "": Edebiyatta dâhi olan, eşine az rastlanan büyük edib.
+dâhîye-î harb "": çok becerikli büyük kumandan.
 dâhîye-î hîlkat: Yaradılıştan dâhi olan. Hârika.
 dahîyye: Kurbanlık hayvan.
 dahk: Tere yağı. * Bal. * Kar. * Ağzı yarılmış olan çiçek tomurcuğu.
@@ -238,15 +238,15 @@ daîn: Asıl. * Mâden. * Doğruluk.
 daîn: (C.: Daân) Yünlü olan koyun.
 daîr: Devreden. Dolaşan. Dönen. Bir şeyin etrafını kuşatan. * Belli bir şey hakkında olan. Alâkalı, müteallik.
 daîre: Resmi hükümet makamlarından her biri. * Yazıhane. * Büyük bir idare adamının makamı. * Ev veya apartman katı. * Bir manevi te'sirin hükmü geçtiği mahal. * Sınır içi. * Büro, büyük ev, konak. * çember, düz yuvarlak şekil. * Mat: Merkezden aynı uzaklıktaki noktaların çevirdiği düzlük parçası. * Hezimet ve musibet. Beliye-i muhita. * Dönüp dolaşıp meydana gelen hâdise ve inkılâb.
-daîre-î âfâk ¯¯: Ufuklar dairesi. çok geniş ve büyük dâire, kâinat.
-daîre-î ehadîyet ¯¯: Allah'ın ehadiyetle tecelli ettiği dâire. (Bak: Ehadiyet)
-daîre-î esbab ¯¯: Sebepler dâiresi. Sebep ve kanunların bulunduğu yer olan maddi âlem.
+daîre-î âfâk "": Ufuklar dairesi. çok geniş ve büyük dâire, kâinat.
+daîre-î ehadîyet "": Allah'ın ehadiyetle tecelli ettiği dâire. (Bak: Ehadiyet)
+daîre-î esbab "": Sebepler dâiresi. Sebep ve kanunların bulunduğu yer olan maddi âlem.
 daîre-î esmâ: Cenab-ı Hakk'ın isimlerinin sahası ve dairesi.
 daîre-î îmkân: Kâinat. îmkân âlemi. Mükevvenat. Mümkün olan, şartların müsait olduğu âlem. (Daire-i mümkinat da aynı mânada kullanılır.)
-daîre-î mümkînat ¯¯: (Bak: Daire-i imkân)
-daîre-î resmîye ¯¯: Hükûmet dairesi, resmi daire.
+daîre-î mümkînat "": (Bak: Daire-i imkân)
+daîre-î resmîye "": Hükûmet dairesi, resmi daire.
 daîre-î vücub: Tebeddül ve tagayyür etmeyen ve mümkinat âleminden olmayan âlemler. Esmâ ve Sıfât-ı îlâhiyye gibi. (Bak: Vücub âlemi)
-daîre-î vücud ¯¯: Vücud ve varlık dairesi ve sahası.
+daîre-î vücud "": Vücud ve varlık dairesi ve sahası.
 daîrevî: Daire şeklinde. Daire gibi.
 daîrezen: Mehter takımında def çalan.
 daîyan: (Dâi. C.) Dua edenler, duacılar.
@@ -285,7 +285,7 @@ dal': Meyl. Eğrilik. Kuvvet. * Ağır yük götürmek.
 dalaa: Kuvvet. * Eğrilik. * şiddet.
 dalal: Sapıklık. * Sapmak. Doğrudan, imân ve îslâmiyyet yolundan sapmak.
 dalalet: îman ve îslâmiyetten ayrılmak. Azmak. Hak ve hakikatten, îslâmiyet yolundan sapmak. Allah'a isyankâr olmak. * şaşkınlık.(... Nevâfil kısmında, emr-i istihbabi ile yine ehl-i iman mükelleftir. Fakat, terkinde azab ve ikab yoktur. Fiilinde ve ittibaında azim sevaplar var; ve tağyir ve tebdili, bid'a ve dalâlettir ve büyük hatadır...... Sünnete ittiba etmiyen, tenbellik eder ise, hasaret-i azime; ehemmiyetsiz görür ise, cinayet-i azime; tekzibini işmam eden tenkid ise, dalâlet-i azimedir. L.)
-dalaletpîşe  : Sapıklığı tâkibeden. Sapıklığa giden. îslâmiyetten başka yol tâkib eden.
+dalaletpîşe  : Sapıklığı tâkibeden. Sapıklığa giden. îslâmiyetten başka yol tâkib eden.
 daldal(e): Taşlı sert yer.
 dalgakiran: t. Bir limandaki tekneleri dalgaların te'sirinden muhafaza etmek için denizde yapılan set.
 dalgiç: t. Mercan, inci ve saire avlamak veya denizin dibine düşmüş olan şeyleri çıkarmak için denizin dibine dalmaya alışık adam.
@@ -700,7 +700,7 @@ dehş: Bulanıklık, karanlık. Zulümat. * Bir işe başlama.
 dehş(e): Tenbel olmak.
 dehşet: Korkup kaçılacak şey. ürkmek, şaşmak. Korku ve telâş içinde olmak.
 dehşet-efşan: Korkunç, korku ve dehşet saçan, ürkütücü.
-dehşet-engîz : çok dehşet verici. çok korkutucu.
+dehşet-engîz : çok dehşet verici. çok korkutucu.
 dehun: Hatırlama, ezber okuma.
 dehüm: Onuncu.
 dehver: Cem'etmek, toplamak. * Lokmayı büyük yapmak.
@@ -902,15 +902,15 @@ derecat: (Derece. C.) Dereceler, basamaklar, kademeler, yükseklikler, mertebele
 derecat-i kurbîye: Yakınlık dereceleri. Allah'a manevi yakınlık mertebeleri.
 derecat-i şemsîye: Eski Kozmoğrafyaya göre; güneşi döndüğü farzedilen dâirenin on iki burca tekabül eden kısımları.
 derece: (C.: Derecât) Yukarıya çıkacak basamak. * Dairenin bölündüğü dilim. 360 kısmın beheri ki, açıları ölçmeye yarar. * Termometrenin bölündüğü kısımların beheri. Mertebe, paye. * Miktar, rütbe.
-derece-î hararet ¯¯: Isı derecesi.
+derece-î hararet "": Isı derecesi.
 derece-î süllem: Merdiven basamağı.
-derece-î şuhud ¯¯: îmanı ve mânevi hakikatları, mânevi terakki yoluyla görmek seviyesinde olan iman mertebesi.
+derece-î şuhud "": îmanı ve mânevi hakikatları, mânevi terakki yoluyla görmek seviyesinde olan iman mertebesi.
 dered: Ağızda diş olmamak.
 derek: Urgan ucuna eklenip, kovanın kulpuna bağlanan ip parçası (urgan suya değmesin diye) * Kiriş uçlarında olan halka (yayın başlarına geçirirler.)
 dereka: (C.: Deruk) Sığır derisinden yapılan kalkan.
 derekât: Aşağılık dereceleri. En aşağı mertebeler.
 dereke: Aşağı inen basamak. Aşağı mertebe. * Sıfırın altındaki derece. Düşüklük.
-dereke-î mîrkat ¯¯: Merdivenin en alt basamağı.
+dereke-î mîrkat "": Merdivenin en alt basamağı.
 derekî: Gerileme.
 derem: Akçe, para.
 derem: Baldır etli olduğundan dolayı topuğun görünmeyip belirsiz olması ve sâir kemiklerin etlilikten belirmeyip örtülmesi. * Ağızdan dişlerin dökülüp yerini et bürüyüp belirsiz olması. * Davarın yavaş yürüyüp adımlarını birbirine yakın atması.
@@ -949,7 +949,7 @@ dermeyan: (Der-miyân) Ortada olan şey, arada.
 dermeyan etmek: Anlatmak, söylemek, iddia ve defi'de bulunmak. Beyân. îleri sürmek.
 dernek: Eğlence için yapılan toplanma. * Düğün. * Cemiyetler kanununa göre kurulmuş cemiyet.
 derpey: Hemen, ardı sıra.
-derpîş : önde olan, göz önünde bulunan.
+derpîş : önde olan, göz önünde bulunan.
 derr: îyi iş. îyilik. Mahz-ı hayır. * Zat, kimse. Hod. Nefs. Bir kimsenin zâtı. * Yüzün tazeliğinin, teravetinin hastalıktan dolayı gitmesinden sonra, iyi olup düzelmesi.
 derrace: Eskiden kullanılan bir çeşit harb âletidir ki, üstü sığır derisi ile örtülü olup, tekerlekleri içinde dönerdi. * Bisiklet.
 derrak: (Derk. den) çok dikkatli olan, çabuk anlayan, anlayışlı, müdrik.
@@ -969,9 +969,9 @@ derva(h): şaşkın, şaşırmış olan, hayran. * Başaşağı asılmış. * L�
 dervah: Hastalıktan yeni kurtulan, iyice kendisine gelemeyen kimse. * Sağlam, metin, muhkem. * Doğru, asıl, gerçek. * Yiğitlik, cesaret, cesur olmak, şecaat. * Ayıp, utanma. * Sertlik, kabalık.
 dervaze: Kapı. şehir. şehir kapısı, kale kapısı.
 dervâze-î nuş $: Mc: Ağız.
-dervîş : Gayet mütevazi ve kanaatkâr olan. * Kimsesiz, fakir. * Mâneviyâtla gönlü zengin olan fakir. * Mürid veya şeyh.
+dervîş : Gayet mütevazi ve kanaatkâr olan. * Kimsesiz, fakir. * Mâneviyâtla gönlü zengin olan fakir. * Mürid veya şeyh.
 dervîşân: (Derviş. C.) Dervişler.
-dervîşâne : Dervişe yakışır halde, saflık ve kalenderlikle. Müstağni ve fakir bir surette.
+dervîşâne : Dervişe yakışır halde, saflık ve kalenderlikle. Müstağni ve fakir bir surette.
 dery: Bilmek.
 derya: Deniz, bahr.
 derya-bend: Liman. * Tersane.
@@ -1146,7 +1146,7 @@ devr-î bâtil: Man: Kısır devir. Bir hükmü ikinci bir hüküm ile, bunu da 
 devr-î dîl-ârâ: En hoş devir. Gönlü hoş eden zaman.
 devr-î ebvab: Kapı kapı gezip dolaşmak.
 devr-î felek: (Bak: Devr-i zaman)
-devr-î kasir : (Devre-i kasire) Fiz: Kısa devre.
+devr-î kasir : (Devre-i kasire) Fiz: Kısa devre.
 devr-î lâle: Lâle devri, lâle mevsimi, lâle zamanı.
 devr-î mîhnet: Dünya, cihan, küre-i arz.
 devr-î sâbik: Bir önceki hükümet. Geçmiş devir.
@@ -1643,7 +1643,7 @@ dur-baş: "Uzak ol!" anlamına gelen bir emir. * Değnek, sopa, âsa.
 dur-bîn: Uzak gören. Uzağı gösteren âlet.
 dur-bînî: îlerisini görürlük, uzağı görmeklik.
 dur-dest: Ulaşılması zor şey, erişilmesi güç şey. Uzak, uzun.
-dur-endîş : önceden görüp düşünen. Tedbirli. Her şeyin ilerisini evvelden mülâhaza eden. îlerisini düşünen.
+dur-endîş : önceden görüp düşünen. Tedbirli. Her şeyin ilerisini evvelden mülâhaza eden. îlerisini düşünen.
 dur-nüma(y): Uzağı gösteren.
 dur-nüvîs: Uzağı yazan. Telgraf.
 dura-dur: Uzaktan uzağa. Uzak uzak. Uzun uzadıya.
@@ -1661,7 +1661,7 @@ duru': Uzak, ırak, baid.
 durub: (Darb. C.) Döğmeler, vurmalar, darblar.
 durub-u emsal: Meşhur sözler. Darb-ı meseller. Ata sözleri.
 durus: Kuyu örülen taş.
-dûş : Omuz. Ketif. * Dün gece. * âlem-i menâm, rüya âlemi. * Mütesadif ve mütelâki olan.
+dûş : Omuz. Ketif. * Dün gece. * âlem-i menâm, rüya âlemi. * Mütesadif ve mütelâki olan.
 dûş azmak: Rüyâda iken kirlenmek, ihtilâm olmak.
 duşab: Hurma ve üzüm pekmezi. Pekmez.
 duşîze: (C.: Duşizegân) Kız, bâkire. El değmemiş.
@@ -1747,7 +1747,7 @@ dülfîn: Denize düşenlere yardım edip, onları kurtaran bir balık.
 dülke: Küçük bir canavar.
 dülu': Huruç etmek, çıkmak.
 düluk: Batma, güneş batması.
-düluk-uş şems : Güneşin batışı.
+düluk-uş şems : Güneşin batışı.
 dü'lul: (C.: Dâlil) Belâ, zahmet, dâhiye.
 düm: Kuyruk.
 düm-bürîde: Kuyruğu kesik.
@@ -1838,10 +1838,10 @@ dü'sur: (C.: Deâsir) Yıkılmış havuz.
 düsur: Mahvolma. Eseri kalmama. Ortadan kalkma. Nişanı belirsiz olma. * Kaftan eskime. * Ev köhne olma.
 düsür: (Disar. C.) Perçinler, halatlar, kenetler. Geminin tahtalarını birbirine bağlayan rabıtalar.
 düsür: (Disar. C.) üste giyilen kaftanlar, elbiseler. * Yatak çarşafları.
-düş : (Bak: Dûş)
-düşab : Pekmez.
+düş : (Bak: Dûş)
+düşab : Pekmez.
 düşenbîh: Haftanın ikinci günü, pazartesi.
-düşeş : îki altılık. Tavla zarında iki defa altı gelmesi.
+düşeş : îki altılık. Tavla zarında iki defa altı gelmesi.
 düşîn(e): Dün gece.
 düşnam: Sövme, sövüp sayma, ta'n.
 düşvar: Müşkil. Güç. Zor.

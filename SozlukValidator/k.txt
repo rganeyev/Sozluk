@@ -567,7 +567,7 @@ kamu: (Kamuğ) t. Hep, bütün, tamamen.
 kamuflaj: Fr. Gizlenme, örtme. Aldatma gayesiyle yapılan tertibat. Daha ziyade harp zamanlarında araçlar ile insanların, bulundukları mekâna göre kılığa girmeleri.
 kâmuran: (Bak: Kâmran)
 kamus: Deniz. Derya. * Denizin ortası, derin yeri. * Büyük Lügat Kitabı.
-kamus : Arslan, esed.
+kamus : Arslan, esed.
 kamus-î arabî: Arapça lügat kitabı, Arapça sözlük.
 kamus-î osmanî: Osmanlıca sözlük.
 kamus-î türkî: Türkçe lügat kitabı, Türkçe sözlük. * şemseddin Sâmi'nin yayınladığı Türkçe lügat.
@@ -868,8 +868,8 @@ kasa'nîne: Katı olmak. * Büyük olmak.
 kasar: üşenme, tembellik etme. * Güç ve kuvvetin son sınırı. * Boğazı tutup nefes aldırmayan bir zahmet.
 kasara: (C: Kasr-Kasarât) Boyun kökü. * Yoğun ağaç. * Gemilerin baş ve arka taraflarında güverteden daha yüksek yapılan güverte.
 kasaret: Kısalık. Kısa olma.
-kasas : Haber vermek. Hikâye etmek, anlatmak. * Tetebbu' etmek. * Tıb: Göğüs kemiği. Göğüs ortası.
-kasas : Arslan.
+kasas : Haber vermek. Hikâye etmek, anlatmak. * Tetebbu' etmek. * Tıb: Göğüs kemiği. Göğüs ortası.
+kasas : Arslan.
 kasas suresî: Kur'an-ı Kerim'in 28. Suresidir. Mekkidir. (Kısas da denir.)
 kasat: Davarın arka ayaklarının dik ve doğru olması.
 kâsat: (Ke's. C.) Kadehler, ke'sler. Askerlerin, bellerine bağlayıp taşıdıkları ve süngü gibi kullandıkları düz ve kısa kılıç.
@@ -913,7 +913,7 @@ kasim: (A, uzun okunur) Kırıcı, ezici, ufaltan.
 kasir: (A, uzun okunur) Zorla işleten, yaptıran.
 kasir: (A, uzun okunur) Kısa, eksik. * Kusur işleyen. Kusurlu.
 kasir-ul akl: Düşüncesi noksan, kısa akıllı.
-kasir-ül basar : Görüşü kısa. * Kısa görüşlü, dar düşünceli.
+kasir-ül basar : Görüşü kısa. * Kısa görüşlü, dar düşünceli.
 kasir-ül fehm: Anlayışı noksan, kısa anlayışlı. Anlayışsız.
 kasir-ül yed: Eli kısa. âciz, işten anlamaz, beceriksiz.
 kasirane: âcizane, beceriksizcesine.
@@ -930,7 +930,7 @@ kâsîd: Kesat olan, eksik olan, verimsiz olan.
 kasîde: (C.: Kasâid) Onbeş beyitten az olmamak üzere, her beyit kafiyeli olarak, büyük kimseleri veya herhangi bir şeyi medh ü senâ eden, öven manzume şekli. Büyük zatları ve daha çok Cenâb-ı Hakk'ı veya Peygamberi (A.S.M.) medheden manzume.
 kasîde-gû: Kaside yazan, kaside söyliyen.
 kasîde-î bürde: Hazret-i Peygamber (A.S.M.) önünde meşhur Arab şâiri Ka'b bin Züheyr'in okuduğu kasidenin adı olup, bu kasideyi Peygamber Aleyhissalâtü vesselâm beğenmiş, mükâfat ve iltifat eseri olarak da kendi hırkasını ona giydirdiğinden bu isimle meşhur olmuştur.
-kasîde-î ercuze : (ürcuze) Hz. îmam-ı Ali (R.A.) tarafından bahr-ı recez vezni üzere yazılan ve istikbalden haber veren meşhur kasidenin adı.(Mecmuat-ül Ahzab'ın 582. sahifesinden 597. sahifesine kadar o Ercuzedir. O Ercuzenin mevzuu ve içindeki maksad-ı asli; îsmi A'zamı tazammun eden altı ismin ehemmiyetini beyan etmek, hem o münâsebetle istikbaldeki bir kısım umur-u gaybiyeye ve te'sis-i îslâmiyette bir kısım mücâhedâtını işâret etmektir. Evet, Hz. îmâm üstâdı olan Habibullah'dan (A.S.M.) aldığı dersin bir kısmını işari bir surette zikrediyor... L.)
+kasîde-î ercuze : (ürcuze) Hz. îmam-ı Ali (R.A.) tarafından bahr-ı recez vezni üzere yazılan ve istikbalden haber veren meşhur kasidenin adı.(Mecmuat-ül Ahzab'ın 582. sahifesinden 597. sahifesine kadar o Ercuzedir. O Ercuzenin mevzuu ve içindeki maksad-ı asli; îsmi A'zamı tazammun eden altı ismin ehemmiyetini beyan etmek, hem o münâsebetle istikbaldeki bir kısım umur-u gaybiyeye ve te'sis-i îslâmiyette bir kısım mücâhedâtını işâret etmektir. Evet, Hz. îmâm üstâdı olan Habibullah'dan (A.S.M.) aldığı dersin bir kısmını işari bir surette zikrediyor... L.)
 kasîde-perdaz: Kaside yazan, kaside düzenliyen.
 kasîde-serâ: Kaside söyliyen, kaside yazan.
 kasîf: Kuru ince ağaç. * Gök gürültüsü. * Deniz sesi, dalga sesi.
@@ -942,7 +942,7 @@ kâsîr: çok olan, kesir, bol olan.
 kâsîr: (Kesr. den) Kıran, kırıcı. * Tavşancıl kuşu.
 kasîr-ül akl: Aklı kısa, aklı ermez.
 kasîr-ül bâ': Kısa boylu, beceriksiz, zavallı.
-kasîr-ül basar : Dar görüşlü, basireti kısa. * Miyop.
+kasîr-ül basar : Dar görüşlü, basireti kısa. * Miyop.
 kasîr-ül hîmme: Himmeti az veya kısa olan.
 kasîr-ül kame: Kısa boylu. Boyu kısa olan.
 kâsîr-ül esnam: Putları kıran. (Hz. îbrahim'in A.S. lâkabıdır)
@@ -1490,7 +1490,7 @@ keff-î yed: El çekme. Karışmama.
 keffaret: (Masdar gibi kullanılıyorsa da "keffâr" mübalâğa isminin müennesi olup, asıl mânası: örtücü ve imhâ edici demektir.) Bir mecburiyet altında veya yanlışlıkla işlenmiş günahı affettirmek ümidiyle şeriata uygun olarak verilen sadaka veya tutulan oruç. * Günahtan arınma.
 keffaret-î halk: Hac için ihrama girip de bir özre mebni saçlarını vaktinden evvel traş ettiren kimsenin tutacağı üç günlük oruçtan ibârettir.
 keffaret-î katl: Bir müslümanı veya bir zımmiyi amden değil de bir hata neticesi olarak öldüren bir müslümana lâzım gelen keffârettir ki; muktedir ise, bir mü'min köle âzad etmekten; buna muktedir değilse, iki ay muttasıl oruç tutmaktan ibârettir.
-keffaret-î savm  : Ramazan-ı şerifte özürü bulunmaksızın muayyen şartlar dâhilinde orucunu bozan bir mükellefin, müslim veya gayr-i müslim bir köle veya câriye azâd etmesinden; buna muktedir değilse, iki ay muttasıl oruç tutmasından; buna da muktedir değilse, altmış fakire yemek yedirmesinden ibârettir.
+keffaret-î savm  : Ramazan-ı şerifte özürü bulunmaksızın muayyen şartlar dâhilinde orucunu bozan bir mükellefin, müslim veya gayr-i müslim bir köle veya câriye azâd etmesinden; buna muktedir değilse, iki ay muttasıl oruç tutmasından; buna da muktedir değilse, altmış fakire yemek yedirmesinden ibârettir.
 keffaret-î yemîn: Yaptığı bir yemine sadık kalmayıp bozan bir müslümana lâzım gelen keffâret demektir ki: Muktedir ise, müslim veya gayr-i müslim bir köle veya câriye azad etmekten; muktedir değil ise, on fakiri akşamlı sabahlı doyurmaktan veya on fakire birer parça libas giydirmekten; bu üç şeyden birine muktedir olamayana da üç gün muttasıl oruç tutmaktan ibârettir.
 keffaret-î zihar: Zıhar keffareti.Keffâret-i zıharın vâcib olmasının şartı kudrettir. Muktedir olan, köle azad eder; değilse iki ay oruç tutar, buna da gücü yetmezse altmış fakire yemek verir. (Bak: Zıhâr)
 keffaret-üz zünub: Günahların keffareti. Mü'min insanların çeşitli hastalık ve musibetlerine denir. çünkü günahlarından afvına vesile olabilir. (Huk. îslâmiye ve Ist. Fık. K.)
@@ -1984,15 +1984,15 @@ keşîde: çekilen, çekilmiş. çekmek. * Tartılmış. Dizilmiş. Tertibedilmi
 keşîde-kamet: Uzun boylu.
 keşîde-kamet: Uzun boylu. 
 keşîh: (C: Küşuh) Perâkende olmak, parça parça dağılmak. * Böğür. * Cânip, taraf.
-keşîş : Ayı avazı. * Deve avazı.
-keşîş : Papaz. Manastır rahibi. (Arabçası: Kıssis)
+keşîş : Ayı avazı. * Deve avazı.
+keşîş : Papaz. Manastır rahibi. (Arabçası: Kıssis)
 keşîşân: (Keşiş. C.) Papazlar, manastır rahibleri.
 keşîşâne: Keşişe yakışır yolda. Papaza uygun şekil ve surette.
 keşîşhâne: Kilise, manastır.
 keşk: Kavi, kuvvetli, sağlam. * Kabuğu çıkmış arpa. * Arpa suyu. * Yoğurt keşi.
 keşkek: Haşlandıktan sonra kurutulmuş buğday.
-keşkeşe : şin harfini kef gibi okumak. * Yılan ötüşü.
-keşmekeş : Kararsızlık. Karışıklık. Tereddüd. Kavga. çekişme.
+keşkeşe : şin harfini kef gibi okumak. * Yılan ötüşü.
+keşmekeş : Kararsızlık. Karışıklık. Tereddüd. Kavga. çekişme.
 keşnî: Koruluk, orman.
 keşr: Gülünce dişlerin görünmesi.
 keşr: Gülünce dişlerin görünmesi. 
@@ -2264,8 +2264,8 @@ kisa': (Kas'a. C.) Tabaklar, çanaklar, çömlekler.
 kisabe: Kesicilik, kasaplık.
 kisar: (Kasir. C.) Kısalar. Kasr olanlar.
 kisar-i mufassal: Kur'an-ı Kerim'de 99. sure olan Zilzal suresinden 114. olan Nas suresine kadar olan surelerdir.
-kisas : Kıssalar. Fıkralar. Hikâyeler.
-kisas : Cinayette ödeşmek. Bir suç işliyenin aynı şekilde cezalandırılması. öldürme veya yaralanmada suçlu olana aynı şeyin yapılması. Suçsuz yere adam öldürene veya yaralayana şeriatın aynı cezayı tatbik etmesi.
+kisas : Kıssalar. Fıkralar. Hikâyeler.
+kisas : Cinayette ödeşmek. Bir suç işliyenin aynı şekilde cezalandırılması. öldürme veya yaralanmada suçlu olana aynı şeyin yapılması. Suçsuz yere adam öldürene veya yaralayana şeriatın aynı cezayı tatbik etmesi.
 kisasen: Kısas yoluyla. öldüren veya yaralayanı eşit şekilde cezalandırarak.
 kisde: (C.: Kusad) Bir şey kırıldığında herbir parçası.
 kisim: (Kısm) Bir parça, bölük, takım, kesim. * Kapalı avucunun alabildiği miktar.
@@ -2327,8 +2327,6 @@ kitr: Erimiş bakır.
 kitt: (C.: Kutut) Nasib, hisse. * Kitab ve kâğıt. * Erkek kedi.
 kitta: Dişi kedi.
 kittavş: Kedi.
-kittavş
-Kedi. 
 kivam: Olgunluk derecesi. Her şeyin en uygun hali. * Mâyi bir şeyin koyulaşmış hali. * Tav. * Durma. * çağ. * Bir şeyin nizamı. * Doğrular. Dikler. Dik ve doğru çizgiler.
 kivam-i dîn: Dinin direği.
 kivra': Horozların birbiriyle döğüşmesi.
@@ -2376,7 +2374,7 @@ kizan: Oğlan, erkek çocuk. * Delikanlı, cesur ve silâhlı köylü genç.
 kizban: (Kadib. C.) înce düz fidanlar, çubuklar, dallar.
 kizil: t. Kırmızı, alrenk. * Kıldan yapılan ip. * Aşırı, müfrit.
 kizil tehlîke: Dinsizlik, anarşistlik ve komünistlik tehlikesi.
-kizilbaş : Râfizilere verilen bir isim.
+kizilbaş : Râfizilere verilen bir isim.
 kizilelma: Tar: Osmanlı Türkleri tarafından Roma'ya verilen addır. (O.T.D.S.)
 kizilhaç: Hristiyan ülkelerde Kızılay karşılığı olan yardım teşkilâtı.
 kizm: Katı, şiddetli, şedit.
@@ -2453,7 +2451,7 @@ kîmam: (Kimm. C.) Tomurcuklar. * Hayvan ağızlığı. Boyunduruk.
 kîmn: Saman.
 kîmya: Basit cisimlerin hususiyetlerini, bu cisimlerin birbirlerine olan tesirlerini ve bundan ileri gelen birleşmeyi inceleyen ilim. Basit maddelerdeki değişikliği anlamağa çalışan ilim kolu. * Edb: Aşk. * îlâç. * Tas: Mevcud olana kanaat ve elde edilmesi mümkün olmayana ait arzuyu terk etmek.
 kîmya-yi avam: Dünyanın kıymetsiz ve fâni olan şeylerini âhiret metalarına feda etmek.
-kîmya-yi havas : Kendinden geçip Allaha tam teslim olmak ve dönmek.
+kîmya-yi havas : Kendinden geçip Allaha tam teslim olmak ve dönmek.
 kîmya-yi saadet: Rezaletlerden sakınıp nefsi tehzib ve tezkiye ve faziletleri kazanmak sureti ile nefsi tahliye etmek, süslemek, tezyin etmek. * îmâm-ı Gazalinin bir eserinin ismi.
 kîmyager: Kimyacı.
 kîmyevî: Kimyâ ile alâkalı
@@ -2873,8 +2871,6 @@ kurevî: (Kurâ. dan) Köylü. Köye âit, köye dâir.
 kureyş: Kökü Hz. îbrahim'e (A.S.) dayanan, Peygamberimiz Hz. Muhammed'in de (A.S.M.) mensub olduğu Arab kabilesi.
 kureyş suresî: Kur'an-ı Kerim'in 106. Suresidir. Liilâfi Suresi de denir. Mekkidir.
 kureyşî: Kureyş kabilesinden olan. Kureyş'e mensub.
-kureyşî 
-Kureyş kabilesinden olan. Kureyş'e mensub. 
 kureyza: Medine-i Münevvere yakınında Yahudi taifesinden bir kavim.
 kurfusa (karfesa): Mak'adı üstüne oturup dizlerini karnına yapıştırıp iki kolunu baldırları üstüne kavuşturmak.
 kurha: (C: Kuruh) Silâh yarası. * çıban.
@@ -2951,11 +2947,11 @@ kustar (kistâr): Kesedar. Sarraf. * Tüccar, tâcir. * Mizan, ölçü. * Bir ş
 kustas: Büyük terazi.
 kusu: Uzaklık, ırak olmaklık. * Son olmaklık.
 kus'ul: Yaramaz, leim, lânet edilen kimse. * Kurt eniği.
-kusur : Noksanlık. Eksiklik. Noksan ve âcizlik. îhmal. Tedbirsizlik. * Cem' olmalar. * Pahalanmak. *Eksilmek. * şiddetli olan şeyin yavaşlayıp sâkin olması. * Bereketlenmek. * îmtina', âciz olmak. * Bir hesabın üstü. Artan kısım. * (Kasr. C.) Kasırlar. Saraylar. Köşkler.(şeytanın mühim bir desisesi: însana kusurunu itiraf ettirmemektir. Tâ ki, istiğfar ve istiâze yolunu kapasın. Hem nefs-i insaniyenin enaniyetini tahrik edip, tâ ki, nefis kendini avukat gibi müdafaa etsin; âdeta taksiratdan takdis etsin. Evet şeytanı dinliyen bir nefis, kusurunu görmek istemez; görse de, yüz te'vil ile te'vil ettirir. $ sırriyle, nefsine nazar-ı rıza ile baktığı için ayıbını görmez. Ayıbını görmediği için itiraf etmez, istiğfar etmez, istiaze etmez; şeytana maskara olur. Hazret-i Yusuf Aleyhisselâm gibi bir Peygamber-i Alişan , $ dediği halde, nasıl nefse itimad edilebilir. Nefsini ittiham eden, kusurunu görür. Kusurunu itiraf eden, istiğfar eder. îstiğfar eden, istiaze eder. îstiaze eden, şeytanın şerrinden kurtulur. Kusurunu görmemek, o kusurdan daha büyük bir kusurdur. Ve kusurunu itiraf etmemek, büyük bir noksanlıktır. Ve kusurunu görse, o kusur kusurluktan çıkar; itiraf etse, afva müstahak olur. L.)
+kusur : Noksanlık. Eksiklik. Noksan ve âcizlik. îhmal. Tedbirsizlik. * Cem' olmalar. * Pahalanmak. *Eksilmek. * şiddetli olan şeyin yavaşlayıp sâkin olması. * Bereketlenmek. * îmtina', âciz olmak. * Bir hesabın üstü. Artan kısım. * (Kasr. C.) Kasırlar. Saraylar. Köşkler.(şeytanın mühim bir desisesi: însana kusurunu itiraf ettirmemektir. Tâ ki, istiğfar ve istiâze yolunu kapasın. Hem nefs-i insaniyenin enaniyetini tahrik edip, tâ ki, nefis kendini avukat gibi müdafaa etsin; âdeta taksiratdan takdis etsin. Evet şeytanı dinliyen bir nefis, kusurunu görmek istemez; görse de, yüz te'vil ile te'vil ettirir. $ sırriyle, nefsine nazar-ı rıza ile baktığı için ayıbını görmez. Ayıbını görmediği için itiraf etmez, istiğfar etmez, istiaze etmez; şeytana maskara olur. Hazret-i Yusuf Aleyhisselâm gibi bir Peygamber-i Alişan , $ dediği halde, nasıl nefse itimad edilebilir. Nefsini ittiham eden, kusurunu görür. Kusurunu itiraf eden, istiğfar eder. îstiğfar eden, istiaze eder. îstiaze eden, şeytanın şerrinden kurtulur. Kusurunu görmemek, o kusurdan daha büyük bir kusurdur. Ve kusurunu itiraf etmemek, büyük bir noksanlıktır. Ve kusurunu görse, o kusur kusurluktan çıkar; itiraf etse, afva müstahak olur. L.)
 kusur-î cînan: Cennet'teki köşkler.
 kusure: Acizlik, güçsüzlük.
 kusut: Haktan sapmakla cevr ve zulmetmek. * Birşeyi kısımlara ayırmak, tefrik etmek.
-kusva : Son derecede bulunan. * Son, nihayet. * Son sınır. Erişilecek olan en son nokta.
+kusva : Son derecede bulunan. * Son, nihayet. * Son sınır. Erişilecek olan en son nokta.
 kuş'am: (C: Kaşâım) Yaşlı ihtiyar, koca kimse. * Belâ. * Arslan. * Sırtlan. * örümcek. * Karınca yuvası.
 kuşam (kuşâme): Sofrada artan yemekler. 
 kuş'aman: Büyük erkek akbaba.
@@ -3040,7 +3036,7 @@ kuvvad: Kumandanlar, seraskerler, komutanlar.
 kuvve: Kuvvet. Güç. * Salâhiyyet. îktidar. * Fikir. Niyet. * Hasse. His. Duygu. Meleke. * Kabiliyyet. (Za'fiyyetin zıddı)
 kuvve-î an-îl-merkezîye: Merkezkaç kuvvet. Cisimlerin kendi mihveri üzerine hareketi zamanında merkezinde hâsıl olan kuvvete denilir. Merkezde dönen bir tekerleğin etrafında yapışık veyahut üstünde taşıdığı cisimlerin etrafa yayılıp dağılmasıyla bu kuvvetin mevcudiyyeti anlaşılır.
 kuvve-î azm: Azim kuvveti. Emele muvaffak olmak için gösterilen azim, cehd kuvveti.
-kuvve-î bâsira : Görme duygusu, görme kuvveti.
+kuvve-î bâsira : Görme duygusu, görme kuvveti.
 kuvve-î câzîbe: Kendine çekici kuvvet. Dünyanın câzibe, yani çekme kuvveti.
 kuvve-î dâfîa: Zararlı şeyleri men'etme ve onlardan korunma hissi. îtme kuvveti.
 kuvve-î galîbe: üstün ve ezici kuvvet.
@@ -3051,8 +3047,8 @@ kuvve-î îstînad: Dayanma ve istinad etme kuvveti.
 kuvve-î kudsîye: Evliyâ kuvveti. Cenab-ı Hakk'ın yardımına mazhar olan kuvvet. Hakaik-ı imâniye ve Kur'aniyeyi gayet ince ve derin bir firaset ve dirayetle anlayabilme kuvveti.
 kuvve-î lâmîse: Dokunma ve hissetme duygusu. Sertliği ve yumuşaklığı anlama duygusu.
 kuvve-î muhassala: Muhtelif kuvvetlerin ağırlık merkezi.
-kuvve-î musavvîre : Cenâb-ı Hakkın izni ve kanunu ile maddiyatın şekil ve suretini alma kabiliyeti (Bak: Madde-i musavvire)
-kuvve-î mutasarrifa : Mütehayyile vasıtasıyla zihinde hazırlanan şeyleri tertib kuvveti.
+kuvve-î musavvîre : Cenâb-ı Hakkın izni ve kanunu ile maddiyatın şekil ve suretini alma kabiliyeti (Bak: Madde-i musavvire)
+kuvve-î mutasarrifa : Mütehayyile vasıtasıyla zihinde hazırlanan şeyleri tertib kuvveti.
 kuvve-î müdrîke: îdrak kuvveti. Beş duygunun, hissin zihinde duyulması, anlaşılması.
 kuvve-î mümeyyîze: însanın iç âleminde hissedilenleri birbirinden ayırdetme kudreti. * Hayır ve şerri anlayıp ayıran bir duygu ve kuvvet.
 kuvve-î mütehayyîle: Hissolunan şeyin gıyabında resim ve tasvir kuvveti. Hayâl kuvveti.
@@ -3060,8 +3056,8 @@ kuvve-î müvellîde: Tevlid edici kuvve, meydana getirci kuvvet.
 kuvve-î nâtika: Konuşma, güzel ifade etmek kudreti.
 kuvve-î sebuîye: însanda başkalarına hücum ve zararları defetmek kuvvesi.
 kuvve-î sebuîye-î gadabîye: Zararlı şeyleri def'e sevkeden his ve kuvvet.
-kuvve-î şâmme : Koku alma, koklama duygusu. Burun.
-kuvve-î şehevîye : Cinsi istek kudreti. Yemek, içmek, konuşmak, uyumak gibi kabiliyetler.
+kuvve-î şâmme : Koku alma, koklama duygusu. Burun.
+kuvve-î şehevîye : Cinsi istek kudreti. Yemek, içmek, konuşmak, uyumak gibi kabiliyetler.
 kuvve-î teşrîîye: Kanun vaz'etme kuvveti. şeriata uyan düsturlar yapma kuvveti. * Büyük Millet Meclisi.
 kuvve-î vâhîme: Vehim ve hayâl duygusu. Kuruntu hâssesi.
 kuvve-î zahrîye: Yardımcı ve imdatçı kuvvet.
@@ -3347,7 +3343,7 @@ küşa (-): "Açan, açıcı" mânâlarına gelerek tamlama yapımında kullanı
 küşad: (Küşât) Açış. îlk açılış merasimi. * Açma, fethetme. * Yeni yapılan resmi bir yapının ilk defa olarak açılması.
 küşade: (Küşude) Açık. Açılmış. Ferahlı.
 küşadetmek: Açmak. Açış merâsimi.
-küşayîş : Açıklık. Ferahlık.
+küşayîş : Açıklık. Ferahlık.
 küşende: öldüren, katil, öldürücü.
 küşende: öldüren, katil, öldürücü. 
 küşîş: öldürme, öldürüş. Katletme.

@@ -1,10 +1,12 @@
+import codecs
+
 __author__ = 'Rustam Ganeyev'
 
 
 def removeCopies(list):
     n = len(list)
     result = []
-    lastWord = ""
+    lastWord = ''
     for word in list:
         if word != lastWord:
             result.append(word)
@@ -16,20 +18,20 @@ def removeCopies(list):
 
 
 def main():
-    letters = ["words"]
-    #letters = ['a', 'b', 'c', 'ç', 'd', 'e', 'f', 'g', 'h', 'ı', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'ö', 'p', 'r', 's', 'ş',
+    letters = ['words']
+    # letters = ['a', 'b', 'c', 'ç', 'd', 'e', 'f', 'g', 'h', 'ı', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'ö', 'p', 'r', 's', 'ş',
     #       't', 'u', 'ü', 'v', 'y', 'z']
     for letter in letters:
-        fileName = letter + ".txt"
-        f = open(fileName)
+        filename = letter + '.txt'
+        f = codecs.open(filename, 'r', 'utf-8')
         list = f.readlines()
         f.close()
-        #operations
+        # operations
         list = removeCopies(list)
 
-        #writing to file
-        f = open(fileName, "w")
-        f.write("".join(list))
+        # writing to file
+        f = codecs.open(filename, 'w', 'utf-8')
+        f.write(''.join(list))
         f.close()
 
 

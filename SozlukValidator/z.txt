@@ -201,7 +201,7 @@ zama: Diş etinin kanının az olması.
 zama': Susuzluk.
 zamaîm: (Zamime. C.) îlâveler, ekler. Artırmalar.
 zamaîr: (Zamir. C.) Zamirler. Bir şeyin iç yüzleri. * îsim yerine kullanılan kelimeler.
-zamaîr-î şahsîyye : şahıs zamirleri. " Ben, sen, o" gibi isim yerine geçen kelimeler. (Bak: şahıs zamiri)
+zamaîr-î şahsîyye : şahıs zamirleri. " Ben, sen, o" gibi isim yerine geçen kelimeler. (Bak: şahıs zamiri)
 zaman: (Bak: Zeman)
 zaman: Kefil olma, kefillik. Bir şeyin mislini veya değerini vermek üzere zarara karşı kefil olma, garanti.
 zaman-i amel: üzerine alma. Deruhde etme. îltizam.
@@ -301,7 +301,7 @@ zaruret: çaresizlik. Muhtaçlık. Sıkıntı. Yoksulluk. ( $ kaidesi, yâni: "Z
 zarurî: (Bak: Zaruriyye)
 zarurîyyat: (Zaruri. C.) Mecburi işler. îster istemez olan işler.
 zarurîyyat-i dînîyye: îman edilmesi zaruri olan dinin esasları, (Allah Teâlâya, âhiret gününe, Meleklere, Peygamberlere, Kitaplara ve hayrın ve şerrin Allah'tan olduğuna inanmak.)
-zarurîyyat-i nâşîe : Bir şeyin kendisinde bulunması zaruri olan ve ondan ayrılması mümkün olmayan ve zâti hassadan meydana gelen zaruretler.
+zarurîyyat-i nâşîe : Bir şeyin kendisinde bulunması zaruri olan ve ondan ayrılması mümkün olmayan ve zâti hassadan meydana gelen zaruretler.
 zarurîyye: (Zaruri) Mecburi. îster istemez olacak iş. îhtiyari olmayan, mecburi olan.
 za't: Boğmak. Boğazlamak.
 zât: Hürmete lâyık kimse. * Kendi. öz, asıl. * Ehil. Sâhib. (Zu'nun müennesi)
@@ -356,7 +356,7 @@ zeban-âver: Düzgün konuşan, düzgün söz veya şiir söyleyen. * Dile getir
 zeban-diraz: Dil uzatan, atıp tutan.
 zebane: Terazi gibi bazı âletlerin dili andıran parçaları. * Alev.
 zebanekeş: Alevlenen, alevli.
-zebaneş : Onun dili.
+zebaneş : Onun dili.
 zebanî: Cehennem'de vazife gören melek.
 zebanîyân: (Zebaniye) Zebaniler. Cehennemlikleri Cehennem'e atmaya vazifeli melekler.
 zebanîye: Azap melekleri.
@@ -387,7 +387,7 @@ zebr: Kitab. Cüz. Kitap yaprağı. * Yazı yazma. * Söz. Yazı. * Akıl, zekâ
 zebrec: Ziyne, süs.
 zebtel: Kısa boylu.
 zebun : Zayıf, güçsüz, âciz. * Alışverişte aldanan.
-zebun-kuş : Düşkünleri ezen. Zâlim. Gaddar.
+zebun-kuş : Düşkünleri ezen. Zâlim. Gaddar.
 zebunî: Zayıflık, güçsüzlük, âcizlik.
 zebur : Kitap. Mektub. * Peygamber Hz. Dâvud'a (A.S.) vahiy ile gelen mukaddes kitabın adı.
 zebzeb: Uzun gemi.
@@ -533,7 +533,7 @@ zelzîl: Ev içinde olan mal, mülk ve eşya.
 ze'm: Katı, şiddetli, şedid. * Hacet, ihtiyaç. * Mevt, ölüm.
 ze'm: Tahkir etmek, hakaret etmek. * Ayıplanmak.
 zema': Tenbel olmak. * Dehşetli olmak. * Acele etmek. * Yırtmak. * Alçak insan, kötü insan.
-zemahşerî : (Hi: 467-538) Türkistan'da Harzem'in Zemahşer köyünde doğdu. Hanefi fukahasındandır. Fevkalâde iktidar ve faziletine rağmen bir zamanlar itikadça Mu'tezile'den olmuştu. Meşhur bir ilm-i belâgat âlimidir.
+zemahşerî : (Hi: 467-538) Türkistan'da Harzem'in Zemahşer köyünde doğdu. Hanefi fukahasındandır. Fevkalâde iktidar ve faziletine rağmen bir zamanlar itikadça Mu'tezile'den olmuştu. Meşhur bir ilm-i belâgat âlimidir.
 zemaîm: (Zemime. C.) Kötü haller. Beğenilmeyen, sevilmeyen hal ve hareketler.
 zemam: (Bak: Zimam)
 zeman: Zaman, devir, vakit, çağ, mevsim, mehil.(Levh-i Mahv-îsbat ise, sâbit ve dâim olan Levh-i Mahfuz-u Azam'ın daire-i mümkinatta, yâni mevt ve hayata, vücut ve fenâya daima mazhar olan eşyada mütebeddil bir defteri ve yazar bozar bir tahtasıdır ki, hakikat-ı zaman odur. Evet herşey'in bir hakikatı olduğu gibi, zaman dediğimiz, kâinatta cereyan eden bir nehr-i azimin hakikatı dahi Levh-i Mahv-îsbat'taki kitabet-i kudretin sahifesi ve mürekkebi hükmündedir. S.)
@@ -1056,7 +1056,7 @@ zîrr: Düğme. * Tomurcuk.
 zîrve: Bir şeyin, hususan dağın en yüksek noktası, tepesi.
 zîrve-î bâlâ: Yüksek zirve. * Yüksek makam. * Yüce kat.
 zîrve-î cebel: Dağ tepesi.
-zîşt : çirkin. Kötü. Kabih.
+zîşt : çirkin. Kötü. Kabih.
 zîştî: çirkinlik.
 zît: (Ziyât) çağırmak. * Niza edişmek, çekişmek.
 zîvana : (Bak: Zıvana)
@@ -1272,13 +1272,13 @@ zükur: (Zeker. C.) Erkekler.
 zükuret: Erkeklik.
 zülaka: (Bak: Zelâka)
 zülâl: Saf, berrak, tatlı, hafif, güzel, soğuk su. * Yumurta akı.
-zülâl-î vasl : Sevdiğine, muhabbet ettiğine kavuşmanın neticesi hâsıl olan tatlılık ve sürur.
+zülâl-î vasl : Sevdiğine, muhabbet ettiğine kavuşmanın neticesi hâsıl olan tatlılık ve sürur.
 zülâlî: (Zülâliyye) Yumurta akı özelliğinde olan maddeler. Yumurta akına benziyen.
 zülam: Parasız, züğürt.
 zülef: (Zülfe. C.) Gecenin gündüze yakın saatleri. * Yakınlık. * Rütbe. Menzile.
 zülenkata: Zeker. * Kısa boylu kişi.
 zülf: (Zülüf). Yüzün iki yanından sarkan saç lülesi.
-zülf-î perîşan : Zülfün dağınık, perişan oluşu. Sevgilinin saçının darma dağın oluşu. * Mc: Sevilen şeylerin, işlerin karma karışık oluşu.
+zülf-î perîşan : Zülfün dağınık, perişan oluşu. Sevgilinin saçının darma dağın oluşu. * Mc: Sevilen şeylerin, işlerin karma karışık oluşu.
 zülf-î yâr: Sevgilinin zülfü. * Mc: Menfaat, fayda, çıkar. * Hatır, onur, şeref.
 zülfa: Yakınlık, yaklaşma.
 zülfe: Küçük saçak, püskül. * Yazı ıstahlarındandır, sülüs yazısındaki eliflerin ucundaki çengele verilen addır. Eliflerini ucundaki çengel, ufak saçağı benzediği için bu ad verilmiştir.
